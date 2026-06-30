@@ -28,7 +28,12 @@ except ImportError:
 GEOFABRIK_URL_TEMPLATE = "https://download.geofabrik.de/europe/poland/{voivodeship}-latest.osm.pbf"
 
 # Nazwy województw bez polskich znaków (zgodnie z URL Geofabrik)
-VOIVODESHIPS = ["lubelskie"] 
+VOIVODESHIPS = [
+    "dolnoslaskie", "kujawsko-pomorskie", "lubelskie", "lubuskie",
+    "lodzkie", "malopolskie", "mazowieckie", "opolskie",
+    "podkarpackie", "podlaskie", "pomorskie", "slaskie",
+    "swietokrzyskie", "warminsko-mazurskie", "wielkopolskie", "zachodniopomorskie"
+]
 COUNTRY_CODE = "pl"
 BASE_DIR = "addresses"
 
