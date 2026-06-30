@@ -1,0 +1,6 @@
+{
+  "name": "OSM GitHub Actions Fetcher",
+  "description": "Python application and GitHub Action workflow to fetch OpenStreetMap address data and save as CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

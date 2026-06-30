@@ -1,0 +1,44 @@
+name: Aktualizacja Danych Adresowych
+
+on:
+  schedule:
+    # Uruchamia się automatycznie 1-go dnia każdego miesiąca o 02:00 UTC
+    - cron: '0 2 1 * *'
+  workflow_dispatch: # Pozwala na ręczne uruchomienie akcji z poziomu strony GitHuba
+
+jobs:
+  update-csv:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Wymagane do wysłania zmian (push) do repozytorium
+
+    steps:
+      - name: Pobranie repozytorium
+        uses: actions/checkout@v4
+
+      - name: Konfiguracja Pythona
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalacja zależności
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Pobranie i aktualizacja danych
+        run: python fetch_addresses.py
+
+      - name: Zapisanie zmian w repozytorium (Commit & Push)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Dodajemy wszystkie pliki csv z folderu pl/
+          git add pl/*.csv
+          
+          # Commit wykona się tylko, jeśli są jakieś zmiany w plikach
+          git commit -m "Automatyczna aktualizacja danych adresowych (CSV)" || exit 0
+          
+          # Wysłanie zmian do repozytorium
+          git push
