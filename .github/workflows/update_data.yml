@@ -24,7 +24,7 @@ jobs:
       - name: Instalacja zależności
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install osmium
 
       - name: Pobranie i aktualizacja danych
         run: python fetch_addresses.py

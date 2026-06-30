@@ -10,74 +10,84 @@ export default function App() {
   const [copiedScript, setCopiedScript] = useState(false);
   const [copiedWorkflow, setCopiedWorkflow] = useState(false);
 
-  const pythonScript = `import requests
-import csv
-import os
+  const pythonScript = `import os
 import sys
+import csv
+import urllib.request
 
-# Używamy API Overpass (OpenStreetMap) do pobierania prawdziwych danych adresowych.
-# API to jest darmowe i pozwala na zapytania o konkretne obszary.
-OVERPASS_URL = "https://overpass-api.de/api/interpreter"
+try:
+    import osmium
+except ImportError:
+    print("Błąd: Biblioteka 'osmium' nie jest zainstalowana. Użyj: pip install osmium")
+    sys.exit(1)
 
-# Możesz dodać więcej województw, np. "mazowieckie", "małopolskie"
-VOIVODESHIPS = ["świętokrzyskie"] 
+# Geofabrik udostępnia codzienne zrzuty bazy OpenStreetMap w formacie PBF.
+# Jest to doskonała i stabilna alternatywa dla API Overpass - pobieramy plik 
+# raz na dysk i przetwarzamy lokalnie, co omija wszelkie limity zapytań (rate limits), 
+# błędy 406 Not Acceptable i zabezpieczenia serwerów.
+GEOFABRIK_URL_TEMPLATE = "https://download.geofabrik.de/europe/poland/{voivodeship}-latest.osm.pbf"
+
+# Nazwy województw bez polskich znaków (zgodnie z URL Geofabrik)
+VOIVODESHIPS = ["swietokrzyskie"] 
 COUNTRY_CODE = "pl"
 
-def fetch_addresses(voivodeship):
-    print(f"Pobieranie danych dla województwa: {voivodeship}...")
-    
-    overpass_query = f"""
-    [out:json][timeout:900];
-    area["name"="{voivodeship}"]["admin_level"="4"]->.searchArea;
-    nwr["addr:housenumber"](area.searchArea);
-    out center;
-    """
-    
-    try:
-        response = requests.post(OVERPASS_URL, data={'data': overpass_query})
-        response.raise_for_status()
-        return response.json()
-    except requests.exceptions.RequestException as e:
-        print(f"Błąd podczas pobierania danych: {e}")
-        sys.exit(1)
+class AddressHandler(osmium.SimpleHandler):
+    def __init__(self, writer):
+        super(AddressHandler, self).__init__()
+        self.writer = writer
+        self.count = 0
 
-def process_and_save(data, voivodeship, country_code):
+    def process_tags(self, tags, lat, lon):
+        housenumber = tags.get('addr:housenumber')
+        if housenumber:
+            street = tags.get('addr:street', '')
+            city = tags.get('addr:city', '')
+            self.writer.writerow([lat, lon, housenumber, street, city])
+            self.count += 1
+
+    def node(self, n):
+        if 'addr:housenumber' in n.tags:
+            self.process_tags(n.tags, n.location.lat, n.location.lon)
+
+    def way(self, w):
+        if 'addr:housenumber' in w.tags:
+            try:
+                # Bierzemy pierwszą współrzędną węzła obrysu budynku
+                n = w.nodes[0]
+                self.process_tags(w.tags, n.location.lat, n.location.lon)
+            except osmium.InvalidLocationError:
+                pass
+
+def process_voivodeship(voivodeship, country_code):
+    url = GEOFABRIK_URL_TEMPLATE.format(voivodeship=voivodeship)
+    pbf_filename = f"{voivodeship}-latest.osm.pbf"
+    
+    print(f"Pobieranie paczki danych (PBF) dla województwa: {voivodeship}...")
+    try:
+        urllib.request.urlretrieve(url, pbf_filename)
+        print("Pobieranie zakończone.")
+    except Exception as e:
+        print(f"Błąd podczas pobierania pliku: {e}")
+        return
+
     os.makedirs(country_code, exist_ok=True)
-    filename = f"{country_code}/{voivodeship}.csv"
+    csv_filename = f"{country_code}/{voivodeship}.csv"
     
-    print(f"Zapisywanie danych do pliku {filename}...")
-    
-    with open(filename, mode='w', encoding='utf-8', newline='') as f:
+    print(f"Przetwarzanie danych lokalnie i zapisywanie do {csv_filename}...")
+    with open(csv_filename, mode='w', encoding='utf-8', newline='') as f:
         writer = csv.writer(f)
         writer.writerow(['lat', 'lon', 'housenumber', 'street', 'city'])
         
-        elements = data.get('elements', [])
-        count = 0
+        handler = AddressHandler(writer)
+        handler.apply_file(pbf_filename, locations=True)
+        print(f"Zapisano {handler.count} adresów.")
         
-        for element in elements:
-            tags = element.get('tags', {})
-            housenumber = tags.get('addr:housenumber', '')
-            street = tags.get('addr:street', '')
-            city = tags.get('addr:city', '')
-            
-            if element['type'] == 'node':
-                lat = element.get('lat')
-                lon = element.get('lon')
-            else:
-                center = element.get('center', {})
-                lat = center.get('lat')
-                lon = center.get('lon')
-                
-            if lat and lon and housenumber:
-                writer.writerow([lat, lon, housenumber, street, city])
-                count += 1
-                
-        print(f"Zapisano {count} adresów.")
+    if os.path.exists(pbf_filename):
+        os.remove(pbf_filename)
 
 if __name__ == "__main__":
     for v in VOIVODESHIPS:
-        data = fetch_addresses(v)
-        process_and_save(data, v, COUNTRY_CODE)`;
+        process_voivodeship(v, COUNTRY_CODE)`;
 
   const workflowScript = `name: Aktualizacja Danych Adresowych
 
@@ -102,7 +112,7 @@ jobs:
           python-version: '3.11'
 
       - name: Instalacja zależności
-        run: pip install requests
+        run: pip install osmium
 
       - name: Pobranie i aktualizacja danych
         run: python fetch_addresses.py
