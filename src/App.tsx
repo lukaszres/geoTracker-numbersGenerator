@@ -14,6 +14,7 @@ export default function App() {
 import sys
 import csv
 import urllib.request
+import subprocess
 
 try:
     import osmium
@@ -79,6 +80,7 @@ def process_voivodeship(voivodeship, country_code):
     output_dir = f"{BASE_DIR}/{country_code}"
     os.makedirs(output_dir, exist_ok=True)
     csv_filename = f"{output_dir}/{voivodeship}.csv"
+    pmtiles_filename = f"{output_dir}/{voivodeship}.pmtiles"
     
     print(f"Przetwarzanie danych lokalnie i zapisywanie do {csv_filename}...")
     with open(csv_filename, mode='w', encoding='utf-8', newline='') as f:
@@ -88,6 +90,21 @@ def process_voivodeship(voivodeship, country_code):
         handler = AddressHandler(writer)
         handler.apply_file(pbf_filename, locations=True)
         print(f"Zapisano {handler.count} adresów.")
+        
+    print(f"Generowanie {pmtiles_filename} z pliku CSV przy użyciu tippecanoe...")
+    try:
+        subprocess.run([
+            "tippecanoe",
+            "-zg",
+            "--force",
+            "-o", pmtiles_filename,
+            "-l", "addresses",
+            "--drop-densest-as-needed",
+            csv_filename
+        ], check=True)
+        print("Pomyślnie wygenerowano plik PMTiles.")
+    except subprocess.CalledProcessError as e:
+        print(f"Błąd generowania PMTiles: {e}")
         
     if os.path.exists(pbf_filename):
         os.remove(pbf_filename)
@@ -104,7 +121,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-csv:
+  update-csv-pmtiles:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -113,12 +130,21 @@ jobs:
       - name: Pobranie repozytorium
         uses: actions/checkout@v4
 
+      - name: Instalacja Tippecanoe
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential libsqlite3-dev zlib1g-dev
+          git clone https://github.com/felt/tippecanoe.git
+          cd tippecanoe
+          make -j$(nproc)
+          sudo make install
+
       - name: Konfiguracja Pythona
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Instalacja zależności
+      - name: Instalacja zależności Python
         run: pip install osmium
 
       - name: Pobranie i aktualizacja danych
@@ -129,7 +155,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add addresses/pl/*.csv
-          git commit -m "Automatyczna aktualizacja danych (CSV)" || exit 0
+          git add addresses/pl/*.pmtiles
+          git commit -m "Automatyczna aktualizacja danych (CSV + PMTiles)" || exit 0
           git push`;
 
   const copyToClipboard = (text: string, setter: (val: boolean) => void) => {
@@ -211,7 +238,7 @@ jobs:
               <li>Utwórz folder <code className="bg-white px-1.5 py-0.5 rounded text-sm font-mono border border-blue-200">.github/workflows/</code> i dodaj tam plik <code className="bg-white px-1.5 py-0.5 rounded text-sm font-mono border border-blue-200">update_data.yml</code>.</li>
               <li>Przejdź do zakładki <strong>Actions</strong> w swoim repozytorium GitHub.</li>
               <li>Wybierz akcję "Aktualizacja Danych Adresowych" i kliknij <strong>Run workflow</strong> aby przetestować ją od razu (lub poczekaj do pierwszego dnia miesiąca).</li>
-              <li>Po zakończeniu akcji, w Twoim repozytorium pojawi się folder <code className="bg-white px-1.5 py-0.5 rounded text-sm font-mono border border-blue-200">addresses/pl/</code> ze zaktualizowanym plikiem CSV!</li>
+              <li>Po zakończeniu akcji, w Twoim repozytorium pojawi się folder <code className="bg-white px-1.5 py-0.5 rounded text-sm font-mono border border-blue-200">addresses/pl/</code> ze zaktualizowanymi plikami CSV oraz nowymi wygenerowanymi kafelkami wektorowymi PMTiles!</li>
             </ol>
           </section>
         </div>

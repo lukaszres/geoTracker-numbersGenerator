@@ -2,6 +2,7 @@ import os
 import sys
 import csv
 import urllib.request
+import subprocess
 
 try:
     import osmium
@@ -71,6 +72,7 @@ def process_voivodeship(voivodeship, country_code):
     output_dir = f"{BASE_DIR}/{country_code}"
     os.makedirs(output_dir, exist_ok=True)
     csv_filename = f"{output_dir}/{voivodeship}.csv"
+    pmtiles_filename = f"{output_dir}/{voivodeship}.pmtiles"
     
     print(f"Przetwarzanie danych lokalnie i zapisywanie do {csv_filename}...")
     
@@ -84,6 +86,24 @@ def process_voivodeship(voivodeship, country_code):
         handler.apply_file(pbf_filename, locations=True)
         
         print(f"Pomyślnie zapisano {handler.count} adresów.")
+        
+    print(f"Generowanie {pmtiles_filename} z pliku CSV przy użyciu tippecanoe...")
+    try:
+        # Tippecanoe automatycznie wykrywa kolumny 'lat' i 'lon' w plikach CSV
+        subprocess.run([
+            "tippecanoe",
+            "-zg",                      # Zgadnij maksymalny zoom automatycznie
+            "--force",                  # Nadpisz plik pmtiles jeśli istnieje
+            "-o", pmtiles_filename,     # Plik wynikowy (rozszerzenie .pmtiles oznacza format PMTiles)
+            "-l", "addresses",          # Nazwa warstwy (layer)
+            "--drop-densest-as-needed", # Odpowiednio rzedzi punkty na oddaleniach by kafelki nie były za duże
+            csv_filename                # Plik wejściowy
+        ], check=True)
+        print(f"Pomyślnie wygenerowano plik PMTiles: {pmtiles_filename}")
+    except FileNotFoundError:
+        print("Błąd: Nie znaleziono narzędzia 'tippecanoe'. Upewnij się, że jest zainstalowane (np. ze źródeł z https://github.com/felt/tippecanoe).")
+    except subprocess.CalledProcessError as e:
+        print(f"Błąd podczas generowania PMTiles przez tippecanoe: {e}")
         
     # Usuwamy plik źródłowy PBF, aby zwolnić miejsce (szczególnie przydatne w GitHub Actions)
     if os.path.exists(pbf_filename):
