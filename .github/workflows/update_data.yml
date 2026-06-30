@@ -34,8 +34,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Dodajemy wszystkie pliki csv z folderu pl/
-          git add pl/*.csv
+          # Dodajemy wszystkie pliki csv z folderu addresses/pl/
+          git add addresses/pl/*.csv
           
           # Commit wykona się tylko, jeśli są jakieś zmiany w plikach
           git commit -m "Automatyczna aktualizacja danych adresowych (CSV)" || exit 0

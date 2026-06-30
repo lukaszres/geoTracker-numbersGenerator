@@ -28,8 +28,9 @@ except ImportError:
 GEOFABRIK_URL_TEMPLATE = "https://download.geofabrik.de/europe/poland/{voivodeship}-latest.osm.pbf"
 
 # Nazwy województw bez polskich znaków (zgodnie z URL Geofabrik)
-VOIVODESHIPS = ["swietokrzyskie"] 
+VOIVODESHIPS = ["lubelskie"] 
 COUNTRY_CODE = "pl"
+BASE_DIR = "addresses"
 
 class AddressHandler(osmium.SimpleHandler):
     def __init__(self, writer):
@@ -70,8 +71,9 @@ def process_voivodeship(voivodeship, country_code):
         print(f"Błąd podczas pobierania pliku: {e}")
         return
 
-    os.makedirs(country_code, exist_ok=True)
-    csv_filename = f"{country_code}/{voivodeship}.csv"
+    output_dir = f"{BASE_DIR}/{country_code}"
+    os.makedirs(output_dir, exist_ok=True)
+    csv_filename = f"{output_dir}/{voivodeship}.csv"
     
     print(f"Przetwarzanie danych lokalnie i zapisywanie do {csv_filename}...")
     with open(csv_filename, mode='w', encoding='utf-8', newline='') as f:
@@ -121,7 +123,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add pl/*.csv
+          git add addresses/pl/*.csv
           git commit -m "Automatyczna aktualizacja danych (CSV)" || exit 0
           git push`;
 
@@ -204,7 +206,7 @@ jobs:
               <li>Utwórz folder <code className="bg-white px-1.5 py-0.5 rounded text-sm font-mono border border-blue-200">.github/workflows/</code> i dodaj tam plik <code className="bg-white px-1.5 py-0.5 rounded text-sm font-mono border border-blue-200">update_data.yml</code>.</li>
               <li>Przejdź do zakładki <strong>Actions</strong> w swoim repozytorium GitHub.</li>
               <li>Wybierz akcję "Aktualizacja Danych Adresowych" i kliknij <strong>Run workflow</strong> aby przetestować ją od razu (lub poczekaj do pierwszego dnia miesiąca).</li>
-              <li>Po zakończeniu akcji, w Twoim repozytorium pojawi się folder <code className="bg-white px-1.5 py-0.5 rounded text-sm font-mono border border-blue-200">pl/</code> ze zaktualizowanym plikiem CSV!</li>
+              <li>Po zakończeniu akcji, w Twoim repozytorium pojawi się folder <code className="bg-white px-1.5 py-0.5 rounded text-sm font-mono border border-blue-200">addresses/pl/</code> ze zaktualizowanym plikiem CSV!</li>
             </ol>
           </section>
         </div>

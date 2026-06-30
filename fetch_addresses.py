@@ -16,8 +16,9 @@ except ImportError:
 GEOFABRIK_URL_TEMPLATE = "https://download.geofabrik.de/europe/poland/{voivodeship}-latest.osm.pbf"
 
 # Nazwy województw muszą odpowiadać tym w URL Geofabrik (bez polskich znaków)
-VOIVODESHIPS = ["swietokrzyskie"] 
+VOIVODESHIPS = ["lubelskie"] 
 COUNTRY_CODE = "pl"
+BASE_DIR = "addresses"
 
 class AddressHandler(osmium.SimpleHandler):
     def __init__(self, writer):
@@ -62,8 +63,9 @@ def process_voivodeship(voivodeship, country_code):
         print(f"Błąd podczas pobierania pliku PBF: {e}")
         return
 
-    os.makedirs(country_code, exist_ok=True)
-    csv_filename = f"{country_code}/{voivodeship}.csv"
+    output_dir = f"{BASE_DIR}/{country_code}"
+    os.makedirs(output_dir, exist_ok=True)
+    csv_filename = f"{output_dir}/{voivodeship}.csv"
     
     print(f"Przetwarzanie danych lokalnie i zapisywanie do {csv_filename}...")
     
