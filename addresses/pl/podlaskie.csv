@@ -116,7 +116,6 @@ lat,lon,housenumber,street,city
 53.1068454,23.1252825,5A,Stanisława Dubois,Białystok
 53.1329221,23.1382396,5,Bohaterów Monte Cassino,Białystok
 52.9931,22.8804,15,Nowy Rynek,Łapy
-53.1434871,23.1067219,54,Wysoki Stoczek,Białystok
 54.1044762,22.9321162,46,Teofila Noniewicza,Suwałki
 53.106691,23.1161447,10,Aleja Ignacego Jana Paderewskiego,Białystok
 53.1535855,23.1211695,59a,Gajowa,Białystok
@@ -184,7 +183,7 @@ lat,lon,housenumber,street,city
 53.1142887,23.1394932,27A,Pogodna,Białystok
 53.3882735,21.7260549,28,Jana Pawła II,Turośl
 53.3869805,21.7266491,1,Akacjowa,Turośl
-53.3898818,21.722465,2,Leśna,
+53.3898396,21.7224155,2,Leśna,
 53.1417006,23.1067683,2,Księdza Arcybiskupa Romualda Jałbrzykowskiego,Białystok
 53.1406893,23.1723833,81/3,Henryka Sienkiewicza,Białystok
 53.1066164,23.1239939,10,Stanisława Dubois,Białystok
@@ -238,7 +237,6 @@ lat,lon,housenumber,street,city
 53.6496613,22.4639635,26,Mikołaja Kopernika,Grajewo
 53.1307989,23.1817647,2,Bolesława Chrobrego,Białystok
 53.1301419,23.0850764,102,Świętego Andrzeja Boboli,Białystok
-53.3897752,21.7224433,2,Leśna,
 53.3963709,22.803771,85b,Białostocka,Mońki
 53.4031957,22.7996247,2a/1,Aleja Niepodległości,Mońki
 53.4035268,22.8071399,21/3,Tysiąclecia,Mońki
@@ -742,12 +740,8 @@ lat,lon,housenumber,street,city
 53.1460716,23.1897144,11,Krańcowa,Białystok
 53.1462036,23.1897839,11/1,Krańcowa,Białystok
 53.1461202,23.1905365,14/2,Krańcowa,Białystok
-53.1446167,23.1912081,1B,Siewna,Białystok
-53.1455473,23.1912718,3,Siewna,Białystok
-53.1456445,23.1907797,3A,Siewna,Białystok
 53.1450507,23.1898186,4,Krańcowa,Białystok
 53.145266,23.1898939,4/1,Krańcowa,Białystok
-53.1456966,23.1912776,5,Siewna,Białystok
 53.1455021,23.190247,6,Krańcowa,Białystok
 53.145898,23.1908318,7A,Siewna,Białystok
 53.1454758,23.1899592,8,Krańcowa,Białystok
@@ -8334,7 +8328,7 @@ lat,lon,housenumber,street,city
 53.06257,22.29524,5,,
 53.06266,22.27699,5,,
 53.06953,22.27018,5,,
-52.94699,22.24146,3,Wadołkowska,Długobórz
+52.94699,22.24146,3,Wądołkowska,Długobórz
 52.99835,22.21631,50,,
 53.01007,22.2933,50,,
 53.01657,22.25443,50,,
@@ -8344,7 +8338,7 @@ lat,lon,housenumber,street,city
 53.0167,22.25402,51,,
 53.01728,22.21554,51,,
 53.01743,22.21566,51A,,
-52.94714,22.24036,7,Wadołkowska,Długobórz
+52.94714,22.24036,7,Wądołkowska,Długobórz
 52.96251,22.24541,1,Księdza Henryka Kulbata,Wola Zambrowska
 52.99872,22.21592,52,,
 53.01634,22.25384,52,,
@@ -8362,7 +8356,7 @@ lat,lon,housenumber,street,city
 53.00986,22.29146,54,,
 53.01689,22.25349,54,,
 53.01778,22.21604,54,,
-52.94741,22.2388,13,Wadołkowska,Długobórz
+52.94741,22.2388,13,Wądołkowska,Długobórz
 52.96175,22.24916,13,Księdza Henryka Kulbata,Wola Zambrowska
 52.99931,22.21502,55,,
 53.01663,22.25303,55,,
@@ -8374,7 +8368,7 @@ lat,lon,housenumber,street,city
 53.01709,22.25313,56,,
 53.01795,22.21607,56,,
 53.01798,22.21393,56a,,
-52.94749,22.23818,17,Wadołkowska,Długobórz
+52.94749,22.23818,17,Wądołkowska,Długobórz
 52.96134,22.25135,21,Księdza Henryka Kulbata,Wola Zambrowska
 52.9995,22.21539,57,,
 53.01737,22.25278,57,,
@@ -8468,12 +8462,12 @@ lat,lon,housenumber,street,city
 53.01974,22.15308,67,,
 53.01979,22.25052,67,,
 53.02216,22.21693,67,,
-52.94768,22.23899,18,Wadołkowska,Długobórz
+52.94768,22.23899,18,Wądołkowska,Długobórz
 52.96199,22.2544,52,Bracka,Wola Zambrowska
 52.99852,22.2202,68,,
 53.01935,22.24993,68,,
 53.02218,22.21728,68,,
-52.94761,22.23942,16,Wadołkowska,Długobórz
+52.94761,22.23942,16,Wądołkowska,Długobórz
 52.96179,22.25475,37,Bracka,Wola Zambrowska
 52.99803,22.22007,69,,
 53.01964,22.24949,69,,
@@ -9674,7 +9668,6 @@ lat,lon,housenumber,street,city
 53.17019,22.60395,18,,
 53.17318,22.50232,18,,
 53.17902,22.63493,18,,
-53.18232,22.49905,18,,
 53.19223,22.63766,18,,
 53.19633,22.57431,18,,
 53.20409,22.49137,18,,
@@ -12340,7 +12333,6 @@ lat,lon,housenumber,street,city
 53.01147,22.82108,8,,
 53.01486,22.78797,8,,
 53.04173,22.90983,8,,
-52.99247,22.87281,80,Główna,Łapy
 52.97612,22.82199,80,,
 53.00401,22.83548,80,,
 53.04309,22.92141,80,,
@@ -12504,7 +12496,6 @@ lat,lon,housenumber,street,city
 53.1260526,23.1401143,1/2,Mohylowska,Białystok
 53.1207686,23.2112914,1/2,Piaskowa,Białystok
 53.120845,23.2112929,1/2,Piaskowa,Białystok
-53.1453937,23.1905643,1/2,Siewna,Białystok
 53.1167727,23.1971195,1/2,Stawowa,Białystok
 53.1570332,23.1835503,10,Aleksandra Karpowicza,Białystok
 53.1245029,23.0754863,10,Anieli Krzywoń,Białystok
@@ -13311,7 +13302,7 @@ lat,lon,housenumber,street,city
 53.1259418,23.1432461,16/7,Angielska,Białystok
 53.1491446,23.1077155,16/9,Swobodna,Białystok
 53.1476876,23.1826555,16A,Błękitna,Białystok
-53.0915808,23.2077018,16A,Daliowa,Białystok
+53.091628,23.2073874,16A,Daliowa,Białystok
 53.1002538,23.2104309,16A,Dojlidy Górne,Białystok
 53.1243544,23.0918719,16A,Miodowa,Białystok
 53.1431056,23.1869966,16A,Pusta,Białystok
@@ -13423,7 +13414,6 @@ lat,lon,housenumber,street,city
 53.1670225,23.2150488,18,Czarnej Hańczy,Białystok
 53.1664114,23.194751,18,Czerwonego Kapturka,Białystok
 53.0914146,23.2088877,18,Daliowa,Białystok
-53.0914609,23.2085484,18,Daliowa,Białystok
 53.1635963,23.2154507,18,Diamentowa,Białystok
 53.1165838,23.2013427,18,Dojlidy Fabryczne,Białystok
 53.1168936,23.201005,18,Dojlidy Fabryczne,Białystok
@@ -13493,7 +13483,7 @@ lat,lon,housenumber,street,city
 53.0791451,23.2098896,184,Dojlidy Górne,Białystok
 53.1346237,23.231807,187B,Konstantego Ciołkowskiego,Białystok
 53.1383872,23.1334432,18A,Choroszczańska,Białystok
-53.0914639,23.2079319,18A,Daliowa,Białystok
+53.0914528,23.2085132,18A,Daliowa,Białystok
 53.1214194,23.2148682,18A,Gródecka,Białystok
 53.1429514,23.1874377,18A,Pusta,Białystok
 53.1264155,23.1352901,18A,Warecka,Białystok
@@ -13932,7 +13922,6 @@ lat,lon,housenumber,street,city
 53.1236908,23.1278407,23,Celownicza,Białystok
 53.1211072,23.2167001,23,Ceramiczna,Białystok
 53.1196925,23.2021316,23,Ciesielska,Białystok
-53.0915258,23.209736,23,Daliowa,Białystok
 53.0915485,23.2094966,23,Daliowa,Białystok
 53.0990309,23.2109757,23,Dojlidy Górne,Białystok
 53.1504308,23.1294886,23,Dziesięciny,Białystok
@@ -16341,7 +16330,6 @@ lat,lon,housenumber,street,city
 53.091105,23.2113405,95,Dojlidy Górne,Białystok
 53.1201672,23.1410537,95,Generała Józefa Bema,Białystok
 53.0912712,23.2108872,96,Dojlidy Górne,Białystok
-53.0913063,23.2103308,96,Dojlidy Górne,Białystok
 53.12265,23.2078692,97,Baranowicka,Białystok
 53.1660123,23.2004231,97,Czerwonego Kapturka,Białystok
 53.0909394,23.2113108,97,Dojlidy Górne,Białystok
@@ -27340,7 +27328,6 @@ lat,lon,housenumber,street,city
 53.73341,22.70405,13,Żabia,Rajgród
 53.72537,22.73182,17A,Kolonia Prawa,Rajgród
 53.67146,22.56707,21,,
-53.7322719,22.687267,23a,Szkolna,Rajgród
 53.73227,22.69012,24,Szkolna,Rajgród
 53.7294,22.68975,24,Warszawska,Rajgród
 53.70791,22.69897,24,,
@@ -30298,7 +30285,6 @@ lat,lon,housenumber,street,city
 53.16383,23.05427,51,Osiedlowa,Fasty
 53.18955,23.06583,51,Pogodna,Nowe Aleksandrowo
 53.21882,23.07018,51,,
-53.22444,23.03511,51,,
 53.24522,22.98257,51,,
 53.28683,23.0833,51,,
 53.18694,23.06146,51A,Królewska,Dobrzyniewo Fabryczne
@@ -31169,7 +31155,6 @@ lat,lon,housenumber,street,city
 53.197688,22.9662476,28,,
 53.21401,23.08379,28,,
 53.21631,23.07499,28,,
-53.22485,23.03295,28,,
 53.22697,23.0592,28,,
 53.23611,23.06812,28,,
 53.23977,23.02459,28,,
@@ -31300,7 +31285,6 @@ lat,lon,housenumber,street,city
 53.20429,23.09413,32,,
 53.21372,23.04805,32,,
 53.21732,23.07363,32,,
-53.22455,23.03394,32,,
 53.23134,22.95592,32,,
 53.2357,23.0231,32,,
 53.23651,23.06767,32,,
@@ -31312,7 +31296,6 @@ lat,lon,housenumber,street,city
 53.20443,23.07214,30,,
 53.21706,23.07431,30,,
 53.21842,23.04607,30,,
-53.2246,23.03365,30,,
 53.23177,22.95676,30,,
 53.23624,23.0677,30,,
 53.24022,23.02495,30,,
@@ -31393,7 +31376,6 @@ lat,lon,housenumber,street,city
 53.19209,23.03878,34,,
 53.21422,23.04992,34,,
 53.21758,23.07345,34,,
-53.22444,23.03436,34,,
 53.22886,22.95521,34,,
 53.23551,23.01831,34,,
 53.23634,23.06693,34,,
@@ -31445,7 +31427,6 @@ lat,lon,housenumber,street,city
 53.192459,23.0391739,36,,
 53.2013,23.1067,36,,
 53.21324,23.05552,36,,
-53.2243,23.03465,36,,
 53.22933,22.95299,36,,
 53.23621,23.01837,36,,
 53.23683,23.06624,36,,
@@ -31487,7 +31468,6 @@ lat,lon,housenumber,street,city
 53.19178,23.03953,38,,
 53.21085,23.05221,38,,
 53.21781,23.07275,38,,
-53.2238,23.03434,38,,
 53.23819,23.06623,38,,
 53.24504,22.98575,38,,
 53.24861,23.01998,38,,
@@ -31586,7 +31566,6 @@ lat,lon,housenumber,street,city
 53.19154,23.04121,40,,
 53.20988,23.05421,40,,
 53.21815,23.07235,40,,
-53.22413,23.03498,40,,
 53.23691,23.06561,40,,
 53.23944,23.04911,40,,
 53.24503,22.98553,40,,
@@ -31622,7 +31601,6 @@ lat,lon,housenumber,street,city
 53.16937,23.05553,42,Szosa Knyszyńska,Fasty
 53.1921,23.04012,42,,
 53.21775,23.07216,42,,
-53.22357,23.03623,42,,
 53.23288,23.03599,42,,
 53.2371,23.06516,42,,
 53.24486,22.98506,42,,
@@ -31660,7 +31638,6 @@ lat,lon,housenumber,street,city
 53.20536,23.01604,44,Sadowa,Dobrzyniewo Duże
 53.19405,23.04158,44,,
 53.21847,23.07161,44,,
-53.22372,23.03486,44,,
 53.2368,23.06428,44,,
 53.24505,22.98486,44,,
 53.28432,23.07737,44,,
@@ -31673,7 +31650,6 @@ lat,lon,housenumber,street,city
 53.16737,23.06123,45,Szosa Knyszyńska,Fasty
 53.21297,22.99812,45,Żwirowa,Dobrzyniewo Duże
 53.21864,23.07132,45,,
-53.2249,23.0338,45,,
 53.23688,23.0637,45,,
 53.24507,22.98457,45,,
 53.28449,23.07723,45,,
@@ -35862,7 +35838,7 @@ lat,lon,housenumber,street,city
 52.95408,22.95352,57,11 Listopada,Suraż
 52.91656,23.08657,57,,
 52.91925,23.08921,57,,
-52.91941,23.01469,57,,
+52.9192704,23.014396,57,,
 52.93338,23.07507,57,,
 52.91528,23.08796,58,,
 52.9197,23.01361,58,,
@@ -38022,7 +37998,7 @@ lat,lon,housenumber,street,city
 53.20872,23.17274,4,Polna,Sochonie
 53.20797,23.16589,4,Porzeczkowa,Sochonie
 53.20559,23.21162,4,Prosta,Wasilków
-53.19824,23.18181,4,Przytorowa,Wasilków
+53.1982435,23.1817699,4,Przytorowa,Wasilków
 53.190781,23.240546,4,Przytulna,Nowodworce
 53.21061,23.16854,4,Rogowo,Sochonie
 53.20514,23.20069,4,Rolna,Wasilków
@@ -38374,7 +38350,7 @@ lat,lon,housenumber,street,city
 53.20175,23.19723,58,Wojtachowska,Wasilków
 53.18102,23.13869,58,,
 53.18183,23.12265,58,,
-53.19855,23.18274,58c,Jurowiecka,Wasilków
+53.19855,23.18274,58C,Jurowiecka,Wasilków
 53.19761,23.19957,59,Białostocka,Wasilków
 53.19709,23.21021,59,Kryńska,Wasilków
 53.19156,23.23911,59,Wasilkowska,Nowodworce
@@ -38758,7 +38734,7 @@ lat,lon,housenumber,street,city
 53.21765,23.24783,85,Starowiejska,Dąbrówki
 53.18125,23.12217,85,,
 53.19639,23.19542,86,Białostocka,Wasilków
-53.19803,23.17866,86,Jurowiecka,Wasilków
+53.1980525,23.1786672,86,Jurowiecka,Wasilków
 53.21599,23.24805,86,Starowiejska,Dąbrówki
 53.18075,23.13396,86,,
 53.1801,23.11154,86/17,,
@@ -45683,7 +45659,7 @@ lat,lon,housenumber,street,city
 53.1304992,23.1038,26,Stroma,Białystok
 53.130459,23.1036277,26,Stroma,Białystok
 53.1551741,23.1018015,4C,Bacieczki,Białystok
-53.1497542,23.1563762,8B,Aleja Tysiąclecia Państwa Polskiego,Białystok
+53.1498516,23.1567621,8B,Aleja Tysiąclecia Państwa Polskiego,Białystok
 53.132569,23.1023834,32,Wincentego Witosa,Białystok
 53.1449827,23.1324829,56,Antoniukowska,Białystok
 53.144779,23.1323156,56,Antoniukowska,Białystok
@@ -55868,9 +55844,7 @@ lat,lon,housenumber,street,city
 53.59596,23.59171,9A,,
 53.5389,23.49922,9a,,
 53.57631,23.46482,9a,,
-53.1499122,23.1561738,8B,Aleja Tysiąclecia Państwa Polskiego,Białystok
-53.150272,23.1568306,8B,Aleja Tysiąclecia Państwa Polskiego,Białystok
-53.1498149,23.156267,8B,Aleja Tysiąclecia Państwa Polskiego,Białystok
+53.150426,23.1570086,8B,Aleja Tysiąclecia Państwa Polskiego,Białystok
 53.1512081,23.1551399,10,Aleja Tysiąclecia Państwa Polskiego,Białystok
 53.1378328,23.1822249,12,Dobra,Białystok
 53.1359824,23.183063,46,Słonimska,Białystok
@@ -66426,7 +66400,7 @@ lat,lon,housenumber,street,city
 52.50686,23.35982,13,,
 52.52467,23.33437,1,1 Maja,Czeremcha
 52.50844,23.35013,1,Boczna,Czeremcha
-52.50437,23.35246,1,Długa,Czeremcha
+52.5041627,23.3523341,1,Długa,Czeremcha
 52.5077,23.35121,1,Fabryczna,Czeremcha
 52.51436,23.34238,1,Gołębia,Czeremcha
 52.51658,23.34064,1,Gruntowa,Czeremcha
@@ -71626,7 +71600,6 @@ lat,lon,housenumber,street,city
 52.72914,23.05359,11,,
 52.73286,23.11263,11,,
 52.73308,23.2587,11,,
-52.73385,23.1621,11,,
 52.7434,23.00641,11,,
 52.74613,23.09038,11,,
 52.74977,23.30244,11,,
@@ -71773,7 +71746,6 @@ lat,lon,housenumber,street,city
 52.7828,23.04788,116,,
 52.82057,23.16186,116,,
 52.85834,23.27542,116,,
-52.73385,23.16022,19,,
 52.73388,23.11221,19,,
 52.73668,23.07653,19,,
 52.74586,23.0923,19,,
@@ -71979,7 +71951,6 @@ lat,lon,housenumber,street,city
 52.72916,23.05332,13,,
 52.73296,23.2584,13,,
 52.7331,23.11278,13,,
-52.73385,23.16159,13,,
 52.7379,23.07746,13,,
 52.73934,23.00516,13,,
 52.74602,23.09086,13,,
@@ -72144,7 +72115,6 @@ lat,lon,housenumber,street,city
 52.72608,23.08522,15,,
 52.73322,23.25821,15,,
 52.73324,23.11262,15,,
-52.73394,23.16132,15,,
 52.735847,23.0109042,15,,
 52.74586,23.09143,15,,
 52.75019,23.3018,15,,
@@ -72298,7 +72268,6 @@ lat,lon,housenumber,street,city
 52.77509,23.12083,159,,
 52.88204,23.24303,159,,
 52.89129,23.14444,159,,
-52.73374,23.16115,15A,,
 52.80348,23.19216,15A,,
 52.82082,23.26136,15A,,
 52.84652,23.22316,15A,,
@@ -72403,7 +72372,6 @@ lat,lon,housenumber,street,city
 52.72915,23.05253,17,,
 52.73327,23.25801,17,,
 52.73357,23.11241,17,,
-52.734,23.16077,17,,
 52.73717,23.07655,17,,
 52.74573,23.09177,17,,
 52.75031,23.30183,17,,
@@ -72473,7 +72441,6 @@ lat,lon,housenumber,street,city
 52.7760085,23.1185316,178,,
 52.88198,23.24054,179,,
 52.75808,23.25515,179a,,
-52.73385,23.16044,17a,,
 52.73702,23.07705,17a,,
 52.75412,23.00527,17a,,
 52.68208,23.19271,18,,
@@ -72567,7 +72534,6 @@ lat,lon,housenumber,street,city
 52.72473,23.03638,21,,
 52.72643,23.08445,21,,
 52.72897,23.05159,21,,
-52.73394,23.15994,21,,
 52.73443,23.11152,21,,
 52.73584,23.07622,21,,
 52.74555,23.09264,21,,
@@ -72622,7 +72588,6 @@ lat,lon,housenumber,street,city
 52.76197,23.14997,218a,,
 52.76212,23.15033,218b,,
 52.81893,23.22924,21A,,
-52.73387,23.15962,21a,,
 52.68246,23.19284,22,,
 52.69098,23.1268,22,,
 52.70059,23.17252,22,,
@@ -72861,7 +72826,6 @@ lat,lon,housenumber,street,city
 52.71426,23.2014,23,,
 52.72647,23.08402,23,,
 52.72916,23.05139,23,,
-52.73322,23.15921,23,,
 52.7335,23.2573,23,,
 52.73458,23.11117,23,,
 52.73567,23.07623,23,,
@@ -75033,7 +74997,6 @@ lat,lon,housenumber,street,city
 52.69416,23.12121,76,,
 52.69955,23.15977,76,,
 52.7212,23.21095,76,,
-52.7315714,23.1590661,76,,
 52.73627,23.24877,76,,
 52.75233,23.2871,76,,
 52.75295,23.04033,76,,
@@ -88016,11 +87979,8 @@ lat,lon,housenumber,street,city
 52.77582,22.70322,12,Józefa Piłsudskiego,Mień
 52.65873,22.8227,12,,
 52.65953,22.92343,12,,
-52.66036,22.87675,12,,
 52.66262,22.88206,12,,
 52.66474,22.84864,12,,
-52.67512,22.83637,12,,
-52.68532,22.80584,12,,
 52.68766,22.92731,12,,
 52.76676,22.9102,57,,
 52.78156,22.90652,57,,
@@ -88029,7 +87989,6 @@ lat,lon,housenumber,street,city
 52.65803,22.81358,58,,
 52.66094,22.91674,58,,
 52.66159,22.86988,58,,
-52.66548,22.85817,58,,
 52.68729,22.7958,58,,
 52.69729,22.89557,58,,
 52.70544,22.96395,58,,
@@ -88042,7 +88001,6 @@ lat,lon,housenumber,street,city
 52.75522,22.92426,58,,
 52.78129,22.90626,58,,
 52.79108,22.85854,58,,
-52.68745,22.79565,58a,,
 52.77284,22.69802,59,Jana Pawła II,Mień
 52.66068,22.91459,59,,
 52.66159,22.86859,59,,
@@ -88066,7 +88024,6 @@ lat,lon,housenumber,street,city
 52.65937,22.92444,6,,
 52.66044,22.87753,6,,
 52.66243,22.88336,6,,
-52.66463,22.84775,6,,
 52.67511,22.83762,6,,
 52.68558,22.80712,6,,
 52.68727,22.92729,6,,
@@ -88141,7 +88098,7 @@ lat,lon,housenumber,street,city
 52.66249,22.8826,10,,
 52.6644,22.84844,10,,
 52.67514,22.83694,10,,
-52.67688,22.81999,10,,
+52.6769219,22.8200368,10,,
 52.68537,22.80617,10,,
 52.68619,22.92683,10,,
 52.70486,22.93176,10,,
@@ -88175,7 +88132,6 @@ lat,lon,housenumber,street,city
 52.70686,22.95396,100,,
 52.7227,22.84302,100,,
 52.76981,22.69437,101,Jana Pawła II,Mień
-52.68403,22.80129,101,,
 52.69681,22.90437,101,,
 52.70569,22.95556,101,,
 52.72604,22.85336,101,,
@@ -88183,7 +88139,6 @@ lat,lon,housenumber,street,city
 52.69633,22.90341,102,,
 52.71383,22.84276,102,,
 52.76967,22.69422,103,Jana Pawła II,Mień
-52.68393,22.80184,103,,
 52.69646,22.90443,103,,
 52.70579,22.95526,103,,
 52.7256,22.85256,103,,
@@ -88398,7 +88353,7 @@ lat,lon,housenumber,street,city
 52.68245,22.88571,149,,
 52.81736,22.86704,14A,,
 52.67516,22.83599,14a,,
-52.67714,22.8187,14a,,
+52.6771495,22.8187,14a,,
 52.77604,22.7026,15,Jana Pawła II,Mień
 52.77228,22.7615,15,Selwanowska,Domanowo
 52.65945,22.92207,15,,
@@ -88445,7 +88400,7 @@ lat,lon,housenumber,street,city
 52.6605,22.87611,16,,
 52.6628,22.88079,16,,
 52.67519,22.83551,16,,
-52.67717,22.8176,16,,
+52.6772065,22.8175777,16,,
 52.68471,22.91338,16,,
 52.6856,22.80489,16,,
 52.69815,22.88886,16,,
@@ -88507,8 +88462,6 @@ lat,lon,housenumber,street,city
 52.65961,22.92296,14,,
 52.66044,22.87658,14,,
 52.66265,22.88136,14,,
-52.66489,22.84913,14,,
-52.67507,22.83592,14,,
 52.67706,22.81913,14,,
 52.68529,22.80531,14,,
 52.68743,22.9263,14,,
@@ -88588,7 +88541,6 @@ lat,lon,housenumber,street,city
 52.66054,22.87549,18,,
 52.66311,22.87936,18,,
 52.67509,22.83494,18,,
-52.67734,22.81682,18,,
 52.68702,22.91779,18,,
 52.69806,22.88937,18,,
 52.70513,22.96976,18,,
@@ -88664,7 +88616,7 @@ lat,lon,housenumber,street,city
 52.66293,22.88615,2,,
 52.66443,22.84617,2,,
 52.67442,22.83927,2,,
-52.67647,22.82134,2,,
+52.6765033,22.8213359,2,,
 52.68591,22.80832,2,,
 52.68871,22.92564,2,,
 52.69847,22.88608,2,,
@@ -88698,9 +88650,7 @@ lat,lon,housenumber,street,city
 52.77516,22.70247,20,Józefa Piłsudskiego,Mień
 52.65864,22.82093,20,,
 52.66015,22.92208,20,,
-52.66058,22.87507,20,,
 52.66328,22.8788,20,,
-52.67521,22.83449,20,,
 52.68511,22.80389,20,,
 52.69801,22.8896,20,,
 52.71548,22.78479,20,,
@@ -88858,7 +88808,7 @@ lat,lon,housenumber,street,city
 52.65806,22.82022,25,,
 52.66561,22.85277,25,,
 52.67483,22.8344,25,,
-52.67682,22.81684,25,,
+52.6767769,22.8168293,25,,
 52.67776,22.87719,25,,
 52.68477,22.80379,25,,
 52.69809,22.89102,25,,
@@ -88890,7 +88840,6 @@ lat,lon,housenumber,street,city
 52.65831,22.82019,26,,
 52.65994,22.92131,26,,
 52.66074,22.87412,26,,
-52.67778,22.81488,26,,
 52.68504,22.80251,26,,
 52.70519,22.96872,26,,
 52.70659,22.93025,26,,
@@ -88972,9 +88921,7 @@ lat,lon,housenumber,street,city
 52.7579,22.78026,28a,,
 52.77472,22.70057,29,Jana Pawła II,Mień
 52.65981,22.91998,29,,
-52.66048,22.87325,29,,
 52.66563,22.85376,29,,
-52.67459,22.83302,29,,
 52.67604,22.88279,29,,
 52.69824,22.89132,29,,
 52.70499,22.96702,29,,
@@ -89078,7 +89025,6 @@ lat,lon,housenumber,street,city
 52.77465,22.70032,31,Jana Pawła II,Mień
 52.65958,22.91976,31,,
 52.66065,22.87298,31,,
-52.6658,22.85413,31,,
 52.67535,22.88605,31,,
 52.67731,22.8148,31,,
 52.68448,22.80207,31,,
@@ -89135,7 +89081,6 @@ lat,lon,housenumber,street,city
 52.66059,22.87251,33,,
 52.66579,22.85453,33,,
 52.67339,22.8785,33,,
-52.67743,22.8142,33,,
 52.698,22.892,33,,
 52.70504,22.96657,33,,
 52.71605,22.78219,33,,
@@ -89233,7 +89178,7 @@ lat,lon,housenumber,street,city
 52.77431,22.6997,37,Jana Pawła II,Mień
 52.65752,22.81868,37,,
 52.65989,22.91853,37,,
-52.66086,22.87216,37,,
+52.6607856,22.8720604,37,,
 52.66602,22.85557,37,,
 52.69782,22.89327,37,,
 52.70507,22.96614,37,,
@@ -89303,7 +89248,6 @@ lat,lon,housenumber,street,city
 52.76981,22.692,4,Brata Alberta,Mień
 52.77091,22.69431,4,Henryka Sienkiewicza,Mień
 52.77678,22.70261,4,Jana Pawła II,Mień
-52.66051,22.87776,4,,
 52.66249,22.88418,4,,
 52.66446,22.84711,4,,
 52.68583,22.80734,4,,
@@ -89341,7 +89285,6 @@ lat,lon,housenumber,street,city
 52.66021,22.91947,40,,
 52.66113,22.87235,40,,
 52.66565,22.85538,40,,
-52.68581,22.79983,40,,
 52.69758,22.8929,40,,
 52.70536,22.96657,40,,
 52.71637,22.78213,40,,
@@ -89382,7 +89325,6 @@ lat,lon,housenumber,street,city
 52.77345,22.70013,42,Józefa Piłsudskiego,Mień
 52.65807,22.81804,42,,
 52.66023,22.91905,42,,
-52.66111,22.87211,42,,
 52.68603,22.79943,42,,
 52.69753,22.89329,42,,
 52.70537,22.96631,42,,
@@ -89779,7 +89721,6 @@ lat,lon,housenumber,street,city
 52.77254,22.69767,63,Jana Pawła II,Mień
 52.65315,22.79686,63,,
 52.66077,22.91399,63,,
-52.66128,22.86612,63,,
 52.69727,22.89801,63,,
 52.70531,22.96118,63,,
 52.71768,22.77865,63,,
@@ -89805,7 +89746,6 @@ lat,lon,housenumber,street,city
 52.77243,22.69766,65,Jana Pawła II,Mień
 52.6557,22.79829,65,,
 52.66084,22.91366,65,,
-52.66129,22.86587,65,,
 52.69726,22.89825,65,,
 52.70527,22.96145,65,,
 52.71769,22.77815,65,,
@@ -89869,7 +89809,6 @@ lat,lon,housenumber,street,city
 52.65922,22.92382,7,,
 52.66009,22.87707,7,,
 52.66226,22.88288,7,,
-52.6653,22.84933,7,,
 52.67409,22.83804,7,,
 52.67651,22.82023,7,,
 52.68524,22.80712,7,,
@@ -89975,7 +89914,6 @@ lat,lon,housenumber,street,city
 52.77048,22.69816,78,Józefa Piłsudskiego,Mień
 52.66115,22.91319,78,,
 52.66261,22.86533,78,,
-52.6834,22.79908,78,,
 52.6969,22.8991,78,,
 52.70565,22.95917,78,,
 52.7268,22.85717,78,,
@@ -90045,7 +89983,6 @@ lat,lon,housenumber,street,city
 52.77247,22.6972,82,Jana Pawła II,Mień
 52.66126,22.91275,82,,
 52.66225,22.86486,82,,
-52.68348,22.79985,82,,
 52.69679,22.89987,82,,
 52.70567,22.95835,82,,
 52.7261,22.85431,82,,
@@ -90091,7 +90028,6 @@ lat,lon,housenumber,street,city
 52.76975,22.69739,88,Józefa Piłsudskiego,Mień
 52.66142,22.9114,88,,
 52.66232,22.86364,88,,
-52.6835,22.80143,88,,
 52.69668,22.90076,88,,
 52.70576,22.9572,88,,
 52.72651,22.8532,88,,
@@ -90223,9 +90159,7 @@ lat,lon,housenumber,street,city
 53.1446973,23.1064437,38,Swobodna,Białystok
 53.145098,23.1324385,56,Antoniukowska,Białystok
 53.1436986,23.1064914,54,Wysoki Stoczek,Białystok
-53.1436746,23.1064094,54,Wysoki Stoczek,Białystok
 53.143763,23.1060891,54,Wysoki Stoczek,Białystok
-53.1438161,23.1064056,54,Wysoki Stoczek,Białystok
 53.1436521,23.1063022,54,Wysoki Stoczek,Białystok
 52.39006,22.74511,1,,
 52.4759,22.63435,1,,
@@ -90426,9 +90360,7 @@ lat,lon,housenumber,street,city
 52.43509,22.60823,74,,
 52.43535,22.60843,75,,
 52.43506,22.60774,76,,
-53.1435778,23.1063557,54,Wysoki Stoczek,Białystok
 53.1436325,23.1062163,54,Wysoki Stoczek,Białystok
-53.1436311,23.1064512,54,Wysoki Stoczek,Białystok
 53.1365746,23.1631379,1,Jurowiecka,Białystok
 53.1364695,23.163393,1,Jurowiecka,Białystok
 53.1367689,23.1622266,1,Jurowiecka,Białystok
@@ -97938,7 +97870,7 @@ lat,lon,housenumber,street,city
 53.1302937,23.1886984,11A,Piastowska,Białystok
 53.130829,23.1899567,13H,Piastowska,Białystok
 53.1307694,23.1900878,13H,Piastowska,Białystok
-53.3901619,21.7227978,6,Jana Pawła II,Turośl
+53.3901324,21.7227978,6,Jana Pawła II,Turośl
 53.1325171,23.1714106,29,Warszawska,Białystok
 53.21082,23.52639,16,,
 53.30224,23.52792,160A,,
@@ -99589,8 +99521,6 @@ lat,lon,housenumber,street,city
 52.8307505,23.7451013,2A,Hajnowska,Narewka
 52.83122,23.7435228,1A,Hajnowska,Narewka
 52.8356891,23.7164088,88,,
-54.1252483,22.925046,1a,11 Listopada,
-54.1252444,22.924985,1a,11 Listopada,Suwałki
 52.9920596,22.881991,4,Handlowa,Łapy
 53.1193141,23.0944995,14,Magnoliowa,Białystok
 54.1646764,23.4743312,2,Galadusio g.,Tarnauka
@@ -99644,7 +99574,7 @@ lat,lon,housenumber,street,city
 53.1574027,23.137709,89E,Dziesięciny,Białystok
 53.143895,23.177614,1,Wasilkowska,Białystok
 53.0642363,23.271314,51E,,
-53.04565,23.28648,1/5,,
+53.045594,23.2861354,1/5,,
 53.01874,23.3455,10,Radziwiłłowska,Zabłudów
 52.99722,23.25333,101,,
 52.89953,23.35259,101N,,
@@ -99813,7 +99743,7 @@ lat,lon,housenumber,street,city
 52.9582,23.23108,8B,,
 53.00584,23.3458,8E,,
 53.00599,23.34521,8G,,
-53.00624,23.34433,8H,,
+53.0060937,23.3446769,8H,,
 53.03918,23.35272,94,,
 53.08292,23.24494,96b,,
 53.1353616,23.1666666,6,Warszawska,Białystok
@@ -100318,7 +100248,6 @@ lat,lon,housenumber,street,city
 53.00607,23.11611,1B,,
 53.01161,23.19724,1B,,
 53.03904,23.16211,1C,,
-53.04128,23.14017,1C,,
 53.03871,23.16191,1D,,
 52.91872,23.17591,1E,,
 53.01592,23.16595,1E,,
@@ -101138,6 +101067,12 @@ lat,lon,housenumber,street,city
 53.0861137,23.2108002,133E,Dojlidy Górne,Białystok
 53.0862013,23.2108108,133D,Dojlidy Górne,Białystok
 53.0862842,23.210824,133C,Dojlidy Górne,Białystok
+53.1514213,23.1224725,19,Porzeczkowa,Białystok
+53.1515234,23.1222954,19,Porzeczkowa,Białystok
+53.151624,23.1221184,19,Porzeczkowa,Białystok
+53.1517236,23.1219427,19,Porzeczkowa,Białystok
+53.1518747,23.1217811,19,Porzeczkowa,Białystok
+53.1519699,23.1216054,19,Porzeczkowa,Białystok
 53.1300294,23.1589388,3,Legionowa,Białystok
 52.8707083,22.5442152,6c,Kolejowa,Szepietowo
 52.7336923,23.7183132,73,,
@@ -101292,7 +101227,7 @@ lat,lon,housenumber,street,city
 53.55962,23.4822,8A,,
 52.9841498,22.887757,46,Cmentarna,Łapy
 53.5969707,22.5209137,1,Szkolna,Ruda
-53.1311837,23.1388402,2,Kardynała Stefana Wyszyńskiego,Białystok
+53.1311697,23.1388292,2,Kardynała Stefana Wyszyńskiego,Białystok
 53.1251799,23.2098779,157,Konstantego Ciołkowskiego,Białystok
 53.1352975,23.1336039,8,Zwycięstwa,Białystok
 54.1533104,23.3915128,58,,
@@ -101835,7 +101770,6 @@ lat,lon,housenumber,street,city
 53.167906,22.0853591,102,Szosa Zambrowska,Łomża
 54.2303976,23.0453256,4a,,
 53.1499997,23.1563856,8B,Aleja Tysiąclecia Państwa Polskiego,Białystok
-53.1495895,23.1566377,8B,Aleja Tysiąclecia Państwa Polskiego,Białystok
 54.177002,23.0818953,45B,,
 53.1491436,23.1860778,54A,Wasilkowska,Białystok
 54.0274986,22.991359,185,,
@@ -101913,8 +101847,8 @@ lat,lon,housenumber,street,city
 53.1429308,23.2416639,21,Alejkowa,Sowlany
 54.1921439,23.0901218,28a,,
 52.3669661,22.9502908,11b,,
-52.3670699,22.9505502,11c,,
-52.3673321,22.9510314,11d,,
+52.367074,22.9505385,11c,,
+52.3673523,22.9510304,11d,,
 52.3664659,22.9495339,65,,
 52.7378852,23.5918084,55,3 Maja,Hajnówka
 53.1343655,23.2107505,28,Dolistowska,Białystok
@@ -102836,7 +102770,7 @@ lat,lon,housenumber,street,city
 53.1804771,23.1855243,108a,Białostocka,Wasilków
 53.0834695,23.2142419,149L,Dojlidy Górne,Białystok
 53.0834675,23.2138306,149K,Dojlidy Górne,Białystok
-53.0834704,23.2092459,146A,Dojlidy Górne,Białystok
+53.0832674,23.209058,148,Dojlidy Górne,Białystok
 53.0838031,23.2116759,147B,Dojlidy Górne,Białystok
 53.0855554,23.2097456,136B,Dojlidy Górne,Białystok
 53.0834671,23.2134432,149J,Dojlidy Górne,Białystok
@@ -103063,7 +102997,7 @@ lat,lon,housenumber,street,city
 53.0873859,23.2055866,8,Kolorowa,Białystok
 53.0980297,23.2073036,9B,Bajeczna,Białystok
 53.0919242,23.2054275,64,Bajeczna,Białystok
-53.0910354,23.2066026,24,Poziomkowa,Białystok
+53.0909774,23.2065574,24,Poziomkowa,Białystok
 53.0910656,23.2053094,18,Poziomkowa,Białystok
 53.1110508,23.193698,5A,Jaskółcza,Białystok
 53.090601,23.2079209,8A,Leśna Polana,Białystok
@@ -103233,7 +103167,6 @@ lat,lon,housenumber,street,city
 53.1435593,23.1543422,12B,Białostoczek,Białystok
 53.1390558,23.1544321,10,Żytnia,Białystok
 53.1481377,23.186828,3C,Sandomierska,Białystok
-53.1453292,23.1913006,1/1,Siewna,Białystok
 53.1365231,23.1780743,8,Przygodna,Białystok
 53.1467933,23.1925714,18,Chłopska,Białystok
 53.1451906,23.1742478,41C,Wąska,Białystok
@@ -103695,7 +103628,6 @@ lat,lon,housenumber,street,city
 53.0886035,23.2445545,11,Matematyczna,Białystok
 53.0749443,23.2235667,18,Rozmarynowa,Białystok
 53.1494978,23.1250464,24A,Kasztanowa,Białystok
-53.1588941,23.1005426,132,Generała Władysława Andersa,Białystok
 53.0762786,23.2230753,54,Halicka,Białystok
 53.1149846,23.0785907,16,Serbska,Białystok
 53.1336093,23.2001154,156,Wołyńska,Białystok
@@ -103859,7 +103791,7 @@ lat,lon,housenumber,street,city
 53.0785952,23.209707,1,Halicka,Białystok
 53.0760149,23.223603,58,Halicka,Białystok
 53.0767048,23.2207566,43,Halicka,Białystok
-53.0725099,23.2140334,32,Zielone Jabłuszko,Białystok
+53.0724538,23.2139774,32,Zielone Jabłuszko,Białystok
 53.1204369,23.2217999,33,Wczasowa,Białystok
 53.1572684,23.0959464,9A,Stanisława Szewko,Białystok
 53.085258,23.2066167,21,Krokusowa,Białystok
@@ -104040,7 +103972,6 @@ lat,lon,housenumber,street,city
 53.124202,23.1536122,25,Żelazna,Białystok
 53.110147,23.1950842,89,Wiewiórcza,Białystok
 53.0954446,23.2392554,19,Okrętowa,Białystok
-53.1448071,23.190998,1C,Siewna,Białystok
 53.1479562,23.1919125,26,Siewna,Białystok
 53.1364673,23.1791637,5,Wróbla,Białystok
 53.1240469,23.1358338,6,Gnieźnieńska,Białystok
@@ -104280,7 +104211,7 @@ lat,lon,housenumber,street,city
 54.2437963,23.324698,16,,
 54.2533192,23.076201,46A,,
 54.1096263,23.3401331,1,Łąkowa,
-53.1450346,23.081641,88,Aleja Jana Pawła II,Białystok
+53.1452116,23.0819372,88,Aleja Jana Pawła II,Białystok
 54.0927769,22.9393634,9A,Górna,Suwałki
 54.1014944,22.9326162,1,Sejneńska,Suwałki
 54.1250449,22.8783899,25,,
@@ -104291,7 +104222,6 @@ lat,lon,housenumber,street,city
 54.1024241,23.0037828,41A,,
 54.0477544,22.7613421,15A,,
 54.0989891,22.8559865,11D,,
-52.6364765,23.6227218,10,,
 54.2998538,22.8436981,4A,,
 54.3011524,22.8379161,7A,,
 54.322546,22.7995622,4,,
@@ -105839,7 +105769,7 @@ lat,lon,housenumber,street,city
 53.0989899,23.1320979,5,Wiadukt,Białystok
 53.1132823,23.1273185,2D,Transportowa,Białystok
 53.1097113,23.1549755,1R,Konstantego Ciołkowskiego,Białystok
-53.1090133,23.1559495,1P,Konstantego Ciołkowskiego,Białystok
+53.1090093,23.1559627,1P,Konstantego Ciołkowskiego,Białystok
 53.1518463,23.1250849,12,Generała Józefa Hallera,Białystok
 53.1931865,22.3864632,6,Plac Kapitana Władysława Raginisa,
 53.1927122,22.3865576,10,Plac Kapitana Władysława Raginisa,
@@ -106280,7 +106210,7 @@ lat,lon,housenumber,street,city
 53.1560419,23.1064045,10A,Wenus,Białystok
 53.155984,23.1062919,10,Wenus,Białystok
 53.1613314,23.1134131,16,Zawady,Białystok
-53.1512506,23.1559642,10,Aleja Tysiąclecia Państwa Polskiego,Białystok
+53.1513323,23.1558514,10,Aleja Tysiąclecia Państwa Polskiego,Białystok
 53.129646,23.1264473,1A,Władysława Reymonta,Białystok
 53.1354886,23.1594396,33,Icchoka Malmeda,Białystok
 53.1355459,23.1594491,33,Icchoka Malmeda,Białystok
@@ -106644,7 +106574,7 @@ lat,lon,housenumber,street,city
 54.107154,22.9335799,15,Generała Józefa Dwernickiego,Suwałki
 54.1053001,22.9313946,93A,Teofila Noniewicza,Suwałki
 54.1196244,22.9254054,60,Szpitalna,Suwałki
-54.1235489,22.9341235,10,Alfreda Lityńskiego,Suwałki
+54.1237529,22.9343975,10,Alfreda Lityńskiego,Suwałki
 54.1218131,22.9352373,9,Aleksandra Putry,Suwałki
 54.1015849,22.9285138,78,Tadeusza Kościuszki,Suwałki
 54.105809,22.932012,48,Teofila Noniewicza,Suwałki
@@ -106691,7 +106621,7 @@ lat,lon,housenumber,street,city
 53.9051184,23.2679799,53D,,
 53.8490483,22.9952481,12,Marii Konopnickiej,Augustów
 53.9396109,22.9793294,54,,
-53.1514176,23.1551,10,Aleja Tysiąclecia Państwa Polskiego,Białystok
+53.1513171,23.1555601,10,Aleja Tysiąclecia Państwa Polskiego,Białystok
 53.1324505,23.1452751,7,Stołeczna,Białystok
 53.1329453,23.1022802,34,Wincentego Witosa,Białystok
 53.1531886,23.087739,67,Hugo Kołłątaja,Białystok
@@ -108876,7 +108806,7 @@ lat,lon,housenumber,street,city
 53.6557918,22.4471764,31B,11 Listopada,Grajewo
 52.9966602,22.8927671,11А,Mostowa,Łapy
 52.9967625,22.8924608,11А,Mostowa,Łapy
-53.1134754,23.1483473,24,Świerkowa,Białystok
+53.1134738,23.1483658,24,Świerkowa,Białystok
 53.4073378,21.9270792,2,Bursztynowa,Kolno
 53.407276,21.9224578,14,Marii Dąbrowskiej,Kolno
 53.4075581,21.9219036,41,Sosnowa,Kolno
@@ -109145,7 +109075,6 @@ lat,lon,housenumber,street,city
 53.2219137,23.0314089,68,,
 53.2275369,23.0264032,89,,
 53.2261441,23.053955,29B,,
-53.2233279,23.0365899,42A,,
 53.2286241,23.0269399,48A,,
 53.2259861,23.0461325,64BB,,
 53.2352854,23.0213804,33B,,
@@ -109166,7 +109095,6 @@ lat,lon,housenumber,street,city
 53.2378864,23.0486347,41A,,
 53.2261673,23.0462535,64D,,
 53.226342,23.0463307,64E,,
-53.2243912,23.0353931,51A,,
 53.2280281,23.0260153,91,,
 53.2283474,23.0256689,93,,
 53.2280148,23.025082,91C,,
@@ -110457,7 +110385,6 @@ lat,lon,housenumber,street,city
 53.1518004,23.091294,38,Komisji Edukacji Narodowej,Białystok
 53.1542574,23.1163804,79,Gajowa,Białystok
 53.1121272,23.132716,2F,Zachodnia,Białystok
-53.143822,23.1052741,7,Hugo Kołłątaja,Białystok
 53.0967125,23.1334213,12,Feliksa Filipowicza,Białystok
 53.1087953,23.1484897,12/U1,Wiosenna,Białystok
 53.1118086,23.1417948,50,Kręta,Białystok
@@ -111153,7 +111080,6 @@ lat,lon,housenumber,street,city
 54.1014144,22.9296253,1,Chłodna,Suwałki
 54.101417,22.9299856,3,Chłodna,Suwałki
 54.1014296,22.9302051,5,Chłodna,Suwałki
-54.1014383,22.9307024,5,Chłodna,Suwałki
 54.1014471,22.9308724,7,Chłodna,Suwałki
 54.1014314,22.9313987,11,Chłodna,Suwałki
 54.1014439,22.9312968,10,Chłodna,Suwałki
@@ -111206,7 +111132,6 @@ lat,lon,housenumber,street,city
 54.1046018,22.9314743,91,Teofila Noniewicza,Suwałki
 54.104826,22.9314435,93,Teofila Noniewicza,Suwałki
 54.1049261,22.9314152,93,Teofila Noniewicza,Suwałki
-54.1050307,22.9314152,93,Teofila Noniewicza,Suwałki
 54.1058525,22.9313061,93,Teofila Noniewicza,Suwałki
 54.1057931,22.9313036,93,Teofila Noniewicza,Suwałki
 54.1060224,22.9312869,93,Teofila Noniewicza,Suwałki
@@ -111657,7 +111582,6 @@ lat,lon,housenumber,street,city
 53.0969432,23.1245595,18,Zambrowska,Kleosin
 53.1621108,23.1851676,67,Władysława Wysockiego,Białystok
 53.1294657,23.0743821,118,Księdza Jerzego Popiełuszki,Białystok
-53.1219518,23.1464406,14,Prezydenta Ryszarda Kaczorowskiego,Białystok
 53.1254612,23.1686721,15,Świętojańska,Białystok
 53.1085878,23.1456013,26,Kawaleryjska,Białystok
 53.1255291,23.1716853,15,Adama Mickiewicza,Białystok
@@ -112237,7 +112161,7 @@ lat,lon,housenumber,street,city
 53.1221159,23.1433376,9,Mikołaja Kopernika,Białystok
 53.1378992,23.1612196,15,Jurowiecka,Białystok
 53.1493931,23.0819539,9,Komisji Edukacji Narodowej,Białystok
-53.1512261,23.1559828,10,Aleja Tysiąclecia Państwa Polskiego,Białystok
+53.1513004,23.1557795,10,Aleja Tysiąclecia Państwa Polskiego,Białystok
 53.2087246,23.2097186,101,Grodzieńska,Wasilków
 53.1902644,23.2389037,64,Wasilkowska,Nowodworce
 53.1331348,22.8971546,55A,,
@@ -112319,7 +112243,7 @@ lat,lon,housenumber,street,city
 54.1047217,22.9245275,33a,Emilii Plater,
 54.1041194,22.931453,87,Teofila Noniewicza,
 53.4622376,23.2310718,23,Białostocka,Janów
-53.1513989,23.1559214,10,Aleja Tysiąclecia Państwa Polskiego,Białystok
+53.1513795,23.1557818,10,Aleja Tysiąclecia Państwa Polskiego,Białystok
 53.1703422,23.2001372,52,Skrzatów,Wasilków
 53.1576241,23.1901718,4B,Jerzego Grygorczuka,Białystok
 53.1420492,23.1991442,14,Rodzinna,Białystok
@@ -113231,6 +113155,7 @@ lat,lon,housenumber,street,city
 53.690739,23.0571076,12,,
 53.6809176,23.0923148,20,Piaski,Sztabin
 53.6541529,23.0550471,5A,,
+54.1072684,22.9270254,101a,,
 54.0959305,22.9088008,15A,Bakałarzewska,Suwałki
 54.0965864,22.9083127,15,Bakałarzewska,Suwałki
 53.3987287,23.5180002,1A,Jana Pawła II,Sokółka
@@ -113289,10 +113214,10 @@ lat,lon,housenumber,street,city
 53.1544363,23.2037334,20B,Trawiasta,Białystok
 53.1076953,23.1121718,6c,Aleja Ignacego Jana Paderewskiego,Białystok
 53.8390977,22.9739055,42a,Wojska Polskiego,Augustów
-53.1495671,23.156658,8b,Aleja Tysiąclecia Państwa Polskiego,Białystok
+53.1497697,23.1568057,8b,Aleja Tysiąclecia Państwa Polskiego,Białystok
 53.1312278,23.1954516,2,Sybiraków,Białystok
 53.1418508,23.0555317,57,Wierzbowa,Porosły
-53.7327968,22.6903087,24,Szkolna,Rajgród
+53.7327267,22.6903046,24,Szkolna,Rajgród
 53.1077934,23.1304237,43/1,Świętego Jerzego,Białystok
 52.7482445,23.5945706,125,Lipowa,Hajnówka
 54.3639315,23.0364364,46,Šešupės g.,Liubavas
@@ -113344,8 +113269,78 @@ lat,lon,housenumber,street,city
 53.8467358,22.984146,38,Mostowa,Augustów
 53.8466328,22.985761,3,Rybacka,Augustów
 53.1214166,23.2020092,2/24,Ciesielska,Białystok
+53.1956906,22.884947,4b,,
 53.1853339,23.255715,3,Nowodworska,Ogrodniczki
 54.0882082,22.927818,7,Rotmistrza Kazimierza Ptaszyńskiego,
+53.41025,23.5208137,61,Kresowa,Sokółka
+53.1825735,22.5000666,25,,
+53.7321778,22.6901138,24,Szkolna,Rajgród
+53.3896406,22.0368073,63C,,
+53.1495938,23.0899184,1,Józefa Mackiewicza,Białystok
+53.1310469,23.1389987,2/86,Kardynała Stefana Wyszyńskiego,Białystok
+52.3374396,23.0394338,33,Sadowa,Mielnik
+53.1158532,22.903128,9,Rogowo Kolonia,Choroszcz
+54.0641096,22.6757256,4,Kotowina,
+53.7322585,22.6886443,13b,Szkolna,Rajgród
+53.7330722,22.6880353,23,Szkolna,Rajgród
+53.1500714,23.1566767,8B,Aleja Tysiąclecia Państwa Polskiego,Białystok
+53.1513021,23.1554112,10,Aleja Tysiąclecia Państwa Polskiego,Białystok
+53.1513547,23.1557032,10,Aleja Tysiąclecia Państwa Polskiego,Białystok
+53.1513714,23.155758,10,Aleja Tysiąclecia Państwa Polskiego,Białystok
+53.0952603,23.2108594,54,Dojlidy Górne,Białystok
+53.090995,23.2049519,18,Poziomkowa,Białystok
+53.0835997,23.2058668,11,Aloesowa,Białystok
+53.0835135,23.2058478,13,Aloesowa,Białystok
+53.0832975,23.2058041,17,Aloesowa,Białystok
+53.0833838,23.2058231,15,Aloesowa,Białystok
+53.0828604,23.2057147,21,Aloesowa,Białystok
+53.0829466,23.2057337,19,Aloesowa,Białystok
+53.0826627,23.2056754,25,Aloesowa,Białystok
+53.082749,23.2056943,23,Aloesowa,Białystok
+53.0835993,23.2060866,3H,Aloesowa,Białystok
+53.0836877,23.2061038,3G,Aloesowa,Białystok
+53.0833866,23.2060437,3K,Aloesowa,Białystok
+53.0834751,23.2060609,3J,Aloesowa,Białystok
+53.0831751,23.2059919,3M,Aloesowa,Białystok
+53.0832635,23.2060091,3L,Aloesowa,Białystok
+53.0829549,23.2059472,3P,Aloesowa,Białystok
+53.0830433,23.2059644,3N,Aloesowa,Białystok
+53.0827422,23.205906,3S,Aloesowa,Białystok
+53.0828306,23.2059232,3R,Aloesowa,Białystok
+53.0697022,23.2013035,14,Osiedlowa,Solniczki
+53.0696798,23.2011808,14A,Osiedlowa,Solniczki
+53.0696536,23.2010416,14B,Osiedlowa,Solniczki
+53.0698953,23.2011926,12P,Osiedlowa,Solniczki
+53.069974,23.2011761,12R,Osiedlowa,Solniczki
+53.0700498,23.2011466,12S,Osiedlowa,Solniczki
+53.0701278,23.2011336,12T,Osiedlowa,Solniczki
+52.731863,23.1603655,166,,
+53.7285093,22.6839776,5A,Warszawska,Rajgród
+53.1945469,23.2005718,22,Nadrzeczna,Wasilków
+53.1196636,23.1372946,101,Generała Józefa Bema,Białystok
+53.1195611,23.1373966,101,Generała Józefa Bema,Białystok
+53.1194507,23.1375065,101,Generała Józefa Bema,Białystok
+53.1193433,23.1376134,101,Generała Józefa Bema,Białystok
+53.1192416,23.1377147,101,Generała Józefa Bema,Białystok
+53.1191357,23.1378201,101,Generała Józefa Bema,Białystok
+53.1190288,23.1379266,101,Generała Józefa Bema,Białystok
+53.1189252,23.1380297,101,Generała Józefa Bema,Białystok
+53.1188233,23.1381312,101,Generała Józefa Bema,Białystok
+53.1187199,23.1382342,101,Generała Józefa Bema,Białystok
+53.1987254,23.1823463,64,Jurowiecka,Wasilków
+53.1988464,23.1823642,64A,Jurowiecka,Wasilków
+53.1978544,23.1809412,70,Jurowiecka,Wasilków
+53.1979733,23.1809626,70A,Jurowiecka,Wasilków
+53.1978737,23.1806372,72,Jurowiecka,Wasilków
+53.1981511,23.1809859,70B,Jurowiecka,Wasilków
+53.1982475,23.1810055,70C,Jurowiecka,Wasilków
+53.1980001,23.1806586,72A,Jurowiecka,Wasilków
+53.1981833,23.180698,72B,Jurowiecka,Wasilków
+53.1982915,23.180723,72C,Jurowiecka,Wasilków
+53.1984853,23.1807534,72D,Jurowiecka,Wasilków
+53.1985871,23.1807641,72E,Jurowiecka,Wasilków
+53.1987671,23.1808053,72F,Jurowiecka,Wasilków
+53.1988699,23.1808196,72G,Jurowiecka,Wasilków
 53.1500214,23.122789,2,Świętego Kazimierza,Białystok
 53.403598,23.5076616,8,Kolejowa,Sokółka
 53.4991237,23.3458537,1,,
@@ -113626,7 +113621,7 @@ lat,lon,housenumber,street,city
 53.9919969,22.7767291,3,Cmentarna,Raczki
 53.9917273,22.7771761,1,Cmentarna,Raczki
 53.9928712,22.7749088,9,Cmentarna,Raczki
-53.9830272,22.786071,1,Sportowa,Raczki
+53.9830275,22.786071,1,Sportowa,Raczki
 53.991672,22.7741718,30,Gospodarska,Raczki
 53.9909932,22.7805932,17,Kościelna,Raczki
 53.9912089,22.779295,18,Kościelna,Raczki
@@ -114964,9 +114959,9 @@ lat,lon,housenumber,street,city
 53.4479136,21.626159,39a,,
 53.4512547,21.6177905,35,,
 53.4505908,21.6190194,36,,
-54.1009517,22.9390377,6D,Utrata,Suwałki
-54.1013803,22.9365946,6,Sejneńska,Suwałki
-54.1013549,22.9368875,6,Sejneńska,Suwałki
+54.1009454,22.9390381,6D,Utrata,Suwałki
+54.1013751,22.9365959,6,Sejneńska,Suwałki
+54.1013562,22.9368756,6,Sejneńska,Suwałki
 54.1428426,22.927051,54,,
 54.1414045,22.9283719,55a,,
 54.1416261,22.9286316,55,,
@@ -115737,7 +115732,7 @@ lat,lon,housenumber,street,city
 53.4094379,22.8048732,6,Armii Krajowej,Mońki
 53.4089731,22.8058799,10,Cypriana Kamila Norwida,Mońki
 53.4084068,22.8065782,5,Świerkowa,Mońki
-53.4084583,22.8076733,31,Aleja Niepodległości,Mońki
+53.4084597,22.8076734,31,Aleja Niepodległości,Mońki
 53.4100843,22.8069093,16,Zielona,Mońki
 53.4100377,22.8071781,18,Zielona,Mońki
 53.4083518,22.8061561,6,Świerkowa,Mońki
@@ -116633,7 +116628,7 @@ lat,lon,housenumber,street,city
 54.1223559,22.9248384,25,Ignacego Daszyńskiego,Suwałki
 54.1224655,22.9256168,25b,Ignacego Daszyńskiego,Suwałki
 54.1222882,22.9218341,75,Szpitalna,Suwałki
-54.1257783,22.9249614,1a,11 Listopada,Suwałki
+54.1257783,22.9249614,1A,11 Listopada,Suwałki
 54.1270842,22.9267318,6,11 Listopada,Suwałki
 54.1262448,22.9262906,4,11 Listopada,Suwałki
 54.1237628,22.9259793,9a,Ignacego Daszyńskiego,Suwałki
@@ -116695,12 +116690,12 @@ lat,lon,housenumber,street,city
 52.7280207,23.5909117,50,Józefa Piłsudskiego,Hajnówka
 52.7282229,23.5905819,30,Białowieska,Hajnówka
 54.095681,22.9277167,21a,Tadeusza Kościuszki,Suwałki
-54.0957102,22.9283496,21,Tadeusza Kościuszki,Suwałki
+54.0957072,22.9282672,21,Tadeusza Kościuszki,Suwałki
 54.0951292,22.9283289,15,Tadeusza Kościuszki,Suwałki
 54.094918,22.9275214,13,Tadeusza Kościuszki,Suwałki
-54.0957458,22.9280622,23,Tadeusza Kościuszki,Suwałki
-54.0958543,22.9285206,23,Tadeusza Kościuszki,Suwałki
-54.095577,22.9283612,19,Tadeusza Kościuszki,Suwałki
+54.0957437,22.9279997,23,Tadeusza Kościuszki,Suwałki
+54.095857,22.9285034,23,Tadeusza Kościuszki,Suwałki
+54.0955768,22.9282573,19,Tadeusza Kościuszki,Suwałki
 54.0940213,22.9299448,3H,Teofila Noniewicza,Suwałki
 54.0944832,22.927745,7,Tadeusza Kościuszki,Suwałki
 54.0942302,22.9284728,3,Tadeusza Kościuszki,Suwałki
@@ -116724,14 +116719,14 @@ lat,lon,housenumber,street,city
 54.0955787,22.9328165,8,Wigierska,Suwałki
 54.0964548,22.928454,31,Tadeusza Kościuszki,Suwałki
 54.0962961,22.9281032,27b,Tadeusza Kościuszki,Suwałki
-54.0956543,22.9270902,23a,Tadeusza Kościuszki,Suwałki
+54.0956539,22.9270899,23a,Tadeusza Kościuszki,Suwałki
 54.0962961,22.9281032,27a,Tadeusza Kościuszki,Suwałki
 54.0963034,22.9284658,29,Tadeusza Kościuszki,Suwałki
-54.0959515,22.9274936,25a,Tadeusza Kościuszki,Suwałki
+54.09595,22.9274692,25a,Tadeusza Kościuszki,Suwałki
 54.0956202,22.9276148,21b,Tadeusza Kościuszki,Suwałki
 54.0963013,22.9283545,27,Tadeusza Kościuszki,Suwałki
 54.0966515,22.9274782,31a,Tadeusza Kościuszki,Suwałki
-54.0958973,22.9282924,25,Tadeusza Kościuszki,Suwałki
+54.0958883,22.9282969,25,Tadeusza Kościuszki,Suwałki
 54.0969599,22.9282309,35,Tadeusza Kościuszki,Suwałki
 54.0973283,22.9281924,43,Tadeusza Kościuszki,Suwałki
 54.0978415,22.9269873,3,Adama Mickiewicza,Suwałki
@@ -118064,7 +118059,7 @@ lat,lon,housenumber,street,city
 54.1009559,22.9611154,2,Przemysłowa,Suwałki
 54.1011394,22.9630359,2D,Przemysłowa,Suwałki
 54.1012892,22.9612899,2,Przemysłowa,Suwałki
-54.1031866,22.9649304,4,Przemysłowa,Suwałki
+54.1031712,22.9649173,4,Przemysłowa,Suwałki
 54.1019586,22.9598822,1,Przemysłowa,Suwałki
 54.1006885,22.9619952,2c,Przemysłowa,Suwałki
 54.1015859,22.9622771,2E,Przemysłowa,Suwałki
@@ -120009,6 +120004,7 @@ lat,lon,housenumber,street,city
 53.1073999,23.2701941,7,Henrykowska,Sobolewo
 53.1074522,23.2697734,3,Henrykowska,Sobolewo
 52.9830011,22.8932105,25A,Franciszka Żwirki i Stanisława Wigury,Łapy
+54.3286433,23.1475541,4,,Kazlavas
 53.8587892,23.0082665,6,Turystyczna,Augustów
 53.8581059,23.0099793,12,Turystyczna,Augustów
 53.8592556,23.0054529,4,Aleja Kardynała Stefana Wyszyńskiego,Augustów
@@ -120920,7 +120916,6 @@ lat,lon,housenumber,street,city
 53.0895221,23.2055719,30,Pod Lasem,Białystok
 53.0859846,23.2018521,51,Stokrotki,Białystok
 53.0818488,23.2098359,157,Dojlidy Górne,Białystok
-53.0767543,23.2157853,20,Halicka,Białystok
 53.0880244,23.2035894,21,Poranna,Białystok
 53.0870573,23.2091145,71,Daliowa,Białystok
 53.0874041,23.2085516,68,Daliowa,Białystok
@@ -121254,7 +121249,7 @@ lat,lon,housenumber,street,city
 53.1596581,23.1523338,76,Aleja Tysiąclecia Państwa Polskiego,Białystok
 53.1476406,23.177317,5,Generała Władysława Andersa,Białystok
 53.1576119,23.1523898,72,Aleja Tysiąclecia Państwa Polskiego,Białystok
-53.1451879,23.0831071,3,Narodowych Sił Zbrojnych,Białystok
+53.1451904,23.083088,3,Narodowych Sił Zbrojnych,Białystok
 53.1599195,23.1512966,69,Aleja Tysiąclecia Państwa Polskiego,Białystok
 53.1467572,23.1817198,2,Generała Władysława Andersa,Białystok
 53.1571074,23.1564022,46,Generała Władysława Andersa,Białystok
@@ -122682,8 +122677,8 @@ lat,lon,housenumber,street,city
 53.1351701,23.1921472,22A,Towarowa,Białystok
 53.1361999,23.1871294,10a,Towarowa,Białystok
 54.1034048,22.9269923,71a,Tadeusza Kościuszki,Suwałki
-54.1034786,22.9276736,71,Tadeusza Kościuszki,Suwałki
-54.1033914,22.9271316,71,Tadeusza Kościuszki,Suwałki
+54.1034786,22.9276734,71,Tadeusza Kościuszki,Suwałki
+54.103392,22.9271264,71,Tadeusza Kościuszki,Suwałki
 54.1030697,22.9277032,69,Tadeusza Kościuszki,Suwałki
 54.0737779,22.9138772,153,Raczkowska,Suwałki
 54.0926668,22.9299523,1,Wojska Polskiego,Suwałki
@@ -123149,7 +123144,7 @@ lat,lon,housenumber,street,city
 53.1289227,23.15413,5,Piękna,Białystok
 53.1288789,23.159271,7A,Marii Skłodowskiej-Curie,Białystok
 53.1280429,23.158742,14,Marii Skłodowskiej-Curie,Białystok
-54.1042052,22.9282222,110,Tadeusza Kościuszki,Suwałki
+54.1042035,22.9282199,110,Tadeusza Kościuszki,Suwałki
 54.1044972,22.9367903,2,Utrata,Suwałki
 53.1250481,23.1515122,36,Jerzego Waszyngtona,Białystok
 53.1317721,23.1381296,2/1,Kardynała Stefana Wyszyńskiego,Białystok
@@ -125325,7 +125320,7 @@ lat,lon,housenumber,street,city
 53.1103523,23.1236319,30A,Zachodnia,Białystok
 53.1099528,22.7837928,12,,
 53.1095788,22.7831657,13,,
-54.1039578,22.9277886,79,Tadeusza Kościuszki,Suwałki
+54.1039579,22.9277912,79,Tadeusza Kościuszki,Suwałki
 54.1051444,22.9285974,120,Tadeusza Kościuszki,Suwałki
 54.1041982,22.9269268,81,Tadeusza Kościuszki,Suwałki
 54.101965,22.9284202,82,Tadeusza Kościuszki,Suwałki
@@ -125413,10 +125408,10 @@ lat,lon,housenumber,street,city
 54.1057074,22.9297665,95c,Teofila Noniewicza,Suwałki
 54.1058272,22.9313965,93,Teofila Noniewicza,Suwałki
 54.1044561,22.9313364,91,Teofila Noniewicza,Suwałki
-54.1049102,22.93019,93c,Teofila Noniewicza,Suwałki
+54.1049102,22.93019,93C,Teofila Noniewicza,Suwałki
 54.1045519,22.9293618,112c,Tadeusza Kościuszki,Suwałki
-54.105309,22.9314532,93a,Teofila Noniewicza,Suwałki
-54.1049699,22.930103,93b,Teofila Noniewicza,Suwałki
+54.105309,22.9314532,93A,Teofila Noniewicza,Suwałki
+54.1049699,22.930103,93B,Teofila Noniewicza,Suwałki
 54.0340833,22.9303927,51,,
 54.0350944,22.9299065,50,,
 54.0358724,22.9299895,48,,
@@ -126228,7 +126223,7 @@ lat,lon,housenumber,street,city
 53.8428093,22.9954234,1,Plac księdza Bolesława Szkiłądzia,Augustów
 53.8588689,23.0358037,81,Turystyczna,Augustów
 54.0794298,22.9303694,68,Wojska Polskiego,Suwałki
-54.0838181,22.936334,21,Wojska Polskiego,Suwałki
+54.0838558,22.9363246,21,Wojska Polskiego,Suwałki
 53.1466702,22.9898782,8c,Powstania Styczniowego,Choroszcz
 54.0667222,22.8942615,150a,Raczkowska,Suwałki
 54.0670356,22.894512,150a,Raczkowska,Suwałki
@@ -126747,7 +126742,7 @@ lat,lon,housenumber,street,city
 54.1004087,22.9340539,8,Marii Konopnickiej,Suwałki
 54.0997367,22.9334262,9a,Marii Konopnickiej,Suwałki
 53.3956261,23.0384466,24,Rynek,Jasionówka
-54.0961365,22.9276218,25b,Tadeusza Kościuszki,Suwałki
+54.0961333,22.927639,25b,Tadeusza Kościuszki,Suwałki
 54.0978708,22.9287934,42,Tadeusza Kościuszki,Suwałki
 54.0977533,22.92813,47,Tadeusza Kościuszki,Suwałki
 54.0979905,22.928114,47b,Tadeusza Kościuszki,Suwałki
@@ -127271,7 +127266,7 @@ lat,lon,housenumber,street,city
 53.1468906,23.1200932,4,Pochyła,Białystok
 53.158945,23.0984851,136,Generała Stanisława Maczka,Białystok
 53.153403,23.0756549,66,Generała Franciszka Kleeberga,Białystok
-53.1452577,23.0824039,88,Aleja Jana Pawła II,Białystok
+53.145261,23.0823749,88,Aleja Jana Pawła II,Białystok
 53.1338402,23.0840922,24,Miłosna,Białystok
 53.1171636,23.2086469,37,Leśna,Białystok
 53.1146232,23.2145667,80B,Dojnowska,Białystok
@@ -127856,7 +127851,6 @@ lat,lon,housenumber,street,city
 52.9194587,23.0282725,6,,
 52.9191657,23.0283205,6/1,,
 52.9192526,23.0277178,8,,
-52.9188858,23.0261852,7,,
 53.1092088,23.1920621,69,Żurawia,Białystok
 53.1071872,23.1890289,14B,Żurawia,Białystok
 53.1148604,23.1773415,96,Adama Mickiewicza,Białystok
@@ -131061,22 +131055,22 @@ lat,lon,housenumber,street,city
 53.7306986,22.6877887,14,1 Maja,Rajgród
 53.7303972,22.6880556,7,1 Maja,Rajgród
 53.73054,22.688226,10,1 Maja,Rajgród
-53.730181,22.6885561,1a,1 Maja,Rajgród
+53.7301875,22.6885868,1a,1 Maja,Rajgród
 53.7305205,22.6873339,9,1 Maja,Rajgród
-53.7302584,22.6883482,3,1 Maja,Rajgród
+53.7302508,22.68836,3,1 Maja,Rajgród
 53.7302059,22.6859188,17,1 Maja,Rajgród
 53.7303855,22.6887203,6,1 Maja,Rajgród
 53.7304707,22.6884655,8,1 Maja,Rajgród
 53.7303095,22.6889088,4,1 Maja,Rajgród
 53.7307418,22.6872052,18,1 Maja,Rajgród
-53.7301297,22.6887211,1,1 Maja,Rajgród
+53.7301304,22.6887368,1,1 Maja,Rajgród
 53.7307598,22.6875036,16,1 Maja,Rajgród
 53.7307099,22.6863319,13,1 Maja,Rajgród
 53.7300319,22.6858866,19,1 Maja,Rajgród
 53.730604,22.6880165,12,1 Maja,Rajgród
 53.7299037,22.6858993,19A,1 Maja,Rajgród
-53.7323231,22.6871627,23,Szkolna,Rajgród
-53.7323643,22.6877481,19A,Szkolna,Rajgród
+53.7323311,22.687183,23A,Szkolna,Rajgród
+53.732342,22.6877823,19A,Szkolna,Rajgród
 53.7302888,22.6896037,7A,Plac 1000-lecia,Rajgród
 53.8499038,22.973686,12,Garncarska,Augustów
 53.8493033,22.9744534,1,Garncarska,Augustów
@@ -131841,9 +131835,9 @@ lat,lon,housenumber,street,city
 52.4358662,22.874967,4,Zofii Nałkowskiej,Siemiatycze
 52.4363509,22.8745225,7,Zofii Nałkowskiej,Siemiatycze
 53.7292143,22.687663,17,Warszawska,Rajgród
-53.7292979,22.6878195,19,Warszawska,Rajgród
+53.7292965,22.687846,19,Warszawska,Rajgród
 53.7293113,22.6888287,14,Warszawska,Rajgród
-53.7285695,22.68598,9,Warszawska,Rajgród
+53.7285828,22.6859912,9,Warszawska,Rajgród
 53.7290145,22.6879892,12A,Warszawska,Rajgród
 53.7292066,22.6876398,15,Warszawska,Rajgród
 53.7290635,22.6881423,12B,Warszawska,Rajgród
@@ -131853,27 +131847,27 @@ lat,lon,housenumber,street,city
 53.7302734,22.6998989,66,Warszawska,Rajgród
 53.7331424,22.6888747,34,Szkolna,Rajgród
 53.7316727,22.6891908,9,Szkolna,Rajgród
-53.7332633,22.687474,25,Szkolna,Rajgród
-53.7326591,22.6889333,15,Szkolna,Rajgród
+53.7332457,22.687482,25,Szkolna,Rajgród
+53.732667,22.6889511,15,Szkolna,Rajgród
 53.7303876,22.6897026,8,Plac 1000-lecia,Rajgród
 53.7333791,22.6884403,38,Szkolna,Rajgród
 53.7306174,22.6900735,10,Plac 1000-lecia,Rajgród
-53.7324608,22.6892677,13,Szkolna,Rajgród
-53.7337312,22.6871847,42A,Szkolna,Rajgród
-53.7329633,22.6887063,30,Szkolna,Rajgród
+53.7324661,22.6892829,13,Szkolna,Rajgród
+53.7337627,22.6872244,42A,Szkolna,Rajgród
+53.7329617,22.6887224,30,Szkolna,Rajgród
 53.730808,22.6899032,1,Szkolna,Rajgród
 53.7301972,22.6911616,13,Plac 1000-lecia,Rajgród
-53.7335782,22.6878001,38A,Szkolna,Rajgród
+53.7335909,22.6878206,38A,Szkolna,Rajgród
 53.7305194,22.689909,9,Plac 1000-lecia,Rajgród
 53.7338628,22.6870061,44,Szkolna,Rajgród
 53.7306256,22.690324,2,Szkolna,Rajgród
 53.7307516,22.6902372,4,Szkolna,Rajgród
-53.7327342,22.6887727,17,Szkolna,Rajgród
+53.7327378,22.6887829,17,Szkolna,Rajgród
 53.7312217,22.6893175,7A,Szkolna,Rajgród
 53.7318995,22.688709,11,Szkolna,Rajgród
-53.7336669,22.6873487,42,Szkolna,Rajgród
+53.733801,22.6874623,42,Szkolna,Rajgród
 53.7305385,22.6906079,11,Plac 1000-lecia,Rajgród
-53.7336977,22.6868251,27,Szkolna,Rajgród
+53.7337136,22.6868419,27,Szkolna,Rajgród
 53.7309541,22.6899408,3,Szkolna,Rajgród
 53.7311715,22.6899392,14,Szkolna,Rajgród
 53.7312374,22.6896968,7,Szkolna,Rajgród
@@ -135236,7 +135230,7 @@ lat,lon,housenumber,street,city
 53.1232707,23.2307025,17,Zaścianki,Zaścianki
 53.1235552,23.2319324,1/3,Kasztelańska,Zaścianki
 53.1224678,23.234541,31,Zaścianki,Zaścianki
-53.1561539,23.1536079,58,Aleja Tysiąclecia Państwa Polskiego,Białystok
+53.1556795,23.1532584,58,Aleja Tysiąclecia Państwa Polskiego,Białystok
 52.9134899,23.0817898,1,,
 52.9185739,23.027824,1,,
 52.9191681,23.0233945,13,,
@@ -139774,7 +139768,7 @@ lat,lon,housenumber,street,city
 53.055662,23.1116537,43,,
 53.0503859,23.110273,43,,
 53.0561758,23.1129388,44,,
-53.0492559,23.1118661,44,,
+53.0492834,23.1118981,44,,
 53.0558439,23.1118024,45,,
 53.0499613,23.1105332,45,,
 53.0561906,23.1119769,45/1,,
@@ -140760,7 +140754,7 @@ lat,lon,housenumber,street,city
 53.0788369,23.2081437,13,Słonecznikowa,Stanisławowo
 53.0795175,23.2084215,15G,Słonecznikowa,Stanisławowo
 53.0791744,23.2076221,11,Słonecznikowa,Stanisławowo
-53.0697286,23.2079747,16,Białostocka,Solniczki
+53.0697222,23.207968,16,Białostocka,Solniczki
 53.0678242,23.2043725,16,Brzozowa,Solniczki
 53.0687945,23.203079,16,Klonowa,Solniczki
 53.0778568,23.2050601,17,,
@@ -140775,7 +140769,7 @@ lat,lon,housenumber,street,city
 53.0759298,23.2067251,19b,,
 53.0720607,23.210268,1a,Białostocka,Solniczki
 53.0698869,23.2046079,1a,Brzozowa,Solniczki
-53.072677,23.2087657,1b,Białostocka,Solniczki
+53.0726546,23.2087159,1b,Białostocka,Solniczki
 53.0741997,23.2084704,1e,Białostocka,Solniczki
 53.0727129,23.2068193,2,Białostocka,Solniczki
 53.0683789,23.2027558,2,Bukowa,Solniczki
@@ -140845,7 +140839,7 @@ lat,lon,housenumber,street,city
 53.070299,23.2040478,6,Osiedlowa,Solniczki
 53.0783098,23.2069904,6,Słonecznikowa,Stanisławowo
 53.0696108,23.2038447,6,Świerkowa,Solniczki
-53.0726793,23.2080201,7,Białostocka,Solniczki
+53.0726797,23.2080189,7,Białostocka,Solniczki
 53.0693991,23.2048506,7,Brzozowa,Solniczki
 53.067755,23.2037511,7,Bukowa,Solniczki
 53.0684994,23.2038473,7,Klonowa,Solniczki
@@ -140853,7 +140847,6 @@ lat,lon,housenumber,street,city
 53.0674965,23.2030286,8,Bukowa,Solniczki
 53.0689214,23.2039549,8,Klonowa,Solniczki
 53.0710792,23.2107776,8,Leszczynowa,Solniczki
-53.0700494,23.2030495,8,Osiedlowa,Solniczki
 53.0781025,23.207137,8,Słonecznikowa,Stanisławowo
 53.0695719,23.2037446,8,Świerkowa,Solniczki
 53.0692135,23.2047037,9,Brzozowa,Solniczki
@@ -141104,7 +141097,6 @@ lat,lon,housenumber,street,city
 52.9363643,23.1532743,40A,,
 52.9327945,23.1526261,41,,
 52.9133614,23.1390708,41,,
-52.9132563,23.1414354,42,,
 52.9365529,23.1532385,42,,
 52.9330666,23.1524518,43,,
 52.9368789,23.1534084,44,,
@@ -147968,13 +147960,13 @@ lat,lon,housenumber,street,city
 53.6568835,22.4556601,85,Ełcka,Grajewo
 53.7272695,22.6825615,1,Warszawska,Rajgród
 53.7275023,22.6830278,1A,Warszawska,Rajgród
-53.7278869,22.6837472,1C,Warszawska,Rajgród
+53.7278841,22.6837591,1C,Warszawska,Rajgród
 53.7281987,22.6840124,1D,Warszawska,Rajgród
 53.7277156,22.6848479,2,Warszawska,Rajgród
-53.7294036,22.6882731,21,Warszawska,Rajgród
+53.7293891,22.6882989,21,Warszawska,Rajgród
 53.7301143,22.6931683,21A,Warszawska,Rajgród
 53.729418,22.6896339,22,Warszawska,Rajgród
-53.7293801,22.688528,23,Warszawska,Rajgród
+53.7293848,22.6885403,23,Warszawska,Rajgród
 53.7304783,22.6922999,25,Warszawska,Rajgród
 53.7293215,22.6898504,26,Warszawska,Rajgród
 53.7260409,22.6854338,2A,Warszawska,Rajgród
@@ -147998,7 +147990,6 @@ lat,lon,housenumber,street,city
 53.7297543,22.6941629,54B,Warszawska,Rajgród
 53.7309317,22.7024492,55,Warszawska,Rajgród
 53.7309696,22.7035309,57,Warszawska,Rajgród
-53.7285586,22.6839275,5A,Warszawska,Rajgród
 53.7284866,22.6868677,6,Warszawska,Rajgród
 53.7300128,22.6957424,60,Warszawska,Rajgród
 53.731186,22.7053839,61,Warszawska,Rajgród
@@ -148010,7 +148001,7 @@ lat,lon,housenumber,street,city
 53.7297579,22.6975862,64A,Warszawska,Rajgród
 53.7300189,22.6981051,64B,Warszawska,Rajgród
 53.7313213,22.7066371,65,Warszawska,Rajgród
-53.7284089,22.6848791,7,Warszawska,Rajgród
+53.7283989,22.6849181,7,Warszawska,Rajgród
 53.7298989,22.7033539,70,Warszawska,Rajgród
 53.7307849,22.7043454,76,Warszawska,Rajgród
 53.7286519,22.6869869,8/1,Warszawska,Rajgród
@@ -148025,26 +148016,25 @@ lat,lon,housenumber,street,city
 53.730987,22.6900919,12,Szkolna,Rajgród
 53.7313096,22.6898125,16,Szkolna,Rajgród
 53.7314402,22.6896773,18,Szkolna,Rajgród
-53.7328512,22.6885463,19,Szkolna,Rajgród
+53.7328554,22.6885717,19,Szkolna,Rajgród
 53.7303414,22.6891629,2,1 Maja,Rajgród
-53.7296876,22.6888517,2,Plac 1000-lecia,Rajgród
-53.7315299,22.6895496,20,Szkolna,Rajgród
+53.729694,22.6888553,2,Plac 1000-lecia,Rajgród
+53.7315439,22.6895694,20,Szkolna,Rajgród
 53.7297728,22.6857734,21,1 Maja,Rajgród
 53.7330093,22.6882549,21,Szkolna,Rajgród
 53.7306505,22.685576,22,1 Maja,Rajgród
-53.7315974,22.6894715,22,Szkolna,Rajgród
-53.7331026,22.6880536,23,Szkolna,Rajgród
-53.7333363,22.6871224,25A,Szkolna,Rajgród
+53.7316117,22.6894886,22,Szkolna,Rajgród
+53.733338,22.6871068,25A,Szkolna,Rajgród
 53.7326344,22.6892598,26,Szkolna,Rajgród
-53.7327721,22.6892477,28,Szkolna,Rajgród
-53.7296724,22.6890784,3,Plac 1000-lecia,Rajgród
-53.7333692,22.6889158,32,Szkolna,Rajgród
-53.7297454,22.6891661,4,Plac 1000-lecia,Rajgród
-53.7336277,22.6875264,40,Szkolna,Rajgród
-53.729822,22.6892617,5,Plac 1000-lecia,Rajgród
+53.7327773,22.6892633,28,Szkolna,Rajgród
+53.7296776,22.6890821,3,Plac 1000-lecia,Rajgród
+53.7333738,22.6889306,32,Szkolna,Rajgród
+53.7297442,22.6891664,4,Plac 1000-lecia,Rajgród
+53.7336464,22.6875552,40,Szkolna,Rajgród
+53.7298253,22.6892683,5,Plac 1000-lecia,Rajgród
 53.7309319,22.6897734,5,Szkolna,Rajgród
 53.7309994,22.6897221,5A,Szkolna,Rajgród
-53.7298879,22.6893438,6,Plac 1000-lecia,Rajgród
+53.7298959,22.6893504,6,Plac 1000-lecia,Rajgród
 53.7309248,22.6906672,6,Szkolna,Rajgród
 53.7313863,22.7071618,67,Warszawska,Rajgród
 53.731389,22.7082462,69,Warszawska,Rajgród
@@ -149418,7 +149408,7 @@ lat,lon,housenumber,street,city
 53.0124172,23.3370963,19,Bielska,Zabłudów
 53.0126084,23.3373118,19A,Bielska,Zabłudów
 53.0117134,23.3371964,1A,Podrzeczna,Zabłudów
-53.0129004,23.3522285,2,,
+53.0130987,23.3522087,2,,
 53.0135853,23.3395905,2,Adama Mickiewicza,Zabłudów
 53.0131266,23.3387259,2,Cerkiewna,Zabłudów
 53.0113363,23.3374758,2,Podrzeczna,Zabłudów
@@ -149550,7 +149540,7 @@ lat,lon,housenumber,street,city
 52.9923642,22.880865,2,Mikołaja Kopernika,Łapy
 52.991875,22.8796832,30,Główna,Łapy
 52.9878638,22.8764903,78,Generała Władysława Sikorskiego,Łapy
-53.113475,23.148073,24,Świerkowa,Białystok
+53.1134886,23.14811,24,Świerkowa,Białystok
 53.1176791,23.1525536,45E,Wiejska,Białystok
 53.649523,22.43874,8,Łąkowa,Grajewo
 53.6509956,22.4436312,22B,Kolejowa,Grajewo
@@ -151164,11 +151154,11 @@ lat,lon,housenumber,street,city
 53.1578157,22.0721246,17,Juliana Ursyna Niemcewicza,Łomża
 53.157839,22.0723307,17a,Juliana Ursyna Niemcewicza,Łomża
 54.0874875,22.9257276,39,Raczkowska,Suwałki
-54.1011908,22.9379312,6D,Sejneńska,Suwałki
+54.1011863,22.9379173,6D,Sejneńska,Suwałki
 54.10115,22.9377686,6D,Sejneńska,Suwałki
 54.1008515,22.9386004,6D,Sejneńska,Suwałki
 54.1007885,22.9382466,6D,Sejneńska,Suwałki
-54.1014898,22.9379525,6,Sejneńska,Suwałki
+54.101486,22.9378387,6,Sejneńska,Suwałki
 53.1778978,22.0845676,13,Senatorska,Łomża
 53.1782984,22.0868002,21,Zielona,Łomża
 53.178834,22.088072,33,Rybaki,Łomża
@@ -153378,7 +153368,7 @@ lat,lon,housenumber,street,city
 52.9890065,22.8904456,6,Bociańska,Łapy
 52.9860078,22.8874926,71,Długa,Łapy
 52.9858578,22.8869651,73,Długa,Łapy
-52.9856326,22.8867796,73A,Długa,Łapy
+52.985641,22.8868334,73A,Długa,Łapy
 52.9889498,22.8906298,8,Bociańska,Łapy
 52.988962,22.8922723,22,Bociańska,Łapy
 52.9872203,22.8976725,6A,Kasprzaka,Łapy
@@ -159489,7 +159479,6 @@ lat,lon,housenumber,street,city
 53.0838218,23.2081409,144B,Dojlidy Górne,Białystok
 53.0840201,23.2098475,145,Dojlidy Górne,Białystok
 53.0838274,23.2098428,147,Dojlidy Górne,Białystok
-53.0833582,23.2090337,148,Dojlidy Górne,Białystok
 53.0835648,23.2098289,149,Dojlidy Górne,Białystok
 53.0834841,23.2098253,149A,Dojlidy Górne,Białystok
 53.0880132,23.2048717,15,Poranna,Białystok
@@ -159509,7 +159498,7 @@ lat,lon,housenumber,street,city
 53.0852628,23.2067793,19,Krokusowa,Białystok
 53.0859509,23.2068781,19,Stokrotki,Białystok
 53.0823387,23.2095359,2,Cytrusowa,Białystok
-53.0833637,23.2086106,4,Cytrynowa,Białystok
+53.0834199,23.208661,4,Cytrynowa,Białystok
 53.0822657,23.2134414,22,Cytrusowa,Białystok
 53.0877117,23.2066663,21,Kolorowa,Białystok
 53.0859158,23.2064595,21,Stokrotki,Białystok
@@ -159527,7 +159516,7 @@ lat,lon,housenumber,street,city
 53.0855679,23.2057245,28,Krokusowa,Białystok
 53.0819476,23.2084433,3,Ananasowa,Białystok
 53.0826599,23.2100614,3,Cytrusowa,Białystok
-53.0830565,23.2082897,3,Cytrynowa,Białystok
+53.083061,23.2083443,3,Cytrynowa,Białystok
 53.0855973,23.2388154,3,Dodatnia,Białystok
 53.0852144,23.2092897,3,Krokusowa,Białystok
 53.0856675,23.2053282,30,Krokusowa,Białystok
@@ -159539,7 +159528,6 @@ lat,lon,housenumber,street,city
 53.0852772,23.2037238,39,Krokusowa,Białystok
 53.0819504,23.2082665,3A,Ananasowa,Białystok
 53.0823247,23.2100428,4,Cytrusowa,Białystok
-53.0833442,23.2080898,4,Cytrynowa,Białystok
 53.0872503,23.2080281,4,Kraski,Białystok
 53.0856096,23.2037358,40,Krokusowa,Białystok
 53.0863297,23.2038986,40,Stokrotki,Białystok
@@ -162278,7 +162266,7 @@ lat,lon,housenumber,street,city
 53.9841367,22.7882611,4,Księdza Kazimierza Kaczorowskiego,Raczki
 53.9836792,22.7890435,10,Księdza Kazimierza Kaczorowskiego,Raczki
 53.9843049,22.7881015,2,Księdza Kazimierza Kaczorowskiego,Raczki
-53.9838953,22.7878434,14,Księdza Witolda Balukiewicza,Raczki
+53.9838907,22.7878572,14,Księdza Witolda Balukiewicza,Raczki
 53.9837134,22.7880987,13,Księdza Witolda Balukiewicza,Raczki
 53.9829798,22.7894951,5,Księdza Witolda Balukiewicza,Raczki
 53.9830723,22.7911031,19,Księdza Kazimierza Kaczorowskiego,Raczki
@@ -164806,7 +164794,7 @@ lat,lon,housenumber,street,city
 52.8064414,23.1933901,37,,Bielsk Podlaski
 52.8059974,23.1939445,38,,Bielsk Podlaski
 52.8067334,23.1934403,39,,Bielsk Podlaski
-52.8013033,23.1926593,4,,Bielsk Podlaski
+52.8012459,23.1927725,4,,Bielsk Podlaski
 52.80635,23.1939453,40,,Bielsk Podlaski
 52.8069263,23.1934925,41,,Bielsk Podlaski
 52.8071726,23.1935759,43,,Bielsk Podlaski
@@ -169007,6 +168995,7 @@ lat,lon,housenumber,street,city
 53.1225251,23.1537217,11A,Wesoła,Białystok
 53.1232501,23.1538692,36/1,Żelazna,Białystok
 53.1234586,23.148934,48,Mazowiecka,Białystok
+53.1236893,23.1511757,6,Wesoła,
 52.9469754,22.6135061,1,,
 52.9522458,22.616624,29,,
 52.9520755,22.6163031,28,,
@@ -172836,7 +172825,7 @@ lat,lon,housenumber,street,city
 53.1474641,23.1866656,6,Sandomierska,Białystok
 53.1471523,23.1866359,8A,Sandomierska,Białystok
 53.1472401,23.1861844,9A,Sadowa,Białystok
-53.1448491,23.1910092,1/1A,Siewna,Białystok
+53.1448491,23.1910092,1C,Siewna,Białystok
 53.145338,23.1927258,16,Ludowa,Białystok
 53.145341,23.193178,18,Ludowa,Białystok
 53.1450904,23.1933167,18A,Ludowa,Białystok
@@ -172846,6 +172835,7 @@ lat,lon,housenumber,street,city
 53.1448288,23.1905551,21,42 Pułku Piechoty,Białystok
 53.144573,23.1908906,27,42 Pułku Piechoty,Białystok
 53.1445572,23.1911126,29,42 Pułku Piechoty,Białystok
+53.1446884,23.1910781,1B,Siewna,Białystok
 53.1448342,23.194422,1A,Robotnicza,Białystok
 53.144827,23.194184,1B,Robotnicza,Białystok
 53.14486,23.193856,1C,Robotnicza,Białystok
@@ -181181,6 +181171,7 @@ lat,lon,housenumber,street,city
 54.0872414,22.9247413,42,Raczkowska,Suwałki
 54.0869277,22.924038,2,Lotnicza,Suwałki
 53.1358992,23.0806338,67,Świętego Andrzeja Boboli,Białystok
+53.1346997,23.1657277,8,Warszawska,Białystok
 53.1338902,23.1637086,3,Kościelna,Białystok
 53.0027051,22.7543879,11,,
 53.0019323,22.755036,9,,
@@ -181303,6 +181294,7 @@ lat,lon,housenumber,street,city
 53.1436685,23.1956955,6A,Boczna,Białystok
 53.1435259,23.1986448,32,42 Pułku Piechoty,Białystok
 53.1495366,23.1988349,6,Tadeusza Boya-Żeleńskiego,Białystok
+53.1456118,23.191132,3,Siewna,Białystok
 53.144031,23.196426,22,42 Pułku Piechoty,Białystok
 53.1501455,23.1978751,23,Tadeusza Boya-Żeleńskiego,Białystok
 53.1439736,23.1952598,12A,42 Pułku Piechoty,Białystok
@@ -181312,6 +181304,7 @@ lat,lon,housenumber,street,city
 53.1433874,23.1967113,6B,Boczna,Białystok
 53.1492694,23.1988126,5,Tadeusza Boya-Żeleńskiego,Białystok
 53.149536,23.1990845,4,Tadeusza Boya-Żeleńskiego,Białystok
+53.1457694,23.1911734,5,Siewna,Białystok
 53.1499352,23.1988207,16,Tadeusza Boya-Żeleńskiego,Białystok
 53.1490607,23.199073,53,Wschodnia,Białystok
 53.1483519,23.1964681,2,Xawerego Dunikowskiego,Białystok
@@ -181345,6 +181338,7 @@ lat,lon,housenumber,street,city
 53.1420841,23.1997236,17,Rodzinna,Białystok
 53.143279,23.193526,3,Boczna,Białystok
 53.1506832,23.2009265,37,Tadeusza Boya-Żeleńskiego,Białystok
+53.1454999,23.1905143,1/2,Siewna,Białystok
 53.1451223,23.1905996,17,42 Pułku Piechoty,Białystok
 53.1493152,23.1983016,9,Tadeusza Boya-Żeleńskiego,Białystok
 53.1492484,23.1991607,3,Tadeusza Boya-Żeleńskiego,Białystok
@@ -181354,6 +181348,7 @@ lat,lon,housenumber,street,city
 53.1490821,23.1984461,49,Wschodnia,Białystok
 53.1508641,23.1996801,31,Tadeusza Boya-Żeleńskiego,Białystok
 53.149278,23.1986731,7,Tadeusza Boya-Żeleńskiego,Białystok
+53.1457351,23.1906988,3A,Siewna,Białystok
 53.146079,23.195249,4,Robotnicza,Białystok
 53.145453,23.196693,16,Makowa,Białystok
 53.1446191,23.197422,65,42 Pułku Piechoty,Białystok
@@ -181581,7 +181576,7 @@ lat,lon,housenumber,street,city
 53.0381457,23.7819531,32,,
 53.0381373,23.7866205,23,,
 53.0387704,23.7814142,34,,
-53.0351249,23.7869984,17,,
+53.0351535,23.7871598,17,,
 53.0383013,23.7805904,35,,
 53.0377988,23.785706,24,,
 53.0394953,23.778725,43,,
@@ -181692,7 +181687,6 @@ lat,lon,housenumber,street,city
 53.1090252,23.6430897,2,Zaułek,Waliły-Stacja
 53.1094213,23.6528209,4,Szosa Wschodnia,Waliły-Stacja
 53.1092784,23.64185,1,Kwiatowa,Waliły-Stacja
-53.1087506,23.6486026,14,Szosa Wschodnia,Waliły-Stacja
 53.1086359,23.6439864,29A,Szosa Wschodnia,Waliły-Stacja
 53.1091763,23.6435322,4,Zaułek,Waliły-Stacja
 53.1085532,23.6464225,21A,Szosa Wschodnia,Waliły-Stacja
@@ -182156,7 +182150,7 @@ lat,lon,housenumber,street,city
 52.9017537,22.8807068,36,,
 52.9010498,22.8802048,40,,
 52.9016065,22.8810989,35,,
-52.9010226,22.8794993,50,,
+52.9010792,22.8794173,50,,
 52.9007756,22.8797688,48,,
 52.9012529,22.879044,43,,
 52.9014502,22.8786807,44,,
@@ -183919,7 +183913,7 @@ lat,lon,housenumber,street,city
 53.1981184,23.1831621,54A,Jurowiecka,Wasilków
 53.1999876,23.1822689,16,Przytorowa,Wasilków
 53.197793,23.1824656,58,Jurowiecka,Wasilków
-53.1979989,23.1825114,58a,Jurowiecka,Wasilków
+53.1979989,23.1825114,58A,Jurowiecka,Wasilków
 53.1860761,23.2630658,8A,Białostocka,Ogrodniczki
 53.187593,23.2634436,47A,Białostocka,Ogrodniczki
 53.1883464,23.2669509,55,Białostocka,Ogrodniczki
@@ -185300,7 +185294,7 @@ lat,lon,housenumber,street,city
 53.0215521,23.2925303,31A,,
 53.027226,23.2694204,18,,
 53.0248264,23.2686958,1,,
-53.0255517,23.2687788,9,,
+53.025552,23.2687722,9,,
 53.0260707,23.2688316,15,,
 53.0273458,23.2694188,20,,
 53.0286572,23.2692127,39,,
@@ -185310,7 +185304,7 @@ lat,lon,housenumber,street,city
 53.019558,23.2934558,27,,
 53.0251177,23.2686927,5,,
 53.0278696,23.2694581,24,,
-53.0256767,23.2688102,11,,
+53.0256778,23.2688013,11,,
 53.0255759,23.2691275,8,,
 53.0281715,23.2695387,26,,
 53.027543,23.2690691,31,,
@@ -194185,7 +194179,7 @@ lat,lon,housenumber,street,city
 53.2609383,23.6353455,6b,,
 53.2611461,23.6365879,7A,,
 53.2619092,23.6384444,7b,,
-53.2619633,23.6372305,6d,,
+53.2619633,23.6372305,6E,,
 53.2620374,23.6364784,6c,,
 53.4921736,22.7193416,6,Bednarska,Goniądz
 54.0557796,22.9316055,112a,Wojska Polskiego,Suwałki
@@ -194293,7 +194287,7 @@ lat,lon,housenumber,street,city
 54.0997584,22.9396653,14,Utrata,Suwałki
 54.100141,22.9394853,12,Utrata,Suwałki
 54.100537,22.93929,10,Utrata,Suwałki
-54.1007096,22.9392333,8,Utrata,Suwałki
+54.1006929,22.9392443,8,Utrata,Suwałki
 53.1337339,23.1678548,14B,Warszawska,Białystok
 54.0871916,22.8113282,23c,,
 54.0909461,22.9135299,10,Lazurowa,Suwałki
@@ -195969,6 +195963,7 @@ lat,lon,housenumber,street,city
 52.4544451,23.0798862,14,Zaolzie,Nurzec-Stacja
 52.4627867,23.0801887,3,Szkolna,Nurzec-Stacja
 52.4552605,23.0788286,11,Zaolzie,Nurzec-Stacja
+52.4584588,23.0875246,3,Akacjowa,Nurzec-Stacja
 52.4605709,23.0836478,2,Kolejowa,Nurzec-Stacja
 52.4616002,23.0888184,16A,Kolejowa,Nurzec-Stacja
 52.4592609,23.0831337,1,Drzewna,Nurzec-Stacja
@@ -196350,7 +196345,7 @@ lat,lon,housenumber,street,city
 52.9479291,22.2395863,10,Spokojna,Długobórz
 52.9484029,22.2405782,2,Brzozowa,Długobórz
 52.947933,22.2399054,1,Brzozowa,Długobórz
-52.9476764,22.2371703,23,Wadołkowska,Długobórz
+52.9476764,22.2371703,23,Wądołkowska,Długobórz
 52.9447107,22.2407953,9,Wesoła,Długobórz
 52.9470955,22.2369242,1,Zielona,Długobórz
 52.9466549,22.2357629,12,Zielona,Długobórz
@@ -196369,23 +196364,23 @@ lat,lon,housenumber,street,city
 52.9430436,22.2424844,3,Strażacka,Długobórz
 52.9372139,22.2416399,3,Spacerowa,Długobórz
 52.9452764,22.2418972,16,Wesoła,Długobórz
-52.9471801,22.2426229,6,Wadołkowska,Długobórz
+52.9471801,22.2426229,6,Wądołkowska,Długobórz
 52.9480744,22.2385949,6,Spokojna,Długobórz
 52.9371542,22.2432786,3,Słoneczna,Długobórz
 52.9385117,22.2421836,7,Krótka,Długobórz
 52.941746,22.242889,6,Zambrowska,Długobórz
 52.9486193,22.2381285,1,Spokojna,Długobórz
-52.947299,22.2393821,9,Wadołkowska,Długobórz
+52.947299,22.2393821,9,Wądołkowska,Długobórz
 52.9378127,22.2433078,1,Słoneczna,Długobórz
 52.9452143,22.2428305,6,Wesoła,Długobórz
-52.9473807,22.2390051,11,Wadołkowska,Długobórz
+52.9473807,22.2390051,11,Wądołkowska,Długobórz
 52.9448963,22.2415172,18,Wesoła,Długobórz
 52.9386229,22.2429649,14,Zambrowska,Długobórz
 52.9459631,22.240098,30,Wesoła,Długobórz
 52.9451502,22.2404055,13,Wesoła,Długobórz
 52.9365876,22.2396702,9,Spacerowa,Długobórz
 52.9373877,22.2423172,1,Spacerowa,Długobórz
-52.9480127,22.2379766,22,Wadołkowska,Długobórz
+52.9480127,22.2379766,22,Wądołkowska,Długobórz
 52.9426498,22.2429133,2,Zambrowska,Długobórz
 52.9401952,22.2424727,8,Podleśna,Długobórz
 52.9518982,22.2393288,3,Strzelnicza,Zambrów
@@ -196394,7 +196389,7 @@ lat,lon,housenumber,street,city
 52.9440803,22.2444395,4,Szkolna,Długobórz
 52.9383854,22.2430211,1,Krótka,Długobórz
 52.9451857,22.2411727,22,Wesoła,Długobórz
-52.9476068,22.2397875,14,Wadołkowska,Długobórz
+52.9476068,22.2397875,14,Wądołkowska,Długobórz
 52.9378432,22.2428606,2,Spacerowa,Długobórz
 52.9449365,22.2420957,12,Wesoła,Długobórz
 52.9441013,22.2440001,3,Zambrowska,Długobórz
@@ -196406,10 +196401,10 @@ lat,lon,housenumber,street,city
 52.9435531,22.2418879,6,Strażacka,Długobórz
 52.9368547,22.2404207,7,Spacerowa,Długobórz
 52.9481307,22.2377352,2,Spokojna,Długobórz
-52.9471678,22.2430629,2,Wadołkowska,Długobórz
+52.9471678,22.2430629,2,Wądołkowska,Długobórz
 52.9480119,22.2391989,8,Spokojna,Długobórz
 52.9405115,22.2421543,12,Podleśna,Długobórz
-52.947635,22.2374856,21,Wadołkowska,Długobórz
+52.947635,22.2374856,21,Wądołkowska,Długobórz
 52.9433272,22.2443064,11,Zambrowska,Długobórz
 52.9384225,22.2425114,5,Krótka,Długobórz
 52.9456119,22.2407566,8,Sportowa,Długobórz
@@ -196425,7 +196420,7 @@ lat,lon,housenumber,street,city
 52.9445155,22.2439305,1,Szkolna,Długobórz
 52.9484725,22.2388571,5,Spokojna,Długobórz
 52.9442338,22.2428043,3,Wesoła,Długobórz
-52.9475896,22.2377801,19,Wadołkowska,Długobórz
+52.9475896,22.2377801,19,Wądołkowska,Długobórz
 52.9477772,22.2366777,2,Zielona,Długobórz
 52.9386861,22.2427363,4,Krótka,Długobórz
 52.9375057,22.2427516,20,,
@@ -196446,7 +196441,7 @@ lat,lon,housenumber,street,city
 52.9472053,22.2363062,6,Zielona,Długobórz
 52.9388346,22.2419078,8,Krótka,Długobórz
 52.9487166,22.2406032,4,Brzozowa,Długobórz
-52.9470744,22.2409578,5,Wadołkowska,Długobórz
+52.9470744,22.2409578,5,Wądołkowska,Długobórz
 52.947558,22.2365023,4,Zielona,Długobórz
 52.9453549,22.2403173,15,Wesoła,Długobórz
 53.1605446,23.1036028,110,Generała Stanisława Maczka,Białystok
@@ -196973,7 +196968,6 @@ lat,lon,housenumber,street,city
 53.5300095,22.8559756,67,,
 53.1384762,23.1416976,5,Stalowa,Białystok
 54.1027376,22.9254229,8a,Emilii Plater,Suwałki
-54.1039475,22.9274259,77,Tadeusza Kościuszki,Suwałki
 53.1551649,23.1530745,56,Aleja Tysiąclecia Państwa Polskiego,Białystok
 53.1556131,23.1605539,42A,Generała Władysława Andersa,Białystok
 54.1118945,22.9411589,1/1,Kasztanowa,Suwałki
@@ -199734,7 +199728,7 @@ lat,lon,housenumber,street,city
 53.038049,23.6236188,43,,
 53.6472957,22.4718845,11,Targowa,Grajewo
 53.211241,23.336396,62/1,Józefa Piłsudskiego,Supraśl
-53.7323417,22.6885695,13b,Szkolna,Rajgród
+53.7323523,22.68858,13b,Szkolna,Rajgród
 52.6982825,23.8824835,5,Wojciechówka,Białowieża
 53.0117939,23.3373904,5A,Kalwińska,Zabłudów
 53.0182716,23.1421873,2,Modrzewiowa,Juchnowiec Kościelny
@@ -205545,8 +205539,8 @@ lat,lon,housenumber,street,city
 53.1846977,23.2718053,7,Elektryczna,Ogrodniczki
 53.1845839,23.2703855,22,Sosnowa,Ogrodniczki
 53.1850961,23.2702291,20,Sosnowa,Ogrodniczki
-53.1852561,23.2698683,13B,Polna,Ogrodniczki
-53.1850646,23.2698197,13A,Polna,Ogrodniczki
+53.1852528,23.2698723,13B,Polna,Ogrodniczki
+53.1851001,23.269838,13A,Polna,Ogrodniczki
 53.1848183,23.2697751,13,Polna,Ogrodniczki
 53.1847244,23.2695225,11,Polna,Ogrodniczki
 53.1849332,23.2692255,9/4,Polna,Ogrodniczki
@@ -205566,7 +205560,7 @@ lat,lon,housenumber,street,city
 53.1860978,23.2700148,1,Sosnowa,Ogrodniczki
 53.1862577,23.2692934,12,Sosnowa,Ogrodniczki
 53.1864248,23.2689504,10/1,Sosnowa,Ogrodniczki
-53.1865825,23.2687824,10,Sosnowa,Ogrodniczki
+53.1866493,23.2688041,10,Sosnowa,Ogrodniczki
 53.1863801,23.2699541,1,Leśna,Ogrodniczki
 53.1867958,23.270025,22A,Żwirowa,Ogrodniczki
 53.1862996,23.2719968,9,Leśna,Ogrodniczki
@@ -210520,7 +210514,7 @@ lat,lon,housenumber,street,city
 53.0813828,23.1976292,50,Sosnowa,Olmonty
 53.0816336,23.1971595,48,Sosnowa,Olmonty
 53.0818602,23.197028,46,Sosnowa,Olmonty
-53.082016,23.1965391,1,Zielona,Olmonty
+53.0819493,23.1965576,1,Zielona,Olmonty
 53.0819492,23.1961377,3,Zielona,Olmonty
 53.0815004,23.1940338,13,Zielona,Olmonty
 53.0830115,23.1955282,6,Kasztanowa,Olmonty
@@ -210635,8 +210629,10 @@ lat,lon,housenumber,street,city
 53.0692572,23.2316003,2T,,
 53.0693315,23.2319338,2A,,
 53.0694185,23.2311155,2h,,
+53.0763472,23.2249658,61A,Halicka,Białystok
 53.0733937,23.2122993,6,Pszeniczna,Białystok
 53.0732775,23.2119131,4,Pszeniczna,Białystok
+53.0745742,23.2138002,15,Zielone Jabłuszko,Białystok
 53.0764155,23.218089,38,Halicka,Białystok
 53.0757154,23.2167709,12,Laurowa,Białystok
 53.0756996,23.2166165,12A,Laurowa,Białystok
@@ -211279,9 +211275,9 @@ lat,lon,housenumber,street,city
 52.6108452,23.4865606,2A,,
 52.6109187,23.4871038,2,,
 52.6103455,23.4868245,1,,
-52.6559624,23.4011057,2,,
-52.6557787,23.4006189,1,,
-52.6559137,23.4003604,3,,
+52.6559564,23.4011057,2,,
+52.6556897,23.4007191,1,,
+52.6559034,23.4003601,3,,
 52.6397543,23.4173724,49,,
 52.6397278,23.4171765,51,,
 52.6395888,23.4169102,53,,
@@ -211511,31 +211507,30 @@ lat,lon,housenumber,street,city
 52.6237147,23.4448189,76,,
 52.6237749,23.4448388,74,,
 52.623933,23.4452247,72,,
-52.6574105,23.4023527,4,,
-52.6563148,23.3989238,5,,
-52.6559582,23.3977066,19b,,
-52.6567908,23.3983907,11,,
-52.6567576,23.3986646,9,,
-52.656695,23.3990545,7,,
-52.6566957,23.3998332,6,,
-52.6567892,23.3995056,8,,
+52.6574103,23.4023538,4,,
+52.6563137,23.3989236,5,,
+52.655958,23.3977066,19b,,
+52.6567908,23.3983903,11,,
+52.6567577,23.3986646,9,,
+52.6566957,23.3990544,7,,
+52.6566957,23.3998331,6,,
+52.6567892,23.3995061,8,,
 52.6568942,23.3993654,10,,
-52.6570292,23.3986823,12,,
-52.6581501,23.3956819,16,,
+52.657029,23.3986824,12,,
+52.6581504,23.3956819,16,,
 52.6574945,23.3972171,14,,
-52.6568463,23.3979399,13,,
-52.6569453,23.3976744,15,,
-52.6570681,23.3975336,17,,
-52.6572382,23.3971239,19,,
-52.6573153,23.3967203,19A,,
-52.6568703,23.3950038,21,,
-52.6569431,23.3953802,21A,,
-52.6571583,23.3949398,23,,
-52.6582693,23.3940586,23a,,
-52.6583364,23.3927192,27,,
-52.6591486,23.3920259,31,,
-52.6593191,23.3914233,33,,
-52.6559131,23.3901128,25,,
+52.6568461,23.3979389,13,,
+52.6569453,23.3976747,15,,
+52.657068,23.3975336,17,,
+52.6572387,23.3971238,19,,
+52.6573156,23.3967201,19A,,
+52.6568702,23.3950038,21,,
+52.6569432,23.3953798,21A,,
+52.6571593,23.39494,23,,
+52.6582694,23.3940586,23a,,
+52.6583378,23.39271,27,,
+52.6591571,23.3920041,31,,
+52.659327,23.3914131,33,,
 52.6474257,23.5011017,2,,
 52.6472652,23.5012204,2c,,
 52.6466826,23.5021552,5,,
@@ -215588,7 +215583,17 @@ lat,lon,housenumber,street,city
 52.7147709,23.1424964,12A,,
 52.71507,23.1427669,12,,
 52.7235587,23.1473341,13A,,
+52.7316267,23.1589817,76,,
 52.732762,23.163819,169A,,
+52.7338744,23.1620224,11,,
+52.7338769,23.161514,13,,
+52.7337613,23.161109,15A,,
+52.7340273,23.1606947,17,,
+52.7338768,23.1603702,17a,,
+52.7338859,23.1601986,19,,
+52.733968,23.1599066,21,,
+52.7339071,23.1596135,21a,,
+52.7332621,23.1591858,23,,
 52.7383208,23.0752083,14A,,
 52.7381362,23.0781353,11,,
 52.737544,23.0767478,15,,
@@ -217964,8 +217969,7 @@ lat,lon,housenumber,street,city
 53.2045845,22.4915348,16,,
 53.1746042,22.5042759,3,,
 53.1747647,22.5047077,1,,
-53.19314,22.504188,40,,
-53.182354,22.4997143,25,,
+53.1931246,22.5041922,40,,
 53.1521097,22.5972583,9,,
 53.1517631,22.5977107,9,,
 53.1513133,22.60037,17,,
@@ -230526,11 +230530,11 @@ lat,lon,housenumber,street,city
 54.0914441,22.9124315,17,Lazurowa,Suwałki
 54.1049623,22.9082996,16,Generała Władysława Sikorskiego,Suwałki
 54.0944913,22.9326767,4,Teofila Noniewicza,Suwałki
-54.0844595,22.9343867,36,Sportowa,Suwałki
-54.0845206,22.9354131,38,Sportowa,Suwałki
-54.0850418,22.9342528,34,Sportowa,Suwałki
-54.0850874,22.9349552,32,Sportowa,Suwałki
-54.0850869,22.9355476,30,Sportowa,Suwałki
+54.0844633,22.9343612,36,Sportowa,Suwałki
+54.084541,22.9353885,38,Sportowa,Suwałki
+54.0850583,22.9342133,34,Sportowa,Suwałki
+54.0850942,22.9349307,32,Sportowa,Suwałki
+54.0850892,22.9355633,30,Sportowa,Suwałki
 53.5714027,22.3500518,39,,
 53.5711875,22.3498278,43,,
 53.5710255,22.3501617,46,,
@@ -230593,7 +230597,7 @@ lat,lon,housenumber,street,city
 54.0765403,22.9287286,3,Ełcka,Suwałki
 54.0762252,22.9293184,28,Lubelska,Suwałki
 54.076103,22.9291775,30,Lubelska,Suwałki
-54.1009195,22.9376006,6D,Sejneńska,Suwałki
+54.1009181,22.9375959,6D,Sejneńska,Suwałki
 54.1067573,22.9260479,4,Generała Władysława Sikorskiego,Suwałki
 54.0997545,22.9106727,31A,Filipowska,Suwałki
 54.0946289,22.8759207,98C,Bakałarzewska,Suwałki
@@ -231194,7 +231198,7 @@ lat,lon,housenumber,street,city
 53.1742031,23.2887668,2,Słowikowa,Ciasne
 53.1737714,23.2879714,1,Spacerowa,Ciasne
 53.1734115,23.2877928,1,Zielona,Ciasne
-53.1730785,23.2881847,3,Zielona,Ciasne
+53.1730785,23.2881806,3,Zielona,Ciasne
 53.1728531,23.2888248,6,Spacerowa,Ciasne
 54.0993578,22.9046548,41,Władysława Jagiełły,Suwałki
 54.0991304,22.9062324,13,Władysława Jagiełły,Suwałki
@@ -234078,7 +234082,7 @@ lat,lon,housenumber,street,city
 53.0685944,23.2017837,27C,Osiedlowa,Solniczki
 53.0691016,23.2027287,19,Osiedlowa,Solniczki
 53.0696088,23.2023589,21,Osiedlowa,Solniczki
-53.0693481,23.201171,27,Osiedlowa,Solniczki
+53.0693341,23.2010698,27,Osiedlowa,Solniczki
 53.0693754,23.2055374,11C,Osiedlowa,Solniczki
 53.0698803,23.2053656,11A,Osiedlowa,Solniczki
 53.0698916,23.2057391,9A,Osiedlowa,Solniczki
@@ -239301,7 +239305,6 @@ lat,lon,housenumber,street,city
 54.2444872,22.9021385,5,,
 54.2404406,22.9068147,3,,
 54.2414432,22.9092833,2,,
-54.1052787,22.9312696,93a,Teofila Noniewicza,Suwałki
 54.1075701,22.9343157,15,Generała Józefa Dwernickiego,Suwałki
 53.165661,23.213898,20,Wiślana,Białystok
 53.1616807,23.2149593,41,Skalna,Białystok
@@ -240768,6 +240771,7 @@ lat,lon,housenumber,street,city
 53.1794214,23.279696,3,Żurawinowa,Ciasne
 53.1794437,23.2792059,1,Żurawinowa,Ciasne
 53.1798759,23.2758904,26,Wiktorii,Karakule
+53.1803694,23.2788656,1A,Zielona,Ciasne
 53.1812823,23.2689149,2,Poranna,Karakule
 53.1812909,23.2695033,4,Poranna,Karakule
 53.1819145,23.2716778,36,Tęczowa,Karakule
@@ -240802,7 +240806,7 @@ lat,lon,housenumber,street,city
 53.1704186,23.2889699,23,Zielona,Ciasne
 53.1701769,23.2889572,25,Zielona,Ciasne
 53.1699645,23.2889945,27,Zielona,Ciasne
-53.169618,23.2899572,29,Zielona,Ciasne
+53.1696151,23.2899168,29,Zielona,Ciasne
 53.1696699,23.2890649,31,Zielona,Ciasne
 53.1687256,23.2910713,32,Polna,Ciasne
 53.1683809,23.2911765,36,Polna,Ciasne
@@ -242135,6 +242139,7 @@ lat,lon,housenumber,street,city
 54.2714528,22.9885421,14,,
 54.2771391,22.9682171,30,,
 53.1044262,22.9394799,27,,
+54.3005041,22.9149704,5,Polimonie,Polimonie
 54.2424331,22.9451634,1,,
 54.2464018,22.9420074,4,,
 54.2444564,22.9418756,3,,
@@ -243120,7 +243125,8 @@ lat,lon,housenumber,street,city
 53.208019,23.0296872,28A,Świerkowa,Dobrzyniewo Duże
 53.208298,23.0286129,24B,Świerkowa,Dobrzyniewo Duże
 53.2244652,23.0301615,16A,,
-53.224708,23.0345103,49A,,
+53.224708,23.0345103,51,Źródlana,Krynice
+53.2233802,23.0364986,58,Źródlana,Krynice
 53.1503768,23.1140652,54,Antoniuk Fabryczny,Białystok
 53.2048728,23.20693,56,Kościelna,Wasilków
 53.9990979,22.7725866,13B,Cmentarna,Raczki
@@ -243917,10 +243923,12 @@ lat,lon,housenumber,street,city
 53.0638136,23.1907438,63B,Wiejska,Solniczki
 53.0639193,23.1970708,58F,Wiejska,Solniczki
 53.0634137,23.1971041,58D,Wiejska,Solniczki
-53.0748585,23.2115455,3D,Pszeniczna,Białystok
+53.07495,23.2116339,3D,Pszeniczna,Białystok
 53.0746715,23.2181007,23,Laurowa,Białystok
+53.0761342,23.2126488,12,Zielone Jabłuszko,Białystok
 53.0769894,23.2118332,6,Gruszkowa,Białystok
-53.0771429,23.2124942,4,Zielone Jabłuszko,Białystok
+53.0768745,23.2125076,6,Zielone Jabłuszko,Białystok
+53.0771446,23.2124901,4,Zielone Jabłuszko,Białystok
 53.0715357,23.2100909,7,Leszczynowa,Solniczki
 53.0705003,23.2054752,4B,Osiedlowa,Solniczki
 53.0704289,23.2049475,4C,Osiedlowa,Solniczki
@@ -244026,7 +244034,7 @@ lat,lon,housenumber,street,city
 53.0131801,23.3492429,1T,,
 53.0133574,23.3489767,1S,,
 53.0134031,23.3480497,1G,,
-53.0117129,23.3471656,1/1,,
+53.0117129,23.3471656,1A,,
 53.0111895,23.3466236,1C,,
 53.0112296,23.3469231,1B,,
 53.0098081,23.3478929,5D,,
@@ -245348,7 +245356,8 @@ lat,lon,housenumber,street,city
 54.1709427,23.0098396,1,,
 53.7456903,23.2455439,27,,
 53.0111237,23.299487,32A,,
-53.0288324,23.2702524,42A,,
+53.0287256,23.2704595,42A,,
+53.0288324,23.2702524,42,,
 53.5519652,23.4542688,7,Kościelna,Sidra
 53.5514237,23.4559801,16,Szkolna,Sidra
 53.5517492,23.4558494,9,Szkolna,Sidra
@@ -245486,7 +245495,7 @@ lat,lon,housenumber,street,city
 53.0632452,23.1949935,64,Wiejska,Solniczki
 53.0632538,23.1955354,62,Wiejska,Solniczki
 53.0848913,23.2006312,1/1,,
-53.0746124,23.2151833,10,Cukiniowa,Białystok
+53.0746051,23.215105,10,Cukiniowa,Białystok
 54.1187513,23.0481404,2a,,
 54.1144115,23.0424075,48,,
 54.1312363,23.0490606,20D,,
@@ -248594,7 +248603,6 @@ lat,lon,housenumber,street,city
 53.1905272,23.3916285,44,,
 53.1905902,23.3907432,40,,
 53.1895006,23.3816617,46,,
-52.5242951,23.3507067,45b,Stanisława Dubois,Czeremcha
 52.5258907,23.3495602,30,Ogrodowa,Czeremcha
 53.1906984,23.3900437,36,,
 53.1906271,23.389516,34,,
@@ -256751,6 +256759,7 @@ lat,lon,housenumber,street,city
 53.0347123,23.3265339,10,Izabeli Demblińskiej,Zabłudów
 53.0113795,23.4411698,56,,
 53.0130423,23.3326017,11a,Generała Władysława Sikorskiego,Zabłudów
+53.0107223,23.3215947,13,Krynicka,Zabłudów
 53.0144292,23.4348917,46,,
 53.0563142,23.3381579,62/6,,
 53.0198592,23.4242197,13,,
@@ -256834,6 +256843,7 @@ lat,lon,housenumber,street,city
 53.0178171,23.428031,20,,
 53.0186875,23.3284626,19,3 Maja,Zabłudów
 53.0173573,23.4293382,39,,
+53.0124297,23.3445136,11A,Adama Mickiewicza,Zabłudów
 53.0161567,23.4312237,32,,
 53.0186899,23.4265879,23,,
 53.0117164,23.4414798,63A,,
@@ -260822,6 +260832,7 @@ lat,lon,housenumber,street,city
 53.7365608,23.0327816,35,,
 53.7480873,23.0257412,3,,
 53.7129051,23.1731293,30,,
+53.7472571,23.1789142,47,,
 53.7478789,23.0971303,8,,
 53.7527929,23.1449252,8,,
 53.7479118,23.0984273,7,,
@@ -262727,7 +262738,7 @@ lat,lon,housenumber,street,city
 54.0812308,22.8107447,24f,,
 54.1099988,22.9460926,10d,Chabrowa,Suwałki
 54.1112538,22.9465515,2A,Cedrowa,Suwałki
-54.1014582,22.9380513,6D,Sejneńska,Suwałki
+54.1011952,22.9380775,6D,Sejneńska,Suwałki
 54.1131469,22.9430826,35,Świerkowa,Suwałki
 54.0905103,23.1459406,1,,
 54.1099526,22.9438726,25,Lipowa,Suwałki
@@ -262748,7 +262759,7 @@ lat,lon,housenumber,street,city
 54.1019915,23.0272449,4s,,
 54.1088449,22.942873,6,Jesionowa,Suwałki
 54.1131112,22.947496,8,Wiśniowa,Suwałki
-54.1007875,22.9388125,6D,Sejneńska,Suwałki
+54.1007935,22.9387975,6D,Sejneńska,Suwałki
 54.0593799,23.0983768,5,,
 54.1194151,22.9698876,11A,Czarnoziem,Suwałki
 54.1095673,22.9438093,24,Lipowa,Suwałki
@@ -262931,7 +262942,7 @@ lat,lon,housenumber,street,city
 54.1026768,23.3589168,29,Młynarska,Sejny
 54.1026867,23.3590298,31,Młynarska,Sejny
 54.1050926,23.3621413,36,Powstańców Sejneńskich,Sejny
-54.1046646,23.3595059,30,Powstańców Sejneńskich,Sejny
+54.1046961,23.3592886,30,Powstańców Sejneńskich,Sejny
 54.1049573,23.3602189,34,Powstańców Sejneńskich,Sejny
 54.1031395,23.358822,33,Młynarska,Sejny
 54.1040487,23.3588214,32A,Powstańców Sejneńskich,Sejny
@@ -263295,8 +263306,8 @@ lat,lon,housenumber,street,city
 52.9480072,22.2384288,4,Spokojna,Długobórz
 52.9471801,22.2355589,27,Wadołkowska,Długobórz
 52.9464898,22.2371989,16,Zielona,Długobórz
-52.9473777,22.2385037,15,Wadołkowska,Długobórz
-52.9474179,22.2413493,10,Wadołkowska,Długobórz
+52.9473777,22.2385037,15,Wądołkowska,Długobórz
+52.9474179,22.2413493,10,Wądołkowska,Długobórz
 52.9458238,22.2491636,28,Szkolna,Długobórz
 52.9459642,22.2484886,17,Szkolna,Długobórz
 52.9455302,22.2482153,15,Szkolna,Długobórz
@@ -266674,6 +266685,17 @@ lat,lon,housenumber,street,city
 53.3745077,22.8534121,11,,
 53.4231637,21.9530825,27A,,
 53.5007481,22.1341742,6,,
+53.2249647,23.0337817,45,Źródlana,Krynice
+53.2240647,23.0348407,50,Źródlana,Krynice
+53.2243231,23.0345696,2,Strumykowa,Krynice
+53.2245077,23.0350344,53,Źródlana,Krynice
+53.224567,23.0338548,42,Źródlana,Krynice
+53.2238502,23.0368055,63,Źródlana,Krynice
+53.2236645,23.034781,3,Strumykowa,Krynice
+53.2238235,23.0342595,4,Strumykowa,Krynice
+53.2244631,23.034293,46,Źródlana,Krynice
+53.2246256,23.0335541,40,Źródlana,Krynice
+53.224872,23.0328756,34,Źródlana,Krynice
 53.2188748,22.9910375,5,Chabrowa,Gniła
 53.2191498,22.9923706,9,Chabrowa,Gniła
 53.2194822,22.9941675,19,Chabrowa,Gniła
@@ -272995,7 +273017,7 @@ lat,lon,housenumber,street,city
 53.1252779,23.0032429,38,Makowa,Barszczewo
 53.1252178,22.9537328,76,Kruszewska,Choroszcz
 53.1246792,22.9438426,10L,,
-53.1157542,22.9050457,8A,,
+53.1157128,22.9049718,8A,,
 53.115667,22.907111,7D,,
 53.1159582,22.9074412,7E,,
 53.129373,22.9391204,21A,,
@@ -275134,7 +275156,7 @@ lat,lon,housenumber,street,city
 52.688426,23.7167924,4,,
 52.6901229,23.7200395,11,,
 52.6902748,23.7193946,9,,
-52.6906688,23.7181834,5,,
+52.6906831,23.7181491,5,,
 52.6908376,23.7172515,1,,
 52.6900819,23.721761,15,,
 52.6898856,23.7225609,17,,
@@ -277258,6 +277280,7 @@ lat,lon,housenumber,street,city
 53.0436801,23.2850215,98,,
 53.0436801,23.2850215,96,,
 53.0435967,23.285004,94,,
+53.0435126,23.2849792,92,,
 53.0434287,23.2849659,90,,
 53.0455727,23.2868348,1V,,
 53.0453745,23.2866846,1U,,
@@ -277468,7 +277491,7 @@ lat,lon,housenumber,street,city
 53.0310243,23.6070912,17,Polna,Michałowo
 53.8919989,23.1899663,3G,,
 53.8832538,23.2073709,39,Mostowa,Sucha Rzeczka
-53.8834305,23.196895,33M,,
+53.8834305,23.196895,41A,,
 53.8781767,23.218572,54H,,
 53.8784702,23.2184197,54G,,
 53.8866491,23.2020164,32L,,
@@ -277950,7 +277973,7 @@ lat,lon,housenumber,street,city
 53.2733556,22.9660316,3,,
 53.2734828,22.9655066,1,,
 53.273411,22.9651326,1A,,
-53.1983927,23.1825592,58b,Jurowiecka,Wasilków
+53.1983927,23.1825592,58B,Jurowiecka,Wasilków
 53.1981737,23.1686011,42,Wasilkowska,Jurowce
 53.1980267,23.1677339,38,Wasilkowska,Jurowce
 53.1981273,23.167465,36,Wasilkowska,Jurowce
@@ -278156,6 +278179,7 @@ lat,lon,housenumber,street,city
 53.0975917,23.2218294,4,Mieczykowa,Białystok
 53.0961869,23.2155575,11,Kwiatów Polnych,Białystok
 53.0969883,23.2153165,4,Kwiatów Polnych,Białystok
+54.058515,23.3653174,8G,,
 53.1376295,23.1623652,22,Jurowiecka,Białystok
 54.1040676,23.423994,3A,,
 53.0109972,23.0632032,10,Wschodnia,Turośń Kościelna
@@ -278186,6 +278210,7 @@ lat,lon,housenumber,street,city
 53.1769313,23.1124016,125U,,
 53.1745419,23.1133891,119S,,
 53.1742736,23.1128341,119A,,
+53.0136697,23.3177806,35,Świętego Rocha,Zabłudów
 53.3167652,22.9704729,1,,
 53.3168646,22.9769424,17,,
 53.3155426,23.0060497,15,,
@@ -278216,6 +278241,8 @@ lat,lon,housenumber,street,city
 53.1098223,22.9668292,3L,,
 53.1098602,22.9664326,3K,,
 53.1235892,22.973545,38,Zaczerlańska,Choroszcz
+53.0409353,23.1399647,5,Słoneczna,Lewickie
+53.0413514,23.1401202,1,Słoneczna,Lewickie
 53.0414836,23.1367031,28C,,
 53.0428737,23.1368694,27H,,
 53.0430253,23.1358501,27F,,
@@ -279462,13 +279489,13 @@ lat,lon,housenumber,street,city
 53.9313432,22.9793956,17,,
 53.9310836,22.9794197,16,,
 53.9311671,22.9794311,16a,,
-53.9308746,22.979417,15,,
-53.9306086,22.9794302,13,,
-53.9302967,22.9795034,12,,
-53.9301085,22.9795082,11a,,
-53.930118,22.9788098,11,,
+53.9308864,22.9794344,15,,
+53.9306181,22.9794423,13,,
+53.9303046,22.9795034,12,,
+53.9301196,22.9795216,11a,,
+53.9301393,22.9788299,11,,
 53.9295465,22.9796115,10a,,
-53.9297832,22.9797556,10b,,
+53.929795,22.9797556,10b,,
 53.9228636,22.9542275,16,,
 53.9227734,22.9526102,15,,
 53.9071773,22.9684368,30A,,
@@ -279538,6 +279565,7 @@ lat,lon,housenumber,street,city
 52.9245508,23.0841638,71,,
 52.9974734,23.3578741,27A,,
 52.9737676,23.301222,19A,,
+52.9979772,23.3481339,40M,,
 52.9950023,23.3275141,71,Bielska,Zabłudów
 52.9511564,23.2339949,79,,
 52.9412282,23.1544229,30A,,
@@ -281467,6 +281495,7 @@ lat,lon,housenumber,street,city
 52.7308201,23.163936,192,,
 52.7332449,23.1677557,1H,,
 52.7313957,23.1639362,182,,
+52.7311787,23.1633796,190A,,
 52.7315239,23.162784,176,,
 52.7309667,23.1634055,192A,,
 52.7332985,23.1681158,1J,,
@@ -282019,11 +282048,14 @@ lat,lon,housenumber,street,city
 53.0797781,23.2078107,13E,Słonecznikowa,Stanisławowo
 53.0795143,23.2079553,13C,Słonecznikowa,Stanisławowo
 53.0794806,23.2079846,13B,Słonecznikowa,Stanisławowo
+53.0702631,23.2039385,8,Osiedlowa,Solniczki
 53.0947036,23.2674184,1,Pod Lasem,Kuriany
 53.0977039,23.2052006,4A,Sikorki,Białystok
 53.0970815,23.2059651,18A,Bajeczna,Białystok
 53.0883594,23.2036914,12,Pod Lasem,Białystok
 53.0954571,23.2138096,14,Nagietkowa,Białystok
+53.0888739,23.2045242,22,Przepiórki,Białystok
+53.0888617,23.2048589,20,Przepiórki,Białystok
 53.0948049,23.2160982,38D,Świętego Jana Chrzciciela,Białystok
 53.0947157,23.2162572,38C,Świętego Jana Chrzciciela,Białystok
 53.0948024,23.2164358,38B,Świętego Jana Chrzciciela,Białystok
@@ -282608,7 +282640,8 @@ lat,lon,housenumber,street,city
 52.9833164,23.3684772,35A,,
 53.0320528,23.3001517,9D,,
 53.0122092,23.3246422,41E,Polna,Zabłudów
-53.0198453,23.310263,79E,Białostocka,Zabłudów
+53.0198453,23.310263,11,Leśna,Zabłudów
+53.0125025,23.3449528,11C,Adama Mickiewicza,Zabłudów
 53.0208205,23.4719566,142,,
 53.0073303,23.4064559,58,,
 53.0190984,23.291162,45,,
@@ -283092,6 +283125,7 @@ lat,lon,housenumber,street,city
 53.2001583,22.9977123,19,Jaśminowa,Dobrzyniewo Duże
 53.2002506,22.9984017,22,Jaśminowa,Dobrzyniewo Duże
 53.2003168,22.997934,21,Jaśminowa,Dobrzyniewo Duże
+53.2243703,23.0353371,55,Źródlana,Krynice
 53.2147248,22.9907881,11,Słonecznikowa,Gniła
 53.215118,22.9902912,7,Słonecznikowa,Gniła
 53.2154816,22.9887431,6,Rumiankowa,Gniła
@@ -283295,7 +283329,9 @@ lat,lon,housenumber,street,city
 52.9780721,22.2382463,12,Księdza Marcina Krajewskiego,Zambrów
 52.9183064,22.179121,18C,,
 53.0076256,22.2190518,17,,
+53.0131112,23.3501516,1AD,,
 53.0109466,23.3476527,4C,,
+53.0107493,23.3472662,4A,,
 53.4257149,23.4895728,81,,
 53.4148291,23.4346416,48B,,
 53.0445749,23.3622378,26C,,
@@ -284761,7 +284797,7 @@ lat,lon,housenumber,street,city
 52.564623,22.9129331,15,,
 52.6309583,22.8916773,7a,,
 52.5697262,22.884955,33A,,
-52.6790266,22.8188932,12,,
+52.6790264,22.818893,12,,
 52.6234174,22.9950388,128A,,
 52.7409524,22.923182,1A,,
 52.6898964,22.7943561,65,,
@@ -284777,6 +284813,7 @@ lat,lon,housenumber,street,city
 52.7337919,23.1823395,223,Dubiażyńska,Bielsk Podlaski
 52.737242,23.2437143,107A,,
 52.5132196,23.0378678,29A,,
+52.7339198,23.1612495,15,,
 52.7440173,23.0999368,59A,,
 52.7440618,23.0075784,10A,,
 52.7435028,23.0994681,62,,
@@ -285095,7 +285132,7 @@ lat,lon,housenumber,street,city
 53.1590422,22.3090291,42,Zachodnia,Bronowo
 53.0528733,22.4636777,34B,,
 53.1835745,22.3793795,1A,Polna,Wizna
-53.1819568,22.4972124,12,,
+53.1819568,22.4972128,12,,
 53.0228614,22.4448665,39,,
 53.1922512,22.3700167,11A,Łomżyńska,Wizna
 53.1707082,22.3069823,48,,
@@ -285240,6 +285277,7 @@ lat,lon,housenumber,street,city
 53.1373447,23.0604898,27A,Sportowa,Porosły
 53.144307,23.173067,3A,Węglowa,Białystok
 53.1332157,23.0011451,3B,Zastawie III,Choroszcz
+53.0474038,23.1473602,12E,,
 53.1289942,23.2342072,4,Graniczna,Zaścianki
 53.0468836,23.1411042,5F,,
 53.0138108,23.0432406,78A,Lipowa,Turośń Kościelna
@@ -285280,6 +285318,7 @@ lat,lon,housenumber,street,city
 53.1041647,23.2867313,5,Topazowa,Henrykowo
 53.2018791,23.3510847,18,Klonowa,Supraśl
 53.2095874,23.2519058,23,Dworna,Dąbrówki
+53.0128746,23.3166186,39B,Świętego Rocha,Zabłudów
 53.1027445,23.2900848,11,Diamentowa,Henrykowo
 53.1093368,23.2996916,6,Kryształowa,Sobolewo
 53.1643946,23.2616557,11,Parkowa,Karakule
@@ -285614,8 +285653,13 @@ lat,lon,housenumber,street,city
 53.1288256,23.2538911,13,Praska,Grabówka
 53.1029959,23.2997939,18/6,,
 53.1027528,23.296719,8,Koralowa,Henrykowo
+53.0133227,23.3172059,35B,Świętego Rocha,Zabłudów
+53.0133682,23.3189153,33B,Świętego Rocha,Zabłudów
+53.0137856,23.318855,33,Świętego Rocha,Zabłudów
 53.0242537,23.2741722,56B,,
 53.0242993,23.2724683,56C,,
+53.024029,23.276072,62,,
+53.0240695,23.2755765,60,,
 53.0241342,23.2750642,58,,
 53.1417764,22.9765849,16,Zielona,Choroszcz
 53.134925,22.9795012,16H,Zaczerlańska,Choroszcz
@@ -286268,6 +286312,7 @@ lat,lon,housenumber,street,city
 53.3510079,23.514542,27,,
 53.3876025,23.7165139,18A,,
 53.3914255,23.5544826,51,,
+53.2624149,23.6377172,6D,Poczopek,
 53.2577194,23.7717779,36,Nowa,Krynki
 53.1191476,22.0947628,16,Poziomkowa,Giełczyn
 53.5653457,22.9728682,41A,,
@@ -286534,6 +286579,7 @@ lat,lon,housenumber,street,city
 53.1240524,23.2035438,7,Małopolska,Białystok
 53.4444174,21.8799104,177A,Czerwone,
 53.0608302,23.2087729,11C,,
+53.0512707,23.148898,22K,,
 53.0489917,23.1064891,25FA,,
 53.0484305,23.1063964,25EB,,
 53.038405,23.0918842,3,Polna,Pomigacze
@@ -286645,6 +286691,8 @@ lat,lon,housenumber,street,city
 54.1204318,22.9539692,9,Rotmistrza Witolda Pileckiego,Suwałki
 54.0789451,22.9482821,12,Stanisława Lema,Suwałki
 53.1403268,23.1796111,45B,Józefa Ignacego Kraszewskiego,Białystok
+53.0475379,23.1460311,12C,,
+53.0484912,23.1486743,16B,,
 53.0268826,23.0614485,31D,,
 54.1066899,23.3474155,6,Emilii Plater,Sejny
 54.106729,23.3471862,6B,Emilii Plater,Sejny
@@ -286843,6 +286891,7 @@ lat,lon,housenumber,street,city
 53.1489061,23.2235637,12,Józefa Karola Puchalskiego,Białystok
 54.1050655,22.9169892,55C,Stanisława Staszica,Suwałki
 54.107834,22.9153007,10C,Hugona Kołłątaja,Suwałki
+54.1268785,22.9375012,12b,Alfreda Wierusza-Kowalskiego,
 53.1480949,23.2293701,254,Józefa Karola Puchalskiego,Białystok
 53.1482207,23.2293992,256,Józefa Karola Puchalskiego,Białystok
 53.1483453,23.2294284,260,Józefa Karola Puchalskiego,Białystok
@@ -286944,6 +286993,7 @@ lat,lon,housenumber,street,city
 53.125927,23.0705049,17,Brylantowa,Krupniki
 53.1258624,23.0705404,15,Brylantowa,Krupniki
 53.1258018,23.0705784,13,Brylantowa,Krupniki
+53.1079381,23.1915611,14,Zurawia,Białystok
 53.8645987,22.916742,34,Ślepsk,Augustów
 53.8641955,22.9188951,4E,Pensjonatowa,Augustów
 53.8642843,22.9187055,4D,Pensjonatowa,Augustów
@@ -286964,6 +287014,7 @@ lat,lon,housenumber,street,city
 53.0741467,23.2574057,30D,,
 53.077627,23.2271164,74R,,
 53.0780975,23.2272425,74U,,
+53.0777972,23.2266011,74AD,,
 53.0776332,23.226566,74AC,,
 53.0763579,23.2268604,74F,,
 53.0762186,23.2268281,74E,,
@@ -287466,6 +287517,7 @@ lat,lon,housenumber,street,city
 53.859986,22.9279934,4A,Szuwarowa,Augustów
 53.8549855,22.948235,8,Truskawkowa,Augustów
 53.1197759,23.1217068,1,Octowa,Białystok
+53.0224721,23.2905944,65,,
 53.1010262,23.061095,7,Leśna,Klepacze
 53.1009451,23.0612089,7A,Leśna,Klepacze
 53.1008498,23.0610043,11,Leśna,Klepacze
@@ -287483,10 +287535,19 @@ lat,lon,housenumber,street,city
 52.3374558,23.0294583,13,Polna,Mielnik
 53.1427913,23.1692026,18,Chmielna,Białystok
 53.1580167,22.8653856,50/1,,
+53.0086302,23.3178081,10,Gruntowa,Zabłudów
+53.0090311,23.3178285,10A,Gruntowa,Zabłudów
+53.0089712,23.317341,12A,Gruntowa,Zabłudów
+53.0101596,23.321423,17,Krynicka,Zabłudów
+53.0099219,23.3214159,19,Krynicka,Zabłudów
+53.0151689,23.3147915,30D,Świętego Rocha,Zabłudów
+53.0157726,23.3148413,30F,Świętego Rocha,Zabłudów
 53.0748621,23.2375215,63S,,
 53.0749772,23.2346504,65F,,
 53.0736184,23.2343003,65C,,
 53.0733362,23.2342508,65B,,
+53.0778467,23.214613,17A,Halicka,
+53.0772409,23.2160645,25,Halicka,Białystok
 53.8531422,22.9494379,84,Rajgrodzka,Augustów
 54.1204075,23.0506146,6G,,
 53.0739046,23.1379084,75H,,
@@ -288030,6 +288091,7 @@ lat,lon,housenumber,street,city
 52.9752842,23.1523265,4b,,
 54.0828197,22.92312,56,Bydgoska,Suwałki
 53.1216495,23.1303157,9F,Depowa,Białystok
+52.9843042,22.8856137,14,Geodetów,Łapy
 53.0034659,22.7226408,13,,
 53.1227073,23.1437853,32,Angielska,Białystok
 53.1228132,23.1432478,34,Angielska,Białystok
@@ -288827,10 +288889,20 @@ lat,lon,housenumber,street,city
 53.0890221,23.2248315,34,Milowa,Białystok
 53.122888,23.1747385,3,Augustowska,Białystok
 53.113052,23.08446,14,Klepacka,Białystok
+53.0517852,23.1460995,26T,,
+53.0517451,23.1464382,26U,,
+53.0516766,23.1472034,26W,,
+53.0514624,23.1470665,26N,,
+53.0514983,23.1467296,26P,,
+53.0515405,23.1463768,26R,,
+53.0515742,23.1460328,26S,,
+53.0607495,23.2096256,13B,,
 53.0203626,23.2754989,59,,
 53.0246606,23.2757762,60A,,
 53.0218035,23.2979441,26A,,
-53.0196969,23.3098771,79D,Białostocka,Zabłudów
+53.0191016,23.3099407,4,Leśna,Zabłudów
+53.0196969,23.3098771,9,Leśna,Zabłudów
+53.0169506,23.3155165,28A,Świętego Rocha,Zabłudów
 53.1994112,23.1888915,52,Turzycowa,Wasilków
 53.1996489,23.1888118,40,Turzycowa,Wasilków
 53.1996851,23.188611,38,Turzycowa,Wasilków
@@ -289016,19 +289088,19 @@ lat,lon,housenumber,street,city
 53.0745495,23.2086179,35G,,
 53.0745672,23.2074275,33,,
 53.0743683,23.2036382,40A,,
-53.0806832,23.2099391,170,Dojlidy Górne,Białystok
-53.0805614,23.2106846,3A,Kameliowa,Białystok
-53.0804458,23.2106982,3,Kameliowa,Białystok
-53.0804426,23.2104949,165A,Dojlidy Górne,Białystok
-53.0805565,23.2104895,165,Dojlidy Górne,Białystok
+53.0806581,23.2098314,170,Dojlidy Górne,Białystok
+53.0805164,23.210693,3A,Kameliowa,Białystok
+53.0804339,23.210695,3,Kameliowa,Białystok
+53.0804327,23.2105461,165A,Dojlidy Górne,Białystok
+53.0805153,23.2105446,165,Dojlidy Górne,Białystok
 53.0798036,23.2109245,169A,Dojlidy Górne,Białystok
-53.0730358,23.2096881,7B,Białostocka,Solniczki
-53.0731081,23.2100727,7C,Białostocka,Solniczki
+53.0730585,23.2097742,7B,Białostocka,Solniczki
+53.073135,23.2102284,7C,Białostocka,Solniczki
 53.0731832,23.2104691,7D,Białostocka,Solniczki
-53.0729507,23.210337,7G,Białostocka,Solniczki
-53.0729181,23.2101812,7H,Białostocka,Solniczki
-53.0728416,23.2097919,7J,Białostocka,Solniczki
-53.0728189,23.2096409,7K,Białostocka,Solniczki
+53.0729606,23.2105387,7G,Białostocka,Solniczki
+53.0729195,23.2103228,7H,Białostocka,Solniczki
+53.0728253,23.2098344,7J,Białostocka,Solniczki
+53.0727835,23.2096279,7K,Białostocka,Solniczki
 53.0750336,23.2154971,3A,Cukiniowa,Białystok
 53.0744049,23.2157357,9A,Cukiniowa,Białystok
 53.0738929,23.2162134,21,Pszeniczna,Białystok
@@ -289385,6 +289457,7 @@ lat,lon,housenumber,street,city
 53.2045389,22.767485,17,Sokołowska,Tykocin
 53.1389858,23.1977536,1,Pomocna,
 54.2545337,23.0920092,6,,
+53.061883,23.0926715,25B,,
 53.1213167,23.259446,5A,Borsucza,Sobolewo
 53.1211042,23.2594272,5B,Borsucza,Sobolewo
 53.1211642,23.2703572,36,Sokola,Sobolewo
@@ -289463,6 +289536,9 @@ lat,lon,housenumber,street,city
 53.1781181,23.1350428,99F,,
 53.1778302,23.1350723,99FA,,
 53.1779009,23.1346947,99GA,,
+53.0740912,23.2146412,4,Tymiankowa,Białystok
+53.0743695,23.2145751,6,Tymiankowa,Białystok
+53.0747873,23.2144089,10,Tymiankowa,Białystok
 53.0054641,23.0909497,27A,,
 53.0749199,23.0656157,94,Tadeusza Kościuszki,Niewodnica Korycka
 53.0825884,23.0551671,10B,Zdrojowa,Niewodnica Kościelna
@@ -289527,6 +289603,7 @@ lat,lon,housenumber,street,city
 53.0578019,23.0639914,12,Cisowa,Zalesiany
 53.1597505,22.0620912,22,Przykoszarowa,Łomża
 53.206926,22.7841976,14A,Ogrodowa,Tykocin
+52.996777,23.3483304,46,,
 53.0816181,23.2465492,24,Słoneczna,Kuriany
 53.081886,23.250351,6,Promienna,Kuriany
 53.0817325,23.2512744,11,Wiosenna,Kuriany
@@ -289565,6 +289642,12 @@ lat,lon,housenumber,street,city
 53.1728992,23.02005,2KC,Leśna,Fasty
 53.1756743,23.020895,11A,Dzikowska,Fasty
 53.1756511,23.0210496,11AA,Dzikowska,Fasty
+53.0143442,23.3542253,9,Podleśna,Zabłudów
+53.0145554,23.355413,6,Podleśna,Zabłudów
+53.014245,23.3551568,3,Podleśna,Zabłudów
+53.0134848,23.357347,7,Sosnowa,Zabłudów
+53.0141553,23.357334,25,Adama Mickiewicza,Zabłudów
+53.0147056,23.3481003,1Z,,
 53.2078548,23.2085933,4C,Podleśna,Wasilków
 53.2078651,23.2084913,4B,Podleśna,Wasilków
 53.2078765,23.2083782,4A,Podleśna,Wasilków
@@ -290093,7 +290176,7 @@ lat,lon,housenumber,street,city
 53.1193909,23.2191038,4/1,Turystyczna,Białystok
 53.1185253,23.2182438,10A,Kąpielowa,Białystok
 53.090245,23.2059533,19,Leśna Polana,Białystok
-53.0902547,23.2029725,35,Leśna Polana,Białystok
+53.0902534,23.2029746,35,Leśna Polana,Białystok
 53.0906122,23.2038818,28,Leśna Polana,Białystok
 53.0877311,23.2396288,34,Liniowa,Białystok
 53.0870585,23.2389901,40A,Liniowa,Białystok
@@ -290106,6 +290189,7 @@ lat,lon,housenumber,street,city
 53.0712329,23.2381868,50W,,
 53.0745067,23.2628496,9,Niezapominajki,Kuriany
 53.0729741,23.2582465,31K,,
+53.0086839,23.3183077,8,Gruntowa,Zabłudów
 53.097415,23.2401561,5,Morska,Białystok
 53.0973416,23.2410506,7,Żeglarska,Białystok
 53.0986473,23.2142692,20,Motyla,Białystok
@@ -290310,6 +290394,7 @@ lat,lon,housenumber,street,city
 53.1113571,23.2939868,122N,Wiejska,Sobolewo
 53.1121011,23.2788411,49,Wiejska,Sobolewo
 53.1239214,23.258202,14,Wiewiórcza,Sobolewo
+53.0414103,23.1373372,28E,,
 53.0788985,23.185958,30,Chabrowa,Olmonty
 53.0795688,23.1854161,24,Chabrowa,Olmonty
 53.0837116,23.1980857,6,Niebanalna,Stanisławowo
@@ -290442,6 +290527,11 @@ lat,lon,housenumber,street,city
 53.189726,23.2366961,12B,3 Maja,Nowodworce
 53.188841,23.2324351,24,Lipowa,Nowodworce
 53.1880286,23.2314711,5,Szczęśliwa,Nowodworce
+53.0081778,23.3438283,7W,,
+53.007486,23.3470974,8U,,
+53.0068694,23.3457734,8T,,
+53.0062208,23.3460176,8F,,
+53.004782,23.3416452,9B,,
 53.129687,23.2570064,11,Limonkowa,Grabówka
 53.1297634,23.2571374,7,Limonkowa,Grabówka
 53.1297549,23.2572497,5,Limonkowa,Grabówka
@@ -290759,6 +290849,7 @@ lat,lon,housenumber,street,city
 53.4131996,22.8072871,16/2,Augustowska,Mońki
 52.3885785,22.9139772,17,,
 52.3775685,22.9289287,8,,
+53.0401222,23.1397298,13,Słoneczna,Lewickie
 53.1251662,23.17774,16,Marii Konopnickiej,Białystok
 53.0665536,23.0328382,16,Magnoliowa,Tołcze
 53.0615059,23.0618643,41C,,
@@ -290798,6 +290889,7 @@ lat,lon,housenumber,street,city
 53.2222614,23.2078296,29,Niedźwiedzia,Wasilków
 53.2221971,23.2089239,33,Niedźwiedzia,Wasilków
 53.221953,23.2085752,24,Niedźwiedzia,Wasilków
+53.7278588,22.6863751,4b,Warszawska,Rajgród
 53.7292812,22.7191752,19,Kolonia Prawa,Rajgród
 54.0022593,22.7709507,2a,,
 53.5114789,23.6429282,2,Kolejowa,Kuźnica
@@ -290852,6 +290944,8 @@ lat,lon,housenumber,street,city
 53.1260282,23.197607,33C,Pomorska,Białystok
 53.1260972,23.1977585,33D,Pomorska,Białystok
 53.1387803,23.2323913,43,Warzywna,Białystok
+53.0662481,23.2006089,16B,Leśna,Solniczki
+53.0651833,23.1988573,17A,Leśna,Solniczki
 53.0634572,23.0555442,43F,,
 53.9897277,22.7791827,2A,Stodolna,Raczki
 53.2051442,22.7856562,22B,Ogrodowa,Tykocin
@@ -290867,7 +290961,7 @@ lat,lon,housenumber,street,city
 53.0793451,23.1841604,24B,Chabrowa,Olmonty
 52.9638387,23.1256657,58A,,
 52.9636169,23.125685,60A,,
-54.1137315,22.9304025,46e,Mikołaja Reja,
+54.1137316,22.9304023,46e,Mikołaja Reja,
 54.1135745,22.9304012,46e,Mikołaja Reja,
 54.1135745,22.9304012,46e,Mikołaja Reja,
 54.1135247,22.9305484,46e,Mikołaja Reja,
@@ -291026,7 +291120,7 @@ lat,lon,housenumber,street,city
 53.1431227,23.2408891,1,Przyjazna,Sowlany
 53.1431513,23.2405263,1A,Przyjazna,Sowlany
 53.1431688,23.2403008,1B,Przyjazna,Sowlany
-53.0773942,23.2125543,2A,Zielone Jabłuszko,Białystok
+53.077395,23.212552,2A,Zielone Jabłuszko,Białystok
 53.1561264,23.2196645,24,Jakuba Szapiro,Białystok
 53.1553369,23.21845,14,Zbigniewa Rećki,Białystok
 53.1565011,23.2197099,23,Jakuba Szapiro,Białystok
@@ -291036,3 +291130,63 @@ lat,lon,housenumber,street,city
 53.1167141,23.2420922,21,Szlachecka,Zaścianki
 53.115817,23.2423008,16,Helska,Zaścianki
 53.1161842,23.2419695,20,Helska,Zaścianki
+53.1453007,23.1907582,3E,Siewna,Białystok
+53.1452746,23.1909483,3D,Siewna,Białystok
+53.1452746,23.1909483,3C,Siewna,Białystok
+53.1452506,23.191123,3B,Siewna,Białystok
+53.2281134,23.0256132,91A,,
+53.2248278,23.033073,36,Źródlana,Krynice
+53.2232742,23.0360959,56,Źródlana,Krynice
+53.2235984,23.0361341,52,Źródlana,Krynice
+53.223488,23.0361187,54,Źródlana,Krynice
+53.223635,23.0370816,65,Źródlana,Krynice
+52.997335,23.3544112,44,,
+53.002561,23.3439446,10G,,
+53.0024932,23.3433853,10H,,
+53.0145198,23.3473023,1L,,
+53.0130944,23.3448162,1F,,
+53.013476,23.3534851,4,Wrzosowa,Zabłudów-Kolonia
+53.0135901,23.3536082,6,Wrzosowa,Zabłudów-Kolonia
+53.0138024,23.3531384,9,Wrzosowa,Zabłudów-Kolonia
+53.0840761,23.1906327,12,Klonowa,Olmonty
+53.0802746,23.2106369,167,Dojlidy Górne,Białystok
+53.0802756,23.2107539,1A,Kameliowa,Białystok
+53.0802035,23.2106397,167A,Dojlidy Górne,Białystok
+53.080205,23.2107554,1,Kameliowa,Białystok
+53.0773783,23.2123986,2,Zielone Jabłuszko,Białystok
+53.0777698,23.2113144,10,Halicka,Białystok
+53.0774365,23.21141,4,Gruszkowa,Białystok
+53.0738267,23.2146544,15,Pszeniczna,Białystok
+53.0738392,23.2149244,17,Pszeniczna,Białystok
+53.0778285,23.2203659,10,Kowalska,Białystok
+53.0131617,23.3160456,41A,Świętego Rocha,Zabłudów
+53.0128629,23.3160822,41B,Świętego Rocha,Zabłudów
+53.0147327,23.3162101,26B,Świętego Rocha,Zabłudów
+53.0141498,23.3161431,26,Świętego Rocha,Zabłudów
+53.0133395,23.318334,33C,Świętego Rocha,Zabłudów
+53.0194688,23.3096911,7,Leśna,Zabłudów
+53.0199785,23.3107065,12,Leśna,Zabłudów
+53.0220056,23.2953156,22,,
+53.0244477,23.2720165,56D,,
+53.0449333,23.2876354,1AK,,
+53.151534,23.1704866,34,Generała Władysława Andersa,Białystok
+53.1522914,23.1695208,36,Generała Władysława Andersa,Białystok
+53.1071696,23.1888788,14,Zurawia,Białystok
+53.7325874,22.6876597,21A,Szkolna,Rajgród
+53.0617069,23.0910365,25A,,
+54.1038469,23.3411092,15C,Wojska Polskiego,Sejny
+53.0909806,23.2095667,31,Daliowa,Białystok
+53.0749857,23.2159134,7,Cukiniowa,Białystok
+53.0700467,23.2066591,5A,Osiedlowa,Solniczki
+53.0697394,23.2064592,7B,Osiedlowa,Solniczki
+53.0692624,23.1996581,16S,Leśna,Solniczki
+53.067255,23.2120298,31C,Białostocka,Solniczki
+53.0673758,23.2125759,31E,Białostocka,Solniczki
+54.0841279,22.9344427,40B,Sportowa,Suwałki
+54.0841607,22.9350493,40A,Sportowa,Suwałki
+54.084208,22.9356672,40,Sportowa,Suwałki
+53.1975416,23.1850659,34,Jurowiecka,Wasilków
+53.1979837,23.1851768,34C,Jurowiecka,Wasilków
+53.1978626,23.1851357,34B,Jurowiecka,Wasilków
+53.1976955,23.1851035,34A,Jurowiecka,Wasilków
+53.1986253,23.1822553,62A,Jurowiecka,Wasilków

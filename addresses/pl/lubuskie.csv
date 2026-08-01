@@ -180,7 +180,6 @@ lat,lon,housenumber,street,city
 52.7399557,15.2274445,44,Kosynierów Gdyńskich,Gorzów Wielkopolski
 51.9605338,15.4974007,81,Stefana Batorego,Zielona Góra
 51.9423103,15.505645,13,Bohaterów Westerplatte,Zielona Góra
-51.6388271,15.1329603,6,Broni Pancernej,Żary
 51.8066382,16.3186785,3a,Niepodległości,Wschowa
 52.0794,15.6136,2,Mieszka I,Sulechów
 52.7468159,15.2547693,25,Franciszka Walczaka,Gorzów Wielkopolski
@@ -3489,7 +3488,7 @@ lat,lon,housenumber,street,city
 51.6408471,15.1259698,2A,Henryka Wieniawskiego,
 51.6409895,15.1254364,2F,Henryka Wieniawskiego,
 51.6380407,15.0624766,147,,
-51.6349903,15.1385099,3/4,Pocztowa,Żary
+51.6350594,15.138467,3/4,Pocztowa,Żary
 52.7307926,15.2406482,11a,Obotrycka,Gorzów
 52.7307372,15.2404066,12,Obotrycka,Gorzów Wielkopolski
 52.7384861,15.21261,15,Karola Marcinkowskiego,Gorzów Wielkopolski
@@ -10932,6 +10931,7 @@ lat,lon,housenumber,street,city
 52.7863188,14.9469059,30G,Dworcowa,Lubiszyn
 52.8794023,15.5341736,14d,Bolesława Chrobrego,Strzelce Krajeńskie
 52.8776445,15.5311886,2,Bolesława Chrobrego,Strzelce Krajeńskie
+52.7675334,15.7081472,116,,Gościm
 52.0627722,15.090768,11C,Metalowców,Krosno Odrzańskie
 52.0627645,15.0909622,11B,Metalowców,Krosno Odrzańskie
 52.0627675,15.0911691,11A,Metalowców,Krosno Odrzańskie
@@ -11947,8 +11947,8 @@ lat,lon,housenumber,street,city
 52.8699422,15.5349677,28a,Aleja Wolności,Strzelce Krajeńskie
 52.8700677,15.5349269,28b,Aleja Wolności,Strzelce Krajeńskie
 52.925006,15.9727842,33,,
-52.0523586,15.0953173,5,Kościelna,Krosno Odrzańskie
-52.0522879,15.0951205,5A,Kościelna,Krosno Odrzańskie
+52.0523221,15.0952659,5,Kościelna,Krosno Odrzańskie
+52.0523276,15.0950534,5A,Kościelna,Krosno Odrzańskie
 51.9441374,15.4730066,3,Agrestowa,Zielona Góra
 51.9440896,15.4729668,3A,Agrestowa,Zielona Góra
 51.9438598,15.4725759,5A,Agrestowa,Zielona Góra
@@ -16636,7 +16636,6 @@ lat,lon,housenumber,street,city
 51.74405,15.59753,1B,Romualda Traugutta,Kożuchów
 51.78015,15.60851,1a,,
 51.74957,15.57838,2,Stefana Grota-Roweckiego,Kożuchów
-51.74573,15.59403,2,Kościelna,Kożuchów
 51.7456,15.59556,2,Legnicka,Kożuchów
 51.70377,15.6214,2,,
 51.70753,15.66054,2,,
@@ -16664,7 +16663,6 @@ lat,lon,housenumber,street,city
 51.73872,15.58297,23A,Żagańska,Kożuchów
 51.77869,15.54613,23d,,
 51.7434071,15.6074641,24,22 Lipca 1807,Kożuchów
-51.74561,15.59407,24,Rynek,Kożuchów
 51.7433126,15.6074212,24A,22 Lipca 1807,Kożuchów
 51.7432,15.60737,24B,22 Lipca 1807,Kożuchów
 51.7430836,15.6073182,24C,22 Lipca 1807,Kożuchów
@@ -17572,7 +17570,7 @@ lat,lon,housenumber,street,city
 52.34164,15.74893,97,,
 52.34298,15.75478,98,,
 52.34523,15.75159,99,,
-51.567105,15.5319775,10,Juliusza Słowackiego,Szprotawa
+51.5664901,15.5305613,10,Juliusza Słowackiego,Szprotawa
 51.55188,15.54722,10,Józefa Ignacego Kraszewskiego,Szprotawa
 51.47747,15.61455,1,Fabryczna,Leszno Górne
 51.56547,15.5364783,1,Generała Józefa Bema,Szprotawa
@@ -20700,16 +20698,14 @@ lat,lon,housenumber,street,city
 52.16615,14.80194,90b/2,,
 52.18902,14.79533,9A,Białkowska,Cybinka
 52.18899,14.79545,9B,Białkowska,Cybinka
-51.71859,15.01854,36,,
 51.75415,15.01167,4,Obrońców,Jasień
-51.69222,15.00015,10,,
-51.69211,15.00002,10A,,
+51.6920778,14.999969,10,,
+51.6922239,15.0001461,10A,,
 51.74251,15.0186,23,Wesoła,Jasień
 51.74389,15.01466,2,Krucza,Jasień
 51.75396,15.0117,2,Obrońców,Jasień
 51.75525,15.00913,26a,Lubska,Jasień
 51.75531,15.00907,26b,Lubska,Jasień
-51.71853,15.01812,35,,
 51.75078,15.01875,5,Stefana Okrzei,Jasień
 51.75072,15.01896,7,Stefana Okrzei,Jasień
 51.78277,15.13081,44,,
@@ -22328,6 +22324,7 @@ lat,lon,housenumber,street,city
 51.9607669,14.7228033,9C,Osiedle Emilii Plater,Gubin
 51.9570924,14.7658042,9D,Norberta Barlickiego,Gubin
 52.0174739,15.1277278,1,Widok,Połupin
+51.6379519,15.1464018,3,Plac Kardynała Stefana Wyszyńskiego,Żary
 52.7925192,15.2318886,1,Mazurska,Kłodawa
 52.80028,15.33214,1,Srebrna,Różanki
 52.8559449,15.2701035,6,Zachodzącego Słońca,Łośno
@@ -23197,7 +23194,7 @@ lat,lon,housenumber,street,city
 51.63331,15.12182,15,Szarych Szeregów,Żary
 51.63972,15.14854,1,Bohaterów Getta,Żary
 51.63018,15.12581,1,Częstochowska,Żary
-51.63802,15.14426,1,Emilii Plater,Żary
+51.6380002,15.1443271,1,Emilii Plater,Żary
 51.64269,15.1297,1,Fryderyka Chopina,Żary
 51.62994,15.12983,1,Gabrieli Zapolskiej,Żary
 51.64603,15.13362,1,Jana Kilińskiego,Żary
@@ -23271,7 +23268,7 @@ lat,lon,housenumber,street,city
 51.63999,15.12345,13,Karola Kurpińskiego,Żary
 51.64181,15.1251,13,Karola Szymanowskiego,Żary
 51.6441412,15.1290578,13,Krótka,Żary
-51.6395316,15.1453636,13,Mieszka I,Żary
+51.6395631,15.1452964,13,Mieszka I,Żary
 51.63567,15.13906,13,Pocztowa,Żary
 51.63338,15.12164,13,Szarych Szeregów,Żary
 51.63591,15.14041,13,Wrocławska,Żary
@@ -23420,7 +23417,7 @@ lat,lon,housenumber,street,city
 51.64404,15.14294,25,Poznańska,Żary
 51.64634,15.13227,25,Skarbowa,Żary
 51.6328,15.1212,25,Szarych Szeregów,Żary
-51.64655,15.12595,25b,Czerwonego Krzyża,Żary
+51.6463636,15.1257435,25b,Czerwonego Krzyża,Żary
 51.6412516,15.1284392,26,Fryderyka Chopina,Żary
 51.64257,15.11876,26,Henryka Wieniawskiego,Żary
 51.64223,15.12422,26,Ignacego Paderewskiego,Żary
@@ -23485,7 +23482,7 @@ lat,lon,housenumber,street,city
 51.6364878,15.1257897,2c,Zwycięzców,Żary
 51.6376636,15.1362862,3,Artylerzystów,Żary
 51.63006,15.12572,3,Częstochowska,Żary
-51.63803,15.14434,3,Emilii Plater,Żary
+51.6378556,15.1443775,3,Emilii Plater,Żary
 51.64258,15.12958,3,Fryderyka Chopina,Żary
 51.62989,15.12997,3,Gabrieli Zapolskiej,Żary
 51.63116,15.12667,3,Głogowska,Żary
@@ -23497,7 +23494,7 @@ lat,lon,housenumber,street,city
 51.62489,15.12682,3,Macieja Rataja,Żary
 51.63128,15.12911,3,Marcina Kasprzaka,Żary
 51.63376,15.14907,3,Partyzantów,Żary
-51.63898,15.14158,3,Pańska,Żary
+51.6389517,15.1414566,3,Pańska,Żary
 51.64147,15.13666,3,Plac Inwalidów,Żary
 51.64108,15.13351,3,Stanisława Moniuszki,Żary
 51.6379,15.14253,3,Zaściankowa,Żary
@@ -23561,7 +23558,7 @@ lat,lon,housenumber,street,city
 51.64188,15.12329,4,Ignacego Paderewskiego,Żary
 51.63427,15.15121,4,Marii Konopnickiej,Żary
 51.63309,15.12262,4,Męczenników Oświęcimskich,Żary
-51.6352,15.13873,4,Pocztowa,Żary
+51.6352275,15.1386656,4,Pocztowa,Żary
 51.6284633,15.1222531,4,Rzeszowska,Żary
 51.63704,15.14197,4,Władysława Jagiełły,Żary
 51.59851,15.16066,4,Łąkowa,Żary
@@ -23606,7 +23603,7 @@ lat,lon,housenumber,street,city
 51.62933,15.14817,4a,Tatrzańska,Żary
 51.62393,15.12385,4b,Zgorzelecka,Żary
 51.62995,15.12559,5,Częstochowska,Żary
-51.63806,15.14468,5,Emilii Plater,Żary
+51.6380466,15.1447449,5,Emilii Plater,Żary
 51.64246,15.12943,5,Fryderyka Chopina,Żary
 51.62982,15.13016,5,Gabrieli Zapolskiej,Żary
 51.63286,15.1536,5,Generała Jana Henryka Dąbrowskiego,Żary
@@ -23682,7 +23679,7 @@ lat,lon,housenumber,street,city
 51.62951,15.14744,6g,Tatrzańska,Żary
 51.62968,15.14742,6h,Tatrzańska,Żary
 51.6383024,15.1415018,7,Bolesława Chrobrego,Żary
-51.63807,15.14476,7,Emilii Plater,Żary
+51.637906,15.1447839,7,Emilii Plater,Żary
 51.64233,15.12934,7,Fryderyka Chopina,Żary
 51.62977,15.13031,7,Gabrieli Zapolskiej,Żary
 51.64356,15.12379,7,Ignacego Paderewskiego,Żary
@@ -25611,7 +25608,6 @@ lat,lon,housenumber,street,city
 51.5520833,14.712091,18,Berliner Chaussee,Bad Muskau
 51.8066166,15.7027015,6,Aleksandra Fredry,Nowa Sól
 51.8069781,15.702444,7,Aleksandra Fredry,Nowa Sól
-52.4395627,15.1197239,5,Kupiecka,Sulęcin
 52.8815874,15.5333134,10B,Strzelecka,
 51.6163268,15.3231039,1A,Juliusza Słowackiego,Żagań
 51.6164047,15.3256708,2g,Józefa Piłsudskiego,Żagań
@@ -26845,7 +26841,6 @@ lat,lon,housenumber,street,city
 52.3516848,14.5620293,7,Plac Przyjaźni,Słubice
 52.3514538,14.5695848,11,Henryka Sienkiewicza,Słubice
 52.3615597,14.5642837,115a,Wojska Polskiego,Słubice
-52.4413506,15.1125628,16,Plac Stefana Czarnieckiego,Sulęcin
 52.4476862,15.1201033,68,Jana Paska,Sulęcin
 51.9386691,15.4733321,2a,Francuska,Zielona Góra
 51.9283724,15.4882886,10,Świętych Cyryla i Metodego,Zielona Góra
@@ -27522,11 +27517,9 @@ lat,lon,housenumber,street,city
 52.8400497,15.831487,33,Tadeusza Kościuszki,Drezdenko
 52.8391027,15.833853,6,Lwowska,Drezdenko
 51.8049613,15.7041143,2,Aleksandra Fredry,Nowa Sól
-51.6399621,15.1458708,5,Aleja Jana Pawła II,Żary
 51.9514105,14.7222216,20,Obrońców Pokoju,Gubin
 52.4435537,15.1134744,72,Stefana Żeromskiego,Sulęcin
 52.442849,15.1114869,48,Tadeusza Kościuszki,Sulęcin
-52.4412958,15.1123559,16,Plac Stefana Czarnieckiego,Sulęcin
 52.4418681,15.1136246,1,Jana Kilińskiego,Sulęcin
 52.4419351,15.1137667,1,Jana Kilińskiego,Sulęcin
 52.4419416,15.1135093,4,Plac Kościelny,Sulęcin
@@ -28668,13 +28661,6 @@ lat,lon,housenumber,street,city
 52.8296777,15.8252209,15,Południowa,Drezdenko
 52.8281691,15.8396601,7,Transportowa,Drezdenko
 52.8307436,15.8328103,2,Lipowa,Drezdenko
-52.8173228,15.8462814,129a,,
-52.8168886,15.8456692,129b,,
-52.816957,15.844657,129d,,
-52.8165949,15.8456615,140,,
-52.8162151,15.8455814,139,,
-52.8162449,15.8462038,142,,
-52.8162467,15.8466259,143,,
 52.8132787,15.8439834,135a,,
 52.8143259,15.8426618,135b,,
 52.8107031,15.7633385,3,Sosnowa,Trzebicz
@@ -28708,7 +28694,6 @@ lat,lon,housenumber,street,city
 52.8857542,15.8641747,81,,
 52.8859475,15.8644705,82,,
 52.8860758,15.8648279,83,,
-52.806888,15.8738761,1D,,
 52.755377,15.724772,30,Osiedle Zielone,Gościm
 52.7557699,15.7240074,27,Osiedle Zielone,Gościm
 52.7556546,15.724222,28,Osiedle Zielone,Gościm
@@ -28723,7 +28708,6 @@ lat,lon,housenumber,street,city
 52.7566384,15.7252789,3,Osiedle Zielone,Gościm
 52.7562228,15.7253245,14,Osiedle Zielone,Gościm
 52.7558154,15.7251797,17,Osiedle Zielone,Gościm
-52.7572118,15.725999,7,Osiedle Pod Sosnami,Gościm
 52.7167528,15.7872191,29,Osiedle Leśne,Lubiatów
 52.7169429,15.7871869,30,Osiedle Leśne,Lubiatów
 52.7171509,15.7870876,31,Osiedle Leśne,Lubiatów
@@ -29489,7 +29473,7 @@ lat,lon,housenumber,street,city
 52.7385917,15.242369,12D/11,Franciszka Walczaka,Gorzów Wielkopolski
 52.0842682,15.6318246,10b,Licealna,Sulechów
 52.8588395,15.8474533,66,Długa,Drezdenko
-52.8385251,15.8262412,4,Ogrodowa,Drezdenko
+52.838399,15.8261991,4,Ogrodowa,Drezdenko
 51.8814419,16.0184192,55,Słoneczna,Radzyń
 52.0899541,15.6316869,10,Rzepakowa,Krężoły
 51.9569719,15.5008135,33b,Franciszka Rzeźniczaka,Zielona Góra
@@ -30986,7 +30970,6 @@ lat,lon,housenumber,street,city
 52.739685,15.333244,63,Klonowa,Czechów
 52.739654,15.332829,61,Klonowa,Czechów
 52.729538,15.317252,6,Klonowa,Czechów
-52.729585,15.316543,5A,Klonowa,Czechów
 52.739247,15.332066,59,Klonowa,Czechów
 52.739637,15.331286,57,Klonowa,Czechów
 52.735626,15.326959,54,Klonowa,Czechów
@@ -31062,14 +31045,7 @@ lat,lon,housenumber,street,city
 52.729629,15.306866,49,Kalinowa,Czechów
 52.729569,15.30758,48,Kalinowa,Czechów
 52.729484,15.310808,46,Kalinowa,Czechów
-52.728888,15.314049,41,Kalinowa,Czechów
-52.728854,15.314424,40,Kalinowa,Czechów
 52.72859,15.336389,4,Kalinowa,Czechów
-52.728977,15.314661,39,Kalinowa,Czechów
-52.728979,15.314734,38,Kalinowa,Czechów
-52.728836,15.315565,37,Kalinowa,Czechów
-52.729112,15.315437,36A,Kalinowa,Czechów
-52.729473,15.315062,36,Kalinowa,Czechów
 52.728981,15.317553,35,Kalinowa,Czechów
 52.729025,15.317149,34,Kalinowa,Czechów
 52.72895,15.31786,33,Kalinowa,Czechów
@@ -31092,10 +31068,6 @@ lat,lon,housenumber,street,city
 52.732944,15.317105,3,Jodłowa,Czechów
 52.73297,15.31745,2,Jodłowa,Czechów
 52.73274,15.31722,1,Jodłowa,Czechów
-52.729013,15.315809,5,Jaśminowa,Czechów
-52.729372,15.315621,4,Jaśminowa,Czechów
-52.729121,15.315732,3,Jaśminowa,Czechów
-52.729377,15.316052,1,Jaśminowa,Czechów
 52.730644,15.313066,9,Dębowa,Czechów
 52.731029,15.315422,8A,Dębowa,Czechów
 52.730635,15.315452,8,Dębowa,Czechów
@@ -32319,7 +32291,7 @@ lat,lon,housenumber,street,city
 51.6261205,15.1363219,14,Dolnośląska,Żary
 51.6282652,15.1322755,16,Gabrieli Zapolskiej,Żary
 51.6369827,15.1544191,4C,Juliusza Słowackiego,Żary
-51.6374927,15.1532043,4g,Juliusza Słowackiego,Żary
+51.6375659,15.1531051,4g,Juliusza Słowackiego,Żary
 51.634805,15.1491951,11,Aleksandra Fredry,Żary
 51.6190554,15.165971,104P,Aleja Wojska Polskiego,Żary
 51.6187479,15.1657926,104L,Aleja Wojska Polskiego,Żary
@@ -32331,7 +32303,7 @@ lat,lon,housenumber,street,city
 51.6356988,15.1571332,16,Szpitalna,Żary
 51.6241618,15.1513088,21,Sportowa,Żary
 51.6300034,15.1394464,20A,Słowiańska,Żary
-51.6349805,15.1385428,3,Pocztowa,Żary
+51.6349888,15.1384704,3,Pocztowa,Żary
 51.6293975,15.1488117,1A,Pienińska,Żary
 51.6299285,15.1486361,3,Pienińska,Żary
 51.629482,15.1487976,1B,Pienińska,Żary
@@ -32919,7 +32891,6 @@ lat,lon,housenumber,street,city
 51.7772578,14.9927434,114,,
 51.7958667,14.9966218,120,,
 51.7863527,14.9629229,11,Przemysłowa,Lubsko
-51.7901673,15.1267946,87C,,
 51.7898737,15.073978,21,,
 51.781652,14.9849439,2,Władysława Reymonta,Lubsko
 51.7734708,14.9729583,19,Artyleryjska,Lubsko
@@ -32942,7 +32913,6 @@ lat,lon,housenumber,street,city
 51.8275037,14.977102,180,,
 51.7923056,15.0769074,12A,,
 51.7352824,14.8936406,30a,,
-51.7346385,15.0043967,38,,
 51.7897677,14.9699614,23,Kanałowa,Lubsko
 51.7391613,15.1340866,31A,,
 51.8266879,14.9755473,177,,
@@ -32970,7 +32940,6 @@ lat,lon,housenumber,street,city
 51.8272753,14.9770174,174,,
 51.7906891,14.9738504,42B,Krakowskie Przedmieście,Lubsko
 51.7746919,14.9950153,136,,
-51.7200047,15.0116413,28C,,
 51.7799115,14.9668188,6,3 Maja,Lubsko
 51.7837831,14.9805897,1,Parkowa,Lubsko
 51.7776406,15.0217004,40a,,
@@ -32990,7 +32959,6 @@ lat,lon,housenumber,street,city
 51.779866,14.9404881,145,Robotnicza,Lubsko
 51.8136569,15.0313289,3,,
 51.7846086,14.9698465,12,Wrocławska,Lubsko
-51.7439261,15.0089069,13,Inwestycyjna,Jasień
 51.7799061,14.9466267,31,Piastowska,Lubsko
 51.8143877,15.0126743,27A,,
 51.7957108,14.9939432,69a,Warszawska,Lubsko
@@ -33124,7 +33092,6 @@ lat,lon,housenumber,street,city
 52.8437826,15.911596,90,,
 52.8060452,15.9014294,32,,
 52.8070902,15.9221664,44A,,
-52.8136756,15.8915412,65a,,
 52.8230595,15.8816509,6,,
 52.8017296,15.8807142,14,,
 52.8236203,15.8868448,13,,
@@ -33139,8 +33106,6 @@ lat,lon,housenumber,street,city
 52.8423258,15.8712313,39a,,
 52.832119,15.8854803,15a,,
 52.8414026,15.8839137,11a,,
-52.8122336,15.8858996,58a,,
-52.8124147,15.8686626,32A,,
 52.8215665,15.8925173,29a,,
 52.3320715,15.2961189,6,Spacerowa,Łagów
 52.4870451,14.6510096,41,Różana,Górzyca
@@ -37525,7 +37490,6 @@ lat,lon,housenumber,street,city
 52.422697,15.1262043,3,Makowa,Ostrów
 52.4224382,15.1228299,6,Lawendowa,Ostrów
 52.4392567,15.1203027,4A,Kupiecka,Sulęcin
-52.4391407,15.1203687,4B,Kupiecka,Sulęcin
 52.4394605,15.1133158,2,Krótka,Sulęcin
 52.4530267,15.1192711,7,Cicha,Sulęcin
 52.4535238,15.1190216,9,Cicha,Sulęcin
@@ -38376,7 +38340,6 @@ lat,lon,housenumber,street,city
 52.0638737,15.0824306,1,Miodowa,Marcinowice
 52.0635688,15.083043,4,Miodowa,Marcinowice
 52.0635597,15.0835086,6,Miodowa,Marcinowice
-52.0532381,15.0817151,2,Nadrzeczna,Marcinowice
 52.0797948,15.1088071,20,Lipowa,Łochowice
 52.0636447,15.0772815,9,Leśna,Marcinowice
 52.0783492,15.0478876,21,Krośnieńska,Osiecznica
@@ -39342,7 +39305,6 @@ lat,lon,housenumber,street,city
 51.9745516,14.9898186,79H,,
 51.9649098,14.9997185,82,,
 51.965192,14.9992854,82A,,
-51.9732068,14.9902069,80K,,
 51.9699168,14.9945368,77P,,
 51.9691865,15.0066656,83,,
 51.9683662,15.0047717,83A,,
@@ -39583,8 +39545,6 @@ lat,lon,housenumber,street,city
 51.6800971,14.8319607,23A,Parkowa,Tuplice
 51.6790056,14.8299861,17,Parkowa,Tuplice
 51.6731699,14.8364553,2a,Ogrodowa,Tuplice
-51.6919105,15.0018339,20B,,
-51.7252115,15.0146083,3A,,
 51.7173555,14.6855033,15A,,
 51.6698391,15.0241876,18A,,
 51.6842002,14.9815031,2A,,
@@ -39609,7 +39569,6 @@ lat,lon,housenumber,street,city
 51.701727,14.9126736,10a,,
 51.7021666,14.9126339,10b,,
 51.7174079,14.9895012,31,,
-51.6935813,14.9948082,3B,,
 51.696074,14.9939938,1c/2,,
 51.710477,14.9915964,43B,,
 51.6747359,14.834873,32B,Adama Mickiewicza,Tuplice
@@ -40494,8 +40453,6 @@ lat,lon,housenumber,street,city
 52.8384476,15.832316,9A,Nowogrodzka,Drezdenko
 52.8386974,15.8329613,12a,Nowogrodzka,Drezdenko
 52.8389246,15.8323946,8a,Nowogrodzka,Drezdenko
-52.8165968,15.8421584,137g,,
-52.8172785,15.8441728,140F,,
 52.8564144,15.8318483,7,Plac Sportowy,Drezdenko
 52.853303,15.8385955,50,Niepodległości,Drezdenko
 52.8511246,15.8375566,4A,Niepodległości,Drezdenko
@@ -40504,15 +40461,11 @@ lat,lon,housenumber,street,city
 52.8542072,15.8158806,37f,,
 52.8549704,15.7972557,8d,,
 52.8119687,15.7963917,13a,,
-52.8166664,15.8447063,140b,,
 52.8041447,15.7961611,36b,,
 52.8546982,15.8022621,8g,,
-52.8162356,15.84318,137a,,
 52.8045372,15.7946474,34b,,
 52.8105718,15.7972373,29e,,
-52.8177736,15.8442078,140h,,
 52.8085555,15.8479993,3B,,
-52.8159145,15.8517208,6b,,
 52.8329696,15.8200303,12,11 Listopada,Drezdenko
 52.8336176,15.8212653,35,11 Listopada,Drezdenko
 52.8528792,15.8328851,9,1 Maja,Drezdenko
@@ -41125,7 +41078,6 @@ lat,lon,housenumber,street,city
 52.756182,15.7243536,9,Osiedle Zielone,Gościm
 52.7564838,15.7248427,6,Osiedle Zielone,Gościm
 52.7561878,15.7258022,12,Osiedle Zielone,Gościm
-52.7574704,15.7257015,6,Osiedle Pod Sosnami,Gościm
 52.7639416,15.7159743,40,Osiedle Polanka,Gościm
 52.764166,15.7168442,37,Osiedle Polanka,Gościm
 52.7643481,15.7156653,23,Osiedle Polanka,Gościm
@@ -41345,7 +41297,6 @@ lat,lon,housenumber,street,city
 52.8307293,15.8270154,7A,Armii Krajowej,Drezdenko
 52.8311513,15.8257473,13,Armii Krajowej,Drezdenko
 52.8287532,15.8491365,40,Notecka,Niegosław
-52.8163316,15.8471454,144,,
 52.8553781,15.8340154,15,Plac Sportowy,Drezdenko
 52.8560064,15.8313537,7c,Plac Sportowy,Drezdenko
 52.8447247,15.8314369,18A,Niepodległości,Drezdenko
@@ -41368,11 +41319,7 @@ lat,lon,housenumber,street,city
 52.8545303,15.809208,29b,,
 52.818043,15.7911055,19a,,
 52.8044291,15.794008,34a,,
-52.8163178,15.8421445,137d,,
-52.8162496,15.8430623,137b,,
-52.8163179,15.8416377,137e,,
 52.8117013,15.8031543,12a,,
-52.8098209,15.8468217,4B,,
 52.8142243,15.796402,3a,,
 52.8369099,15.8342441,3e,Henryka Sienkiewicza,Drezdenko
 52.8331789,15.8296195,6,Elizy Orzeszkowej,Drezdenko
@@ -41445,8 +41392,6 @@ lat,lon,housenumber,street,city
 52.8196532,15.8595591,46,Niegosławska,Niegosław
 52.8259686,15.8505379,1g,Niegosławska,Niegosław
 52.7738675,15.8635893,4,,
-52.8111875,15.8838838,57d,,
-52.8085606,15.8698794,33C,,
 52.8884955,15.9017834,20F,,
 52.7445098,15.8602893,62A,,
 52.8864836,15.8990764,11A,,
@@ -41480,7 +41425,6 @@ lat,lon,housenumber,street,city
 52.8088478,15.8507421,6C,,
 52.7526419,15.9284051,36,,
 52.8886273,15.902595,20m,,
-52.8160552,15.8527617,6a,,
 52.8852631,15.901168,4G,,
 52.8508057,15.9223917,43b,,
 52.8861288,15.9010604,5b,,
@@ -41491,15 +41435,12 @@ lat,lon,housenumber,street,city
 52.8874217,15.8702694,23,,
 52.8876286,15.870452,18A,,
 52.8875677,15.8714092,18B,,
-52.8169552,15.843981,140e,,
-52.8055733,15.8469421,1D,,
 52.8476029,15.9194039,14a,,
 52.8897031,15.8636575,15a,,
 52.8890981,15.8615414,13f,,
 52.8872377,15.8724824,29a,,
 52.7589103,15.8634278,88d,,
 52.8861642,15.9017741,4c,,
-52.818268,15.8447843,129l,,
 52.758815,15.8686162,81d,,
 52.7892081,15.8578998,40,,
 52.8854454,15.9012957,4F,,
@@ -41547,7 +41488,6 @@ lat,lon,housenumber,street,city
 51.5702911,15.5267509,2B,Przejazdowa,Szprotawa
 51.5662662,15.5385216,1a/1,Poprzeczna,Szprotawa
 51.5665829,15.5106611,13G,Stanisława Poniatowskiego,Szprotawa
-51.5678812,15.5099947,14A,Podgórna,Szprotawa
 51.5673584,15.5548259,1,Owocowa,Szprotawa
 51.5984117,15.4783281,44A,,
 51.5852181,15.4670462,5B,,
@@ -45948,7 +45888,7 @@ lat,lon,housenumber,street,city
 52.51361,15.2465874,37,Jana Pawła II,Lubniewice
 52.8354982,15.8307657,56,Józefa Piłsudskiego,Drezdenko
 52.8344014,15.8274722,39A,Józefa Piłsudskiego,Drezdenko
-52.7675277,15.7080742,116,,
+52.767526,15.7079697,116,,
 52.8790773,15.5342996,7,Bolesława Chrobrego,Strzelce Krajeńskie
 52.839334,15.8311649,10,Stary Rynek,Drezdenko
 52.8782274,15.5276536,4,Wyzwolenia,Strzelce Krajeńskie
@@ -46319,14 +46259,7 @@ lat,lon,housenumber,street,city
 52.2070544,15.4019176,6,Wrzosowa,Niesulice
 52.2077946,15.402417,1,Wrzosowa,Niesulice
 52.2103257,15.4117156,12,Topolowa,Niesulice
-52.2110559,15.4029019,6A,Tęczowa,Niesulice
-52.2109075,15.4020044,12,Tęczowa,Niesulice
 52.2107788,15.4023253,10A,Tęczowa,Niesulice
-52.211015,15.4022315,10,Tęczowa,Niesulice
-52.2110514,15.402597,8,Tęczowa,Niesulice
-52.2113508,15.4025834,7,Tęczowa,Niesulice
-52.2110922,15.403228,6,Tęczowa,Niesulice
-52.2115261,15.4023845,3,Słoneczna,Niesulice
 52.2121976,15.4024523,1,Słoneczna,Niesulice
 52.2134668,15.3994695,4,Skrajna,Niesulice
 52.213636,15.3999084,6,Skrajna,Niesulice
@@ -46337,9 +46270,7 @@ lat,lon,housenumber,street,city
 52.2093085,15.4044699,1,Polna,Niesulice
 52.2093905,15.4041481,3B,Polna,Niesulice
 52.2092228,15.4041817,3A,Polna,Niesulice
-52.2112552,15.401627,1,Liliowa,Niesulice
 52.2118702,15.3998348,11,Liliowa,Niesulice
-52.2112704,15.4012526,3,Liliowa,Niesulice
 52.210746,15.4020421,1,Kwiatowa,Niesulice
 52.2096582,15.4093076,1,Brzozowa,Niesulice
 52.20898,15.4126278,15,Akacjowa,Niesulice
@@ -48031,7 +47962,6 @@ lat,lon,housenumber,street,city
 52.5172281,15.4134955,16B,Szkolna,Bledzew
 52.5172811,15.4136792,16E,Szkolna,Bledzew
 52.5172465,15.4135537,16C,Szkolna,Bledzew
-52.5179148,15.4173798,7,Sportowa,Bledzew
 52.5154058,15.41505,2A,Rycerska,Bledzew
 52.5154195,15.414719,2B,Rycerska,Bledzew
 52.4515396,15.5896955,23A,Piastowska,Międzyrzecz
@@ -48131,7 +48061,6 @@ lat,lon,housenumber,street,city
 51.6381121,15.141514,37,Bolesława Chrobrego,Żary
 51.638779,15.1431463,11,Rynek,Żary
 51.6390585,15.1449137,44,Osadników Wojskowych,Żary
-51.6393049,15.1448672,1,Kąpielowa,Żary
 51.6382038,15.1442498,30,Rynek,Żary
 51.6385262,15.144897,1/2,Kościelna,Żary
 51.6351019,15.1289924,17,Górnośląska,Żary
@@ -48139,7 +48068,6 @@ lat,lon,housenumber,street,city
 51.642119,15.1362113,1,Żabikowska,Żary
 51.6400405,15.1494328,5,Bohaterów Getta,Żary
 51.640268,15.1486855,3A,Bohaterów Getta,Żary
-51.634128,15.1504803,32,Aleja Wojska Polskiego,Żary
 51.6333457,15.1507777,40,Aleja Wojska Polskiego,Żary
 51.6289884,15.1460217,6A,Tatrzańska,Żary
 51.6356341,15.1202743,36,Katowicka,Żary
@@ -50051,7 +49979,6 @@ lat,lon,housenumber,street,city
 51.7824287,14.9826052,1,Stefana Żeromskiego,Lubsko
 51.7822768,14.9772051,47,Wrocławska,Lubsko
 51.7788775,14.9842831,90,Wrocławska,Lubsko
-51.774254,14.9798605,3C,Transportowa,Lubsko
 51.7828404,14.9838861,10,Władysława Reymonta,Lubsko
 51.7934163,14.9830543,11,Farbiarska,Lubsko
 51.7926153,14.9819333,7,Farbiarska,Lubsko
@@ -50744,7 +50671,6 @@ lat,lon,housenumber,street,city
 52.052908,15.1385668,46,,
 52.0519579,15.1169713,10,Wiejska,Krosno Odrzańskie
 52.053708,15.0947697,1,Stanisława Moniuszki,Krosno Odrzańskie
-52.0516663,15.0940657,2C,Winnica,Krosno Odrzańskie
 52.0561369,15.1066615,12,Piastów,Krosno Odrzańskie
 52.0540186,15.0974552,4,Parkowa,Krosno Odrzańskie
 52.0508661,15.099862,4A,Bolesława Chrobrego,Krosno Odrzańskie
@@ -51034,7 +50960,10 @@ lat,lon,housenumber,street,city
 52.3562879,14.5454478,75,Goepelstraße,
 52.3561634,14.5450804,74a,Goepelstraße,
 52.3563305,14.5447209,74b,Goepelstraße,
-52.8384414,15.8262001,4,Ogrodowa,
+52.3336521,14.5423392,24,Spartakusring,
+52.333651,14.5421952,23,Spartakusring,
+52.3336494,14.5419778,22,Spartakusring,
+52.3336483,14.5418271,21,Spartakusring,
 51.7416684,14.6546425,13,Kegeldamm,Forst (Lausitz)
 52.4249278,14.5414312,17,Breite Straße,Lebus
 52.3527901,14.5503501,33,Ziegelstraße,
@@ -52312,8 +52241,6 @@ lat,lon,housenumber,street,city
 52.4210124,15.8073297,4a/107,Borowy Młyn,
 52.4226351,15.806176,4A/66,,
 51.9886955,15.3455818,44,,
-52.8324157,15.8409589,33A,Pierwszej Brygady,Drezdenko
-52.832163,15.841197,33B,Pierwszej Brygady,Drezdenko
 51.9660906,15.456641,10A,Przylep-Winna,Zielona Góra
 51.8850058,15.615005,224K,Sucha,Zielona Góra
 51.9821025,15.4099861,3B,,
@@ -52821,7 +52748,7 @@ lat,lon,housenumber,street,city
 52.367566,15.908468,28,,
 52.368818,15.911035,2A,,
 51.6374196,15.1512798,7,Zakopiańska,Żary
-51.6376548,15.1540568,4j,Juliusza Słowackiego,Żary
+51.6376681,15.1539629,4j,Juliusza Słowackiego,Żary
 51.8876223,15.5742243,56,Drzonków-Słoneczna,Zielona Góra
 51.6403907,15.1313686,11,Stanisława Moniuszki,Żary
 51.8870221,15.4790347,26,Ochla-Porannej-Rosy,Zielona Góra
@@ -52867,7 +52794,6 @@ lat,lon,housenumber,street,city
 51.6453025,15.1483724,2,Spokojna,Żary
 51.7287495,14.6636757,46,Wehrinselstraße,
 52.813952,15.894863,25,,
-52.813367,15.894359,25A,,
 52.785472,15.949741,1D,,
 51.6347353,15.1478164,1,Aleksandra Fredry,Żary
 51.6510612,15.1357763,32,Jana Kilińskiego,Żary
@@ -53561,7 +53487,7 @@ lat,lon,housenumber,street,city
 51.6371868,15.1527316,4,Juliusza Słowackiego,Żary
 51.6370991,15.1563009,10,Szpitalna,Żary
 51.6386046,15.1544215,42,Żagańska,Żary
-51.637675,15.1543926,4j,Juliusza Słowackiego,Żary
+51.6376677,15.1544074,4j,Juliusza Słowackiego,Żary
 51.637016,15.1555513,4,Juliusza Słowackiego,Żary
 51.6356483,15.1571559,16,Szpitalna,Żary
 52.7296727,15.2320222,26a,Generała Władysława Sikorskiego,Gorzów
@@ -53606,9 +53532,8 @@ lat,lon,housenumber,street,city
 52.576921,15.844083,23W,,
 52.49014,15.894017,9C,Okrężna,Łowyń
 52.485755,15.89388,70,Słoneczna,Łowyń
-51.7454468,15.0190188,10,Ignacego Paderewskiego,Jasień
+51.7454348,15.0187992,10,Ignacego Paderewskiego,Jasień
 51.7454653,15.0182652,6,Ignacego Paderewskiego,Jasień
-51.7454903,15.0176393,2,Ignacego Paderewskiego,Jasień
 51.7456551,15.0176074,1,Ignacego Paderewskiego,Jasień
 51.745659,15.018295,5,Ignacego Paderewskiego,
 51.7536997,15.0114281,20,XX-lecia,Jasień
@@ -53641,7 +53566,6 @@ lat,lon,housenumber,street,city
 52.1082339,15.8371117,2C,,
 52.121036,15.871798,32A,,
 52.1186229,15.8659083,25SA,,
-52.7615032,15.2778605,4,Jedwabnicza,Gorzów Wielkopolski
 52.7376617,15.2294667,75,Kosynierów Gdyńskich,Gorzów
 52.739806,15.2301348,8B,Kazimierza Jagiellończyka,Gorzów
 52.7390683,15.2296047,10,Kazimierza Jagiellończyka,Gorzów Wielkopolski
@@ -53715,7 +53639,6 @@ lat,lon,housenumber,street,city
 51.7510121,15.0147362,5,Tadeusza Kościuszki,Jasień
 52.3038237,15.786034,30,,
 52.3037558,15.7857766,28,,
-51.7913275,15.1214219,81C,Zabłocie,
 52.3358471,14.5421473,10,Görlitzer Straße,Frankfurt (Oder)
 51.7621479,15.0330795,56,Mirkowice,
 52.7343982,15.2993039,114C,,
@@ -53782,6 +53705,46 @@ lat,lon,housenumber,street,city
 51.7532143,15.0115139,16,XX-lecia,Jasień
 51.6368504,15.1494949,8,Zakopiańska,Żary
 52.7572523,15.2546311,19,Górczyńska,Gorzów Wielkopolski
+51.7514232,15.0135248,5B,Jana Pawła II,Jasień
+52.7406592,15.2060202,28,Juliana Ursyna Niemcewicza,Gorzów Wielkopolski
+51.6161129,15.3175197,8,Plac Klasztorny,
+51.6360392,15.1362637,2,Ułańska,Żary
+51.6349672,15.1391323,2,Pocztowa,Żary
+51.6404403,15.1557605,36a,Bohaterów Getta,Żary
+51.6401146,15.1559587,6,Zielona,Żary
+52.7318859,15.2378868,1,Bolesława Chrobrego,Gorzów Wielkopolski
+51.7634095,15.0363427,55B,Mirkowice,
+51.7635629,15.0367228,55A,Mirkowice,
+51.6341681,15.1504806,32,Aleja Wojska Polskiego,Żary
+52.2500949,15.5405881,3A,Jeziorowa,Świebodzin
+52.2512553,15.5385426,3B,Zamkowa,Świebodzin
+53.047865,15.8287796,150,,
+53.0481422,15.8294007,148,,
+53.0485533,15.8283089,147,,
+53.04862,15.8284124,140,,
+53.0480881,15.8281413,143,,
+53.0482955,15.8278997,142,,
+53.0474628,15.8293032,151A,,
+53.0482287,15.8291442,148A,,
+53.0485403,15.8280437,141,,
+53.0492206,15.8286372,132,,
+53.0493733,15.8281104,131,,
+53.0495395,15.8282823,130,,
+53.0490746,15.8267431,118,,
+53.0489027,15.8266055,119,,
+53.0500935,15.8286586,127,,
+53.049297,15.8272815,121,,
+53.0494699,15.8267248,116,,
+51.6395255,15.143615,23,Mieszka I,Żary
+51.6396281,15.143617,23,Mieszka I,Żary
+51.6397336,15.1451159,15,Mieszka I,Żary
+51.7349531,15.0037099,39,,
+51.6934508,14.9952731,3C,,
+51.7184546,14.9571106,26H,,
+52.3574323,15.5912421,21a,,
+51.9388819,15.5056148,1/2,Stefana Żeromskiego,Zielona Góra
+51.6407734,15.1357549,1/2,Broni Pancernej,Żary
+52.0514881,15.0902457,18,Nadodrzańska,Krosno Odrzańskie
 51.5463613,14.725354,11,Bauhof,Bad Muskau
 51.5458004,14.7255297,3,Bauhof,Bad Muskau
 51.548303,14.7233409,9,Schloßstraße,Bad Muskau
@@ -54485,6 +54448,7 @@ lat,lon,housenumber,street,city
 52.3405944,14.5498026,10,Zehmeplatz,Frankfurt (Oder)
 52.3399338,14.5504441,1,Gubener Straße,Frankfurt (Oder)
 52.3405283,14.5491329,9A,Zehmeplatz,Frankfurt (Oder)
+51.7441662,15.0184882,1,Wesoła,Jasień
 51.7820696,14.9780203,55,Wrocławska,Lubsko
 51.7823526,14.979142,9,Cypriana Kamila Norwida,Lubsko
 51.7823055,14.977997,53,Wrocławska,Lubsko
@@ -56069,7 +56033,7 @@ lat,lon,housenumber,street,city
 52.3498337,14.5427925,25A,Beckmannstraße,Frankfurt (Oder)
 52.3375976,14.5420257,41,Fürstenberger Straße,Frankfurt (Oder)
 52.3361953,14.5422329,32A,Fürstenberger Straße,Frankfurt (Oder)
-52.3368392,14.5437581,49,Tunnelstraße,Frankfurt (Oder)
+52.3368523,14.5437553,49,Tunnelstraße,Frankfurt (Oder)
 52.3357538,14.5439828,5,Görlitzer Straße,Frankfurt (Oder)
 52.3391195,14.5515936,12,Lindenstraße,Frankfurt (Oder)
 52.3370106,14.5519814,35,Gubener Straße,Frankfurt (Oder)
@@ -66659,6 +66623,7 @@ lat,lon,housenumber,street,city
 52.7271507,15.2404592,57,Przemysłowa,Gorzów Wielkopolski
 52.7308867,15.2398766,12b,Obotrycka,Gorzów Wielkopolski
 52.7320919,15.2383886,18,Wełniany Rynek,Gorzów Wielkopolski
+52.7324097,15.2382553,6a,Hawelańska,Gorzów Wielkopolski
 52.7319178,15.2381081,1,Bolesława Chrobrego,Gorzów Wielkopolski
 52.7339156,15.2377667,3,Generała Jarosława Dąbrowskiego,Gorzów Wielkopolski
 52.7335045,15.2385392,34,Generała Jarosława Dąbrowskiego,Gorzów Wielkopolski
@@ -67630,6 +67595,7 @@ lat,lon,housenumber,street,city
 52.3568828,14.5364705,19,Bremer Straße,Frankfurt (Oder)
 52.3565721,14.5364685,21,Bremer Straße,Frankfurt (Oder)
 52.3566472,14.5364653,20,Bremer Straße,Frankfurt (Oder)
+52.728922,15.3143056,40,Kalinowa,Czechów
 52.7495426,15.2250783,39,Stefana Okrzei,Gorzów Wielkopolski
 51.9137968,15.5669439,55,Racula-Głogowska,Zielona Góra
 51.4698057,14.9446171,1,Am Acker,Krauschwitz
@@ -72044,6 +72010,15 @@ lat,lon,housenumber,street,city
 51.9397414,15.5038874,10,Plac Powstańców Wielkopolskich,Zielona Góra
 51.9440692,15.506614,18a,Fryderyka Chopina,Zielona Góra
 52.7284316,15.3161193,15,,
+52.7293462,15.3161452,1,Jaśminowa,Czechów
+52.7290838,15.3156696,3,Jaśminowa,Czechów
+52.7289711,15.3159208,5,Jaśminowa,Czechów
+52.7288394,15.3156652,37,Kalinowa,Czechów
+52.7290013,15.3147843,38,Kalinowa,Czechów
+52.7290208,15.314596,39,Kalinowa,Czechów
+52.7288691,15.314132,41,Kalinowa,Czechów
+52.7291645,15.3153832,36A,Kalinowa,Czechów
+52.7295193,15.3152054,36,Kalinowa,Czechów
 51.9357429,15.4792098,24,Węgierska,Zielona Góra
 51.9357766,15.4794181,26,Węgierska,Zielona Góra
 51.9358604,15.4793839,28,Węgierska,Zielona Góra
@@ -74425,10 +74400,10 @@ lat,lon,housenumber,street,city
 52.2100689,15.4018198,45,,
 52.2126056,15.4040484,2A,,
 52.21318,15.4065481,3,Jeziorowa,Niesulice
-52.2115799,15.401513,4,Chabrowa,Niesulice
+52.211549,15.401661,4,Chabrowa,Niesulice
 52.2106318,15.400276,2,Różana,Niesulice
 52.2126663,15.4048029,12,Piaskowa,Niesulice
-52.2116422,15.4007151,10,Chabrowa,Niesulice
+52.211608,15.400878,10,Chabrowa,Niesulice
 52.2112886,15.4004375,6,Liliowa,Niesulice
 52.2103019,15.4002078,16,Słoneczna,Niesulice
 52.2126685,15.4050877,10,Piaskowa,Niesulice
@@ -74447,6 +74422,7 @@ lat,lon,housenumber,street,city
 52.2125869,15.3988254,15b,Różana,Niesulice
 52.2131445,15.4046684,9,Nadbrzeżna,Niesulice
 52.2124551,15.4058463,2G,,
+52.211267,15.401681,1,Liliowa,Niesulice
 52.2129914,15.406142,2,Plażowa,Niesulice
 52.2109185,15.400544,1,Różana,Niesulice
 52.2131038,15.406027,4,Nadbrzeżna,Niesulice
@@ -74457,19 +74433,19 @@ lat,lon,housenumber,street,city
 52.2104845,15.4013613,1,Frezjowa,Niesulice
 52.2109508,15.4003582,3,Różana,Niesulice
 52.2109328,15.3998446,4,Różana,Niesulice
-52.2116109,15.4012443,6,Chabrowa,Niesulice
+52.211596,15.401264,6,Chabrowa,Niesulice
 52.2128733,15.4051101,9,Piaskowa,Niesulice
 52.2127201,15.4035688,4,,
 52.2125725,15.403823,2B,,
-52.2118766,15.4012795,7,Chabrowa,Niesulice
+52.211771,15.401416,7,Chabrowa,Niesulice
 52.212454,15.4055904,2F,,
 52.2110569,15.4095506,2,Topolowa,Niesulice
 52.2126154,15.3995216,15,,
 52.2098804,15.4008401,7,Frezjowa,Niesulice
-52.2110524,15.4009025,8,Słoneczna,Niesulice
+52.210984,15.401006,8,Słoneczna,Niesulice
 52.2113863,15.3998273,8,Liliowa,Niesulice
 52.2129141,15.4047912,11,Piaskowa,Niesulice
-52.2115825,15.4018117,2,Chabrowa,Niesulice
+52.211544,15.401836,2,Chabrowa,Niesulice
 52.2126498,15.4056012,6,Piaskowa,Niesulice
 52.2125252,15.4050571,2D,,
 52.2130189,15.4058966,5,Nadbrzeżna,Niesulice
@@ -74480,6 +74456,7 @@ lat,lon,housenumber,street,city
 52.212853,15.401526,12A,,
 52.2128113,15.4027628,6b,,
 52.2103759,15.410616,7,Topolowa,Niesulice
+52.211301,15.401216,3,Liliowa,Niesulice
 52.209443,15.400704,12,Frezjowa,Niesulice
 52.2130658,15.4023116,25a,,
 52.2126219,15.4053575,8,Piaskowa,Niesulice
@@ -74495,7 +74472,7 @@ lat,lon,housenumber,street,city
 52.210263,15.4005668,15,Słoneczna,Niesulice
 52.2127591,15.4029892,6A,,
 52.2129221,15.4040676,2,,
-52.2113185,15.4010014,4,Liliowa,Niesulice
+52.211275,15.401092,4,Liliowa,Niesulice
 52.2129031,15.4000578,20,,
 52.2183084,15.3951235,17d,,
 52.2128379,15.4011216,14,,
@@ -74503,7 +74480,7 @@ lat,lon,housenumber,street,city
 52.21205,15.4027907,7A,,
 52.2104452,15.4008799,13,Słoneczna,Niesulice
 52.21353,15.4023327,23,,
-52.2118646,15.4018636,3,Chabrowa,Niesulice
+52.211752,15.401974,3,Chabrowa,Niesulice
 52.2103119,15.4013074,3,Frezjowa,Niesulice
 52.2128881,15.4053616,7,Piaskowa,Niesulice
 52.2118375,15.4001715,12,Chabrowa,Niesulice
@@ -75267,7 +75244,7 @@ lat,lon,housenumber,street,city
 52.1463631,15.3992266,26,,
 52.1472491,15.4043231,8,,
 52.1460378,15.4030247,1,,
-52.1478953,15.4018608,2,,
+52.147873,15.402123,2,,
 52.1477051,15.4029142,74,,
 52.1465474,15.4011293,22,,
 52.1458856,15.4004886,21,,
@@ -81656,7 +81633,7 @@ lat,lon,housenumber,street,city
 51.6397869,15.1516752,1,Nadrzeczna,Żary
 51.5951148,15.2119822,58,,
 51.6343766,15.1535936,1,Józefa Ignacego Kraszewskiego,Żary
-51.6342838,15.1531127,14,Marii Konopnickiej,Żary
+51.6342984,15.1531071,14,Marii Konopnickiej,Żary
 51.6387147,15.1543573,42,Żagańska,Żary
 51.6363547,15.1536064,8,Stanisława Wyspiańskiego,Żary
 51.6354572,15.1557598,4,Władysława Reymonta,Żary
@@ -81677,7 +81654,7 @@ lat,lon,housenumber,street,city
 51.6380048,15.1506138,5a,Zakopiańska,Żary
 51.6415667,15.1577532,48,Bohaterów Getta,Żary
 51.6324776,15.1552828,16,Generała Jana Henryka Dąbrowskiego,Żary
-51.6342172,15.150577,2b,Marii Konopnickiej,Żary
+51.634217,15.1505776,2b,Marii Konopnickiej,Żary
 51.6324,15.1555627,15,Generała Jana Henryka Dąbrowskiego,Żary
 51.639925,15.1562683,59,Żagańska,Żary
 51.635561,15.1522428,12,Adama Mickiewicza,Żary
@@ -81758,7 +81735,7 @@ lat,lon,housenumber,street,city
 51.6405702,15.1556128,36,Bohaterów Getta,Żary
 51.6356721,15.1550898,9,Henryka Sienkiewicza,Żary
 51.6343079,15.1519471,8,Marii Konopnickiej,Żary
-51.6339095,15.15318,2a,Józefa Ignacego Kraszewskiego,Żary
+51.6339192,15.15318,2a,Józefa Ignacego Kraszewskiego,Żary
 51.6389282,15.1522503,34,Żagańska,Żary
 51.6347317,15.1553953,3,Plac Władysława Łokietka,Żary
 51.6387898,15.1507514,26,Żagańska,Żary
@@ -81769,7 +81746,7 @@ lat,lon,housenumber,street,city
 51.6352352,15.1481112,8,Rafała Kalinowskiego,Żary
 51.6388465,15.1512892,26a,Żagańska,Żary
 51.6343187,15.1549666,2,Plac Władysława Łokietka,Żary
-51.6341964,15.1504372,32,Aleja Wojska Polskiego,Żary
+51.634197,15.1504378,32,Aleja Wojska Polskiego,Żary
 51.6391975,15.1554861,44,Żagańska,Żary
 51.6325822,15.1561109,1a,Tadeusza Boya-Żeleńskiego,Żary
 51.6374896,15.1511831,7,Zakopiańska,Żary
@@ -81795,7 +81772,7 @@ lat,lon,housenumber,street,city
 51.6341109,15.1548794,31,Henryka Sienkiewicza,Żary
 51.6379717,15.1558567,6,Szpitalna,Żary
 51.6355077,15.1548235,13,Henryka Sienkiewicza,Żary
-51.6415226,15.1582008,50,Bohaterów Getta,Żary
+51.6415367,15.1581767,50,Bohaterów Getta,Żary
 51.6353135,15.1555318,6,Władysława Reymonta,Żary
 51.6334575,15.1550473,30,Henryka Sienkiewicza,Żary
 51.6334744,15.1506903,40,Aleja Wojska Polskiego,Żary
@@ -89448,6 +89425,7 @@ lat,lon,housenumber,street,city
 52.5986663,15.1087598,20,,
 52.5961739,15.1088255,23,,
 52.604142,15.1064729,9,,
+52.3337591,14.5417293,21-24,Spartakusring,
 52.0810923,15.6227288,71,Armii Krajowej,Sulechów
 52.0809545,15.6228825,70,Armii Krajowej,Sulechów
 52.0816298,15.623336,75,Armii Krajowej,Sulechów
@@ -92190,6 +92168,7 @@ lat,lon,housenumber,street,city
 52.8354873,15.8212942,1,Milicka,Drezdenko
 52.8343035,15.8259278,8,Józefa Piłsudskiego,Drezdenko
 52.835592,15.8282438,2,Szpitalna,Drezdenko
+52.8385129,15.8263599,4,Ogrodowa,
 52.8311824,15.8292438,7,Okrężna,Drezdenko
 52.8309991,15.8299207,5,Okrężna,Drezdenko
 52.8306226,15.8296347,3,Okrężna,Drezdenko
@@ -93407,7 +93386,7 @@ lat,lon,housenumber,street,city
 52.813357,15.7616457,19,Poznańska,Trzebicz
 52.8105378,15.7843154,19a,,
 52.8088328,15.7843831,19d,,
-52.8064578,15.8748726,1A,,
+52.8064578,15.8748726,1a,,
 52.8115415,15.7571929,1a,Kolejowa,Trzebicz
 52.806902,15.8743202,1b,,
 52.8068854,15.8704237,1c,,
@@ -93647,7 +93626,7 @@ lat,lon,housenumber,street,city
 52.7842223,15.8298278,49,,
 52.8132429,15.7587711,49,Poznańska,Trzebicz
 52.8092918,15.8475588,4a,,
-52.8100711,15.8461767,4d,,
+52.810071,15.8461769,4d,,
 52.8143462,15.7998386,5,,
 52.7786459,15.7204432,5,,
 52.8100164,15.848393,5,,
@@ -93834,6 +93813,7 @@ lat,lon,housenumber,street,city
 52.8128245,15.7978244,9a,,
 52.8126986,15.7985416,9b,,
 52.8144982,15.8929276,68,,
+52.8084536,15.8698884,33C,,
 52.7925062,15.7848067,61,,
 52.7830612,15.8244571,52c,,
 52.8146891,15.8935487,67,,
@@ -94463,6 +94443,7 @@ lat,lon,housenumber,street,city
 52.8623321,15.7943712,9a,,
 52.8211089,15.8546448,9a,Niegosławska,Niegosław
 52.8288684,15.8486841,42,Notecka,Niegosław
+52.8160826,15.8528169,6a,,
 52.8481361,15.9212945,34,,
 52.8871994,15.9009591,18,,
 52.8282896,15.8488068,41,Notecka,Niegosław
@@ -94471,8 +94452,10 @@ lat,lon,housenumber,street,city
 52.837343,15.8935862,20,,
 52.8862929,15.8669085,49,,
 52.854406,15.8118948,30b,,
+52.816225,15.84655,143,,
 52.8219856,15.8588067,5,Niegosławska,Niegosław
 52.8285836,15.8485733,43,Notecka,Niegosław
+52.8173855,15.8462349,129a,,
 52.8966046,15.9502537,5,,
 52.8243047,15.8537983,12D,Niegosławska,Niegosław
 52.8245893,15.8524353,2c,Niegosławska,Niegosław
@@ -96755,13 +96738,14 @@ lat,lon,housenumber,street,city
 51.7449712,15.5929972,17,1 Maja,Kożuchów
 51.7457214,15.5944098,1,Klasztorna,Kożuchów
 51.7449738,15.5931607,15,1 Maja,Kożuchów
-51.7452136,15.5928849,8,1 Maja,Kożuchów
+51.7452139,15.5928827,8,1 Maja,Kożuchów
 51.7452083,15.5930626,6,1 Maja,Kożuchów
 51.7452083,15.5930626,4,1 Maja,Kożuchów
 51.7449779,15.5932438,13,1 Maja,Kożuchów
 51.7449824,15.5933455,11,1 Maja,Kożuchów
 51.7458139,15.5941898,22,Rynek,Kożuchów
 51.7458177,15.5942882,21,Rynek,Kożuchów
+51.7457107,15.594105,2,Kościelna,Kożuchów
 51.7458107,15.5940924,23,Rynek,Kożuchów
 51.7464226,15.5936953,9,Kościelna,Kożuchów
 51.7464431,15.5941965,5,Klasztorna,Kożuchów
@@ -96790,7 +96774,7 @@ lat,lon,housenumber,street,city
 51.7239684,15.1503694,56,Dolna,Bieniów
 51.7239149,15.1511263,54,Dolna,Bieniów
 52.2349951,15.5416086,8,Sulechowska,Świebodzin
-51.7272232,15.1320956,1,,
+51.7271794,15.1320989,1,,
 52.2707659,15.5373179,10,Międzyrzecka,Świebodzin
 52.4442593,15.5905094,72,30 Stycznia,Międzyrzecz
 51.5662101,15.5369582,12,Rynek,Szprotawa
@@ -98706,7 +98690,7 @@ lat,lon,housenumber,street,city
 52.0688946,15.0506991,47,Jana Pawła II,Osiecznica
 52.0166656,15.08531,65,Gubińska,Krosno Odrzańskie
 52.0635162,15.0848279,26,Władysława Łokietka,Krosno Odrzańskie
-52.0514943,15.0945804,2B,Winnica,Krosno Odrzańskie
+52.0514628,15.0945805,2B,Winnica,Krosno Odrzańskie
 52.0571487,15.0861577,2C,Młyńska,Krosno Odrzańskie
 52.0564596,15.0874061,5,Młyńska,Krosno Odrzańskie
 52.0558118,15.0870774,16,Ignacego Jana Paderewskiego,Krosno Odrzańskie
@@ -98810,7 +98794,7 @@ lat,lon,housenumber,street,city
 52.054425,15.0823959,13,Jaskółcza,Krosno Odrzańskie
 52.0543123,15.0823865,15,Jaskółcza,Krosno Odrzańskie
 52.0553027,15.0845388,4,Jaskółcza,Krosno Odrzańskie
-52.0529347,15.0863072,2,Jaskółcza,Krosno Odrzańskie
+52.052932,15.0863095,2,Jaskółcza,Krosno Odrzańskie
 52.0673761,15.0510339,60A,Jana Pawła II,Osiecznica
 52.0225433,15.2179804,5,Parkowa,Szczawno
 51.7999152,15.7040007,51,Wojska Polskiego,Nowa Sól
@@ -102581,6 +102565,7 @@ lat,lon,housenumber,street,city
 52.6667302,15.0040751,1,Wiejska,Nowiny Wielkie
 52.6678677,14.9869324,12A,Pyrzańska,Nowiny Wielkie
 52.6727309,15.0230129,26A,Leśna,Nowiny Wielkie
+52.6680903,14.998179,17,,
 52.6689731,15.0049573,5c,Wiejska,Nowiny Wielkie
 52.6692277,15.0118909,19B,Wiejska,Nowiny Wielkie
 52.6681503,15.0026649,12B,Główna,Nowiny Wielkie
@@ -103422,9 +103407,10 @@ lat,lon,housenumber,street,city
 52.7073794,15.1294386,4,Leśników,Łupowo
 52.7073769,15.1295783,5,Leśników,Łupowo
 51.7398839,14.6496426,2,Tagorestraße,Forst (Lausitz)
-52.0521766,15.0949569,3,Kościelna,Krosno Odrzańskie
-52.0522093,15.0946457,3A,Kościelna,Krosno Odrzańskie
-52.0519195,15.0951074,1A,Kościelna,Krosno Odrzańskie
+52.0521766,15.0946419,3A,Kościelna,Krosno Odrzańskie
+52.0518144,15.094634,3,Kościelna,Krosno Odrzańskie
+52.0518949,15.0951082,1A,Kościelna,Krosno Odrzańskie
+52.0516747,15.0952615,1,Kościelna,Krosno Odrzańskie
 52.0706892,15.0558803,2,Polna,Osiecznica
 52.0706809,15.0557049,2;4,Polna,Osiecznica
 52.070571,15.0567028,3,Polna,Osiecznica
@@ -103627,6 +103613,7 @@ lat,lon,housenumber,street,city
 51.5387998,14.7454907,3,Żurawska,Łęknica
 51.5407532,14.752307,29,Dworcowa,Łęknica
 51.5369667,14.737556,1b,Wojska Polskiego,Łęknica
+52.7571878,15.7259485,7,Osiedle Pod Sosnami,Gościm
 51.5400485,14.7443765,4,Polna,Łęknica
 51.5340315,14.733406,2,Ogrodowa,Łęknica
 51.5338976,14.7330433,3,Ogrodowa,Łęknica
@@ -103954,7 +103941,7 @@ lat,lon,housenumber,street,city
 52.0264141,15.0896304,8,Wierzbowa,Krosno Odrzańskie
 52.0264858,15.0896707,6,Wierzbowa,Krosno Odrzańskie
 52.0219288,15.0842187,63,Gubińska,Krosno Odrzańskie
-52.0515452,15.0905745,17,Nadodrzańska,Krosno Odrzańskie
+52.051521,15.0905741,17,Nadodrzańska,Krosno Odrzańskie
 51.7497194,14.6475071,17,Gubener Straße,Forst (Lausitz)
 51.7496575,14.6469421,28A,Gubener Straße,Forst (Lausitz)
 51.7499967,14.6471745,19,Gubener Straße,Forst (Lausitz)
@@ -104521,44 +104508,42 @@ lat,lon,housenumber,street,city
 52.0672256,15.1837361,57,,
 52.0663595,15.1840745,58,,
 52.3139353,15.0789614,13,Strażacka,Torzym
-52.052314,15.086104,30,Nadodrzańska,Krosno Odrzańskie
+52.0522872,15.0861057,30,Nadodrzańska,Krosno Odrzańskie
 52.0527416,15.0854891,31,Nadodrzańska,Krosno Odrzańskie
-52.0520667,15.0866352,29,Nadodrzańska,Krosno Odrzańskie
-52.052002,15.0868828,28,Nadodrzańska,Krosno Odrzańskie
-52.0520463,15.0871993,27,Nadodrzańska,Krosno Odrzańskie
-52.0521514,15.0870572,28A,Nadodrzańska,Krosno Odrzańskie
-52.0520415,15.0875785,26,Nadodrzańska,Krosno Odrzańskie
-52.0520002,15.0879952,25,Nadodrzańska,Krosno Odrzańskie
-52.0519365,15.088475,24,Nadodrzańska,Krosno Odrzańskie
-52.0518382,15.0889089,23,Nadodrzańska,Krosno Odrzańskie
-52.0517773,15.0893174,22,Nadodrzańska,Krosno Odrzańskie
-52.0516526,15.0896558,22,Nadodrzańska,Krosno Odrzańskie
-52.0515741,15.0898902,18,Nadodrzańska,Krosno Odrzańskie
-52.0523411,15.0912561,16,Winnica,Krosno Odrzańskie
-52.0522413,15.0919659,12,Winnica,Krosno Odrzańskie
-52.0522613,15.0918167,14,Winnica,Krosno Odrzańskie
+52.0520388,15.0866271,29,Nadodrzańska,Krosno Odrzańskie
+52.0519868,15.0868828,28,Nadodrzańska,Krosno Odrzańskie
+52.0520343,15.0871889,27,Nadodrzańska,Krosno Odrzańskie
+52.0521191,15.08706,28A,Nadodrzańska,Krosno Odrzańskie
+52.0519945,15.087577,26,Nadodrzańska,Krosno Odrzańskie
+52.0519655,15.0879915,25,Nadodrzańska,Krosno Odrzańskie
+52.0519022,15.0884606,24,Nadodrzańska,Krosno Odrzańskie
+52.0518004,15.0889027,23,Nadodrzańska,Krosno Odrzańskie
+52.0517575,15.0893184,22,Nadodrzańska,Krosno Odrzańskie
+52.0522877,15.0912476,16,Winnica,Krosno Odrzańskie
+52.0522052,15.0919468,12,Winnica,Krosno Odrzańskie
+52.0522146,15.091805,14,Winnica,Krosno Odrzańskie
 52.0520316,15.0916019,9,Winnica,Krosno Odrzańskie
 52.0524748,15.0925508,8A,Winnica,Krosno Odrzańskie
-52.0522026,15.0924476,10,Winnica,Krosno Odrzańskie
-52.0521859,15.0928463,8,Winnica,Krosno Odrzańskie
-52.0521487,15.0932644,6,Winnica,Krosno Odrzańskie
-52.0520658,15.0935828,4,Winnica,Krosno Odrzańskie
-52.051998,15.0939198,2,Winnica,Krosno Odrzańskie
-52.0521249,15.0942079,2A,Winnica,Krosno Odrzańskie
-52.0513239,15.09495,2a,Nadodrzańska,Krosno Odrzańskie
-52.0511562,15.0946096,7,Nadodrzańska,Krosno Odrzańskie
-52.0509659,15.0954909,6,Nadodrzańska,Krosno Odrzańskie
-52.0511378,15.0945454,8,Nadodrzańska,Krosno Odrzańskie
+52.0521586,15.0924581,10,Winnica,Krosno Odrzańskie
+52.052142,15.0928466,8,Winnica,Krosno Odrzańskie
+52.0521242,15.093267,6,Winnica,Krosno Odrzańskie
+52.0520216,15.0935906,4,Winnica,Krosno Odrzańskie
+52.0519684,15.0939284,2,Winnica,Krosno Odrzańskie
+52.0521089,15.0942089,2A,Winnica,Krosno Odrzańskie
+52.0513274,15.0949534,2a,Nadodrzańska,Krosno Odrzańskie
+52.0511322,15.0946102,7,Nadodrzańska,Krosno Odrzańskie
+52.0509212,15.0955746,6,Nadodrzańska,Krosno Odrzańskie
+52.0511193,15.0945482,8,Nadodrzańska,Krosno Odrzańskie
 52.052783,15.0925991,2A,Widok,Krosno Odrzańskie
 52.0527622,15.0928016,2B,Widok,Krosno Odrzańskie
 52.0527716,15.093542,4,Widok,Krosno Odrzańskie
 52.0527324,15.0931762,2,Widok,Krosno Odrzańskie
 52.0527451,15.0938563,6,Widok,Krosno Odrzańskie
 52.0526377,15.0941241,8,Widok,Krosno Odrzańskie
-52.0525355,15.0944814,10,Widok,Krosno Odrzańskie
-52.0526341,15.094986,15,Podgórna,Krosno Odrzańskie
-52.0525798,15.095114,13,Podgórna,Krosno Odrzańskie
-52.0524815,15.0951304,7,Kościelna,Krosno Odrzańskie
+52.0525362,15.0944833,10,Widok,Krosno Odrzańskie
+52.0526102,15.0949825,15,Podgórna,Krosno Odrzańskie
+52.0525596,15.0951437,13,Podgórna,Krosno Odrzańskie
+52.0524445,15.09512,7,Kościelna,Krosno Odrzańskie
 52.0534694,15.0935323,1A,Ogrodowa,Krosno Odrzańskie
 52.0538983,15.0932906,5,Stanisława Moniuszki,Krosno Odrzańskie
 52.0537974,15.0941057,1B,Stanisława Moniuszki,Krosno Odrzańskie
@@ -104577,28 +104562,28 @@ lat,lon,housenumber,street,city
 52.0531518,15.0895326,17,Ogrodowa,Krosno Odrzańskie
 52.0530027,15.0898763,15,Ogrodowa,Krosno Odrzańskie
 52.0529086,15.0898592,15A,Ogrodowa,Krosno Odrzańskie
-52.0513062,15.0940168,9,Nadodrzańska,Krosno Odrzańskie
-52.0513053,15.0938903,9A,Nadodrzańska,Krosno Odrzańskie
-52.0513072,15.0935809,9B,Nadodrzańska,Krosno Odrzańskie
-52.0513087,15.0934425,9C,Nadodrzańska,Krosno Odrzańskie
-52.0513318,15.0929836,11,Nadodrzańska,Krosno Odrzańskie
-52.0518837,15.0924586,5,Winnica,Krosno Odrzańskie
-52.0518593,15.092746,3,Winnica,Krosno Odrzańskie
-52.05181,15.0931357,1,Winnica,Krosno Odrzańskie
-52.0521803,15.0854014,31a,Nadodrzańska,Krosno Odrzańskie
-52.0522237,15.0850801,32,Nadodrzańska,Krosno Odrzańskie
-52.052262,15.0847899,33,Nadodrzańska,Krosno Odrzańskie
-52.0521947,15.0844552,34,Nadodrzańska,Krosno Odrzańskie
-52.0524162,15.0838417,35,Nadodrzańska,Krosno Odrzańskie
-52.0524484,15.0837342,36,Nadodrzańska,Krosno Odrzańskie
-52.0528278,15.0835264,37,Nadodrzańska,Krosno Odrzańskie
+52.051289,15.0940116,9,Nadodrzańska,Krosno Odrzańskie
+52.0512896,15.0938939,9A,Nadodrzańska,Krosno Odrzańskie
+52.051287,15.0935799,9B,Nadodrzańska,Krosno Odrzańskie
+52.051289,15.0934582,9C,Nadodrzańska,Krosno Odrzańskie
+52.0513017,15.0929808,11,Nadodrzańska,Krosno Odrzańskie
+52.0518316,15.0924682,5,Winnica,Krosno Odrzańskie
+52.0518027,15.0927634,3,Winnica,Krosno Odrzańskie
+52.0517744,15.0931417,1,Winnica,Krosno Odrzańskie
+52.0521807,15.0854036,31a,Nadodrzańska,Krosno Odrzańskie
+52.052236,15.0850795,32,Nadodrzańska,Krosno Odrzańskie
+52.0522776,15.0847871,33,Nadodrzańska,Krosno Odrzańskie
+52.0521936,15.0844472,34,Nadodrzańska,Krosno Odrzańskie
+52.0524749,15.0838686,35,Nadodrzańska,Krosno Odrzańskie
+52.0524263,15.08374,36,Nadodrzańska,Krosno Odrzańskie
+52.052801,15.0835157,37,Nadodrzańska,Krosno Odrzańskie
 52.0529509,15.0843597,35A,Nadodrzańska,Krosno Odrzańskie
-52.0530846,15.0834849,38,Nadodrzańska,Krosno Odrzańskie
-52.0530592,15.0824998,40,Nadodrzańska,Krosno Odrzańskie
-52.0529137,15.0826359,39,Nadodrzańska,Krosno Odrzańskie
-52.0533164,15.0817227,43,Nadodrzańska,Krosno Odrzańskie
-52.0534933,15.0815324,44,Nadodrzańska,Krosno Odrzańskie
-52.0533573,15.0824549,41,Nadodrzańska,Krosno Odrzańskie
+52.0530688,15.083475,38,Nadodrzańska,Krosno Odrzańskie
+52.0530411,15.0824928,40,Nadodrzańska,Krosno Odrzańskie
+52.0528921,15.0826534,39,Nadodrzańska,Krosno Odrzańskie
+52.0533076,15.0817269,2,Nadrzeczna,Marcinowice
+52.0534878,15.0815455,44,Nadodrzańska,Krosno Odrzańskie
+52.0533369,15.0824585,41,Nadodrzańska,Krosno Odrzańskie
 52.0544822,15.0833161,5,Jaskółcza,Krosno Odrzańskie
 52.0544846,15.0827196,17,Jaskółcza,Krosno Odrzańskie
 52.0549546,15.0818181,7,Jaskółcza,Krosno Odrzańskie
@@ -105408,9 +105393,9 @@ lat,lon,housenumber,street,city
 51.6490558,15.0189936,6,Zatorze,Lipinki Łużyckie
 51.6396788,15.0525525,104,,
 51.6388862,15.0473903,68A,,
-51.6957485,14.9953025,29/4,,
-51.6956345,14.9955295,28/4,,
-51.6958903,14.9951317,30/4,,
+51.6957397,14.9952981,29/4,,
+51.6956326,14.9955383,28/4,,
+51.695878,14.9951287,30/4,,
 52.7014704,15.119912,153A,Gorzowska,Jenin
 52.7014709,15.1201862,153B,Gorzowska,Jenin
 52.7013472,15.1196194,153,Gorzowska,Jenin
@@ -106044,7 +106029,7 @@ lat,lon,housenumber,street,city
 52.0529141,15.0914287,7,Ogrodowa,Krosno Odrzańskie
 52.0531646,15.0915674,5,Ogrodowa,Krosno Odrzańskie
 52.0532396,15.0918151,3,Ogrodowa,Krosno Odrzańskie
-52.0535832,15.0817936,42,Nadodrzańska,Krosno Odrzańskie
+52.053549,15.0818012,42,Nadodrzańska,Krosno Odrzańskie
 52.0542108,15.0785545,12,Nadrzeczna,Marcinowice
 52.0544567,15.0780854,14,Nadrzeczna,Marcinowice
 51.7402588,15.6063817,2,Kolonia Moniuszki,Podbrzezie Dolne
@@ -109289,13 +109274,11 @@ lat,lon,housenumber,street,city
 51.7724067,16.202211,60,,
 51.7729625,16.2024237,58A,,
 52.2604638,15.2614206,2,Dworcowa,Toporów
-52.4430248,15.1178909,11,Jana Kilińskiego,Sulęcin
 52.4437065,15.1174981,4,Plac Adama Mickiewicza,Sulęcin
 52.4432492,15.1175859,3,Plac Adama Mickiewicza,Sulęcin
 52.4438515,15.1187708,7,Plac Adama Mickiewicza,Sulęcin
 52.443378,15.119109,6,Plac Adama Mickiewicza,Sulęcin
 52.4432971,15.1184602,5,Plac Adama Mickiewicza,Sulęcin
-52.4429871,15.118569,13,Jana Kilińskiego,Sulęcin
 52.3128027,15.0581151,4,Dworcowa,Torzym
 51.9931431,15.5564646,24,Zawada-Szkolna,Zielona Góra
 51.9928166,15.556203,24,Zawada-Szkolna,Zielona Góra
@@ -111450,7 +111433,7 @@ lat,lon,housenumber,street,city
 52.6273853,15.0931863,16,,
 52.6271459,15.0920596,17,,
 52.6265178,15.0927236,18,,
-51.6960553,14.9936891,1D,,
+51.696082,14.9936596,1D,,
 52.3164686,15.7693826,100,,
 52.3158497,15.7711722,99,,
 52.6565076,15.3745934,1,Polna,Brzozowiec
@@ -112042,7 +112025,7 @@ lat,lon,housenumber,street,city
 51.8767947,16.0714645,1,Głogowska,Sława
 51.8810218,16.0725596,1,Henryka Pobożnego,Sława
 51.8776955,16.072194,1,Jana Matejki,Sława
-51.8802759,16.0734301,1,Krótka,Sława
+51.8802838,16.0734327,1,Krótka,Sława
 51.8777469,16.0711169,1,Ludwika Waryńskiego,Sława
 51.8769121,16.0724077,1,Mikołaja Reja,Sława
 51.877953,16.0698695,1,Plac Księdza Kazimierza Tomkiewicza,Sława
@@ -112066,7 +112049,6 @@ lat,lon,housenumber,street,city
 51.8786687,16.0699416,11,Nowy Rynek,Sława
 51.8791764,16.0659966,11,Odrodzonego Wojska Polskiego,Sława
 51.8773009,16.0724137,11,Rynek,Sława
-51.8771431,16.0751631,11,Powstańców Śląskich,Sława
 51.8775033,16.0729941,12,Fryderyka Chopina,Sława
 51.8760564,16.0718611,12,Mikołaja Reja,Sława
 51.8786118,16.0700363,12,Nowy Rynek,Sława
@@ -112113,7 +112095,7 @@ lat,lon,housenumber,street,city
 51.8803402,16.0658975,18,Odrodzonego Wojska Polskiego,Sława
 51.8770778,16.0718053,18,Rynek,Sława
 51.877582,16.0773362,18,Powstańców Śląskich,Sława
-51.8775339,16.0779369,18C,Wiejska,Sława
+51.8775353,16.0779409,18C,Wiejska,Sława
 51.8771251,16.0725757,19,Fryderyka Chopina,Sława
 51.8782839,16.0708647,19,Ludwika Waryńskiego,Sława
 51.8770785,16.0716394,19,Rynek,Sława
@@ -112146,11 +112128,10 @@ lat,lon,housenumber,street,city
 51.8789522,16.0690124,22,Nowy Rynek,Sława
 51.88066,16.0657145,22,Odrodzonego Wojska Polskiego,Sława
 51.8768759,16.071101,22,Rynek,Sława
-51.877861,16.0774342,22,Powstańców Śląskich,Sława
+51.8778418,16.0774231,22,Powstańców Śląskich,Sława
 51.8785649,16.0709143,23,Ludwika Waryńskiego,Sława
 51.8789121,16.0689528,23,Nowy Rynek,Sława
 51.8770767,16.0711042,23,Rynek,Sława
-51.8783745,16.0775376,23,Powstańców Śląskich,Sława
 51.8786124,16.0780809,23a,Powstańców Śląskich,Sława
 51.8788798,16.0688729,24,Nowy Rynek,Sława
 51.8807483,16.0653277,24,Odrodzonego Wojska Polskiego,Sława
@@ -112183,7 +112164,6 @@ lat,lon,housenumber,street,city
 51.8769002,16.0725927,2A,Mikołaja Reja,Sława
 51.8809778,16.0661207,2A,Ogrodowa,Sława
 51.8810206,16.0977005,2A,,
-51.8818763,16.0842216,2a,Długa,Sława
 51.8812007,16.0978921,2,,
 51.8780831,16.0715723,3,Fryderyka Chopina,Sława
 51.8811667,16.0733279,3,Henryka Pobożnego,Sława
@@ -112191,7 +112171,7 @@ lat,lon,housenumber,street,city
 51.8777402,16.0708906,3,Ludwika Waryńskiego,Sława
 51.8768841,16.0721619,3,Mikołaja Reja,Sława
 51.877757,16.0715233,3,Rynek,Sława
-51.8792019,16.0759359,3,Powstańców Śląskich,Sława
+51.8792085,16.0759332,3,Powstańców Śląskich,Sława
 51.8771188,16.0730302,3,Wschowska,Sława
 51.8811466,16.0717664,30,Ludwika Waryńskiego,Sława
 51.8786868,16.069164,30,Nowy Rynek,Sława
@@ -112251,8 +112231,8 @@ lat,lon,housenumber,street,city
 51.8809835,16.0714378,49,Ludwika Waryńskiego,Sława
 51.8788241,16.0713652,4A,Ludwika Waryńskiego,Sława
 51.881142,16.0747973,4a,Adama Mickiewicza,Sława
-51.8802995,16.0774029,4a,Henryka Pobożnego,Sława
-51.8808251,16.0778776,4c,Henryka Pobożnego,Sława
+51.8802955,16.0774066,4a,Henryka Pobożnego,Sława
+51.8808413,16.0778345,4c,Henryka Pobożnego,Sława
 51.8802713,16.0784133,4e,Henryka Pobożnego,Sława
 51.8825362,16.0991399,4,,
 51.8781756,16.0718986,5,Fryderyka Chopina,Sława
@@ -112310,6 +112290,7 @@ lat,lon,housenumber,street,city
 51.8770582,16.0745192,9,Powstańców Śląskich,Sława
 51.8802442,16.068406,10I,Odrodzonego Wojska Polskiego,Sława
 51.8803053,16.0684448,10J,Odrodzonego Wojska Polskiego,Sława
+51.8772537,16.0748354,11,Powstańców Śląskich,Sława
 51.880151,16.0683521,10G,Odrodzonego Wojska Polskiego,Sława
 51.8802048,16.0683832,10H,Odrodzonego Wojska Polskiego,Sława
 51.8773912,16.0709037,27,Rynek,Sława
@@ -112466,7 +112447,7 @@ lat,lon,housenumber,street,city
 51.8737459,16.0747776,7,Boczna,Sława
 51.8753975,16.0735039,7,Kwiatowa,Sława
 51.8766971,16.0756411,7,Wiejska,Sława
-51.8829574,16.0738964,7,Wincentego Pola,Sława
+51.8829662,16.0738976,7,Wincentego Pola,Sława
 51.8734161,16.0748741,7,Wspólna,Sława
 51.8854957,16.0744568,70,Ludwika Waryńskiego,Sława
 51.883417,16.0725825,71,Ludwika Waryńskiego,Sława
@@ -117305,6 +117286,7 @@ lat,lon,housenumber,street,city
 52.6708661,14.8989552,20,Pocztowa,Witnica
 52.6702919,14.8983321,7,Zaułek Wodny,Witnica
 52.6704607,14.8978737,10,Zaułek Wodny,Witnica
+52.670437,14.8988885,22,Pocztowa,Witnica
 52.6707141,14.89735,6A,Rybacka,Witnica
 52.670922,14.8972313,6,Rybacka,Witnica
 52.6700299,14.9085411,20A,Księdza Józefa Bielaka,Witnica
@@ -122618,7 +122600,7 @@ lat,lon,housenumber,street,city
 51.751812,15.0164975,1,Strażacka,Jasień
 51.7496314,15.0098469,10,I Armii,Jasień
 51.7476325,15.0174932,10,Żarska,Jasień
-51.749472,15.01001,12,I Armii,Jasień
+51.7494707,15.0100101,12,I Armii,Jasień
 51.749812,15.0126699,12,Kościelna,Jasień
 51.7493584,15.0101868,12A,I Armii,Jasień
 51.7489328,15.0113077,17,I Armii,Jasień
@@ -122629,7 +122611,7 @@ lat,lon,housenumber,street,city
 51.7499126,15.0149572,23,Tadeusza Kościuszki,Jasień
 51.7479937,15.0116703,24,I Armii,Jasień
 51.7478737,15.0119513,26,I Armii,Jasień
-51.7495752,15.0149004,27,Tadeusza Kościuszki,Jasień
+51.7495752,15.0149002,27,Tadeusza Kościuszki,Jasień
 51.7482359,15.0146508,29,I Armii,Jasień
 51.751101,15.0175902,3,Strażacka,Jasień
 51.7509616,15.0181085,3,Stefana Okrzei,Jasień
@@ -124027,7 +124009,7 @@ lat,lon,housenumber,street,city
 51.7514613,15.0145359,1,Tadeusza Kościuszki,Jasień
 51.7489347,15.0131684,1,Tokarska,Jasień
 51.7487948,15.0146582,1,Zielna,Jasień
-51.7485646,15.0158071,1,Żarska,Jasień
+51.7485645,15.0158066,1,Żarska,Jasień
 51.7517644,15.0130629,10,Jana Pawła II,Jasień
 51.7523243,15.0238546,10,Kolejowa,Jasień
 51.7497647,15.0175451,10,Ludwika Waryńskiego,Jasień
@@ -124036,13 +124018,13 @@ lat,lon,housenumber,street,city
 51.7513481,15.0154226,10,Sowia,Jasień
 51.7455457,15.0237667,10,Sportowa,Jasień
 51.7501731,15.0202756,10,Stefana Okrzei,Jasień
-51.7506641,15.014543,10,Tadeusza Kościuszki,Jasień
+51.7506641,15.0145428,10,Tadeusza Kościuszki,Jasień
 51.7448599,15.029413,101,Żarska,Jasień
 51.7485844,15.0212875,11,Budowlanych,Jasień
 51.7500276,15.0180745,11,Ludwika Waryńskiego,Jasień
 51.7492261,15.0196918,11,Ogrodowa,Jasień
 51.7485753,15.0177524,11,Polna,Jasień
-51.7504064,15.0169269,11,Powstańców Warszawskich,Jasień
+51.7504062,15.016927,11,Powstańców Warszawskich,Jasień
 51.7505836,15.0148915,11,Tadeusza Kościuszki,Jasień
 51.747964,15.0167175,11,Żarska,Jasień
 51.7497013,15.0175046,12,Ludwika Waryńskiego,Jasień
@@ -124051,17 +124033,17 @@ lat,lon,housenumber,street,city
 51.7506324,15.0163079,12,Powstańców Warszawskich,Jasień
 51.7453884,15.0237024,12,Sportowa,Jasień
 51.7500341,15.0208265,12,Stefana Okrzei,Jasień
-51.750523,15.0146432,12,Tadeusza Kościuszki,Jasień
+51.750523,15.0146433,12,Tadeusza Kościuszki,Jasień
 51.7475518,15.0178581,12,Żarska,Jasień
 51.7517764,15.0128779,12A,Jana Pawła II,Jasień
 51.7519223,15.0129231,12B,Jana Pawła II,Jasień
 51.7498195,15.0179416,13,Ludwika Waryńskiego,Jasień
 51.7491452,15.0195964,13,Ogrodowa,Jasień
-51.7502649,15.0168376,13,Powstańców Warszawskich,Jasień
+51.750265,15.0168374,13,Powstańców Warszawskich,Jasień
 51.7504429,15.0149561,13,Tadeusza Kościuszki,Jasień
 51.7478968,15.0169114,13,Żarska,Jasień
 51.7523111,15.0242845,14,Kolejowa,Jasień
-51.7494486,15.0173435,14,Ludwika Waryńskiego,Jasień
+51.7494485,15.0173435,14,Ludwika Waryńskiego,Jasień
 51.7491835,15.0190273,14,Ogrodowa,Jasień
 51.7518876,15.0115497,14,Plac Wolności,Jasień
 51.7504504,15.016299,14,Powstańców Warszawskich,Jasień
@@ -124070,14 +124052,14 @@ lat,lon,housenumber,street,city
 51.7497432,15.0178928,15,Ludwika Waryńskiego,Jasień
 51.7489965,15.0194981,15,Ogrodowa,Jasień
 51.7518077,15.0117392,15,Plac Wolności,Jasień
-51.7484214,15.0183914,15,Polna,Jasień
+51.7484214,15.0183913,15,Polna,Jasień
 51.7499673,15.0166495,15,Powstańców Warszawskich,Jasień
 51.7503236,15.021083,15,Stefana Okrzei,Jasień
 51.7503079,15.0150712,15,Tadeusza Kościuszki,Jasień
 51.7478824,15.0169755,15,Żarska,Jasień
 51.751817,15.0126835,16,Jana Pawła II,Jasień
 51.7523035,15.0245318,16,Kolejowa,Jasień
-51.7493577,15.0172858,16,Ludwika Waryńskiego,Jasień
+51.7493576,15.0172857,16,Ludwika Waryńskiego,Jasień
 51.7490506,15.0189832,16,Ogrodowa,Jasień
 51.7481439,15.0182157,16,Polna,Jasień
 51.7502183,15.0147548,16,Tadeusza Kościuszki,Jasień
@@ -124105,7 +124087,7 @@ lat,lon,housenumber,street,city
 51.7515406,15.0139216,2,Jana Pawła II,Jasień
 51.7515962,15.0141533,2,Konstytucji 3 Maja,Jasień
 51.750656,15.0180486,2,Ludwika Waryńskiego,Jasień
-51.7500468,15.0197334,2,Ogrodowa,Jasień
+51.7500467,15.0197333,2,Ogrodowa,Jasień
 51.7504142,15.020467,2,Parkowa,Jasień
 51.7461586,15.0240317,2,Sportowa,Jasień
 51.7480297,15.0186738,2,Tartaczna,Jasień
@@ -124114,16 +124096,16 @@ lat,lon,housenumber,street,city
 51.7487925,15.0188102,20,Ogrodowa,Jasień
 51.7496364,15.0221835,20,Stefana Okrzei,Jasień
 51.7469892,15.0202548,20,Żarska,Jasień
-51.7520128,15.0124219,20A,Jana Pawła II,Jasień
-51.7520128,15.0124219,20B,Jana Pawła II,Jasień
-51.7499655,15.0161431,20a,Powstańców Warszawskich,Jasień
-51.7498728,15.0160968,20b,Powstańców Warszawskich,Jasień
+51.7520127,15.0124217,20A,Jana Pawła II,Jasień
+51.7520127,15.0124217,20B,Jana Pawła II,Jasień
+51.7499655,15.016143,20a,Powstańców Warszawskich,Jasień
+51.7498727,15.0160968,20b,Powstańców Warszawskich,Jasień
 51.7492984,15.0133909,21,Kościelna,Jasień
 51.7491438,15.0175094,21,Ludwika Waryńskiego,Jasień
 51.7494281,15.0163088,21,Powstańców Warszawskich,Jasień
-51.750025,15.0149725,21,Tadeusza Kościuszki,Jasień
+51.7500249,15.0149724,21,Tadeusza Kościuszki,Jasień
 51.7478259,15.0176221,21,Żarska,Jasień
-51.7521038,15.0123317,22,Jana Pawła II,Jasień
+51.7521035,15.0123319,22,Jana Pawła II,Jasień
 51.748621,15.0187361,22,Ogrodowa,Jasień
 51.7496184,15.022251,22,Stefana Okrzei,Jasień
 51.7469088,15.0206283,22,Żarska,Jasień
@@ -124138,7 +124120,7 @@ lat,lon,housenumber,street,city
 51.7468466,15.0209097,24a,Żarska,Jasień
 51.7468225,15.0210197,24b,Żarska,Jasień
 51.7489111,15.0137507,25,Kościelna,Jasień
-51.7490125,15.0161513,25,Powstańców Warszawskich,Jasień
+51.7490125,15.016151,25,Powstańców Warszawskich,Jasień
 51.7496917,15.0151509,25,Tadeusza Kościuszki,Jasień
 51.7477164,15.0180778,25,Żarska,Jasień
 51.7494783,15.0158655,26,Powstańców Warszawskich,Jasień
@@ -124156,7 +124138,7 @@ lat,lon,housenumber,street,city
 51.7492153,15.0146028,28,Tadeusza Kościuszki,Jasień
 51.7466533,15.0216626,28,Żarska,Jasień
 51.748168,15.013526,28a,Kościelna,Jasień
-51.7492595,15.0150339,29,Tadeusza Kościuszki,Jasień
+51.7492594,15.0150337,29,Tadeusza Kościuszki,Jasień
 51.7476537,15.0183668,29,Żarska,Jasień
 51.7523953,15.0160591,3,Kolejowa,Jasień
 51.7505478,15.0184149,3,Ludwika Waryńskiego,Jasień
@@ -124168,19 +124150,19 @@ lat,lon,housenumber,street,city
 51.7495994,15.0225418,30,Stefana Okrzei,Jasień
 51.7489963,15.0147404,30,Tadeusza Kościuszki,Jasień
 51.7482544,15.0149898,31,I Armii,Jasień
-51.7491456,15.0149832,31,Tadeusza Kościuszki,Jasień
+51.7491456,15.0149831,31,Tadeusza Kościuszki,Jasień
 51.749582,15.0226081,32,Stefana Okrzei,Jasień
 51.7488373,15.0148246,32,Tadeusza Kościuszki,Jasień
 51.7465756,15.0221089,32,Żarska,Jasień
 51.7481619,15.0151922,33,I Armii,Jasień
-51.7490851,15.0151638,33,Tadeusza Kościuszki,Jasień
+51.749085,15.0151636,33,Tadeusza Kościuszki,Jasień
 51.7476928,15.0187874,33,Żarska,Jasień
 51.7496627,15.0227387,34,Stefana Okrzei,Jasień
 51.7486475,15.0151789,34,Tadeusza Kościuszki,Jasień
 51.7465278,15.0223285,34,Żarska,Jasień
 51.7488525,15.015431,35,Tadeusza Kościuszki,Jasień
 51.7496005,15.0227695,36,Stefana Okrzei,Jasień
-51.7484692,15.0153377,36,Tadeusza Kościuszki,Jasień
+51.7484691,15.0153376,36,Tadeusza Kościuszki,Jasień
 51.7464896,15.0225039,36,Żarska,Jasień
 51.7487851,15.0155718,37,Tadeusza Kościuszki,Jasień
 51.7495824,15.0228362,38,Stefana Okrzei,Jasień
@@ -124202,7 +124184,7 @@ lat,lon,housenumber,street,city
 51.7506379,15.0173837,4,Stefana Okrzei,Jasień
 51.7479953,15.0190287,4,Tartaczna,Jasień
 51.7526495,15.0118675,4,XX-lecia,Jasień
-51.7480339,15.0161615,4,Żarska,Jasień
+51.7480345,15.0161605,4,Żarska,Jasień
 51.747833,15.0143206,40,I Armii,Jasień
 51.749565,15.0229012,40,Stefana Okrzei,Jasień
 51.7463652,15.0230632,40,Żarska,Jasień
@@ -124238,7 +124220,7 @@ lat,lon,housenumber,street,city
 51.7523377,15.0233543,6,Kolejowa,Jasień
 51.7516706,15.0151896,6,Konstytucji 3 Maja,Jasień
 51.7501197,15.0177718,6,Ludwika Waryńskiego,Jasień
-51.749739,15.0194933,6,Ogrodowa,Jasień
+51.7497389,15.0194933,6,Ogrodowa,Jasień
 51.7506999,15.0206606,6,Parkowa,Jasień
 51.7484086,15.0165901,6,Polna,Jasień
 51.751013,15.0157541,6,Sowia,Jasień
@@ -124251,7 +124233,7 @@ lat,lon,housenumber,street,city
 51.7455734,15.0241962,7,Sportowa,Jasień
 51.7508561,15.0147129,7,Tadeusza Kościuszki,Jasień
 51.7481525,15.0165056,7,Żarska,Jasień
-51.7461201,15.0254418,75,Żarska,Jasień
+51.74612,15.0254417,75,Żarska,Jasień
 51.7508511,15.0166576,7A,Powstańców Warszawskich,Jasień
 51.750868,15.0168623,7B,Powstańców Warszawskich,Jasień
 51.7486011,15.0204521,8,Budowlanych,Jasień
@@ -124265,7 +124247,7 @@ lat,lon,housenumber,street,city
 51.7484971,15.0171012,8,Polna,Jasień
 51.7456883,15.0238484,8,Sportowa,Jasień
 51.7502935,15.0197277,8,Stefana Okrzei,Jasień
-51.7508288,15.0146024,8,Tadeusza Kościuszki,Jasień
+51.7508287,15.0146023,8,Tadeusza Kościuszki,Jasień
 51.7461966,15.0270088,83,Żarska,Jasień
 51.7458084,15.0268865,83a,Żarska,Jasień
 51.7484017,15.0209907,9,Budowlanych,Jasień
@@ -124324,7 +124306,7 @@ lat,lon,housenumber,street,city
 51.7498159,15.0129723,15,Kościelna,Jasień
 51.7537698,15.0120914,15,Przemysłowa,Jasień
 51.748989,15.0107253,16,I Armii,Jasień
-51.7495358,15.0129337,16,Kościelna,Jasień
+51.7495357,15.0129336,16,Kościelna,Jasień
 51.7545559,15.0121204,16,Obrońców,Jasień
 51.750842,15.010259,16,Podmokła,Jasień
 51.750033,15.0294063,16,Stefana Żeromskiego,Jasień
@@ -124342,7 +124324,7 @@ lat,lon,housenumber,street,city
 51.7507809,15.0128923,2,Boczna,Jasień
 51.7502158,15.0110536,2,Geodetów,Jasień
 51.7462081,15.015086,2,Lipowa,Jasień
-51.7538542,15.0211139,2,Lisia,Jasień
+51.7538542,15.0211138,2,Lisia,Jasień
 51.7509778,15.0103409,2,Mała,Jasień
 51.751314,15.0123072,2,Plac Wolności,Jasień
 51.7566517,15.019121,2,Przemysłowa,Jasień
@@ -124353,7 +124335,7 @@ lat,lon,housenumber,street,city
 51.7528541,15.0301474,6,Zacisze,Jasień
 51.7506746,15.0131759,2,Żwirowa,Jasień
 51.7458418,15.0150067,20,Henryka Sienkiewicza,Jasień
-51.7483144,15.0110692,20,I Armii,Jasień
+51.7483143,15.011069,20,I Armii,Jasień
 51.7522913,15.024965,20,Kolejowa,Jasień
 51.745304,15.0155498,21,Henryka Sienkiewicza,Jasień
 51.7484129,15.0121727,21,I Armii,Jasień
@@ -124433,11 +124415,11 @@ lat,lon,housenumber,street,city
 51.7471538,15.0156711,7,Henryka Sienkiewicza,Jasień
 51.7497778,15.0103849,7,I Armii,Jasień
 51.7503743,15.012524,7,Kościelna,Jasień
-51.7512054,15.0113461,7,Plac Wolności,Jasień
+51.7512054,15.0113458,7,Plac Wolności,Jasień
 51.7502647,15.0140899,7,Żwirowa,Jasień
 51.7514667,15.013311,7A,Jana Pawła II,Jasień
 51.7513009,15.0133617,7B,Jana Pawła II,Jasień
-51.7498552,15.0098103,8,I Armii,Jasień
+51.7498551,15.0098102,8,I Armii,Jasień
 51.7471808,15.014496,8,Leśna,Jasień
 51.7542426,15.0113616,8,Obrońców,Jasień
 51.7511733,15.0110917,8,Plac Wolności,Jasień
@@ -124453,12 +124435,13 @@ lat,lon,housenumber,street,city
 51.7494971,15.0107507,9A,I Armii,Jasień
 51.750373,15.0288773,12,Stefana Żeromskiego,Jasień
 51.7521926,15.0253845,24B,Kolejowa,Jasień
-51.7500405,15.0279768,9,Tenisowa,Jasień
+51.7500401,15.0279759,9,Tenisowa,Jasień
 51.7502261,15.0284387,3,Tenisowa,Jasień
 51.7429261,15.0157879,41,Henryka Sienkiewicza,Jasień
 51.7525538,15.0114087,1c,XX-lecia,Jasień
 51.7444713,15.0142485,1B,Krucza,Jasień
 51.7506074,15.0284589,8,Tenisowa,Jasień
+51.7546439,15.0165508,11,Przemysłowa,Jasień
 51.7514321,15.0136081,5B,Jana Pawła II,Jasień
 51.7580697,15.0103034,1,Akacjowa,Jasień
 51.7590994,15.0102676,1,Brzozowa,Jasień
@@ -124471,8 +124454,8 @@ lat,lon,housenumber,street,city
 51.756831,15.0072477,1,Wincentego Witosa,Jasień
 51.7542483,15.0102752,10,Lubska,Jasień
 51.753707,15.0088245,10,Marii Konopnickiej,Jasień
-51.7590606,15.0107783,11,Akacjowa,Jasień
-51.7536126,15.0072482,11,Józefa Rogali,Jasień
+51.7590607,15.0107782,11,Akacjowa,Jasień
+51.7536126,15.0072478,11,Józefa Rogali,Jasień
 51.7543575,15.0097383,11,Lubska,Jasień
 51.7533558,15.0091165,11,Marii Konopnickiej,Jasień
 51.7529475,15.0092719,11,Wąska,Jasień
@@ -124484,7 +124467,7 @@ lat,lon,housenumber,street,city
 51.7564014,15.0116249,13,Obrońców,Jasień
 51.7530779,15.0092448,13,Wąska,Jasień
 51.7544666,15.0100944,14,Lubska,Jasień
-51.7545994,15.009456,15,Lubska,Jasień
+51.7545993,15.009456,15,Lubska,Jasień
 51.7533334,15.0088649,15,Marii Konopnickiej,Jasień
 51.7561456,15.0117167,15,Obrońców,Jasień
 51.7560031,15.0111237,16,Adama Mickiewicza,Jasień
@@ -124496,7 +124479,7 @@ lat,lon,housenumber,street,city
 51.7533223,15.0087398,17,Marii Konopnickiej,Jasień
 51.7563052,15.0118514,17,Obrońców,Jasień
 51.7563615,15.0111699,18,Adama Mickiewicza,Jasień
-51.7548188,15.0096335,18,Lubska,Jasień
+51.7548187,15.0096335,18,Lubska,Jasień
 51.7565417,15.0111364,19,Adama Mickiewicza,Jasień
 51.7549947,15.0087549,19,Lubska,Jasień
 51.7533112,15.008614,19,Marii Konopnickiej,Jasień
@@ -124590,7 +124573,7 @@ lat,lon,housenumber,street,city
 51.7524772,15.004601,31a,Graniczna,Jasień
 51.7519665,15.0080767,7A,Graniczna,Jasień
 51.7559997,15.0171394,2,Przemysłowa,
-51.7564384,15.009991,1,Brukowa,Jasień
+51.7564384,15.0099906,1,Brukowa,Jasień
 51.9379558,15.5101879,5,Wrocławska,Zielona Góra
 51.9263959,15.5084106,8,Kożuchowska,Zielona Góra
 51.9322029,15.5190696,40,Partyzantów,Zielona Góra
@@ -147500,7 +147483,7 @@ lat,lon,housenumber,street,city
 51.8861338,16.0596023,3,Gajowa,Sława
 51.8853378,16.0634863,24,Gajowa,Sława
 51.8841059,16.0597216,1,Energetyczna,Sława
-51.8863348,16.0577734,14,Franciszka Niewidziajły,Sława
+51.8863209,16.057777,14,Franciszka Niewidziajły,Sława
 51.8865666,16.0585403,17,Gajowa,Sława
 51.8861163,16.0583691,18,Zjednoczenia,Sława
 51.8861794,16.0598024,1,Gajowa,Sława
@@ -147512,18 +147495,18 @@ lat,lon,housenumber,street,city
 51.8857577,16.0571786,8,Franciszka Niewidziajły,Sława
 51.8859232,16.0640291,6,Sosnowa,Sława
 51.8850039,16.0614777,25,Leśna,Sława
-51.8857738,16.0592743,6,Zjednoczenia,Sława
+51.8857665,16.0592612,6,Zjednoczenia,Sława
 51.8859984,16.0583841,16,Zjednoczenia,Sława
 51.8854413,16.0573487,5,Wczasowa,Sława
 51.8861183,16.058085,20,Zjednoczenia,Sława
 51.8857042,16.0606738,36,Leśna,Sława
 51.8850343,16.0616522,23,Leśna,Sława
-51.885656,16.0592626,4,Zjednoczenia,Sława
+51.8856487,16.0592495,4,Zjednoczenia,Sława
 51.8851835,16.0639665,20,Gajowa,Sława
 51.8855873,16.0610079,32,Leśna,Sława
 51.8854442,16.0579031,8,Wczasowa,Sława
 51.8852588,16.0620141,22,Leśna,Sława
-51.8864983,16.057945,16,Franciszka Niewidziajły,Sława
+51.8864982,16.0579449,16,Franciszka Niewidziajły,Sława
 51.8858676,16.0590697,8,Zjednoczenia,Sława
 51.8856168,16.0580743,10,Wczasowa,Sława
 51.885351,16.0616609,26,Leśna,Sława
@@ -147675,45 +147658,45 @@ lat,lon,housenumber,street,city
 51.8879116,16.0666144,49,Kasztanowa,Sława
 51.8875517,16.066219,40,Kasztanowa,Sława
 51.8868742,16.0679059,2,Kasztanowa,Sława
-51.8878777,16.0644009,33,Kasztanowa,Sława
+51.8878773,16.0643961,33,Kasztanowa,Sława
 51.8876318,16.0672003,46,Kasztanowa,Sława
 51.8869187,16.0675171,4,Kasztanowa,Sława
 51.8875997,16.0669261,44,Kasztanowa,Sława
 51.8875242,16.067564,48,Kasztanowa,Sława
+51.8880826,16.0682241,59,Kasztanowa,Sława
 51.8873931,16.0632429,5,Świerkowa,Sława
 51.886913,16.0669737,14,Kasztanowa,Sława
-51.8880384,16.0660433,45,Kasztanowa,Sława
-51.8880717,16.0665526,47,Kasztanowa,Sława
+51.8880578,16.0660462,45,Kasztanowa,Sława
+51.8880817,16.0665709,47,Kasztanowa,Sława
 51.887114,16.0677885,24,Ogrodowa,Sława
 51.8872461,16.0642729,25,Kasztanowa,Sława
 51.8868596,16.0648562,19,Kasztanowa,Sława
-51.8884651,16.0669523,4,Dębowa,Sława
+51.8884822,16.0669279,4,Dębowa,Sława
 51.8869983,16.0636838,3,Świerkowa,Sława
 51.8872693,16.0649073,30,Kasztanowa,Sława
-51.8871197,16.0634806,4,Świerkowa,Sława
-51.8883255,16.0683934,30,Ogrodowa,Sława
-51.8877854,16.0649168,35,Kasztanowa,Sława
-51.8879865,16.0682974,59,Kasztanowa,Sława
+51.8871108,16.0634669,4,Świerkowa,Sława
+51.8883044,16.0683639,30,Ogrodowa,Sława
+51.8877905,16.0649109,35,Kasztanowa,Sława
 51.8873587,16.0669596,10,Kasztanowa,Sława
 51.8876013,16.0665349,42,Kasztanowa,Sława
 51.8867888,16.0653466,17,Kasztanowa,Sława
-51.888493,16.067562,2,Dębowa,Sława
+51.8885298,16.0675421,2,Dębowa,Sława
 51.8883914,16.0654647,9,Dębowa,Sława
 51.8867114,16.06586,13,Kasztanowa,Sława
 51.8873977,16.0674935,8,Kasztanowa,Sława
 51.8864787,16.0677757,1,Kasztanowa,Sława
 51.886658,16.0663232,11,Kasztanowa,Sława
+51.8883763,16.0657891,7,Dębowa,Sława
 51.8870069,16.0663992,18,Kasztanowa,Sława
 51.887056,16.0659854,22,Kasztanowa,Sława
 51.8865357,16.0672489,5,Kasztanowa,Sława
-51.8884118,16.0657308,7,Dębowa,Sława
 51.8869463,16.0687564,7D,Ogrodowa,Sława
-51.888399,16.0655645,8,Dębowa,Sława
-51.8876423,16.0642472,31,Kasztanowa,Sława
-51.8881935,16.0677998,55,Kasztanowa,Sława
+51.8883755,16.0655101,8,Dębowa,Sława
+51.887639,16.0642424,31,Kasztanowa,Sława
+51.8881978,16.0678007,55,Kasztanowa,Sława
 51.8871915,16.0651516,28,Kasztanowa,Sława
-51.8881163,16.0670702,53,Kasztanowa,Sława
-51.8878409,16.0654927,41,Kasztanowa,Sława
+51.8881154,16.0670405,53,Kasztanowa,Sława
+51.8878409,16.0654742,41,Kasztanowa,Sława
 51.8865159,16.0674091,3,Kasztanowa,Sława
 51.8873054,16.066428,20,Kasztanowa,Sława
 51.8872144,16.0669036,12,Kasztanowa,Sława
@@ -147722,7 +147705,7 @@ lat,lon,housenumber,street,city
 51.8869865,16.0666821,16,Kasztanowa,Sława
 51.8870919,16.0657538,24,Kasztanowa,Sława
 51.8869399,16.0640488,2,Świerkowa,Sława
-51.8879973,16.0678106,57,Kasztanowa,Sława
+51.8879982,16.0677917,57,Kasztanowa,Sława
 51.8875206,16.0659085,38,Kasztanowa,Sława
 51.8876397,16.0636358,7,Świerkowa,Sława
 51.8847213,16.0709201,10,Jedności Robotniczej,Sława
@@ -147828,15 +147811,16 @@ lat,lon,housenumber,street,city
 51.8890507,16.0586198,13,Tęczowa,Sława
 51.8885379,16.0678693,1,Dębowa,Sława
 51.8886557,16.0586717,15,Tęczowa,Sława
-51.8891989,16.0571166,5,Tęczowa,Sława
+51.88921,16.0571232,5,Tęczowa,Sława
 51.8835303,16.0615163,12,Prosta,Sława
 51.8805442,16.0561701,19,Odrodzonego Wojska Polskiego,Sława
-51.8824626,16.0516142,23,Odrodzonego Wojska Polskiego,Sława
+51.8824814,16.0516351,23,Odrodzonego Wojska Polskiego,Sława
 51.8812721,16.0614602,17a,Odrodzonego Wojska Polskiego,Sława
 51.8818763,16.0538258,21,Odrodzonego Wojska Polskiego,Sława
 51.8815656,16.0573648,19,Odrodzonego Wojska Polskiego,Sława
 51.8812158,16.0609088,17,Odrodzonego Wojska Polskiego,Sława
 51.8863655,16.0712872,10,Złota Podkowa,Sława
+51.8940007,16.0816661,7,Przemysłowa,
 51.8861277,16.071293,8,Złota Podkowa,Sława
 51.8909036,16.0772337,6,Przemysłowa,Sława
 51.8918103,16.0786673,4,Przemysłowa,Sława
@@ -147847,7 +147831,6 @@ lat,lon,housenumber,street,city
 51.894151,16.0766236,7,Przemysłowa,Sława
 51.892018,16.0751484,6a,Przemysłowa,
 51.8893069,16.0769555,33,Przemysłowa,Sława
-51.8942841,16.0804299,7,Przemysłowa,
 51.8865487,16.0712469,12,Złota Podkowa,Sława
 51.8856613,16.0709202,2,Złota Podkowa,Sława
 51.8869395,16.0745403,2,Kolejowa,Sława
@@ -147906,10 +147889,9 @@ lat,lon,housenumber,street,city
 51.8728147,16.0689841,21a,Głogowska,Sława
 51.7709416,15.9448204,122a,,
 51.8898472,16.0710707,1,Kolonia,Sława
-51.8734536,16.0619417,11,Nowosolska,Sława
+51.873484,16.0618991,11,Nowosolska,Sława
 51.7544271,15.9341212,3,,
 51.7689128,15.9418077,99,,
-51.871669,16.0644296,5,Saturna,Radzyń
 51.7554634,15.934384,13A,,
 51.7130321,15.9045728,26,,
 51.8926569,16.0714539,5,Kolonia,Sława
@@ -147937,24 +147919,24 @@ lat,lon,housenumber,street,city
 51.7702403,15.9434424,126,,
 51.7694674,15.9373128,91B,,
 51.767676,15.9420295,13,,
-51.9030813,16.0830151,9c,,
+51.9030826,16.0830109,9c,,
 51.770943,15.928884,74,,
 51.9038987,16.08084,12,,
 51.7702141,15.9319805,82,,
-51.9054384,16.0745018,16a,,
-51.8737344,16.061888,9,Nowosolska,Sława
+51.9054436,16.0744963,16a,,
+51.8737686,16.0618514,9,Nowosolska,Sława
 51.7694912,15.9420852,101,,
 51.7113393,15.9056169,17,,
 51.8912023,16.0896464,10,Długa,Sława
 51.7688555,15.9374139,21,,
 51.7706341,15.9306959,79,,
-51.8711189,16.0636225,2,Marsa,Radzyń
+51.8711325,16.0636018,2,Marsa,Radzyń
 51.7709479,15.9422416,108,,
 51.7697589,15.9338193,85,,
 51.8973462,16.0825564,35A,,
 51.7715353,15.9235914,63,,
 51.7102241,15.905743,49,,
-51.8734842,16.0623331,12,Nowosolska,Sława
+51.8735126,16.0623065,12,Nowosolska,Sława
 51.76945,15.9447686,143,,
 51.9028934,16.0842838,43,,
 51.7544124,15.9333588,11,,
@@ -148034,7 +148016,7 @@ lat,lon,housenumber,street,city
 51.9044608,16.0765364,19,,
 51.7126883,15.9055073,34a,,
 51.8717116,16.0701989,23A,Głogowska,Sława
-51.9030104,16.082308,6,,
+51.9030035,16.0823423,6,,
 51.9044093,16.0775895,14,,
 51.7114774,15.9056066,18,,
 51.7692791,15.9322632,31,,
@@ -148051,8 +148033,9 @@ lat,lon,housenumber,street,city
 51.7716903,15.9423691,111a,,
 51.7695685,15.9350652,88,,
 51.7490079,15.9299708,22b,,
-51.8734177,16.0614455,4,Nowosolska,Sława
+51.8734508,16.0614127,4,Nowosolska,Sława
 51.9026689,16.0838389,7a,,
+51.8718099,16.0641823,5,Saturna,Radzyń
 51.7699197,15.9315743,36,,
 51.7712581,15.926994,70,,
 51.7132626,15.9041973,27,,
@@ -148071,13 +148054,13 @@ lat,lon,housenumber,street,city
 51.7546169,15.9344545,3a,,
 51.7708187,15.929923,77,,
 51.7694114,15.9319491,32,,
-51.9053253,16.0753182,16,,
+51.905326,16.0753107,16,,
 51.7708563,15.9266995,46,,
 51.7130119,15.9027424,29,,
 51.7701498,15.9301253,39,,
-51.8736774,16.0618991,10,Nowosolska,Sława
+51.8736742,16.0618713,10,Nowosolska,Sława
 51.7702214,15.9427686,104,,
-51.8917776,16.0859239,2,Łąkowa,Sława
+51.8917926,16.0859369,2,Łąkowa,Sława
 51.9033415,16.0792763,25,,
 51.7530464,15.9283544,24A,,
 51.7711402,15.927858,71,,
@@ -148114,33 +148097,32 @@ lat,lon,housenumber,street,city
 51.8722261,16.0628739,5,Merkurego,Radzyń
 51.7692219,15.9352433,24,,
 51.8732847,16.0694327,19,Głogowska,Sława
-51.90379,16.0845047,51,,
 51.7680679,15.9433291,158,,
 51.8720061,16.0700773,23,Głogowska,Sława
 51.7710761,15.9448301,122,,
 51.7689688,15.9402387,95,,
 51.7659943,15.9395033,7,,
 51.7539726,15.9335404,6,,
-51.9035476,16.0841778,8a,,
+51.9035476,16.0841777,8a,,
 51.9023348,16.0803723,2,,
 51.8717211,16.0671838,16,Głogowska,Sława
 51.7714045,15.9424776,110,,
 51.8728932,16.0683993,12,Głogowska,Sława
 51.7706004,15.9282489,43,,
 51.9033665,16.0833882,9a,,
-51.8726739,16.0628319,32,Nowosolska,Sława
+51.8726749,16.0628138,32,Nowosolska,Sława
 51.9029131,16.0846141,44,,
 51.7710221,15.9285422,73,,
 51.8996672,16.0821439,33a,,
 51.7700442,15.9334084,84,,
-51.903235,16.0828089,10,,
+51.903234,16.0828117,10,,
 51.8889642,16.0863658,1a,Długa,Sława
 51.7687412,15.9406638,96,,
 51.872063,16.0583348,10,Ptasia,Radzyń
 51.7548707,15.9327972,12,,
 51.9031089,16.0793415,25b,,
 51.7683456,15.9410472,15,,
-51.903738,16.0815565,11a,,
+51.903741,16.0815361,11a,,
 51.7525643,15.9290363,16b,,
 51.8720388,16.0683013,27A,Głogowska,Sława
 51.9040023,16.084237,37,,
@@ -148175,7 +148157,7 @@ lat,lon,housenumber,street,city
 51.8722766,16.0682431,27,Głogowska,Sława
 51.7713244,15.9257805,67a,,
 51.902266,16.0800436,27a,,
-51.8907003,16.071678,4,Kolonia,Sława
+51.8906932,16.0716776,4,Kolonia,Sława
 51.9010999,16.0810124,31,,
 51.9036374,16.0805333,5,,
 51.7667897,15.9410304,11,,
@@ -148198,7 +148180,7 @@ lat,lon,housenumber,street,city
 51.7709639,15.9442707,123,,
 51.8713901,16.0663997,16a,Głogowska,Sława
 51.8904788,16.0888373,6,Długa,Sława
-51.8718903,16.0615742,3,Merkurego,Radzyń
+51.8719263,16.0615786,3,Merkurego,Radzyń
 51.768702,15.9383172,19A,,
 51.901846,16.080066,28,,
 51.9036826,16.0777673,22b,,
@@ -148225,10 +148207,10 @@ lat,lon,housenumber,street,city
 51.7705441,15.9465156,141A,,
 51.8737616,16.0704723,15,Głogowska,Sława
 51.7525957,15.9289337,16a,,
-51.8727553,16.0625689,33,Nowosolska,Sława
+51.8727613,16.0625487,33,Nowosolska,Sława
 51.7704714,15.9436789,125,,
 51.9031554,16.0840978,9b,,
-51.9033757,16.0826587,10a,,
+51.9033309,16.0826086,10a,,
 51.7524734,15.9293709,17,,
 51.9218156,15.505633,7,Emilii Plater,Zielona Góra
 52.3482468,14.5435806,9,Sophienstraße,Frankfurt (Oder)
@@ -153480,7 +153462,7 @@ lat,lon,housenumber,street,city
 51.762237,15.243015,1,,
 51.8714717,15.1649271,1,,
 51.7544535,15.1943094,1,,
-51.7900008,15.1186466,1,,
+51.7900006,15.1186466,1,,
 51.8230396,15.0500656,1,,
 51.8473974,15.2619961,2,Aleja Lipowa,Bogaczów
 51.8682821,15.1884286,2,Bogaczowska,Wysoka
@@ -153610,7 +153592,7 @@ lat,lon,housenumber,street,city
 51.909469,15.143247,29,,
 51.9087818,15.0959447,29,,
 51.6926509,15.1322918,29,,
-51.787639,15.1253215,29,,
+51.7876391,15.1253214,29,,
 51.8472847,15.2650501,2A,Dębowa,Bogaczów
 51.7187519,15.1783085,2C,Górna,Bieniów
 51.8443285,15.1958251,2C,,
@@ -153673,7 +153655,7 @@ lat,lon,housenumber,street,city
 51.7876002,15.1266616,33,,
 51.8523965,15.2593733,34,Aleja Lipowa,Bogaczów
 51.6922991,15.1304608,34,,
-51.7872307,15.1269537,34,,
+51.7872302,15.1269534,34,,
 51.9088729,15.1509511,34,,
 51.8968936,15.070399,34,,
 51.7219296,15.1914249,35,Górna,Bieniów
@@ -153684,9 +153666,9 @@ lat,lon,housenumber,street,city
 51.7214274,15.1968514,36,Górna,Bieniów
 51.898525,15.0719725,36,,
 51.6931019,15.113047,36,,
-51.787551,15.1277315,36,,
+51.7875509,15.1277313,36,,
 51.7213851,15.1915737,37,Górna,Bieniów
-51.7874995,15.1284217,37A,,
+51.7874995,15.1284215,37A,,
 51.6926896,15.1138264,37a,,
 51.692785,15.113373,37,,
 51.9117076,15.0918799,37,,
@@ -153696,7 +153678,7 @@ lat,lon,housenumber,street,city
 51.9116961,15.0915071,38,,
 51.6922813,15.113985,38,,
 51.6919931,15.1281293,38,,
-51.7875022,15.1286405,38,,
+51.7875024,15.1286405,38,,
 51.7214401,15.1921475,39,Górna,Bieniów
 51.6921076,15.115126,39,,
 51.909713,15.1528241,39,,
@@ -153749,7 +153731,7 @@ lat,lon,housenumber,street,city
 51.691516,15.1176217,42,,
 51.6913012,15.1276412,42,,
 51.9117751,15.090142,42,,
-51.786496,15.1268662,42,,
+51.7864961,15.126867,42,,
 51.7219435,15.1954595,43,Górna,Bieniów
 51.6911713,15.1192778,43A,,
 51.6912745,15.1189597,43,,
@@ -153838,7 +153820,7 @@ lat,lon,housenumber,street,city
 51.8570239,15.2516079,56,Aleja Lipowa,Bogaczów
 51.7229862,15.2194346,56,Górna,Bieniów
 51.6902725,15.1163295,56,,
-51.7878456,15.1279129,56,,
+51.7878455,15.1279127,56,,
 51.6913792,15.1172368,57,,
 51.8571969,15.2510898,58,Aleja Lipowa,Bogaczów
 51.6914246,15.1163504,58,,
@@ -153869,12 +153851,12 @@ lat,lon,housenumber,street,city
 51.7166763,15.1775417,6,Zielonogórska,Bieniów
 51.8574617,15.250701,60,Aleja Lipowa,Bogaczów
 51.6912188,15.1152657,60,,
-51.7879494,15.1266008,60,,
+51.7879501,15.1265983,60,,
 51.7239725,15.2122963,61,Górna,Bieniów
 51.6915588,15.1150278,61,,
-51.7879628,15.1264387,61,,
+51.7879628,15.1264386,61,,
 51.857633,15.2495686,62,Aleja Lipowa,Bogaczów
-51.7879797,15.1261085,62,,
+51.7879797,15.1261084,62,,
 51.6906894,15.1145641,62,,
 51.6918908,15.1142911,63,,
 51.8578441,15.2480833,64,Aleja Lipowa,Bogaczów
@@ -153884,20 +153866,20 @@ lat,lon,housenumber,street,city
 51.7235221,15.2139749,65,Górna,Bieniów
 51.7237293,15.2150116,65A,Górna,Bieniów
 51.6912159,15.1137821,65,,
-51.7880393,15.125136,65,,
+51.78804,15.1251349,65,,
 51.8578357,15.2457971,66,Aleja Lipowa,Bogaczów
 51.6919053,15.1135569,66a,,
 51.6912925,15.1124598,66,,
-51.7879572,15.1248174,66,,
+51.7879576,15.1248178,66,,
 51.7235129,15.2160004,67,Górna,Bieniów
 51.6912339,15.1118663,67,,
-51.7878982,15.1246682,67,,
+51.7879215,15.124676,67,,
 51.8582061,15.2452744,68,Aleja Lipowa,Bogaczów
-51.7879523,15.1244964,68,,
+51.7879524,15.1244915,68,,
 51.6928769,15.1127548,68,,
 51.7236122,15.2167998,69,Górna,Bieniów
 51.6929334,15.1121606,69,,
-51.787874,15.1240638,69,,
+51.7878739,15.1240637,69,,
 51.7201686,15.1683264,6A,Dolna,Bieniów
 51.7193242,15.18132,6a,Górna,Bieniów
 51.8432873,15.2123158,6,,
@@ -153925,7 +153907,7 @@ lat,lon,housenumber,street,city
 51.7878441,15.1239409,70,,
 51.7237284,15.2178157,71,Górna,Bieniów
 51.6937703,15.1108595,71,,
-51.7878278,15.1234596,71,,
+51.7878279,15.1234594,71,,
 51.8583507,15.2431804,72,Aleja Lipowa,Bogaczów
 51.6931815,15.1099484,72,,
 51.788,15.1226116,72,,
@@ -153934,11 +153916,11 @@ lat,lon,housenumber,street,city
 51.7887421,15.1217524,73,,
 51.7887264,15.1215356,74,,
 51.7891376,15.1210739,75,,
-51.7892764,15.1208344,76A,,
-51.7892764,15.1208344,76,,
-51.7894701,15.1203905,77,,
-51.7896177,15.1200945,78,,
-51.789644,15.119948,79,,
+51.7892754,15.1208328,76A,,
+51.7892754,15.1208328,76,,
+51.78947,15.1203903,77,,
+51.7896177,15.1200962,78,,
+51.7896439,15.1199479,79,,
 51.8457633,15.1971234,7A,,
 51.6933668,15.1339344,7a,,
 51.8401478,15.0582428,7,,
@@ -153964,12 +153946,12 @@ lat,lon,housenumber,street,city
 51.7906692,15.1198682,80,,
 51.7905434,15.1216265,81,,
 51.7893179,15.1214313,82,,
-51.7901076,15.1301232,84,,
+51.7901075,15.130123,84,,
 51.7897461,15.1287427,85,,
-51.790244,15.1287087,86,,
-51.7904018,15.128326,87,,
+51.7902443,15.1287073,86,,
+51.7904017,15.1283259,87,,
 51.7905679,15.1270636,88,,
-51.7915398,15.1279787,89,,
+51.7915423,15.1280138,89,,
 51.7196244,15.1823966,8A,Górna,Bieniów
 51.8402362,15.0576379,8a,,
 51.6934178,15.1340433,8,,
@@ -154009,12 +153991,13 @@ lat,lon,housenumber,street,city
 51.7689206,15.1731891,13,Długa,Białowice
 51.9107083,15.1513058,1,,
 51.7705444,15.1736161,6,Ogrodowa,Białowice
-51.7880029,15.1257657,64A,,
+51.7880028,15.1257656,64A,,
 51.8500875,15.2620987,1,Zacisze,Bogaczów
 51.910161,15.1483365,12,,
 51.9101621,15.1532101,38,,
 51.9084832,15.1474194,4,,
 51.7873864,15.1308999,51,Zabłocie,
+51.7902369,15.1267252,87C,Zabłocie,
 51.7876842,15.1305171,52,Zabłocie,
 51.9098992,15.1489947,11,,
 51.9101812,15.1488009,10,,
@@ -154551,12 +154534,12 @@ lat,lon,housenumber,street,city
 51.7266352,14.9083192,1,,
 51.7856028,14.8999322,10,,
 51.8085386,14.8312552,83,,Biecz
-51.7201419,14.9303529,17,,
+51.7201319,14.9303304,17,,
 51.7717681,14.9356426,5,,
 51.7856709,14.8934029,15,,
 51.7238736,14.9063233,10,,
 51.809318,14.8342095,10,,
-51.7203853,14.9308076,14,,
+51.7203875,14.9308115,14,,
 51.8039271,14.8334377,53,,
 51.7205746,14.9041981,15,,
 51.7198278,14.9058609,25,,
@@ -154568,8 +154551,8 @@ lat,lon,housenumber,street,city
 51.8070499,14.8320003,19,,
 51.7315411,14.8917578,27,,
 51.7858057,14.8979238,14,,
-51.7199731,14.9320902,9,,
-51.7195205,14.9302424,5,,
+51.7199766,14.9320923,9,,
+51.7195209,14.9302457,5,,
 51.7316034,14.8958064,12,,
 51.6882369,14.8994387,14,,
 51.7703101,14.9316663,24,,
@@ -154590,7 +154573,7 @@ lat,lon,housenumber,street,city
 51.768325,14.932084,53,,
 51.6879542,14.900081,16,,
 51.8084967,14.8318688,82,,
-51.7189923,14.9305818,3,,
+51.718993,14.9305895,3,,
 51.6886873,14.8984485,8,,
 51.7708389,14.937126,49,,
 51.8066959,14.8306897,69,,
@@ -154616,27 +154599,28 @@ lat,lon,housenumber,street,city
 51.7249579,14.9088565,5,,
 51.7701041,14.9329871,41,,
 51.7206219,14.9057033,17,,
-51.7170059,14.9226119,22,,
+51.7170096,14.9226149,22,,
 51.7341487,14.8960011,3,,
 51.7684822,14.9311627,77,,
 51.7258483,14.9082331,2,,
-51.7197932,14.9311028,8,,
-51.7193556,14.9293793,20,,
+51.7197857,14.9310942,8,,
+51.7193556,14.9293779,20,,
 51.7706177,14.9313872,16,,
 51.787943,14.7851436,17B,Tadeusza Kościuszki,Brody
 51.8050613,14.8340194,39,,
-51.7206073,14.932882,10,,
+51.7206002,14.9328633,10,,
 51.8069122,14.8307227,73,,
 51.7334504,14.8913881,20,,
 51.802994,14.8359669,42,,
 51.7712652,14.935878,35,,
-51.7212472,14.9338014,11,,
+51.7212136,14.9337345,11,,
 51.7193698,14.905875,34,,
 51.8014699,14.8369842,46,,
 51.8035936,14.8350127,51,,
 51.787934,14.7856797,19C,Tadeusza Kościuszki,Brody
 51.7200429,14.903704,29,,
 51.7165573,14.9059778,44,,
+51.7193566,14.9291167,20B,,
 51.8078672,14.8317555,81,,
 51.8061561,14.8340888,25,,
 51.732886,14.8930129,15,,
@@ -154667,7 +154651,7 @@ lat,lon,housenumber,street,city
 51.7879816,14.7843007,15A,Tadeusza Kościuszki,Brody
 51.8022533,14.8364412,43,,
 51.8068359,14.8316967,63,,
-51.7193004,14.9302701,4A,,
+51.7192995,14.9302695,4A,,
 51.8063402,14.8325072,22,,
 51.785512,14.8986924,19,,
 51.7196019,14.9045448,31,,
@@ -154683,7 +154667,7 @@ lat,lon,housenumber,street,city
 51.8082836,14.8301953,75,,
 51.7322272,14.8940677,24,,
 51.7712601,14.9338297,9,,
-51.7197323,14.9298775,18,,
+51.719723,14.9298552,18,,
 51.7851755,14.9018517,9,,
 51.7716586,14.9349105,7,,
 51.7247944,14.9068391,9a,,
@@ -154720,7 +154704,7 @@ lat,lon,housenumber,street,city
 51.7330903,14.8923783,16,,
 51.8007305,14.8369681,47,,
 51.7326075,14.892754,21,,
-51.7204013,14.9311044,13,,
+51.7204051,14.9311139,13,,
 51.8043669,14.8368198,33,,
 51.8048549,14.8357641,30,,
 51.8058537,14.833619,24,,
@@ -154752,9 +154736,9 @@ lat,lon,housenumber,street,city
 51.8047149,14.8338276,57,,
 51.7243767,14.9096101,6a,,
 51.8075387,14.8306359,77,,
-51.7184761,14.9297538,2,,
+51.7184672,14.9297409,2,,
 51.769841,14.9320604,45,,
-51.7194307,14.9310162,6,,
+51.7194186,14.9310511,6,,
 51.8090067,14.8318356,84,,
 51.8107102,14.8309587,2,,
 51.7851808,14.9006742,22,,
@@ -154770,10 +154754,10 @@ lat,lon,housenumber,street,city
 51.7702395,14.9363443,51,,
 51.7710104,14.9332702,11,,
 51.8089659,14.8324914,8,,
-51.7191462,14.9289787,21,,
-51.7194083,14.9301584,4,,
+51.7191457,14.9289783,21,,
+51.7194101,14.9301601,4,,
 51.8041697,14.8333634,54,,
-51.7221193,14.9327236,12,,
+51.7221302,14.9327136,12,,
 51.7765655,14.8734786,4,,
 51.7763914,14.873132,4A,,
 51.7194567,14.9029408,30,,
@@ -154972,40 +154956,41 @@ lat,lon,housenumber,street,city
 51.7006456,14.9166991,24,,
 51.7020088,14.912048,10,,
 51.7008439,14.9152122,22,,
-51.7190606,14.9632984,12,,
-51.7168799,14.9644937,34,,
-51.7169508,14.964875,35,,
-51.7178573,14.9678798,42,,
-51.7186475,14.9657962,16,,
-51.7172196,14.9669224,37,,
-51.7193119,14.9650323,9,,
-51.7187507,14.9655067,15,,
-51.7184848,14.9671892,4,,
-51.7184037,14.9684216,1,,
-51.7179198,14.9600562,24,,
-51.7171221,14.9576723,26,,
-51.7180189,14.9675678,41,,
-51.7177354,14.960559,21,,
-51.7163245,14.9561516,28,,
-51.7170645,14.9654075,36,,
+51.7190626,14.9632847,12,,
+51.7168649,14.9644813,34,,
+51.7169489,14.9648771,35,,
+51.7178585,14.9678763,42,,
+51.7186472,14.9657948,16,,
+51.7172214,14.966923,37,,
+51.7193044,14.96506,9,,
+51.718753,14.9655049,15,,
+51.7184864,14.9671878,4,,
+51.7184025,14.9684242,1,,
+51.71912,14.9624678,12A,,
+51.7179238,14.9600605,24,,
+51.7171155,14.9576892,26,,
+51.7180187,14.967566,41,,
+51.71772,14.9605781,21,,
+51.7163288,14.9561487,28,,
+51.7170639,14.9654068,36,,
 51.7179342,14.9682346,43,,
-51.7166654,14.9639144,33,,
-51.7177245,14.9616836,20,,
-51.7190204,14.9652818,7,,
-51.7176076,14.9595691,25,,
-51.7197462,14.9547478,22,,
-51.7191485,14.9651994,8,,
-51.7163882,14.9675879,38,,
-51.7184569,14.9674107,3,,
-51.7173901,14.9631782,19,,
-51.7184532,14.9682507,2,,
-51.7185706,14.9660016,17,,
-51.7167057,14.9562226,27,,
-51.7197219,14.9587014,23,,
-51.7189099,14.9660297,5,,
-51.7189015,14.9650825,14,,
+51.7166675,14.9639179,33,,
+51.7177116,14.9616908,20,,
+51.719027,14.9652784,7,,
+51.7175983,14.9595835,25,,
+51.719753,14.9547336,22,,
+51.7191529,14.9652009,8,,
+51.7163939,14.9675846,38,,
+51.7184366,14.9675286,3,,
+51.7174015,14.9631931,19,,
+51.7184535,14.9682523,2,,
+51.7185725,14.9660004,17,,
+51.7167072,14.9562262,27,,
+51.7197254,14.9586992,23,,
+51.7189125,14.9660281,5,,
+51.718905,14.9650799,14,,
 51.6814394,14.9813853,17,,
-51.7138955,14.9619717,32,,
+51.7138908,14.9619893,32,,
 51.6859817,14.9376586,10,,
 51.6812602,14.9834313,50,,
 51.6817657,14.9792671,12,,
@@ -155036,10 +155021,10 @@ lat,lon,housenumber,street,city
 51.6822464,14.9793442,56,,
 51.6795353,14.9880303,44,,
 51.6807383,14.9811554,16,,
-51.7200917,14.9628213,11,,
-51.7186517,14.9695725,44,,
+51.7200962,14.9628182,11,,
+51.7186528,14.9695688,44,,
 51.6814356,14.9819984,51,,
-51.7202254,14.9640344,10,,
+51.7202318,14.9640295,10,,
 51.6812698,14.9827879,19,,
 51.6769905,14.9897084,37,,
 51.6769365,14.989289,38,,
@@ -161744,6 +161729,7 @@ lat,lon,housenumber,street,city
 52.2442263,14.911736,21,,
 52.2450303,14.9123189,30,,
 52.2033148,14.8062683,41,Jana Henryka Dąbrowskiego,Cybinka
+52.2663072,14.8682379,5A,,
 52.2445217,14.9157621,11,,
 52.2444362,14.9170527,10,,
 52.265981,14.8679784,5a,,
@@ -163190,6 +163176,7 @@ lat,lon,housenumber,street,city
 52.1974694,14.7873207,49,Słubicka,Cybinka
 52.1886577,14.7939975,6,Białkowska,Cybinka
 52.1962375,14.7890461,29,Słubicka,Cybinka
+52.1961491,14.7915885,52A,Słubicka ,
 52.1983408,14.7800743,46,Wileńska,Cybinka
 52.1920299,14.7921864,6,Lwowska,Cybinka
 52.1975287,14.7879544,60,Słubicka,Cybinka
@@ -163228,6 +163215,7 @@ lat,lon,housenumber,street,city
 52.1911888,14.797207,14,Tadeusza Kościuszki,Cybinka
 52.1971079,14.7877595,43,Słubicka,Cybinka
 52.1950373,14.7921456,38,Słubicka,Cybinka
+52.1970016,14.787685,45A,Słubicka,
 52.1906989,14.7938701,1,Białkowska,Cybinka
 52.1981637,14.7804692,42,Wileńska,Cybinka
 52.1947013,14.7895011,12a,Grunwaldzka,Cybinka
@@ -163251,6 +163239,7 @@ lat,lon,housenumber,street,city
 52.1966638,14.7883971,35,Słubicka,Cybinka
 52.1970497,14.7898175,52A,Słubicka,Cybinka
 52.1909539,14.7950955,13,Plac Limanowskiego,Cybinka
+52.1960342,14.7905319,44B,Słubicka,
 52.1945628,14.7910823,8,Grunwaldzka,Cybinka
 52.1975908,14.7861761,3,Juliusza Słowackiego,Cybinka
 52.1954815,14.7870191,40,Grunwaldzka,Cybinka
@@ -163583,6 +163572,7 @@ lat,lon,housenumber,street,city
 52.2019952,14.8038968,12,Robotnicza,Cybinka
 52.1975083,14.8041702,2,Krótka,Cybinka
 52.1902969,14.800233,9,Kaliska,Cybinka
+52.1974243,14.8038798,2A,Krótka,
 52.1944305,14.7963662,9,Słubicka,Cybinka
 52.1948144,14.79872,12D,Słubicka,Cybinka
 52.1911313,14.7976559,19,Tadeusza Kościuszki,Cybinka
@@ -167158,7 +167148,7 @@ lat,lon,housenumber,street,city
 51.601464,15.2914212,9,Robotnicza,Żagań
 51.60119,15.2937727,9,Spokojna,Żagań
 51.6024115,15.2941781,9,Stanisława Staszica,Żagań
-51.764347,15.0288758,29,,
+51.7643463,15.0288742,29,,
 51.5990716,15.2904868,1,Franciszka Żwirki i Stanisława Wigury,Żagań
 51.5994234,15.2916117,1,Gabriela Narutowicza,Żagań
 51.6003421,15.2890501,1,Ignacego Łukasiewicza,Żagań
@@ -167692,7 +167682,7 @@ lat,lon,housenumber,street,city
 51.5673493,15.519588,18,Stefana Czarnieckiego,Szprotawa
 51.5682595,15.5113911,12A,Podgórna,Szprotawa
 51.5674268,15.5195568,17,Stefana Czarnieckiego,Szprotawa
-51.567875,15.509851,15,Podgórna,Szprotawa
+51.567875,15.509851,14A,Podgórna,Szprotawa
 51.5678118,15.5158052,10,Podgórna,Szprotawa
 51.567396,15.5123009,12,Stanisława Poniatowskiego,Szprotawa
 51.5679133,15.5182902,32,Podgórna,Szprotawa
@@ -172112,7 +172102,7 @@ lat,lon,housenumber,street,city
 51.8255863,14.9257373,7,,
 51.8229936,14.9235782,1,,
 51.8246443,14.9245953,6,,
-51.8749661,16.376619,32,amenity=place_of_worship,
+51.8749661,16.376619,32,,
 51.8265702,14.9247401,10,,
 51.8141126,14.9123684,10,,
 51.8268533,14.9247058,11,,
@@ -172151,7 +172141,7 @@ lat,lon,housenumber,street,city
 51.7689392,15.0774141,44,,
 51.7678336,15.0781332,47,,
 51.7684005,15.0807457,1,,
-51.7689601,15.0804988,53,,
+51.7689601,15.0805,53,,
 51.767839,15.0789419,49A,,
 51.7678061,15.0785463,48,,
 51.7676314,15.0802688,8,,
@@ -172167,20 +172157,20 @@ lat,lon,housenumber,street,city
 51.7693228,15.077498,57,,
 51.768065,15.0809637,1a,,
 51.7685774,15.0795166,50,,
-51.7691018,15.0766701,41,,
+51.7691018,15.07667,41,,
 51.768104,15.0811051,3,,
 51.7678907,15.0792253,49,,
 51.7677196,15.077791,46,,
 51.7671914,15.0767074,31,,
-51.7687104,15.0755428,37,,
+51.7687103,15.0755427,37,,
 51.7697801,15.0803992,54,,
 51.7691665,15.0757734,39,,
 51.7662094,15.0764828,30,,
 51.767476,15.0781898,15,,
 51.7663883,15.0774154,28,,
 51.7706703,15.0804598,60,,
-51.7672063,15.0769067,33,,
-51.7680646,15.0751105,35,,
+51.767206,15.0769063,33,,
+51.7680646,15.0751102,35,,
 51.7700428,15.0800512,54b,,
 51.7668062,15.0776908,17,,
 51.7698674,15.0772999,58,,
@@ -172195,15 +172185,15 @@ lat,lon,housenumber,street,city
 51.7698597,15.0766489,59,,
 51.7658588,15.0795906,25,,
 51.7697861,15.0787568,55,,
-51.766398,15.0805647,22,,
-51.7663657,15.0793663,18,,
+51.766443,15.0806049,22,,
+51.7663656,15.0793663,18,,
 51.7660812,15.0812649,24A,Mirkowice,
 51.8014702,15.0386597,12,,
 51.7719606,15.0854922,58,,
-51.7661183,15.0798368,24,,
+51.766117,15.0798452,24,,
 51.8016632,15.038761,11,,
 51.7666147,15.0796493,19,,
-51.7724134,15.0887216,57,,
+51.7724133,15.0887215,57,,
 51.7665414,15.0808203,23,,
 51.7664569,15.0803036,21,,
 51.8018072,15.0384234,16,,
@@ -172285,27 +172275,27 @@ lat,lon,housenumber,street,city
 51.792796,15.0768502,5,,
 51.7920769,15.0763646,14,,
 51.7933115,15.0755732,3,,
-51.7264962,14.952206,15,,
-51.7256306,14.9481828,9,,
-51.7271988,14.9511135,3,,
-51.7252375,14.9507933,11,,
-51.7257307,14.951211,13,,
-51.7270816,14.950529,4,,
-51.7275782,14.9530956,20,,
-51.7245902,14.9536862,12,,
-51.7273976,14.9517687,2,,
-51.7269045,14.9498395,5,,
-51.7273408,14.9521935,18,,
-51.7259108,14.9506258,6b,,
-51.7280797,14.9520226,1,,
-51.7266247,14.9503701,6,,
-51.7276141,14.9546125,21,,
-51.7252767,14.9501255,10,,
-51.7256293,14.9488731,8,,
-51.7269121,14.9524444,17,,
-51.7259561,14.9514614,14,,
-51.7254591,14.950436,7,,
-51.7275224,14.952032,19,,
+51.7264934,14.952208,15,,
+51.7256309,14.9481938,9,,
+51.7271968,14.9511168,3,,
+51.725238,14.9508001,11,,
+51.7257317,14.9512172,13,,
+51.7270716,14.9506211,4,,
+51.7275841,14.9531274,20,,
+51.7245906,14.9536906,12,,
+51.7273962,14.9517712,2,,
+51.7269156,14.9498727,5,,
+51.7273395,14.9521949,18,,
+51.7259103,14.95063,6b,,
+51.7280768,14.9520248,1,,
+51.7266228,14.9503755,6,,
+51.7276141,14.9546123,21,,
+51.7252766,14.9501351,10,,
+51.7256307,14.9488829,8,,
+51.7269119,14.9524473,17,,
+51.7259561,14.9514681,14,,
+51.7254586,14.9504427,7,,
+51.7275203,14.9520337,19,,
 51.6754948,14.8295633,42,Adama Mickiewicza,Tuplice
 51.6751093,14.8282615,4,Tadeusza Kościuszki,Tuplice
 51.6755893,14.8284589,2A,Tadeusza Kościuszki,Tuplice
@@ -175461,39 +175451,41 @@ lat,lon,housenumber,street,city
 51.6940178,15.0666443,106A,,
 51.6953338,15.064469,109,,
 51.69407,15.0674067,2,,
-51.6963079,14.9941523,1B,,
-51.6955049,14.9954853,28/2,,
-51.6956568,14.9953519,29/2,,
-51.6954715,14.9955319,28/1,,
-51.6920988,15.0012317,21,,
-51.6962221,14.9948271,2,,
-51.6962148,14.9939827,1C,,
-51.6958547,14.9951755,30/3,,
-51.6958254,14.9952117,30/2,,
-51.692195,14.9997133,9,,
-51.6943939,15.0028126,25,,
-51.6955365,14.9954411,28/3,,
-51.6924474,15.0041474,18,,
-51.6939088,14.9941937,3,,
-51.6922264,15.0009391,22,,
-51.6926196,15.0050338,16,,
-51.6916721,15.0016626,20,,
-51.6916599,15.00326,14,,
-51.6924189,15.0004726,23,,
-51.6914725,15.0016456,11,,
-51.6925376,14.9986008,7,,
-51.6943518,14.998095,26,,
-51.6956899,14.9953068,29/3,,
-51.6926833,14.9984153,6,,
-51.6957894,14.995256,30/1,,
-51.6921368,14.9976662,8,,
-51.6956237,14.9953968,29/1,,
-51.6948473,14.9959827,27,,
-51.692592,15.0045391,17,,
-51.6915375,15.0019535,19,,
-51.6929452,14.996749,4,,
+51.6963329,14.994125,1B,,
+51.6955008,14.9954899,28/2,,
+51.6919937,15.0018426,20B,,
+51.6956479,14.9953471,29/2,,
+51.695467,14.9955355,28/1,,
+51.6920996,15.001238,21,,
+51.6962183,14.9948392,2,,
+51.6962152,14.9939878,1C,,
+51.6958414,14.9951737,30/3,,
+51.6958067,14.9952161,30/2,,
+51.6921949,14.9997132,9,,
+51.6943947,15.0028294,25,,
+51.6955329,14.9954467,28/3,,
+51.6924473,15.0041472,18,,
+51.6939092,14.9941993,3,,
+51.6922263,15.0009392,22,,
+51.6926195,15.0050336,16,,
+51.6916698,15.0016702,20,,
+51.691657,15.0032732,14,,
+51.6935695,14.9946988,3B,,
+51.6924141,15.0004697,23,,
+51.6914746,15.0016521,11,,
+51.6925312,14.9986106,7,,
+51.6943451,14.9981004,26,,
+51.6956821,14.9953042,29/3,,
+51.6926822,14.9984456,6,,
+51.6957723,14.9952583,30/1,,
+51.6921395,14.9976793,8,,
+51.6956136,14.9953899,29/1,,
+51.6948404,14.996009,27,,
+51.692592,15.004539,17,,
+51.6915383,15.0019522,19,,
+51.6929442,14.9967568,4,,
 51.6927908,15.0179655,15,,
-51.6964391,14.9944176,1A,,
+51.6964361,14.9944267,1A,,
 51.6881174,15.024009,12,,
 51.688002,15.0250722,7,,
 51.6922984,15.0195372,19,,
@@ -177717,7 +177709,7 @@ lat,lon,housenumber,street,city
 51.7377045,15.1385928,17A,,
 51.7206728,15.0928195,1,,
 51.7207097,15.0940923,21,,
-51.7189612,14.9924966,10,,
+51.7189612,14.9924965,10,,
 51.7177965,14.9920184,32,,
 51.7182415,14.9934387,7,,
 51.7183702,14.9918478,10A,,
@@ -177725,14 +177717,14 @@ lat,lon,housenumber,street,city
 51.7182541,14.9929072,30,,
 51.7181607,14.9937386,5,,
 51.7186914,14.992347,26,,
-51.7186691,14.992635,9,,
+51.718669,14.992635,9,,
 51.717906,14.9929414,35,,
 51.7180055,14.9933156,36,,
 51.717278,14.9953661,39,,
-51.7189711,14.9922455,11,,
-51.7184279,14.9929867,8,,
-51.718126,14.993531,6,,
-51.71722,14.9956282,40,,
+51.718971,14.9922454,11,,
+51.7184278,14.9929867,8,,
+51.7181258,14.9935314,6,,
+51.7172199,14.995628,40,,
 51.7179412,14.994413,4,,
 51.7178241,14.9924338,34,,
 51.7177853,14.994185,37,,
@@ -178063,23 +178055,23 @@ lat,lon,housenumber,street,city
 51.8606427,14.7423041,4,,
 51.7346126,14.9987722,29,,
 51.7346574,14.9997724,32,,
-51.7347303,14.9981224,24,,
+51.7347301,14.9981205,24,,
 51.7340805,14.9978508,28,,
-51.7348388,14.9989838,30,,
-51.7348796,14.999296,31,,
-51.7345072,14.9985376,25,,
-51.7234828,15.0174528,17,,
-51.7234121,15.0175459,19,,
-51.7230739,15.0179011,20,,
-51.723021,15.0192138,46,,
+51.7348391,14.9989831,30,,
+51.7348353,14.9993557,31,,
+51.7345072,14.9985374,25,,
+51.7234827,15.0174525,17,,
+51.7234124,15.0175442,19,,
+51.7230734,15.0178995,20,,
+51.7230208,15.0192125,46,,
 51.7230746,15.019165,47,,
 51.7231866,15.0190452,48,,
-51.7233004,15.0191325,49,,
-51.7233638,15.0188593,50,,
-51.7235424,15.0187241,51,,
+51.7233003,15.0191314,49,,
+51.7233641,15.0188549,50,,
+51.7235419,15.018721,51,,
 51.7237898,15.0187437,52,,
-51.7238787,15.0183558,53,,
-51.7240129,15.0183658,55,,
+51.7238781,15.0183517,53,,
+51.724013,15.0183635,55,,
 51.7379792,15.0109735,78,,
 51.7377877,15.0105984,79,,
 51.7375899,15.0102044,80,,
@@ -178354,24 +178346,24 @@ lat,lon,housenumber,street,city
 51.7351611,15.1406413,8,,
 51.7343383,15.139678,3,,
 51.7393308,15.1390083,89,,
-51.7238505,15.0173653,16,,
-51.7244041,15.0165323,11,,
-51.7228857,15.0193293,45,,
-51.7245818,15.0166379,10,,
-51.7243945,15.0180433,57,,
-51.7245628,15.0162759,9,,
-51.7243773,15.0178199,58,,
-51.7228334,15.019374,44,,
-51.7216448,15.0190081,24,,
-51.7231362,15.0165599,18,,
-51.7242582,15.018211,56,,
-51.7237768,15.0166488,13,,
-51.7220961,15.019908,42,,
-51.7238829,15.0168923,15,,
-51.7243064,15.0169059,12,,
-51.7218945,15.0188191,23,,
-51.7235323,15.0161618,14,,
-51.722179,15.0186775,22,,
+51.7238515,15.017361,16,,
+51.7244023,15.0165288,11,,
+51.7228859,15.0193273,45,,
+51.7245823,15.0166388,10,,
+51.7243947,15.0180425,57,,
+51.7245627,15.0162758,9,,
+51.7243779,15.0178196,58,,
+51.7228333,15.0193726,44,,
+51.7216453,15.0190055,24,,
+51.7231377,15.0165614,18,,
+51.7243073,15.0183287,56,,
+51.7237765,15.0166467,13,,
+51.7220957,15.0199076,42,,
+51.7238834,15.01689,15,,
+51.7243064,15.0169051,12,,
+51.7218942,15.0188179,23,,
+51.7235324,15.0161588,14,,
+51.7221785,15.0186757,22,,
 51.6498442,14.9665578,4,,
 51.6618425,14.9528615,12,,
 51.6619337,14.9520232,10,,
@@ -178732,8 +178724,10 @@ lat,lon,housenumber,street,city
 52.1925956,14.7932598,2,Fryderyka Chopina,Cybinka
 52.1932241,14.7977101,3,Ignacego Jana Paderewskiego,Cybinka
 52.1936293,14.7937638,2,Krakowska,Cybinka
+52.1953856,14.7913569,40,Słubicka,
 52.1952113,14.7989785,12F,Słubicka,Cybinka
 52.1962811,14.7978081,1,Romualda Traugutta,Cybinka
+52.1992666,14.8024846,3,Kolejowa,
 52.1865754,14.8204323,106B,Krośnieńska,Cybinka
 52.2028597,14.8028727,17,Robotnicza,Cybinka
 52.1898167,14.7651676,22A,,
@@ -180391,55 +180385,57 @@ lat,lon,housenumber,street,city
 51.7235033,15.1565761,40,Dolna,Bieniów
 51.7235166,15.1558081,42,Dolna,Bieniów
 51.7172723,14.9967945,1,,
-51.7190835,14.9918643,25,,
+51.7190831,14.991864,25,,
 51.7195325,14.9912549,24,,
-51.7054035,14.9867555,46,,
-51.7069089,14.9903351,45,,
+51.7054034,14.9867553,46,,
+51.7069088,14.9903351,45,,
 51.7156163,14.9959252,42,,
 51.709379,14.9970796,43,,
 51.7068804,14.990771,44,,
 51.7198125,14.9905578,22,,
-51.7196941,14.9914467,14,,
+51.7196589,14.9913643,14,,
 51.7199093,14.991066,16,,
 51.7204796,14.9904175,18,,
-51.7218837,14.9870653,5,,
-51.721145,14.9900301,19,,
-51.7205932,14.9896988,21,,
+51.7218778,14.9871056,5,,
+51.7211449,14.9900298,19,,
+51.7205931,14.9896985,21,,
 51.7196607,14.9909807,23,,
-51.719757,14.9913642,15,,
+51.7197569,14.9913642,15,,
 51.722039,15.0178093,21,,
-51.7201829,15.017084,33,,
-51.7210146,15.0188646,25,,
+51.7201843,15.0170829,33,,
+51.7210149,15.0188643,25,,
 51.7204219,15.0190397,37,,
-51.7212925,15.0182182,27,,
-51.7190581,15.0115356,29,,
-51.7211871,15.0193554,38,,
-51.7214117,15.0210359,40,,
-51.7200535,15.0122048,30,,
-51.7236638,15.0145112,4,,
-51.7206357,15.0119499,28,,
+51.7212907,15.0182182,27,,
+51.7193906,15.0187196,34B,,
+51.7191037,15.0112301,29,,
+51.7211877,15.0193541,38,,
+51.7214124,15.0210356,40,,
+51.7200061,15.0121639,30,,
+51.7236654,15.014511,4,,
+51.7206364,15.0119475,28,,
 51.7199646,15.0152197,32,,
-51.7215953,15.0229917,41,,
-51.7200947,15.0183571,34,,
-51.7209922,15.0185594,26,,
-51.721251,15.0204856,39,,
-51.7199744,15.0133797,31,,
-51.7261898,15.0172036,72,,
-51.7250425,15.016494,6,,
-51.726934,15.0180653,65,,
-51.7252236,15.0157208,5,,
-51.7250108,15.0171737,61,,
-51.7271394,15.0176949,70,,
+51.721595,15.0229911,41,,
+51.7200972,15.0183542,34,,
+51.7209919,15.0185586,26,,
+51.7212519,15.0204841,39,,
+51.7199753,15.0133781,31,,
+51.7261892,15.0172028,72,,
+51.7250431,15.0164927,6,,
+51.7269344,15.0180623,65,,
+51.725225,15.015722,5,,
+51.7250107,15.0171729,61,,
+51.7252928,15.0144879,3A,,
+51.7271392,15.0176932,70,,
 51.7252922,15.0151462,2,,
-51.724732,15.0156502,7,,
-51.7257854,15.0169974,73,,
-51.7244936,15.0176942,58A,,
-51.7248617,15.0172924,60,,
-51.725201,15.0144717,3,,
-51.7272829,15.0175669,69,,
-51.7256086,15.0173025,63,,
-51.7248105,15.017562,59,,
-51.7251955,15.0170783,62,,
+51.7247312,15.0156498,7,,
+51.7257826,15.0169987,73,,
+51.724494,15.0176933,58A,,
+51.7248621,15.0172939,60,,
+51.7252,15.0144693,3,,
+51.7272842,15.0175616,69,,
+51.7256086,15.0173017,63,,
+51.7248114,15.0175611,59,,
+51.7251949,15.0170748,62,,
 51.7257635,15.0155927,1,,
 51.7285089,15.0179089,68,,
 51.7239119,15.05485,16,,
@@ -180482,96 +180478,96 @@ lat,lon,housenumber,street,city
 51.7353427,15.0016532,34,,
 51.7302668,15.0269529,66,,
 51.7303726,15.0257778,67,,
-51.7328351,14.9988093,6,,
-51.7326857,14.9983571,7A,,
-51.7323336,14.9970378,9,,
-51.7342412,15.0002821,4,,
-51.7346068,15.0008324,3,,
+51.7328343,14.9988098,6,,
+51.7326829,14.9983754,7A,,
+51.732334,14.9970391,9,,
+51.7342417,15.0002808,4,,
+51.7346085,15.000833,3,,
 51.7348939,15.0002881,33A,,
 51.7340302,14.9970607,15,,
-51.7331322,14.998791,5A,,
-51.7358811,14.9973467,19,,
+51.7330924,14.9987938,5A,,
+51.7358755,14.9973455,19,,
 51.7334105,14.9968184,13,,
-51.735179,14.9977641,23,,
-51.7332307,14.9987849,5,,
+51.7351799,14.9977636,23,,
+51.7332303,14.9987856,5,,
 51.7347163,14.9972829,16,,
 51.7356627,15.0008257,33,,
 51.7352483,14.9972776,18,,
 51.7351161,15.0021281,35,,
-51.734849,15.0019244,2,,
-51.7353954,14.9988276,22,,
+51.7348451,15.0019254,2,,
+51.7353953,14.9988275,22,,
 51.7337536,14.9967048,14,,
-51.7348748,15.0030564,1,,
+51.7348744,15.0030592,1,,
 51.7292277,14.9813429,13,,
-51.7276411,14.9803145,7,,
+51.7276444,14.9803224,7,,
 51.7286408,14.9807881,1,,
 51.7271821,14.9823863,4A,,
-51.7283079,14.9816575,2,,
+51.7283095,14.9816563,2,,
 51.7291603,14.9804922,12,,
-51.7269903,14.9792094,8,,
-51.7288758,14.9784019,11,,
-51.7285498,14.9795952,6,,
+51.7269909,14.9792145,8,,
+51.7288801,14.9784101,11,,
+51.7285514,14.9795944,6,,
 51.7274372,14.9818567,4,,
-51.7285232,14.9791416,10,,
-51.7277396,14.9821108,3,,
-51.7265283,14.9820045,9,,
-51.7717758,14.9963578,57,,
-51.7709655,14.997518,56A,,
+51.7285231,14.9791415,10,,
+51.7277399,14.9821093,3,,
+51.7265288,14.9820483,9,,
+51.7717832,14.9963485,57,,
+51.7709676,14.9975181,56A,,
 51.7695881,14.9970424,51,,
-51.7717392,14.9958271,45,,
+51.7717052,14.9957678,45,,
 51.7698733,14.996939,50,,
-51.7719779,14.9961567,58,,
+51.7719695,14.9961436,58,,
 51.7683482,14.9972353,52,,
-51.7717858,14.9939721,42,,
-51.7700649,14.9976394,55,,
+51.7717871,14.993982,42,,
+51.770066,14.99764,55,,
 51.7719809,14.9985934,60F,,
-51.7722139,14.9970858,60,,
+51.7722178,14.9970879,60,,
 51.7686438,14.997437,52b,Budziechów,
-51.7696951,14.9977077,54,,
+51.7696996,14.9977023,54,,
 51.7710578,14.9989725,60I,,
-51.7716653,14.9960476,46,,
+51.7716706,14.9960454,46,,
 51.7713302,14.9988051,60H,,
-51.7711802,14.9963323,47,,
-51.7724254,14.9972855,61,,
-51.7709206,14.9967176,49,,
-51.771843,14.9940685,43,,
-51.7719447,14.995974,58A,,
-51.7709833,14.996679,48,,
+51.7711825,14.9963248,47,,
+51.7724168,14.9972864,61,,
+51.7709203,14.9967159,49,,
+51.7718456,14.9940672,43,,
+51.7719468,14.9959763,58A,,
+51.7709923,14.9966753,48,,
 51.7719263,14.999792,60A,,
 51.7719035,14.9998642,60B,,
-51.7719465,14.9953173,44,,
+51.7719503,14.9953151,44,,
 51.7716868,14.9987884,60G,,
-51.7702714,14.9976832,56,,
-51.7723143,14.9960649,59,,
-51.7715626,14.9933732,40A,,
-51.7722688,14.994311,36,,
+51.7702721,14.9976883,56,,
+51.7723174,14.996069,59,,
+51.7715645,14.9933737,40A,,
+51.7722709,14.9943156,36,,
 51.772475,14.9940466,35,,
-51.7717077,14.9937995,41,,
+51.771713,14.9937964,41,,
 51.7726105,14.9938487,34,,
-51.7724688,14.9952983,64,,
+51.7724694,14.9952892,64,,
 51.7712055,14.9916977,40,,
 51.7713749,14.9930771,40C,,
-51.7720313,14.9938575,37,,
+51.772039,14.9938629,37,,
 51.7716199,14.9921769,38,,
-51.7730502,14.9944001,68,,
-51.7727023,14.9947495,66,,
-51.7728692,14.9945682,67,,
-51.7733416,14.9947387,69,,
-51.7725968,14.9950563,65,,
-51.7733777,14.9940728,70,,
-51.7735538,14.9938967,71,,
+51.77305,14.9943978,68,,
+51.7727092,14.9947529,66,,
+51.7728751,14.9945705,67,,
+51.7733477,14.9947383,69,,
+51.7725997,14.9950605,65,,
+51.7733772,14.9940726,70,,
+51.7735566,14.9938943,71,,
 51.7732389,14.9938181,94,,
 51.7750378,14.9915249,20,,
 51.774081,14.9933999,73,,
 51.7749036,14.9934971,76,,
-51.7752562,14.9923856,79,,
+51.7752537,14.9923946,79,,
 51.773152,14.9934842,31,,
 51.7733644,14.9936855,93,,
 51.7731554,14.9932675,30,,
 51.7743678,14.9931334,73a,,
 51.7734107,14.9929058,29,,
 51.7738192,14.992736,27,,
-51.7737235,14.9937278,72,,
+51.773723,14.9937325,72,,
 51.7730088,14.9936494,32,,
 51.7733022,14.9935427,92,,
 51.7735234,14.9929968,28,,
@@ -180582,20 +180578,20 @@ lat,lon,housenumber,street,city
 51.7741938,14.9922594,25,,
 51.7745147,14.9917654,23,,
 51.7733162,14.9979825,63,,
-51.7731279,14.9974584,62,,
-51.774919,14.9925676,78,,
-51.7746498,14.9928655,75,,
+51.7731301,14.9974604,62,,
+51.7749233,14.992572,78,,
+51.7746525,14.9928704,75,,
 51.7737315,14.9989208,63A,,
 51.7743246,14.9920247,24,,
-51.7747524,14.9927613,77,,
-51.7758052,14.9917691,83,,
+51.7747522,14.9927619,77,,
+51.7758066,14.9917743,83,,
 51.7763857,14.9908809,86,,
 51.7765636,14.9903002,13,,
-51.775764,14.9923203,82,,
+51.7757519,14.9923325,82,,
 51.7754278,14.99119,18,,
 51.7760474,14.9907315,15,,
-51.7754139,14.9920913,80,,
-51.7754798,14.9918988,81,,
+51.7754154,14.9920879,80,,
+51.7754821,14.9918989,81,,
 51.7763616,14.99053,14,,
 51.7752476,14.9913493,19,,
 51.7759928,14.9916607,84,,
@@ -180631,10 +180627,10 @@ lat,lon,housenumber,street,city
 51.777423,14.9875658,2,,
 51.7744198,14.9699456,1a,1 Maja,Lubsko
 51.7670182,15.0335874,22A,,
-51.7683225,15.0350957,16,,
+51.7683173,15.035104,16,,
 51.7659737,15.0346858,4,,
 51.7666192,15.033802,23,,
-51.7682568,15.0348404,17,,
+51.7682529,15.0348487,17,,
 51.7671441,15.0339571,9,,
 51.7679857,15.034353,18,,
 51.7646224,15.0347004,44b,,
@@ -180664,20 +180660,20 @@ lat,lon,housenumber,street,city
 51.7432885,15.0711512,48,,
 51.7371314,15.076201,22,,
 51.7424781,15.0719039,47,,
-51.7362548,15.0725036,16,,
+51.7363482,15.0725102,16,,
 51.7404838,15.0738621,42,,
 51.7416228,15.0723586,45,,
 51.7356897,15.0764978,26,,
 51.735852,15.0784289,28A,,
 51.7403681,15.0736169,6,,
-51.7356123,15.0759688,25,,
+51.7356121,15.0758881,25,,
 51.7370065,15.0767726,24,,
 51.7374572,15.0767452,32,,
 51.7360678,15.0778961,28,,
 51.7366329,15.0763082,23,,
 51.7432051,15.0709447,48B,Bieszków,
 51.7415333,15.0716028,2,,
-51.7365452,15.0739175,19,,
+51.7365451,15.0739174,19,,
 51.736928,15.0750092,21,,
 51.7436415,15.0744743,50,,
 51.7406862,15.072508,3,,
@@ -180687,7 +180683,7 @@ lat,lon,housenumber,street,city
 51.7437377,15.0749749,49,,
 51.7419777,15.0722608,46,,
 51.7365404,15.0778147,30,,
-51.7408156,15.0732835,43,,
+51.740815,15.0732821,43,,
 51.7372074,15.0770546,31,,
 51.7364169,15.0772564,29,,
 51.7400461,15.0705944,4,,
@@ -180849,32 +180845,32 @@ lat,lon,housenumber,street,city
 51.7848764,15.0241339,3,,
 51.7827181,15.027293,19,,
 51.7839099,15.0229954,6A,,
-51.7610679,15.0343615,60,,
+51.7610668,15.0343614,60,,
 51.7723877,15.1019484,3,Guzów,Jasień
 51.7689377,15.1064207,25,,
 51.7687545,15.1046343,20,,Guzów
 51.7647856,15.1085823,30,,
 51.7690234,15.1002635,10C,,
-51.7683352,15.1044736,20A,,Guzów
+51.7683352,15.1044736,20A,,
 51.7679327,15.1057281,31,,
 51.7642426,15.1092677,29,,
 51.7719505,15.0981984,52,,
 51.7687215,15.0988197,45,,
 51.7720344,15.0996256,5,,
-51.7683196,15.1050006,34,,Guzów
+51.7683196,15.1050006,34,,
 51.7686169,15.0997732,43,,Guzów
 51.7678075,15.1061556,31/B,Guzów,
-51.7726853,15.1009921,2,,Jasień
+51.7726853,15.1009921,2,,
 51.7686042,15.1038561,18,,Guzów
-51.76872,15.0990046,44,,
+51.7687185,15.0990056,44,,
 51.7690304,15.1042057,21,,Guzów
 51.7739862,15.093997,56,,
 51.7689108,15.1067929,26,,Guzów
 51.7685751,15.1000612,42,,Guzów
 51.7696961,15.1064426,24,,
 51.7686268,15.098071,47,,Guzów
-51.7689523,15.107534,27,,
-51.7691278,15.0982705,48,,Guzów
+51.7689522,15.107534,27,,
+51.7690721,15.0984057,48,,Guzów
 51.7699625,15.106156,23,,
 51.7717136,15.098414,51,,
 51.7691977,15.1000368,10,,
@@ -183595,8 +183591,8 @@ lat,lon,housenumber,street,city
 51.7517259,15.0839136,17,,
 51.7516912,15.0836719,18,,
 51.7515208,15.0826419,19,,
-51.7768893,15.1013666,1,,
-51.7510279,15.0822571,21,,
+51.7768857,15.1013663,1,,
+51.751027,15.0822553,21,,
 51.7823336,15.1175574,21,,
 51.7514915,15.0819797,23,,
 51.7887489,15.108369,8,,
@@ -183604,19 +183600,19 @@ lat,lon,housenumber,street,city
 51.7529585,15.0829415,10,,
 51.7528021,15.0826228,11,,
 51.7524617,15.08223,12,,
-51.7519405,15.0821997,13,,
-51.7517181,15.0818063,24,,
+51.7519404,15.0821994,13,,
+51.7517182,15.0818062,24,,
 51.7518382,15.0814787,24A,,
-51.7524829,15.0796176,5,,
+51.752483,15.0796175,5,,
 51.7521257,15.0813063,7,,
 51.7524802,15.0816668,8,,
 51.7529726,15.0776814,2,,
 51.7516149,15.0787177,27a,,
 51.7515834,15.0796082,25,,
 51.7522363,15.0794608,27,,
-51.7526871,15.0793717,4,,
+51.7527587,15.0794367,4,,
 51.7531816,15.0771244,1,,
-51.7528976,15.0783107,3,,
+51.7528977,15.0783106,3,,
 51.7526228,15.0782695,29,,
 51.7526921,15.0766871,31,,
 51.7518417,15.0797329,26,,
@@ -183637,7 +183633,7 @@ lat,lon,housenumber,street,city
 51.7488764,15.0276547,22,Tenisowa,Jasień
 51.7387348,15.0405735,32,,
 51.7499542,15.0280683,11,Tenisowa,Jasień
-51.7500933,15.02811,7,Tenisowa,Jasień
+51.7500932,15.0281096,7,Tenisowa,Jasień
 51.8736491,14.7797734,1A,,
 51.8733391,14.779989,3A,,
 51.8734137,14.7799437,3B,,
@@ -190128,8 +190124,8 @@ lat,lon,housenumber,street,city
 51.7513011,15.0172466,2,Strażacka,Jasień
 51.7513265,15.0135748,5A,Jana Pawła II,Jasień
 51.7527147,15.013492,9,Młynarska,Jasień
-51.7641785,15.0288901,27,,
-51.76423,15.0290065,28,,
+51.7641793,15.0288914,27,,
+51.7642309,15.0290085,28,,
 51.7676881,15.0809877,4,,
 51.7815668,14.9806144,11,Leopolda Staffa,Lubsko
 51.7817093,14.9817185,42,Cypriana Kamila Norwida,Lubsko
@@ -193312,6 +193308,7 @@ lat,lon,housenumber,street,city
 52.1613696,14.748554,13,Staniczka,Grzmiąca
 52.1619517,14.7488347,8,Staniczka,Grzmiąca
 52.161702,14.7485666,9,Staniczka,Grzmiąca
+52.1607527,14.7496678,1,Głucholeśna,
 52.1627946,14.7483244,1,Staniczka,Grzmiąca
 52.162649,14.7481187,1,Krótka,Grzmiąca
 52.1629419,14.7495052,27,Wojska Polskiego,Grzmiąca
@@ -193329,6 +193326,7 @@ lat,lon,housenumber,street,city
 52.1622748,14.7467617,5,Krótka,Grzmiąca
 52.1615112,14.7507626,3A,Głucholeśna,Grzmiąca
 52.1621876,14.7475925,3,Krótka,Grzmiąca
+52.162614,14.7508255,6,Biłgorajska,
 52.1620035,14.7463018,6,Dolna,Grzmiąca
 52.1620606,14.7470883,6,Krótka,Grzmiąca
 52.1634101,14.7521279,11,Wojska Polskiego,Grzmiąca
@@ -193337,6 +193335,7 @@ lat,lon,housenumber,street,city
 52.1612632,14.7553943,5,Kazimierza,Grzmiąca
 52.1610463,14.7532678,6,Leśna,Grzmiąca
 52.1620596,14.7540804,3,Kazimierza,Grzmiąca
+52.1618982,14.7543993,4A,Kazimierza,
 52.1617196,14.754374,2,Leśna,Grzmiąca
 52.1613538,14.7538066,5,Leśna,Grzmiąca
 52.1611976,14.7541655,4,Leśna,Grzmiąca
@@ -196353,6 +196352,7 @@ lat,lon,housenumber,street,city
 51.5477038,14.7189677,17,Berliner Straße,Bad Muskau
 51.9972477,15.535836,15,Krępa-Odrzańska,Zielona Góra
 51.9673875,15.4883049,166,Stefana Batorego,Zielona Góra
+52.5178717,15.4174816,7,Sportowa,Bledzew
 51.6156917,15.3185429,21,Ratuszowa,Żagań
 51.5541002,14.7086407,11,Schützenstraße,Bad Muskau
 51.5548912,14.7094531,4,Schützenstraße,Bad Muskau
@@ -198011,7 +198011,7 @@ lat,lon,housenumber,street,city
 51.9022035,16.123382,31,,
 51.902231,16.1237,31A,,
 51.9023223,16.1239135,32,,
-51.9014478,16.1232767,30,,
+51.9014516,16.1232643,30,,
 51.903384,16.128971,19,,
 51.903306,16.1282533,20,,
 51.9030429,16.1289129,40,,
@@ -198309,46 +198309,45 @@ lat,lon,housenumber,street,city
 51.9342773,15.9002401,1,Kościelna,Konotop
 51.5228739,15.2151296,123,,
 51.8865748,16.0426941,27,Odrodzonego Wojska Polskiego,Sława
-51.8882451,16.0433467,2,Makowa,Lubogoszcz
+51.8882735,16.0433689,2,Makowa,Lubogoszcz
 51.8884267,16.0434229,4,Makowa,Lubogoszcz
-51.8882684,16.0437107,3,Konwaliowa,Lubogoszcz
-51.8884686,16.0450744,1,Różana,Lubogoszcz
-51.8883464,16.0442279,6,Konwaliowa,Lubogoszcz
-51.8881301,16.0440151,2,Konwaliowa,Lubogoszcz
+51.8882776,16.0436881,3,Konwaliowa,Lubogoszcz
+51.8883469,16.0442242,6,Konwaliowa,Lubogoszcz
+51.8881298,16.0440154,2,Konwaliowa,Lubogoszcz
 51.888091,16.044618,5,Narcyzowa,Lubogoszcz
-51.8880949,16.0448817,4,Różana,Lubogoszcz
+51.8880865,16.0448722,4,Różana,Lubogoszcz
 51.8879338,16.0450062,9,Narcyzowa,Lubogoszcz
 51.8878339,16.0452256,11,Narcyzowa,Lubogoszcz
-51.8877388,16.0447975,6,Narcyzowa,Lubogoszcz
+51.8877295,16.0447928,6,Narcyzowa,Lubogoszcz
 51.8874431,16.0444944,7,Wrzosowa,Lubogoszcz
 51.8876293,16.0450291,8,Narcyzowa,Lubogoszcz
 51.8875479,16.045237,10,Narcyzowa,Lubogoszcz
 51.8874279,16.0448181,9,Wrzosowa,Lubogoszcz
 51.8872776,16.0449356,11,Wrzosowa,Lubogoszcz
 51.8873554,16.0450158,11a,Wrzosowa,Lubogoszcz
-51.8876195,16.046123,12,Różana,Lubogoszcz
-51.8875812,16.0458077,15,Narcyzowa,Lubogoszcz
-51.8877326,16.0454245,13,Narcyzowa,Lubogoszcz
+51.887642,16.0461455,12,Różana,Lubogoszcz
+51.8875784,16.0458042,15,Narcyzowa,Lubogoszcz
+51.8877325,16.0454245,13,Narcyzowa,Lubogoszcz
 51.8879613,16.0454306,8,Różana,Lubogoszcz
-51.8881221,16.0457495,9,Różana,
+51.8881163,16.0457596,9,Różana,
 51.8881595,16.0464872,12a,Chabrowa,Lubogoszcz
 51.8880401,16.0482665,17,Słonecznikowa,Lubogoszcz
 51.8879358,16.0479813,15,Słonecznikowa,Lubogoszcz
 51.887469,16.0460569,17,Narcyzowa,Lubogoszcz
 51.8874015,16.0462493,19,Narcyzowa,Lubogoszcz
 51.8875323,16.046408,14,Różana,Lubogoszcz
-51.8872892,16.0465098,21,Narcyzowa,Lubogoszcz
-51.8870765,16.0455415,15,Wrzosowa,Lubogoszcz
-51.8871098,16.0470014,25,Narcyzowa,Lubogoszcz
+51.8873097,16.0465316,21,Narcyzowa,Lubogoszcz
+51.887088,16.0455005,15,Wrzosowa,Lubogoszcz
+51.8871097,16.0470007,25,Narcyzowa,Lubogoszcz
 51.8870389,16.0472196,27,Narcyzowa,Lubogoszcz
 51.8871734,16.0473798,5,Słonecznikowa,Lubogoszcz
-51.8872877,16.0479331,22,Słonecznikowa,Lubogoszcz
-51.8871646,16.0483101,18,Słonecznikowa,Lubogoszcz
+51.8872828,16.0479454,22,Słonecznikowa,Lubogoszcz
+51.8871646,16.0483102,18,Słonecznikowa,Lubogoszcz
 51.8868714,16.048159,16,Słonecznikowa,Lubogoszcz
 51.8867648,16.047892,10,Słonecznikowa,Lubogoszcz
 51.886664,16.0477294,8,Słonecznikowa,Lubogoszcz
 51.8866626,16.0473184,4,Słonecznikowa,Lubogoszcz
-51.8866046,16.0468352,25,Wrzosowa,Lubogoszcz
+51.8865971,16.0468321,25,Wrzosowa,Lubogoszcz
 51.8869239,16.0457554,17,Wrzosowa,Lubogoszcz
 51.8869134,16.0460215,19,Wrzosowa,Lubogoszcz
 51.8868834,16.0461981,19a,Wrzosowa,Lubogoszcz
@@ -198358,9 +198357,9 @@ lat,lon,housenumber,street,city
 51.8867562,16.044844,6,Hiacyntowa,Lubogoszcz
 51.8865933,16.0452098,8,Hiacyntowa,Lubogoszcz
 51.8865253,16.0454679,9,Hiacyntowa,Lubogoszcz
-51.8865878,16.0460513,22,Wrzosowa,Lubogoszcz
-51.8865867,16.0457856,22A,Wrzosowa,Lubogoszcz
-51.8864383,16.0463816,24,Wrzosowa,Lubogoszcz
+51.8865808,16.0460489,22,Wrzosowa,Lubogoszcz
+51.8866032,16.0458048,22A,Wrzosowa,Lubogoszcz
+51.886416,16.0463695,24,Wrzosowa,Lubogoszcz
 51.8864246,16.0466108,1,Słonecznikowa,Lubogoszcz
 51.8864963,16.0476683,6,Słonecznikowa,Lubogoszcz
 51.8863465,16.0474661,2B,Słonecznikowa,
@@ -198370,36 +198369,36 @@ lat,lon,housenumber,street,city
 51.8844156,16.0513499,25A,Odrodzonego Wojska Polskiego,Sława
 51.8750515,15.7791729,2,,
 51.8750294,15.7789938,1,,
-51.8897775,16.0455859,35,Chabrowa,Lubogoszcz
-51.8889931,16.0455083,25,Chabrowa,Lubogoszcz
+51.8897518,16.0456288,35,Chabrowa,Lubogoszcz
+51.8889994,16.045494,25,Chabrowa,Lubogoszcz
 51.8898992,16.0449146,18,Makowa,Lubogoszcz
 51.8896293,16.0446297,16,Makowa,Lubogoszcz
 51.8887625,16.0446855,25a,Chabrowa,Lubogoszcz
 51.8890158,16.0444351,9,Konwaliowa,Lubogoszcz
-51.8891295,16.0436262,13,Makowa,Lubogoszcz
+51.8891161,16.0436116,13,Makowa,Lubogoszcz
 51.8886866,16.0440741,7,Konwaliowa,Lubogoszcz
-51.8880097,16.0438294,1,Narcyzowa,Lubogoszcz
+51.8880174,16.0438228,1,Narcyzowa,Lubogoszcz
 51.8870631,16.0447096,12,Wrzosowa,Lubogoszcz
-51.8873136,16.0440943,6,Wrzosowa,Lubogoszcz
-51.8870331,16.0433274,1,Hiacyntowa,Lubogoszcz
+51.8873135,16.044095,6,Wrzosowa,Lubogoszcz
+51.8870464,16.0433412,1,Hiacyntowa,Lubogoszcz
 51.8869702,16.0439244,3,Hiacyntowa,Lubogoszcz
 51.8869527,16.0442064,4,Hiacyntowa,Lubogoszcz
 51.889033,16.0374525,18a,,
 51.888777,16.0374713,18,,
 51.8892236,16.0378856,15,,
-51.8896012,16.0380938,15a,,
-51.8896852,16.0386632,4,Szkolna,Lubogoszcz
-51.8896468,16.0390869,5,Bursztynowa,Lubogoszcz
-51.8894713,16.038981,3,Bursztynowa,Lubogoszcz
+51.8895858,16.0380982,15a,,
+51.8896851,16.0386632,4,Szkolna,Lubogoszcz
+51.8896386,16.0390773,5,Bursztynowa,Lubogoszcz
+51.8894622,16.0389956,3,Bursztynowa,Lubogoszcz
 51.8892175,16.0386851,1,Bursztynowa,Lubogoszcz
 51.8889696,16.0385786,14,,
-51.8886814,16.0386321,6,,
+51.8886854,16.0386465,6,,
 51.8889804,16.0391553,2,Bursztynowa,Lubogoszcz
 51.8883151,16.0396672,5,,
 51.8888845,16.0404031,31,Rubinowa,Lubogoszcz
 51.8883928,16.0404621,4a,,
 51.8881514,16.0404781,4b,,
-51.8877912,16.040972,2,,
+51.8878068,16.0409761,2,,
 51.8876652,16.0400173,4,,
 51.8876955,16.0402364,3,,
 51.8876446,16.0416408,2a,,
@@ -198407,64 +198406,64 @@ lat,lon,housenumber,street,city
 51.8872812,16.0402803,34a,,
 51.8867297,16.040302,34B,,
 51.8868048,16.0412816,34c,,
-51.888223,16.0478607,4,Chabrowa,Lubogoszcz
-51.8888847,16.0488135,25,Słonecznikowa,Lubogoszcz
-51.8884301,16.0474592,3,Chabrowa,Lubogoszcz
+51.888216,16.0478533,4,Chabrowa,Lubogoszcz
+51.8888927,16.0487926,25,Słonecznikowa,Lubogoszcz
+51.88843,16.0474592,3,Chabrowa,Lubogoszcz
 51.8886336,16.04827,6,Chabrowa,Lubogoszcz
 51.8885231,16.0485807,21,Słonecznikowa,Lubogoszcz
-51.8890563,16.0598204,4,Jaśminowa,Sława
+51.8890327,16.0598235,4,Jaśminowa,Sława
 51.8889038,16.0364688,21,,
 51.8888248,16.0368762,20,,
 51.8886655,16.0371337,19A,,
 51.8886655,16.0371337,19,,
 51.8883104,16.0367734,29,,
 51.8876091,16.039556,34,,
-51.8876205,16.0392676,33A,,
+51.8876157,16.039272,33A,,
 51.8878034,16.0389725,33,,
 51.8878999,16.039657,7,,
-51.88803,16.039152,8a,,
-51.8880476,16.0389471,8,,
-51.8881654,16.0387116,9,,
+51.8880282,16.0391569,8a,,
+51.888039,16.0389378,8,,
+51.8881661,16.0387073,9,,
 51.8880309,16.0382715,32,,
 51.8881728,16.038172,10,,
 51.8880483,16.0379048,31,,
 51.8882425,16.0376015,30,,
 51.8885,16.0377398,11,,
 51.8882547,16.0379676,11A,,
-51.8916386,16.0406875,33,Bursztynowa,Lubogoszcz
+51.8916226,16.0407038,33,Bursztynowa,Lubogoszcz
 51.8915142,16.0400412,12,,
 51.8915088,16.0398589,12A,,
-51.891652,16.0394453,31,Bursztynowa,Lubogoszcz
+51.891652,16.0394455,31,Bursztynowa,Lubogoszcz
 51.8898936,16.040969,30,Rubinowa,Lubogoszcz
 51.8912346,16.0412473,14,Bursztynowa,Lubogoszcz
-51.8911766,16.0401967,26,Bursztynowa,Lubogoszcz
+51.8911546,16.0402217,26,Bursztynowa,Lubogoszcz
 51.8910286,16.0400799,24,Szkolna,Lubogoszcz
 51.8908796,16.0399142,22,Szkolna,Lubogoszcz
 51.8907436,16.0402984,23,Bursztynowa,Lubogoszcz
-51.8905396,16.0400449,21,Bursztynowa,Lubogoszcz
+51.8905273,16.0400322,21,Bursztynowa,Lubogoszcz
 51.8905855,16.0396474,16,Szkolna,Lubogoszcz
-51.890331,16.0396684,15,Bursztynowa,Lubogoszcz
-51.8901005,16.0395091,13,Bursztynowa,Lubogoszcz
-51.8897228,16.0392694,7,Bursztynowa,Lubogoszcz
-51.8898796,16.0393629,9,Bursztynowa,Lubogoszcz
+51.8903186,16.039691,15,Bursztynowa,Lubogoszcz
+51.8900703,16.0394938,13,Bursztynowa,Lubogoszcz
+51.889806,16.0391761,7,Bursztynowa,Lubogoszcz
+51.8898737,16.0393605,9,Bursztynowa,Lubogoszcz
 51.8900169,16.0395068,11,Bursztynowa,Lubogoszcz
-51.890112,16.0392487,12,Szkolna,Lubogoszcz
+51.8901144,16.0392427,12,Szkolna,Lubogoszcz
 51.8903214,16.0393547,14,Szkolna,Lubogoszcz
 51.8903788,16.0389918,7,Szkolna,Lubogoszcz
-51.8900781,16.0388337,5a,Szkolna,Lubogoszcz
-51.8901411,16.0386728,5,Szkolna,Lubogoszcz
-51.8899278,16.0385009,3,Szkolna,Lubogoszcz
+51.8900776,16.038833,5a,Szkolna,Lubogoszcz
+51.8901418,16.0386732,5,Szkolna,Lubogoszcz
+51.8899248,16.0385056,3,Szkolna,Lubogoszcz
 51.8901622,16.0381527,15D,,
-51.8897082,16.0377391,15B,,
+51.8896965,16.0377795,15B,,
 51.8898023,16.0366347,17,,
 51.8898697,16.0361051,17a,,
 51.8903688,16.0349147,26,,
-51.8900193,16.0357364,2,Szafirowa,Lubogoszcz
+51.8900194,16.0357364,2,Szafirowa,Lubogoszcz
 51.8902067,16.0353274,1,Szafirowa,Lubogoszcz
 51.8894079,16.0348954,25,,
 51.8893647,16.0350005,25a,,
 51.8892242,16.0345918,28,,
-51.8898184,16.0341814,27,,
+51.8898183,16.0341812,27,,
 51.8892738,16.0351157,24,,
 51.8891764,16.0354901,23,,
 52.7364265,15.2049587,26,Myśliborska,Gorzów Wielkopolski
@@ -199956,7 +199955,7 @@ lat,lon,housenumber,street,city
 51.9009465,16.0414394,11,,
 51.9005617,16.0408014,39,,
 51.9005016,16.04119,10,,
-51.9003033,16.0410241,9,,
+51.9003031,16.0410244,9,,
 51.899898,16.0402512,40,,
 51.9301886,16.0590322,21,,
 51.930142,16.0594399,22,,
@@ -199988,15 +199987,15 @@ lat,lon,housenumber,street,city
 51.9380034,16.10168,40,,
 51.9371794,16.1015166,39,,
 51.9370076,16.1011777,30,,
-51.8919221,16.0408856,38,Bursztynowa,Lubogoszcz
+51.8919066,16.0409069,38,Bursztynowa,Lubogoszcz
 51.89201,16.040065,35,Bursztynowa,Lubogoszcz
 51.9048432,16.0438151,21,,
-51.9029619,16.0428217,19,,
+51.9029624,16.0428176,19,,
 51.9029813,16.0434429,19a,,
-51.9037858,16.0435987,20a,,
+51.9037888,16.0435899,20a,,
 51.9040223,16.0430187,22,,
 51.9035935,16.0427455,23,,
-51.9034688,16.0431684,20,,
+51.9034694,16.0431667,20,,
 51.9032923,16.0423695,24,,
 51.902984,16.0420798,25,,
 51.8982247,16.0400711,1,,
@@ -200312,6 +200311,7 @@ lat,lon,housenumber,street,city
 51.638733,15.1415483,9,Browarna,Żary
 51.6395053,15.1441705,17,Mieszka I,Żary
 51.6395874,15.1441654,19,Mieszka I,Żary
+51.6397893,15.145029,15,Mieszka I,Żary
 51.6398152,15.1462545,6,Aleja Jana Pawła II,Żary
 51.6393054,15.1465581,35,Osadników Wojskowych,Żary
 51.6386561,15.1459934,11,Plac Kardynała Stefana Wyszyńskiego,Żary
@@ -200502,7 +200502,7 @@ lat,lon,housenumber,street,city
 52.5096338,15.2304985,2,Jesionowa,Lubniewice
 52.5085656,15.2308564,12,Jesionowa,Lubniewice
 52.5087437,15.2376401,5B,Sulęcińska,Lubniewice
-52.5083348,15.2367332,9,Sulęcińska,Lubniewice
+52.5083295,15.2367424,9,Sulęcińska,Lubniewice
 52.5128225,15.2395041,4,Ratuszowa,Lubniewice
 52.5235723,15.2404028,21,Gajowa,Lubniewice
 52.5236908,15.2352484,22,Malinowa,Lubniewice
@@ -201505,7 +201505,7 @@ lat,lon,housenumber,street,city
 52.4585393,14.8579725,8,Widok,Ośno Lubuskie
 52.0689186,15.8691732,14,Kolejowa,Kargowa
 52.5382494,14.8696337,12,Młyńska,Ownice
-51.8886078,16.0435796,6,Makowa,Lubogoszcz
+51.8885933,16.0435834,6,Makowa,Lubogoszcz
 52.0534051,15.0961936,7,Srebrna Góra,Krosno Odrzańskie
 51.9543571,14.7713048,17,Przemysłowa,Gubin
 51.9562888,14.7759335,6,Hoża,Gubin
@@ -202065,8 +202065,8 @@ lat,lon,housenumber,street,city
 52.8667039,15.0188413,1,,
 52.8687149,15.0210818,3,,
 52.8684069,15.0195118,2,,
-51.9047833,16.073687,17b,,
-51.905202,16.0741778,17a,,
+51.9047819,16.07365,17b,,
+51.905206,16.0741604,17a,,
 52.8803903,15.5503328,22,Gwiaździsta,Strzelce Krajeńskie
 52.8804262,15.5493067,12,Słoneczna,Strzelce Krajeńskie
 52.8804864,15.5512719,7,Planetarna,Strzelce Krajeńskie
@@ -202937,6 +202937,8 @@ lat,lon,housenumber,street,city
 52.8321147,15.819483,18,Wita Stwosza,Drezdenko
 52.8321184,15.8193388,18a,Wita Stwosza,Drezdenko
 52.8321115,15.8190583,19,Wita Stwosza,Drezdenko
+52.8163579,15.8415618,137e,,
+52.8149232,15.8508103,5a,,
 51.5537718,14.7022133,25,Drosselweg,Bad Muskau
 51.5530955,14.7037233,7,Drosselweg,Bad Muskau
 51.5525287,14.7156582,11,Jahnstraße,Bad Muskau
@@ -204354,7 +204356,7 @@ lat,lon,housenumber,street,city
 51.7178653,14.6624772,108,Triebeler Straße,Forst (Lausitz)
 51.7180793,14.6631437,4,Am Anger,Forst (Lausitz)
 52.0645082,15.718551,74,,
-52.1571111,14.6879918,12,Buchwaldstraße,Eisenhüttenstadt
+52.1572837,14.6879615,12,Buchwaldstraße,Eisenhüttenstadt
 51.7162173,14.6584175,13A,Friesenstraße,Forst (Lausitz)
 51.7165824,14.6583982,12,Fichtestraße,Forst (Lausitz)
 51.7159608,14.6583758,16,Friesenstraße,Forst (Lausitz)
@@ -204833,6 +204835,7 @@ lat,lon,housenumber,street,city
 51.745898,14.6482943,5,Lindenstraße,Forst (Lausitz)
 51.7449054,14.6466696,5,Promenade,Forst (Lausitz)
 51.8823283,16.0538296,21/1,Odrodzonego Wojska Polskiego,Sława
+51.8816896,16.0840502,2a,Długa,Sława
 51.8894626,16.0832035,7,Długa,Sława
 51.8700664,16.0618884,6,Jowisza,Radzyń
 51.8722809,16.0729823,15,Boczna,Sława
@@ -204846,7 +204849,7 @@ lat,lon,housenumber,street,city
 51.9151328,16.0969335,74,,
 51.909024,16.0888435,1a,,
 51.9214411,16.1039828,55,,
-51.9097007,16.0892064,2b,,
+51.9097008,16.0892063,2b,,
 51.9219735,16.1057114,40,,
 51.9095272,16.089164,2a,,
 51.9149602,16.0961583,18,,
@@ -204867,13 +204870,13 @@ lat,lon,housenumber,street,city
 51.9094918,16.090205,84C,,
 51.9107189,16.0904767,83E,,
 51.9206416,16.1008818,30a,,
-51.9092451,16.0895359,85,,
+51.9092451,16.089536,85,,
 51.9135126,16.0948592,78B,,
-51.9208331,16.1066992,50,,
+51.9208328,16.1067001,50,,
 51.9199061,16.1013968,27,,
 51.921538,16.1016874,32,,
 51.9210186,16.1027266,58a,,
-51.9120737,16.0919546,83,,
+51.9120841,16.0919623,83,,
 51.9219205,16.1026981,33,,
 51.9218236,16.1039472,36,,
 51.9109083,16.0899311,5,,
@@ -204897,15 +204900,15 @@ lat,lon,housenumber,street,city
 51.9100929,16.0889153,3,,
 51.912159,16.0913008,9,,
 51.9213728,16.1048248,53,,
-51.9105833,16.0898111,4,,
+51.9105833,16.0898107,4,,
 51.921604,16.1057368,43,,
 51.9137929,16.093792,15,,
 51.9118847,16.0910374,8,,
 51.9130933,16.0936502,81,,
 51.9214599,16.103031,57,,
 51.9219237,16.1061395,42,,
-51.9133759,16.0942534,79,,
-51.9097427,16.0899689,84b,,
+51.9133564,16.0943002,79,,
+51.9097433,16.0899691,84b,,
 51.9112257,16.0903544,6,,
 51.9200269,16.1019962,60,,
 51.9203034,16.1015778,29,,
@@ -205791,6 +205794,8 @@ lat,lon,housenumber,street,city
 51.9714402,14.7175054,85,Generała Władysława Sikorskiego,Gubin
 52.3071942,15.4269923,55,Jeziorowa,Lubrza
 52.3063413,15.4274973,33,Jeziorowa,Lubrza
+52.211105,15.402843,6A,Tęczowa,Niesulice
+52.211132,15.403109,6,Tęczowa,Niesulice
 52.2115078,15.4286736,7,Borowska,Ołobok
 51.9541829,14.7248277,10,Franklina Delano Roosevelta,Gubin
 51.9597743,14.7259752,18,Platanowa,Gubin
@@ -206379,6 +206384,7 @@ lat,lon,housenumber,street,city
 52.8143038,15.9255632,94,,
 52.8143951,15.9248965,94A,,
 52.8186245,15.8674704,119f,,
+52.812277,15.8859091,58a,,
 51.8011978,16.3141948,1A,Konradowska,Wschowa
 51.5877277,15.7125588,54B,,
 51.3497908,14.9631195,107,Noeser Straße,Rothenburg/Oberlausitz
@@ -206724,6 +206730,7 @@ lat,lon,housenumber,street,city
 51.5984414,15.1644468,9a,Westerplatte,Żary
 51.6027338,15.1841938,8,Wyzwolenia,Żary
 51.6017168,15.1802907,3,Zachodnia,Żary
+51.6461958,15.1248697,25b,Czerwonego Krzyża,Żary
 51.7540026,15.6038153,33B,Nowosolna,Kożuchów
 52.6660422,15.120497,47C,,
 52.6661363,15.1202394,47,,
@@ -206750,6 +206757,7 @@ lat,lon,housenumber,street,city
 52.7228785,15.1822337,12,Piechoty,Gorzów Wielkopolski
 52.7248858,15.2533022,4,Portowa,Gorzów Wielkopolski
 52.7318722,15.3284048,7,Na Skarpie,Czechów
+52.7295084,15.3164721,5A,Klonowa,Czechów
 52.7314799,15.3283808,18A,Na Skarpie,Czechów
 52.7027165,15.260743,18A,Poznańska,Gorzów Wielkopolski
 52.7036798,15.260785,12A,Poznańska,Gorzów Wielkopolski
@@ -206775,6 +206783,7 @@ lat,lon,housenumber,street,city
 52.2341342,15.2412868,19,Osiedle Wiśniowe,
 52.2685058,15.261761,9,Łagowska,Toporów
 52.1990622,14.7846167,20E,Wileńska,Cybinka
+52.1956077,14.79698,8A,Szkolna,
 52.1990283,14.7852436,18E,Wileńska,Cybinka
 52.1979963,14.7849955,18B,Wileńska,Cybinka
 52.1680998,14.862826,44,Drzeniów,
@@ -206885,6 +206894,8 @@ lat,lon,housenumber,street,city
 51.7708961,14.9938262,40E,,
 51.7405824,15.0762846,39,,
 51.740501,15.0771098,38,,Jasień
+51.7186183,15.0180673,35,,
+51.7185463,15.0184848,36,,
 51.7613234,15.0350629,61a,Mirkowice,
 51.7437422,15.0146189,2,Krucza,Jasień
 51.7452267,15.0296978,99,Żarska,Jasień
@@ -207036,6 +207047,7 @@ lat,lon,housenumber,street,city
 52.0601133,15.0707531,2,Wrzosowa,Marcinowice
 52.0614689,15.06614,46,Widokowa,Marcinowice
 52.0612291,15.0668415,42,Widokowa,Marcinowice
+52.0516301,15.094132,2C,Winnica,Krosno Odrzańskie
 52.0615843,15.0736955,2,Słoneczna,Marcinowice
 52.0610945,15.0733548,16,Wiejska,Marcinowice
 52.0611605,15.0729418,18,Wiejska,Marcinowice
@@ -207816,6 +207828,7 @@ lat,lon,housenumber,street,city
 52.7481575,15.3429625,18A,Sportowa,Janczewo
 52.7482103,15.3433462,18,Sportowa,Janczewo
 52.7611438,15.3564276,3A,Okrężna,Janczewo
+52.7294124,15.315669,4,Jaśminowa,Czechów
 52.7626417,15.3580443,23,Żniwna,Janczewo
 52.76028,15.3501155,19A,Parkowa,Janczewo
 52.7320229,15.3294448,11,Na Skarpie,Czechów
@@ -208525,6 +208538,8 @@ lat,lon,housenumber,street,city
 52.1724436,15.8295956,78,Marszałka Józefa Piłsudskiego,Babimost
 52.8473217,15.3599811,4,Jarzębinowa,Santoczno
 52.8472326,15.3592837,5,Jarzębinowa,Santoczno
+52.7574981,15.7256301,6,Osiedle Pod Sosnami,Gościm
+52.757883,15.7259102,5a,,
 52.8839234,15.5531817,5,Lawendowa,Strzelce Krajeńskie
 52.883019,15.5533809,2,Lawendowa,Strzelce Krajeńskie
 51.9311995,15.6272564,59,Nowy Kisielin-Grabowa,Zielona Góra
@@ -208649,12 +208664,24 @@ lat,lon,housenumber,street,city
 52.8155493,15.7947019,25H,,
 52.8159777,15.7940479,25E,,
 52.8153771,15.7947696,25K,,
+52.8134179,15.8942576,25a,,
 52.8111179,15.9101133,19A,,
+52.8182962,15.844704,129l,,
+52.8166495,15.8442452,140c,,
+52.8136825,15.8914486,65a,,
+52.8069066,15.8732842,1f,,
 52.8543333,15.837739,5,Podgórna,
 52.830533,15.8324414,20,Okrężna,Drezdenko
+52.8112773,15.8839382,57d,,
+52.8157979,15.8532805,6d,,
 52.8337833,15.8227794,39,11 Listopada,Drezdenko
 52.8406532,15.8372658,11,Józefa Poniatowskiego,Drezdenko
 52.8330334,15.8275729,10,Poznańska,Drezdenko
+52.8162472,15.847153,144,,
+52.8173374,15.8453984,129g,,
+52.8173221,15.844265,140F,,
+52.8176243,15.8439811,140g,,
+52.8178504,15.8441536,140h,,
 52.8322262,15.8148899,2,Strumykowa,Osów
 52.8283834,15.8199314,4,Makowa,Drezdenko
 52.8290345,15.8215493,1,Diamentowa,Drezdenko
@@ -208662,14 +208689,33 @@ lat,lon,housenumber,street,city
 52.8295235,15.8354642,1,Miedziana,Drezdenko
 52.8265265,15.8380336,156,,
 52.8235442,15.853343,1,Spacerowa,
+52.8162803,15.8460628,142,,
+52.8166518,15.8457399,140,,
+52.8170095,15.8446338,129d,,
 52.8351899,15.8445382,44,Aleja Piastów,Drezdenko
 52.8316714,15.8356823,11,Miodowa,Drezdenko
+52.806475,15.8712092,1i,,
+52.8170328,15.8439626,140e,,
 52.8251364,15.853524,10,Pogodna,Niegosław
+52.8056479,15.8470801,1D,,
+52.8123635,15.8687542,32A,,
+52.8169435,15.8456024,129b,,
+52.816276,15.8421428,137d,,
+52.8097765,15.8468297,4B,,
+52.8162579,15.8432322,137a,,
+52.8162662,15.8431174,137b,,
 52.8275269,15.8486049,15d,Niegosławska,Niegosław
+52.8166877,15.844808,140b,,
+52.8162532,15.8456932,139,,
 52.8248,15.8533775,12B,Niegosławska,Niegosław
 52.8027167,15.8775439,6D,,
 52.8531707,15.8322102,10a,1 Maja,
+52.8159032,15.8518018,6b,,
 52.8397414,15.8183954,1,Dębowa,Drezdenko
+52.8182073,15.8443036,140l,,
+52.81819,15.8443021,140k,,
+52.8180386,15.8442957,140j,,
+52.8069473,15.8738901,1d,,
 52.8237729,15.8533137,2e,Niegosławska,Niegosław
 52.8251412,15.8534304,8,Pogodna,Niegosław
 52.8250075,15.854371,14,Pogodna,Niegosław
@@ -208677,6 +208723,7 @@ lat,lon,housenumber,street,city
 52.8247962,15.8534729,12C,Niegosławska,Niegosław
 52.8432874,15.8866824,33c,,
 52.8347486,15.8334463,3,Willowa,Drezdenko
+52.8166264,15.8423063,137g,,
 52.824572,15.8545305,2,Zacisze,Niegosław
 52.8249809,15.8547106,16,Pogodna,Niegosław
 52.3566081,14.5333448,39,Hamburger Straße,Frankfurt (Oder)
@@ -209221,6 +209268,7 @@ lat,lon,housenumber,street,city
 52.3343905,14.5430494,54C,Große Müllroser Straße,Frankfurt (Oder)
 52.3343336,14.5432096,55,Große Müllroser Straße,Frankfurt (Oder)
 52.3342774,14.543368,55A,Große Müllroser Straße,Frankfurt (Oder)
+52.3336933,14.5425546,24,Spartakusring,
 52.3371142,14.5424293,38A,Fürstenberger Straße,Frankfurt (Oder)
 52.3370724,14.5424274,2,Dresdener Platz,Frankfurt (Oder)
 52.3370074,14.5422492,3,Dresdener Platz,Frankfurt (Oder)
@@ -209435,7 +209483,7 @@ lat,lon,housenumber,street,city
 51.7593743,15.0093549,10,Brzozowa,Jasień
 51.7484565,15.010787,1,Słoneczna,Jasień
 51.7490634,15.0120824,10,Geodetów,Jasień
-51.7483037,15.0244034,14,Kazimierza Wielkiego,Jasień
+51.7483035,15.0244039,14,Kazimierza Wielkiego,Jasień
 51.7485236,15.0227926,4,Bolesława Chrobrego,Jasień
 51.7860285,14.9496217,10,Gronowa,Lubsko
 51.747943,15.0203172,12,Budowlanych,Jasień
@@ -209443,6 +209491,7 @@ lat,lon,housenumber,street,city
 51.7728166,15.0000944,7,Spokojna,Budziechów
 51.773417,14.9994145,12,Spokojna,Budziechów
 51.7860998,14.9491633,7,Wiśniowa,Lubsko
+51.7170067,14.9660595,36B,,
 51.7499591,15.0062195,10A,Łąkowa,Jasień
 51.749837,15.005901,10B,Łąkowa,Jasień
 51.749447,15.0075054,15A,Łąkowa,Jasień
@@ -209457,6 +209506,7 @@ lat,lon,housenumber,street,city
 51.7696165,14.9951414,50E,Budziechów,
 51.7698383,14.996485,50B,Budziechów,
 51.7689362,14.9964644,51F,Budziechów,
+51.7742964,14.9797886,3C,Transportowa,Lubsko
 51.7485969,15.0240408,12,Kazimierza Wielkiego,
 51.7485124,15.0234295,3,Bolesława Chrobrego,Jasień
 51.7487124,15.0235393,10,Kazimierza Wielkiego,Jasień
@@ -209478,6 +209528,7 @@ lat,lon,housenumber,street,city
 51.7452159,15.0168685,9,Żurawia,Jasień
 51.7437395,15.0088769,13,Inwestycyjna,Jasień
 51.7436791,15.0087976,13,Inwestycyjna,Jasień
+51.7346557,15.0045768,38,,
 51.77178,15.0851443,58B,Guzów,Jasień
 51.763562,15.0347555,46c,Mirkowice,Jasień
 51.7420892,15.0743425,47B,Bieszków,
@@ -209501,6 +209552,9 @@ lat,lon,housenumber,street,city
 52.3184775,14.5538054,71,Buschmühlenweg,Frankfurt (Oder)
 51.415635,14.960267,19,Mittelweg,Rothenburg/Oberlausitz
 52.2108613,15.4145109,8,Dębowa,Niesulice
+52.21097,15.40203,12,Tęczowa,Niesulice
+52.210997,15.402196,10,Tęczowa,Niesulice
+52.211076,15.402548,8,Tęczowa,Niesulice
 52.2103663,15.4121822,1B,,
 52.2107098,15.4113293,10B,Topolowa,Niesulice
 52.2036617,15.4416704,2C,Wojciechowskiego,Ołobok
@@ -209510,6 +209564,7 @@ lat,lon,housenumber,street,city
 51.567487,15.5499104,7,Różana,Szprotawa
 51.5495251,15.5501706,3,Czesława Miłosza,Szprotawa
 51.5495525,15.4511728,27,Piastowska,Małomice
+51.5689024,15.508966,1,Pagórkowa,Szprotawa
 51.5514994,15.5346654,9,Powstańców Śląskich,Szprotawa
 51.558632,15.5354975,4,Pogodna,Szprotawa
 51.5456696,15.5256114,3,Leśna,Nowa Kopernia
@@ -209869,7 +209924,7 @@ lat,lon,housenumber,street,city
 52.878591,15.5414781,8A,Lipowa,Strzelce Krajeńskie
 51.8676053,16.0385469,4,Widokowa,Radzyń
 51.8674558,16.0386161,3,Widokowa,Radzyń
-51.8723912,16.0580957,11,Ptasia,Radzyń
+51.8724242,16.0580687,11,Ptasia,Radzyń
 51.8662101,16.0513645,4,Wypoczynkowa,Radzyń
 51.7966954,15.6821919,1,Nowosolska,Rudno
 52.6163032,14.6260219,2,Szmaragdowa,Kostrzyn nad Odrą
@@ -210162,6 +210217,7 @@ lat,lon,housenumber,street,city
 51.9802619,15.4854477,1,Łężyca-Architektów,Zielona Góra
 52.1541856,14.6836802,10c,Buchwaldstraße,Eisenhüttenstadt
 52.1543787,14.6838438,10d,Buchwaldstraße,Eisenhüttenstadt
+52.1577224,14.6885629,12b,Buchwaldstraße,Eisenhüttenstadt
 51.875459,15.3130059,28,,
 51.875459,15.3130059,28A,,
 51.8753986,15.3163565,14A,,
@@ -210537,6 +210593,7 @@ lat,lon,housenumber,street,city
 51.8845565,15.611728,248B,Sucha,Zielona Góra
 51.8850024,15.6115583,248,Sucha,Zielona Góra
 51.8847953,15.6115601,248A,Sucha,Zielona Góra
+52.2008544,14.8016327,15,Kolejowa,
 51.9642164,15.4540365,25B,Przylep-Robotnicza,Zielona Góra
 52.0289735,15.3378602,88,Jana Kasprowicza,Nietków
 51.9067603,15.5723544,13A,Racula-Drzonkowska,Zielona Góra
@@ -210556,6 +210613,7 @@ lat,lon,housenumber,street,city
 52.8799656,15.5128493,6a,Cmentarna,Strzelce Krajeńskie
 51.9211674,15.5555496,1,Racula-Głogowska,Zielona Góra
 51.7455076,15.5929861,3,Plac Jana Matejki,Kożuchów
+51.7457092,15.5940061,24,Rynek,Kożuchów
 52.4093617,15.1281883,14,Ostrow,
 52.4096389,15.127514,11,Ostrow,
 51.4398856,15.0979587,1,Młyńska,Gozdnica
@@ -211268,6 +211326,7 @@ lat,lon,housenumber,street,city
 52.7516298,15.1005644,1,Urocza,Baczyna
 52.788564,15.218352,8A,Jeziorna,Kłodawa
 51.9478537,15.4823351,43A,Objazdowa,Zielona Góra
+51.6391537,15.1388179,5,Parkowa,Żary
 51.9052479,15.5893305,16,Ługowo-Maślaka,Zielona Góra
 52.0646923,15.6117789,2,Zielonogórska,Nowy Świat
 52.7538685,15.4151993,5,Trzech Króli,Płomykowo
@@ -211328,6 +211387,14 @@ lat,lon,housenumber,street,city
 52.8150646,15.7943837,25L,,
 52.8154584,15.7941157,25J,,
 52.7017661,15.2395486,33,Kręta,Gorzów Wielkopolski
+51.567686,15.506806,20B,Na górze,Szprotawa
+51.567678,15.507508,9,Na górze,Szprotawa
+51.566625,15.507783,14H,Podgórna,Szprotawa
+51.567207,15.508536,14E,Podgórna,Szprotawa
+51.567379,15.508743,14D,Podgórna,Szprotawa
+51.567464,15.509042,14C,Podgórna,Szprotawa
+51.568494,15.508572,15,Na górze,Szprotawa
+51.568648,15.508974,14A,Na górze,Szprotawa
 51.557763,15.494015,5,Partyzancka,Szprotawa
 52.5984736,14.6717376,100B,Gorzowska,Kostrzyn nad Odrą
 52.7728893,15.2840133,12,Słoneczna,Wojcieszyce
@@ -211388,7 +211455,7 @@ lat,lon,housenumber,street,city
 52.8332848,15.8416809,33h,Pierwszej Brygady,Drezdenko
 52.8327842,15.8416379,33g,Pierwszej Brygady,Drezdenko
 52.8326117,15.8412472,33d,Pierwszej Brygady,Drezdenko
-52.8323716,15.8414977,33e,Pierwszej Brygady,Drezdenko
+52.8323735,15.8414938,33e,Pierwszej Brygady,Drezdenko
 52.7068505,15.2795735,81C,Ziemiańska,Gorzów Wielkopolski
 51.952797,15.780527,17,,
 51.8251468,15.7070105,6E,Konstruktorów,Nowa Sól
@@ -211406,16 +211473,18 @@ lat,lon,housenumber,street,city
 52.8409126,15.8288383,1a,Zielona,Drezdenko
 51.5625323,15.5197281,70C,Jana Sobieskiego,Szprotawa
 52.398381,14.7640093,22,Rzepińska,Kowalów
+51.5690285,15.5103306,9,Pagórkowa,Szprotawa
 51.5512779,15.5431157,10,Mikołaja Reja,Szprotawa
 51.5512297,15.54274,11,Mikołaja Reja,Szprotawa
 51.5496551,15.5507655,3A,Czesława Miłosza,Szprotawa
 52.0174013,14.9471286,68B,Wężyska,
 51.747116,15.0150686,10,Henryka Sienkiewicza,Jasień
 51.745406,15.0178927,4,Ignacego Paderewskiego,Jasień
+51.7454837,15.0175053,2,Ignacego Paderewskiego,Jasień
 51.7470039,15.012544,18,Leśna,Jasień
 51.7504893,15.0115919,5,Podmokła,Jasień
 51.7444516,15.0154472,29,Henryka Sienkiewicza,Jasień
-51.7442705,15.009261,22,Krucza,Jasień
+51.7442653,15.0092536,22,Krucza,Jasień
 51.9381736,15.5076122,9,Mikołaja Kopernika,Zielona Góra
 52.7283062,15.2302302,11,Składowa,Gorzów Wielkopolski
 52.618179,14.5937921,33,Piaskowa,Kostrzyn nad Odrą
@@ -211450,9 +211519,9 @@ lat,lon,housenumber,street,city
 52.9699718,15.7541549,32,Gdańska,Dobiegniew
 51.7536956,15.0113707,20,XX-lecia,Jasień
 51.7534434,15.0114233,20a,XX-lecia,Jasień
-51.745455,15.0185702,8,Ignacego Paderewskiego,Jasień
+51.745455,15.0185702,10,Ignacego Paderewskiego,Jasień
 51.7461171,15.0175104,2,Wojciecha Korfantego,
-51.7433096,15.0136321,50,Henryka Sienkiewicza,Jasień
+51.7433034,15.0136321,50,Henryka Sienkiewicza,Jasień
 51.7485375,15.0096956,5,Słoneczna,Jasień
 51.7759322,15.6119591,27,,
 51.926758,15.614557,5A,Nowy Kisielin-Rozwojowa,Zielona Góra
@@ -211468,7 +211537,7 @@ lat,lon,housenumber,street,city
 51.612481,15.337039,67,Józefa Piłsudskiego,Żagań
 51.6123049,15.3371232,65,Józefa Piłsudskiego,Żagań
 52.0590891,15.0874869,1B,Mieszka I,Krosno Odrzańskie
-51.749702,15.0052167,10C,Łąkowa,Jasień
+51.7497021,15.0052147,10C,Łąkowa,Jasień
 51.7523893,15.0059377,3,Wrzosowa,Jasień
 51.62891,15.3333422,36,Porzeczkowa,Żagań
 51.6278887,15.3333046,20,Porzeczkowa,
@@ -211482,10 +211551,10 @@ lat,lon,housenumber,street,city
 51.7444931,15.0174487,1,Romana Dmowskiego,Jasień
 51.7477171,15.0171277,8,Żarska,Jasień
 51.7478574,15.0166045,6,Żarska,Jasień
-51.7489288,15.0161285,25,Powstańców Warszawskich,Jasień
+51.7489285,15.016128,25,Powstańców Warszawskich,Jasień
 51.7489216,15.0224131,8,Kazimierza Wielkiego,Jasień
 51.7464411,15.0160623,11B,Henryka Sienkiewicza,Jasień
-51.745214,15.0269869,48,Żarska,Jasień
+51.7452135,15.0269869,48,Żarska,Jasień
 51.7502578,15.0226925,29,Stefana Okrzei,
 51.750401,15.0219009,25,Stefana Okrzei,Jasień
 52.3545146,14.5491001,6,Hafenstraße,Frankfurt (Oder)
@@ -211569,3 +211638,62 @@ lat,lon,housenumber,street,city
 51.7743782,14.9900179,29,Ogrodowa,Budziechów
 51.7719551,14.9923937,5,Ogrodowa,Budziechów
 51.7872675,15.130869,51B,Zabłocie,
+52.6009911,14.6518024,21,Sportowa,Kostrzyn nad Odrą
+52.6256374,14.587563,13,Familijna,Kostrzyn nad Odrą
+51.7914604,15.1213618,81C,Zabłocie,
+51.7422083,15.0103721,13,Inwestycyjna,Jasień
+51.8784711,16.077472,23,Powstańców Śląskich,Sława
+52.1578994,14.6882154,12c,Buchwaldstraße,Eisenhüttenstadt
+52.1581781,14.6885321,12d,Buchwaldstraße,Eisenhüttenstadt
+52.1555506,14.6855967,11f,Buchwaldstraße,Eisenhüttenstadt
+52.1554105,14.6853671,11e,Buchwaldstraße,Eisenhüttenstadt
+51.7744602,14.9801295,3B,Transportowa,Lubsko
+51.7746669,14.979966,3A,Transportowa,Lubsko
+51.9734299,14.99273,80A,,
+51.9733763,14.9924222,81A,,
+51.9732117,14.9923749,81B,,
+51.9737872,14.9921894,81,,
+51.9739746,14.9913186,81J,,
+51.9736636,14.9906527,81H,,
+51.9736551,14.9902922,80M,,
+51.9734132,14.9901897,80L,,
+51.9731472,14.9901385,80K,,
+51.974258,14.989877,80P,,
+51.9745153,14.9898389,79H,,
+51.9742952,14.9895541,80S,,
+51.9747688,14.9889794,79J,,
+51.9750631,14.988476,79K,,
+51.974805,14.9881924,79L,,
+51.9742134,14.9881158,79N,,
+51.9745075,14.9910388,79E,,
+51.9738988,14.9930761,79,,
+51.9742521,14.9922758,79B,,
+51.5549045,15.5258926,28A,Polkwiczki,
+51.5522906,15.5249318,2A,Jarzębinowa,Nowa Kopernia
+51.5533179,15.5253073,7,Borówkowa,Nowa Kopernia
+51.5670742,15.5084074,14F,Podgórna,Szprotawa
+51.5686499,15.510434,8,Pagórkowa,Szprotawa
+51.5635426,15.525148,13,Niepodległości,Szprotawa
+52.0355668,15.6043179,44,Portowa,Cigacice
+51.9296922,15.6154787,1,Nowy Kisielin-Technologiczna,Zielona Góra
+52.8324215,15.8408621,33a,Pierwszej Brygady,Drezdenko
+52.8320069,15.841279,33b,Pierwszej Brygady,Drezdenko
+51.7198438,15.0114318,28C,,
+52.211568,15.402417,3,Słoneczna,Niesulice
+52.211413,15.402536,7,Tęczowa,Niesulice
+52.147379,15.4016436,2A,,
+52.8846607,15.8643378,2b,,
+52.8128663,15.8440542,135c,,
+51.6915258,15.0008682,12A,,
+51.7144869,14.9576623,29G,,
+51.7182403,14.9572431,26C,,
+51.71819,14.9561651,26F,,
+51.7197362,14.965169,9A,,
+51.7175458,14.9670338,40A,,
+52.8185419,15.8447165,129m,,
+52.8165339,15.8424253,137h,,
+52.8164985,15.8429032,137k,,
+52.8066451,15.8731358,1g,,
+52.7577478,15.7255362,5,,
+52.7580993,15.7249986,4d,,
+52.7587836,15.7262105,2d,,
