@@ -5369,7 +5369,7 @@ lat,lon,housenumber,street,city
 50.6949699,17.9153264,1,Kępska,Opole
 50.6826155,17.9113352,1,Magazynowa,Opole
 50.6817677,17.9517173,1,Majora „Hubala”,Opole
-50.6870967,17.8860582,1,Nizinna,Opole
+50.6870243,17.8860824,1,Nizinna,Opole
 50.6661576,17.9209525,1,Norberta Barlickiego,Opole
 50.6463125,17.9074831,1,Odrodzenia,Opole
 50.6874919,17.9147319,1,Prudnicka,Opole
@@ -6726,7 +6726,6 @@ lat,lon,housenumber,street,city
 50.6517231,17.9612788,7,Książęca,Opole
 50.6618176,17.9412975,7,Marii Rodziewiczówny,Opole
 50.6689708,17.9247879,7,Mały Rynek,Opole
-50.6874026,17.8863518,7,Nizinna,Opole
 50.6691889,17.9128621,7,Piotra Niedurnego,Opole
 50.667926,17.8809965,7,Przylesie,Opole
 50.6883727,17.9170388,7,Raciborska,Opole
@@ -7028,22 +7027,15 @@ lat,lon,housenumber,street,city
 50.4703958,17.1720563,30,Władysława Jagiełły,Otmuchów
 50.5047226,17.246605,31,Polna,Goświnowice
 50.470265,17.172184,32,Władysława Jagiełły,Otmuchów
-50.4667758,17.2652478,33,,
 50.471011,17.1712877,34,Władysława Jagiełły,Otmuchów
-50.4670036,17.2651306,34,,
 50.4711481,17.1711601,36,Władysława Jagiełły,Otmuchów
-50.4674192,17.2648976,36,,
 50.4712243,17.1708767,38,Władysława Jagiełły,Otmuchów
-50.467959,17.2654982,38,,
 50.5045484,17.2081372,38,,
-50.4680514,17.2660493,39,,
 50.5391756,17.2129243,39,,
 50.5390487,17.2129803,39A,,
 50.4711463,17.1706784,40,Władysława Jagiełły,Otmuchów
-50.4676582,17.266232,40,,
-50.4675844,17.2656638,41,,
 50.4712116,17.1702332,42,Władysława Jagiełły,Otmuchów
-50.4672477,17.2656827,42,,
+50.4670462,17.2665404,44,,
 50.4713527,17.1701032,44,Władysława Jagiełły,Otmuchów
 50.5113141,17.2800166,44,,
 50.4708877,17.1701159,46,Władysława Jagiełły,Otmuchów
@@ -7056,7 +7048,6 @@ lat,lon,housenumber,street,city
 50.5325445,17.2654313,57b,,
 50.5407018,17.2178797,59,,
 50.4651215,17.1774348,5a,Piastowska,Otmuchów
-50.474371,17.2759656,7,Jaworowa,Skorochów
 50.54083,17.2179545,60,,
 50.5413431,17.2181485,61,,
 50.5103609,17.2837561,61a,,
@@ -7196,7 +7187,6 @@ lat,lon,housenumber,street,city
 50.287164,17.4507502,1a,,
 50.3064314,17.3831548,2,Michała Ogińskiego,Głuchołazy
 50.3147214,17.3755781,20,Osiedle Konstytucji 3 Maja,Głuchołazy
-50.3553671,17.3721877,204a,,
 50.355828,17.3707979,208a,,
 50.3557328,17.3708742,208b,,
 50.3145524,17.3755803,21,Osiedle Konstytucji 3 Maja,Głuchołazy
@@ -7204,7 +7194,6 @@ lat,lon,housenumber,street,city
 50.3118577,17.3882052,22,Powstańców Śląskich,Głuchołazy
 50.3148218,17.376085,23,Osiedle Konstytucji 3 Maja,Głuchołazy
 50.2870702,17.4310139,23a,,
-50.3357921,17.3906176,265,,
 50.3177528,17.3753868,28,Józefa Ignacego Kraszewskiego,Głuchołazy
 50.3177649,17.3752958,28A,Józefa Ignacego Kraszewskiego,Głuchołazy
 50.3190036,17.3837731,28a,Tadeusza Kościuszki,Głuchołazy
@@ -7225,8 +7214,6 @@ lat,lon,housenumber,street,city
 50.3134049,17.3738313,48,Generała Stanisława Maczka,Głuchołazy
 50.294777,17.4026522,48a,,
 50.3049168,17.3985743,6,,
-50.3344326,17.3822228,67a,,
-50.3345229,17.3821053,67b,,
 50.3156409,17.3773998,7,Osiedle Konstytucji 3 Maja,Głuchołazy
 50.3225598,17.384329,71A,Tadeusza Kościuszki,Głuchołazy
 50.3128114,17.3828951,8a,Aleja Jana Pawła II,Głuchołazy
@@ -8194,7 +8181,6 @@ lat,lon,housenumber,street,city
 50.5910042,17.6535985,5,Słoneczna,Tułowice
 50.6358849,17.6170477,50,Wojciecha Korfantego,Niemodlin
 50.6283978,17.6536169,51a,,
-50.6419943,17.6230628,55,Rynek,Niemodlin
 50.6424295,17.6218186,55A,Rynek,Niemodlin
 50.6423215,17.6217629,55B,Rynek,Niemodlin
 50.642251,17.6217006,55C,Rynek,Niemodlin
@@ -30137,7 +30123,7 @@ lat,lon,housenumber,street,city
 50.9418007,17.7854755,2c,Namysłowska,Miejsce
 50.9416921,17.7854852,2d,Namysłowska,Miejsce
 50.9911303,17.7562901,3,Spacerowa,Biestrzykowice
-50.9588219,17.7513821,3,Szkolna,Świerczów
+50.9588563,17.7511373,3,Szkolna,Świerczów
 50.9604893,17.8509689,3,,
 50.9273923,17.855213,31,,
 50.9953581,17.8302874,32,Opolska,Starościn
@@ -30167,7 +30153,6 @@ lat,lon,housenumber,street,city
 50.9894953,17.7680895,46,Ludowa,Biestrzykowice
 50.9307738,17.8593006,47,,
 50.9311641,17.8602853,48,,
-50.9446737,17.7787317,4B,Parkowa,Miejsce
 51.0054064,17.7435692,4a,,
 50.9716359,17.7980118,5,Szkolna,Dąbrowa
 50.9606833,17.8515571,5,,
@@ -31259,7 +31244,6 @@ lat,lon,housenumber,street,city
 50.8481994,17.462826,21,Księdza Kazimierza Makarskiego,Brzeg
 50.8538902,17.4567746,21,Janusza Kusocińskiego,Brzeg
 50.8726666,17.5196547,210,,
-50.8727866,17.5193793,211,,
 50.8565662,17.4719101,21A,Piastowska,Brzeg
 50.8565268,17.4720042,21B,Piastowska,Brzeg
 50.8564926,17.4720867,21C,Piastowska,Brzeg
@@ -32371,8 +32355,6 @@ lat,lon,housenumber,street,city
 50.7835446,18.0675169,11,Laskowa,Jełowa
 50.755178,18.0869544,11,Malinowa,Turawa
 50.7515171,18.0893479,11,Modrzewiowa,Turawa
-50.8046963,18.0965572,11,Oleska,Grabie
-50.8017752,18.0654476,11,Starodworcowa,Jełowa
 50.79135,18.1047828,11,Turawska,Kobylno
 50.75361,18.0359766,11,Zielona,Osowiec
 50.8301559,18.0793265,110,Opolska,Kały
@@ -32394,7 +32376,6 @@ lat,lon,housenumber,street,city
 50.7520948,18.0853521,16,Miodowa,Turawa
 50.7451069,18.0352229,17,Młyńska,Węgry
 50.7505813,18.0224919,17,Pustkowska,Węgry
-50.8027939,18.0199492,18A,Szkolna,Dąbrówka Łubniańska
 50.7507977,18.0225607,19,Pustkowska,Węgry
 50.7909544,18.105813,19,Turawska,Kobylno
 50.7573967,18.0244036,19A,Oleska,Osowiec
@@ -32409,7 +32390,6 @@ lat,lon,housenumber,street,city
 50.7512874,18.0855291,2,Miodowa,Turawa
 50.7492152,18.0947634,2,Modrzewiowa,Turawa
 50.7532788,18.0216823,2,Oleska,Osowiec
-50.7995311,18.0829772,2,Oleska,Jełowa
 50.7532909,18.0188269,20,Lipowa,Osowiec
 50.7523866,18.085581,20,Miodowa,Turawa
 50.7896314,18.061752,20,Opolska,Jełowa
@@ -34224,7 +34204,6 @@ lat,lon,housenumber,street,city
 50.6623333,17.8489993,5,Akacjowa,Mechnice
 50.6629065,17.8455247,5,Aleja Róż,Mechnice
 50.6995508,17.7815462,5,Dąbrowska,Karczów
-50.6743903,17.8169716,5,Jakuba Kani,Chróścina
 50.7404958,17.8119694,5,Krótka,Niewodniki
 50.7366971,17.8573543,5,Nadodrzańska,Żelazna
 50.6789805,17.8181876,5,Polna,Chróścina
@@ -35316,7 +35295,6 @@ lat,lon,housenumber,street,city
 50.66241,18.35566,5,Arki Bożka,Kolonowskie
 50.66235,18.35558,7,Arki Bożka,Kolonowskie
 50.66231,18.35552,9,Arki Bożka,Kolonowskie
-50.4917717,17.3602191,58,aleja Wojska Polskiego,Nysa
 50.4920302,17.3607158,60,aleja Wojska Polskiego,Nysa
 50.8846785,18.4810764,10A,Broniecka,Świercze
 50.884146,18.480893,10B,Broniecka,Świercze
@@ -35474,6 +35452,7 @@ lat,lon,housenumber,street,city
 50.9794088,18.1996488,11,Hugona Kołłątaja,
 50.8507033,18.4965838,39,Długa,Sowczyce
 50.8954603,18.3943581,10,Kluczborska,Wojciechów
+50.4740721,17.3643211,9,,
 50.4782326,17.3663113,42,,
 50.6796384,17.900817,66,Wrocławska,Opole
 50.4776201,17.2801749,200G,,
@@ -35948,7 +35927,7 @@ lat,lon,housenumber,street,city
 50.4057152,17.1881435,51,,
 50.4098221,17.1536868,17,,
 50.35638,17.3694678,230a,,
-50.4305055,17.2745109,4,Mikołaja Kopernika,Siestrzechowice
+50.4300949,17.2753121,4A,Mikołaja Kopernika,Siestrzechowice
 50.4341441,17.3031868,12,Parkowa,Biała Nyska
 50.411133,17.326088,34B,,
 50.4776391,17.4288091,25,,
@@ -36356,7 +36335,6 @@ lat,lon,housenumber,street,city
 50.32278,17.56513,72,Piastowska,Prudnik
 50.32083,17.5789,8-10,Ratuszowa,Prudnik
 50.31739,17.38158,11,Juliusza Ligonia,Głuchołazy
-50.34015,17.38584,114,,
 50.2916,17.40334,162,,
 50.29165,17.40336,163,,
 50.30914,17.38332,2,Henryka Brodatego,Głuchołazy
@@ -37296,6 +37274,7 @@ lat,lon,housenumber,street,city
 50.8590654,17.4708618,2A,Bolesława Chrobrego,Brzeg
 50.8990671,17.5699692,32,,
 50.8585621,17.4775944,12b,Powstańców Śląskich,Brzeg
+50.8619574,17.4703133,16,Rynek,Brzeg
 50.644141,17.9902296,1,Jana Cybisa,Opole
 50.50709,17.38641,103c,,
 50.8544601,17.4769295,1B,Szkolna,Brzeg
@@ -37381,7 +37360,7 @@ lat,lon,housenumber,street,city
 50.674251,17.889342,4,Profesora Józefa Kokota,Opole
 50.655473,17.843337,2,Cyprysowa,Opole
 50.679627,17.931555,30a,Bzów,Opole
-50.649958,17.991327,50B,Jana Cybisa,Opole
+50.6500059,17.9913932,50B,Jana Cybisa,Opole
 50.622734,17.98528,15,Leonida Teligi,Opole
 50.652172,17.986744,4,Tadeusza Borowskiego,Opole
 50.669181,17.973794,206,Ozimska,Opole
@@ -37624,7 +37603,6 @@ lat,lon,housenumber,street,city
 50.705565,17.913954,3A,Gminna,Opole
 50.662448,17.887812,159-161,Alojzego Dambonia,Opole
 50.762436,17.866618,1e,Dobrzeńska,Opole
-50.655203,17.908444,14K,Krapkowicka,Opole
 50.732831,17.897204,55,Stepowa,Opole
 50.65503,17.955263,40B,Jerzego i Ryszarda Kowalczyków,Opole
 50.735458,17.914279,1,Alabastrowa,Opole
@@ -39496,7 +39474,6 @@ lat,lon,housenumber,street,city
 50.6480605,17.9842808,15,Józefa Dobisa,Opole
 50.8761084,18.4212594,3,Armii Krajowej,Olesno
 50.8766375,18.4213191,10,Rynek,Olesno
-50.8769211,18.4233474,10,Tadeusza Kościuszki,Olesno
 50.8769305,18.4231709,10,Tadeusza Kościuszki,Olesno
 50.8763262,18.4206235,8,Wolności,Olesno
 50.2107062,18.1915141,74A,Główna,Łany
@@ -40338,10 +40315,6 @@ lat,lon,housenumber,street,city
 50.6862468,18.439168,19,Długa,Kolejka
 50.4795982,17.3367647,2,Józefa Bema,Nysa
 50.4793111,17.3365827,2A,Józefa Bema,Nysa
-50.4318316,17.3425079,13g,,
-50.4318232,17.3426623,13h,,
-50.431819,17.3428605,13i,,
-50.4318092,17.3430287,13j,,
 50.4797043,17.3373964,3,Józefa Bema,Nysa
 50.4873666,17.3495424,27,Augustyna Kordeckiego,Nysa
 50.7261729,18.0349324,9A,Sosnowa,Kotórz Mały
@@ -40806,6 +40779,7 @@ lat,lon,housenumber,street,city
 50.68043,17.9461616,17,Stefana Grota-Roweckiego,Opole
 50.6633837,17.9282042,13,1 Maja,Opole
 50.6683615,17.9871592,33,Orzechowa,Opole
+50.8515027,17.4566702,5A,Włościańska,Brzeg
 50.162326,17.5852728,838/50,Celní,
 50.4593534,17.7278218,1,,
 50.4159601,17.7233503,37B,,
@@ -41262,7 +41236,6 @@ lat,lon,housenumber,street,city
 50.3696706,17.1910023,343,Luční,
 50.6665894,17.9510036,3b,Tadeusza Rejtana,Opole
 50.8755261,18.3880113,26a,Stobrówki,Olesno
-50.4764194,17.2855388,24AB,,
 50.4883963,17.2689202,57P,Nyska,Goświnowice
 50.4873299,17.3512545,9,Brata Dionizego Wegnera,Nysa
 50.4761523,17.3618968,4,,
@@ -41359,7 +41332,6 @@ lat,lon,housenumber,street,city
 50.7289125,18.4408729,9,Księdza Gładysza,Dobrodzień
 50.6638866,17.9302231,47,Władysława Reymonta,Opole
 50.84673,17.43837,17,Pogodna,Skarbimierz
-50.84677,17.43906,13,Pogodna,Skarbimierz
 50.84685,17.43967,11,Pogodna,Skarbimierz
 50.84786,17.43844,6A,,
 50.84785,17.43836,6,,
@@ -41641,14 +41613,11 @@ lat,lon,housenumber,street,city
 50.580618,17.9918091,14B,Dworcowa,Przywory
 50.5901373,17.9900282,3A,Parkowa,Przywory
 50.8696852,17.5124815,41E,Powstańców Śląskich,
-50.4650426,17.2562793,194,,
-50.4649431,17.2561527,194A,,
 50.4168492,17.2267395,93E,,
 50.3088244,17.3919131,33E,Powstańców Śląskich,Głuchołazy
 50.3091407,17.3918222,33C,Powstańców Śląskich,Głuchołazy
 50.3089886,17.391874,33D,Powstańców Śląskich,Głuchołazy
 51.1576836,18.220167,3,,
-50.4676476,17.2114441,22,Morelowa,Otmuchów
 50.4644423,17.182964,23,Kazimierza Wielkiego,Otmuchów
 50.5344941,17.5636484,8B,Parkowa,Łambinowice
 50.285391,17.5097891,23,,
@@ -41897,6 +41866,7 @@ lat,lon,housenumber,street,city
 50.0813973,17.7547714,74A,,
 50.0813397,17.7549414,74B,,
 50.8345027,17.3474291,48,,
+50.7503787,17.6190208,4H,Kosynierów,Lewin Brzeski
 50.6813508,17.7461016,64,Księdza Profesora Józefa Sztonyka,Dąbrowa
 50.6813789,17.7459528,64a,Księdza Profesora Józefa Sztonyka,Dąbrowa
 50.6815439,17.7433386,2,Jagodowa,Dąbrowa
@@ -41946,7 +41916,6 @@ lat,lon,housenumber,street,city
 50.6363421,17.6287901,2,Aleja Wolności,Niemodlin
 50.4875652,17.3498023,29,Augustyna Kordeckiego,Nysa
 50.5093838,17.3343576,1A,,
-50.4728301,17.276053,13,Dębowa,Skorochów
 50.4563438,17.434532,26D,,
 50.3127933,17.6464449,76A,,
 50.6012698,17.7289075,1B,Leśna,Szydłów
@@ -42025,7 +41994,6 @@ lat,lon,housenumber,street,city
 49.9887214,17.955225,456,Dukelská,
 50.4728147,17.3269324,16/1,Bohaterów Warszawy,Nysa
 50.5117237,17.38384,112A,,
-50.4316616,17.2712221,11,Polna,Siestrzechowice
 50.4186732,17.2907315,11D,,
 50.3720592,18.0053914,6,Studzienna,Walce
 50.3728243,18.0043286,38,Opolska,Walce
@@ -42263,7 +42231,6 @@ lat,lon,housenumber,street,city
 50.3741033,18.3352352,19,Szczęśliwa,Kędzierzyn-Koźle
 50.3740004,18.3354867,17,Szczęśliwa,Kędzierzyn-Koźle
 50.3626409,18.2453936,10,Agnieszki Osieckiej,Kędzierzyn-Koźle
-50.4915569,17.3607512,58G,aleja Wojska Polskiego,Nysa
 50.8565477,17.9449064,4,Wolności,Murów
 50.6595935,17.4355786,78,,
 50.581157,17.6527742,4B,,
@@ -42681,7 +42648,6 @@ lat,lon,housenumber,street,city
 50.4778433,17.3249629,4,Tadeusza Kościuszki,Nysa
 50.568966,18.6171243,9,Główna,Krupski Młyn
 50.9462005,18.2803779,229,,
-50.4670158,17.2689813,47E,,
 50.6166505,17.3806391,2A,Ogrodowa,Chróścina
 51.0761305,17.7218802,5a,Bohaterów Warszawy,Namysłów
 50.6371213,17.6152589,37,Wojciecha Korfantego,Niemodlin
@@ -42751,7 +42717,6 @@ lat,lon,housenumber,street,city
 50.4542808,17.8963176,1,Akacjowa,Dobra
 50.5472618,17.3560278,53B,,
 50.5959716,17.3249823,118B,,
-50.4661233,17.2647592,110,,
 50.4399926,17.8977268,28A,Prudnicka,Łowkowice
 50.425002,18.1019252,10A,Świętego Tomasza,Rozwadza
 50.4250816,18.1018528,10,Świętego Tomasza,Rozwadza
@@ -43702,7 +43667,6 @@ lat,lon,housenumber,street,city
 50.6696753,17.8817759,31,10 Sudeckiej Dywizji Zmech.,Opole
 50.6349691,17.9395842,69,Podmiejska,Opole
 50.4632737,17.438024,3E,,
-50.4671837,17.2674332,44B,,
 50.3181795,17.4010815,29,Osiedle Pionierów,Charbielin
 50.3037286,17.8429776,45B,,
 51.0689269,18.5711092,20,,
@@ -43750,11 +43714,7 @@ lat,lon,housenumber,street,city
 50.8554268,17.6123507,7/2,Polna,Stobrawa
 50.8524448,17.6288068,17/1,Jakuba Kani,Stobrawa
 50.8861669,17.4721053,101a,,
-50.8825633,17.4764039,12,Jaśminowa,Pisarzowice
-50.8827847,17.4753351,6,Jaśminowa,Pisarzowice
-50.883169,17.4858697,17,Dębowa,Pisarzowice
 50.8834006,17.4863913,21,Dębowa,Pisarzowice
-50.882365,17.4778995,7,Krótka,Pisarzowice
 50.8835874,17.4827502,13,Kasztanowa,Michałowice
 50.8811037,17.4828873,1B,Akacjowa,Pisarzowice
 50.8620178,17.4503983,43A,Zielona,Brzeg
@@ -43818,8 +43778,8 @@ lat,lon,housenumber,street,city
 50.6240761,17.8805999,5A,Modrzewiowa,Górki
 50.6250161,17.8796313,2,Dębowa,Górki
 50.6260307,17.8869998,1,Zielona,Górki
-50.6249943,17.8495855,11F,Młyńska,Domecko
-50.6249911,17.849404,11G,Młyńska,Domecko
+50.6249828,17.8495624,11F,Młyńska,Domecko
+50.6249738,17.849404,11G,Młyńska,Domecko
 50.697494,17.7434887,6A,Leśna,Ciepielowice
 50.4532185,17.9065372,10A,Polna,Dobra
 50.6006191,17.5208837,47C,Długa,Grabin
@@ -43878,7 +43838,6 @@ lat,lon,housenumber,street,city
 50.6754189,17.8392325,27,Opolskie Łąki,Mechnice
 50.6761711,17.8406694,33,Opolskie Łąki,Mechnice
 50.6759238,17.840185,31,Opolskie Łąki,Mechnice
-50.6699576,17.8239734,8,Limbowa,Mechnice
 50.6876549,17.4526443,35A,,
 50.3638869,17.4207093,24,,
 50.3656682,17.4193704,126,,
@@ -43989,7 +43948,6 @@ lat,lon,housenumber,street,city
 49.9923633,17.8062792,284,Školní,
 50.6623807,17.9203924,3b,Księcia Jana Dobrego,Opole
 50.9719019,18.4538313,33,,
-50.4165674,17.2804241,120,,
 50.961199,18.2161138,12,Generała Sikorskiego,Kluczbork
 50.9617023,18.2156034,19,Generała Stanisława Maczka,Kluczbork
 50.335247,18.1438076,12,Pamięci Sybiraków,Kędzierzyn-Koźle
@@ -44160,7 +44118,6 @@ lat,lon,housenumber,street,city
 50.2866756,17.4724842,6,Złoty Potok,Pokrzywna
 50.3202162,17.3857063,9A,Targowa,Głuchołazy
 50.4180328,17.7003264,15,,
-50.4879194,17.258099,30B,Nyska,Goświnowice
 50.2049833,17.8200828,10A,Stefana Żeromskiego,Głubczyce
 50.2062001,17.8150525,5,Bohaterów Zadwórza,Głubczyce
 50.2094534,17.8189172,25,Jesionowa,Głubczyce
@@ -44420,7 +44377,6 @@ lat,lon,housenumber,street,city
 50.3495197,17.8609594,6,Podgórna,Głogówek
 50.4768819,17.2898836,20E,,
 50.4924349,17.309663,32F,Łabędzia,Jędrzychów
-50.4968153,17.2237647,53A,,
 50.3491429,17.4282769,86A,,
 50.3094515,17.5616665,10,Kalinowa,Prudnik
 50.4349894,17.8913432,39,Wiejska,Łowkowice
@@ -44464,7 +44420,6 @@ lat,lon,housenumber,street,city
 50.5787069,18.0874795,21C,Słoneczna,Tarnów Opolski
 50.5787051,18.0872506,21D,Słoneczna,Tarnów Opolski
 50.4888498,17.3757675,303B,,
-50.4885576,17.2582755,30,Nyska,Goświnowice
 50.5357088,17.9283092,63,Opolska,Dąbrówka Górna
 50.6694431,18.0791403,11,Brzozowa,Chrząstowice
 50.6276822,17.9540054,16,Przedpole,Opole
@@ -44776,6 +44731,32 @@ lat,lon,housenumber,street,city
 50.5070163,18.2963854,6,Kozielska,Strzelce Opolskie
 51.0609443,18.4835422,14B,,
 50.3526946,18.2585128,11,Zwycięstwa,Kędzierzyn-Koźle
+50.4693292,17.3363894,12/2,Mariacka,Nysa
+50.670579,17.9239425,3,Henryka Sienkiewicza,Opole
+50.4302728,17.3402695,8J,,
+50.4179489,17.274311,128,,
+50.6989558,17.3845863,2,Rynek,Grodków
+50.9682683,17.796556,35,Podhalańska,Dąbrowa
+50.8629043,17.4483792,3,Czereśniowa,Brzeg
+50.8625785,17.4480264,14,Słoneczna,Brzeg
+50.8650653,17.4504117,3,Poziomkowa,Brzeg
+50.8013101,18.0780281,2G,Oleska,Jełowa
+50.6768257,17.9436651,2c,Stefana Grota-Roweckiego,
+50.820854,18.0957494,9,Leśna,Jełowa
+50.680719,17.8165439,30,Akwarelowa,Opole
+50.8022403,18.0746314,2B,Dębińska,Jełowa
+50.8386188,18.0713794,17,Klonowa,Kały
+50.7861641,17.4947515,35a,,Olszanka
+50.7860876,17.494957,35,,Olszanka
+50.4977041,17.2237265,55G,,
+50.4971171,17.2240285,53B,,
+50.6671666,17.9099939,27A,Spychalskiego,Opole
+50.3538314,17.3655488,247A,,
+50.7004897,17.9072462,137,Budowlanych,
+50.6642374,17.9363288,30,Katowicka,
+50.6632828,17.9333597,10,1 Maja,
+50.6769832,17.9156023,5a,Budowlanych,
+50.7278098,18.4418688,5,,Dobrodzień
 50.2402504,18.2859491,8,Kozielska,Dziergowice
 50.2429842,18.2996806,59,Dworcowa,Dziergowice
 50.7562971,17.8694387,25,Elektrowniana,Opole
@@ -46480,7 +46461,7 @@ lat,lon,housenumber,street,city
 50.8916329,18.4215731,54,Gorzowska,Olesno
 50.889257,18.421068,30,Gorzowska,Olesno
 50.8918438,18.4216209,56,Gorzowska,Olesno
-50.8788492,18.4253484,10,Bolesława Prusa,Olesno
+50.8788492,18.4253484,12,Bolesława Prusa,Olesno
 50.888875,18.420993,26,Gorzowska,Olesno
 50.889463,18.421017,32,Gorzowska,Olesno
 50.8914485,18.4215309,52,Gorzowska,Olesno
@@ -46491,7 +46472,7 @@ lat,lon,housenumber,street,city
 50.8908609,18.4214188,46,Gorzowska,Olesno
 50.8779702,18.4253901,14,Bolesława Prusa,Olesno
 50.8812168,18.4211993,1,Dworcowa,Olesno
-50.8784109,18.4253623,12,Bolesława Prusa,Olesno
+50.8784109,18.4253623,10,Bolesława Prusa,Olesno
 50.889072,18.421037,28,Gorzowska,Olesno
 50.8813051,18.4214549,3,Dworcowa,Olesno
 50.8793519,18.4217196,3,Księdza Brunona Aleksandra,Olesno
@@ -46906,7 +46887,7 @@ lat,lon,housenumber,street,city
 50.9714663,18.2008233,6,Wołczyńska,Kluczbork
 50.9671673,18.2169553,25,Marii Skłodowskiej-Curie,Kluczbork
 50.7997854,18.0722245,19,Wolności,Jełowa
-50.7937168,18.0467854,2,Dworcowa,Jełowa
+50.7937118,18.0467854,2,Dworcowa,Jełowa
 50.7321651,18.1708364,22,Jeziorna,Dylaki
 50.683078,18.1970973,16,Rzeczna,Antoniów
 51.0038341,18.4034726,104,,
@@ -56716,7 +56697,7 @@ lat,lon,housenumber,street,city
 50.6785265,17.9268021,7,Tulipanów,Opole
 50.6716497,17.9882294,7,Turkusowa,Opole
 50.6563051,17.8979574,7,Tęczowa,Opole
-50.6566302,17.9015665,7,Walerego Wróblewskiego,Opole
+50.6566299,17.901567,7,Walerego Wróblewskiego,Opole
 50.6633937,17.9452343,7,Wapienna,Opole
 50.6700469,17.9535217,7,Warszawska,Opole
 50.6655537,17.9483055,7,Warsztatowa,Opole
@@ -59010,7 +58991,7 @@ lat,lon,housenumber,street,city
 50.474011,17.32544,10,Batalionów Chłopskich,Nysa
 50.4740009,17.3277876,10,Bohaterów Warszawy,Nysa
 50.473425,17.326396,10,Partyzantów,Nysa
-50.4746465,17.3273158,10,Stanisława Ligonia,Nysa
+50.4746472,17.3273144,10,Stanisława Ligonia,Nysa
 50.473764,17.325432,11,Batalionów Chłopskich,Nysa
 50.4739434,17.3279432,12,Bohaterów Warszawy,Nysa
 50.473362,17.325758,13,Batalionów Chłopskich,Nysa
@@ -59032,7 +59013,7 @@ lat,lon,housenumber,street,city
 50.4745571,17.3274606,8,Stanisława Ligonia,Nysa
 50.4741675,17.3280039,8a,Bohaterów Warszawy,Nysa
 50.474069,17.325508,9,Batalionów Chłopskich,Nysa
-50.4746366,17.3273391,9,Stanisława Ligonia,Nysa
+50.474637,17.3273397,9,Stanisława Ligonia,Nysa
 50.4750834,17.3254639,3,Stanisława Wyspiańskiego,Nysa
 50.475309,17.325835,1,Stanisława Wyspiańskiego,Nysa
 50.474363,17.324618,11,Stanisława Wyspiańskiego,Nysa
@@ -62384,7 +62365,7 @@ lat,lon,housenumber,street,city
 50.8652882,17.4593418,1,Prochowa,Brzeg
 50.8605531,17.4606005,4,Legionistów,Brzeg
 50.8633397,17.4594448,3,Partyzantów,Brzeg
-50.861599,17.4571639,22C,Wolności,Brzeg
+50.861583,17.4571964,22C,Wolności,Brzeg
 50.8612626,17.4621065,18,Robotnicza,Brzeg
 50.8646172,17.4568725,25A,Wrocławska,Brzeg
 50.8607283,17.4614112,4,Marszałka Józefa Piłsudskiego,Brzeg
@@ -62565,7 +62546,7 @@ lat,lon,housenumber,street,city
 50.8584501,17.4633546,4,Kardynała Stefana Wyszyńskiego,Brzeg
 50.858738,17.4625141,18,Słowiańska,Brzeg
 50.8478569,17.425795,3,Dębowa,Skarbimierz-Osiedle
-50.8484648,17.4256146,1,Dębowa,Skarbimierz-Osiedle
+50.8484391,17.425604,1,Dębowa,Skarbimierz-Osiedle
 50.8479334,17.4198001,1E,Akacjowa,Skarbimierz-Osiedle
 50.8479444,17.4206632,2E,Akacjowa,Skarbimierz-Osiedle
 50.8479574,17.4221677,4E,Akacjowa,Skarbimierz-Osiedle
@@ -62811,6 +62792,7 @@ lat,lon,housenumber,street,city
 50.8623211,17.4533999,26,Lwowska,Brzeg
 50.8540712,17.4596292,4h,Chocimska,Brzeg
 50.8513462,17.457043,5A,Włościańska,Brzeg
+50.8502676,17.4555413,7,Włościańska,Brzeg
 50.8510978,17.4555162,7,Włościańska,Brzeg
 50.8505951,17.4544482,9A,Włościańska,Brzeg
 50.8507697,17.4548061,9,Włościańska,Brzeg
@@ -62895,7 +62877,7 @@ lat,lon,housenumber,street,city
 50.4887453,17.247902,19,Polna,Goświnowice
 50.4888394,17.2484807,15,Polna,Goświnowice
 50.4875393,17.2521882,1,Szkolna,Goświnowice
-50.4840781,17.2546746,15,Kolejowa,Goświnowice
+50.483912,17.254666,15,Kolejowa,Goświnowice
 50.4938766,17.2347694,25,Polna,Goświnowice
 50.4885414,17.271136,51,Nyska,Goświnowice
 50.4874721,17.2619319,52,Nyska,Goświnowice
@@ -63014,7 +62996,7 @@ lat,lon,housenumber,street,city
 50.8881714,17.4250378,45,,
 50.8602949,17.4708706,1,Plac Kościelny,Brzeg
 50.8451718,17.4210835,28,Akacjowa,Skarbimierz-Osiedle
-50.8446696,17.4183208,12,Parkowa,Skarbimierz-Osiedle
+50.8446831,17.4183168,12,Parkowa,Skarbimierz-Osiedle
 50.9640763,17.7274444,1,,
 50.3578053,18.076301,20,Główna,Komorno
 50.3530408,18.0801529,1,Kolejowa,Komorno
@@ -63142,7 +63124,7 @@ lat,lon,housenumber,street,city
 50.8469246,17.4127256,18,Klonowa,Skarbimierz-Osiedle
 50.8467383,17.41287,18A,Klonowa,Skarbimierz-Osiedle
 50.8478812,17.4187697,4A,Parkowa,Skarbimierz-Osiedle
-50.8476997,17.4186103,6A,Parkowa,Skarbimierz-Osiedle
+50.8477053,17.4186227,6A,Parkowa,Skarbimierz-Osiedle
 50.3562423,17.3054033,139,,
 50.3595772,17.307165,140,,
 50.8475912,17.4178536,4B,Klonowa,Skarbimierz-Osiedle
@@ -66247,7 +66229,7 @@ lat,lon,housenumber,street,city
 50.6214154,17.9240042,5,Krapkowicka,Folwark
 50.6239874,17.9249877,4,Szkolna,Folwark
 50.6204451,17.926237,4,Rolna,Folwark
-50.6218998,17.9226974,4,Krapkowicka,Folwark
+50.6218995,17.9226981,4,Krapkowicka,Folwark
 50.6220034,17.9263896,28,Wiejska,Folwark
 50.6213648,17.9261393,4,Młyńska,Folwark
 50.6233201,17.9268093,18,Wiejska,Folwark
@@ -70303,9 +70285,9 @@ lat,lon,housenumber,street,city
 50.8533326,17.4586035,8,Chocimska,Brzeg
 50.8543403,17.4545808,10,Marii Konopnickiej,Brzeg
 50.8531861,17.4583683,10,Chocimska,Brzeg
-50.8457136,17.4637949,17,Władysława Broniewskiego,Brzeg
+50.8457453,17.4638381,17,Władysława Broniewskiego,Brzeg
 50.8467783,17.4629502,19,Katowicka,Brzeg
-50.846458,17.4649247,3,Władysława Broniewskiego,Brzeg
+50.846447,17.464914,3,Władysława Broniewskiego,Brzeg
 50.8534721,17.4588385,6,Chocimska,Brzeg
 50.8480947,17.468886,2,Gdańska,Brzeg
 50.8495831,17.4655934,6,Juliusza Słowackiego,Brzeg
@@ -70338,7 +70320,7 @@ lat,lon,housenumber,street,city
 50.8528197,17.4571556,2,Jana Kochanowskiego,Brzeg
 50.8466497,17.4622553,30,Katowicka,Brzeg
 50.8462347,17.4639512,6,Marii Dąbrowskiej,Brzeg
-50.845601,17.462842,26,Władysława Stanisława Reymonta,Brzeg
+50.8456189,17.4628677,26,Władysława Stanisława Reymonta,Brzeg
 50.8475821,17.4636432,10,Katowicka,Brzeg
 50.8461059,17.4644605,9,Władysława Broniewskiego,Brzeg
 50.8458474,17.4630258,13,Bolesława Prusa,Brzeg
@@ -70458,7 +70440,7 @@ lat,lon,housenumber,street,city
 50.8470357,17.4651163,1A,Bolesława Prusa,Brzeg
 50.8527494,17.4472913,82,Marii Konopnickiej,Brzeg
 50.8519733,17.4592333,17,Poprzeczna,Brzeg
-50.8492081,17.4645695,3,Plac Jana Henryka Dąbrowskiego,Brzeg
+50.84921,17.4645665,3,Plac Jana Henryka Dąbrowskiego,Brzeg
 50.8522266,17.4653692,1,Ptasia,Brzeg
 50.8468661,17.4640718,12,Bolesława Prusa,Brzeg
 50.8532943,17.4496673,1,Jodłowa,Brzeg
@@ -70561,7 +70543,7 @@ lat,lon,housenumber,street,city
 50.8446831,17.4644752,48,Władysława Stanisława Reymonta,Brzeg
 50.8458299,17.4661984,18,Cypriana Kamila Norwida,Brzeg
 50.845237,17.4655824,7,Kazimierza Przerwy-Tetmajera,Brzeg
-50.846016,17.4657642,21,Struga,Brzeg
+50.8460186,17.4657613,21,Struga,Brzeg
 50.8460906,17.4654802,16,Cypriana Kamila Norwida,Brzeg
 50.8483761,17.4663202,4,Grudziądzka,Brzeg
 50.8452938,17.4644545,30,Struga,Brzeg
@@ -70711,7 +70693,7 @@ lat,lon,housenumber,street,city
 50.8471227,17.4721926,52,Juliusza Słowackiego,Brzeg
 50.8442174,17.4760663,65,Starobrzeska,Brzeg
 50.847594,17.4689334,7,Gdańska,Brzeg
-50.8471838,17.4703193,5,Poznańska,Brzeg
+50.8471848,17.4703193,5,Poznańska,Brzeg
 50.8495198,17.4751169,12,Starobrzeska,Brzeg
 50.8491186,17.474736,16,Starobrzeska,Brzeg
 50.847328,17.475325,29,Starobrzeska,Brzeg
@@ -70755,7 +70737,7 @@ lat,lon,housenumber,street,city
 50.847344,17.4699533,6,Poznańska,Brzeg
 50.8466992,17.4676603,20,Gdańska,Brzeg
 50.8462887,17.4691011,18,Poznańska,Brzeg
-50.8463148,17.4678162,29,Wojciecha Korfantego,Brzeg
+50.8462924,17.467823,29,Wojciecha Korfantego,Brzeg
 50.8472243,17.4686316,11,Gdańska,Brzeg
 50.8472898,17.468685,9,Gdańska,Brzeg
 50.8511626,17.4743304,5,Starobrzeska,Brzeg
@@ -70771,7 +70753,7 @@ lat,lon,housenumber,street,city
 50.8549615,17.4721745,8,Trzech Kotwic,Brzeg
 50.844682,17.476772,2,Mikołaja Kopernika,Brzeg
 50.847168,17.4758868,29A,Starobrzeska,Brzeg
-50.8460485,17.4682181,35,Wojciecha Korfantego,Brzeg
+50.8460466,17.4682258,35,Wojciecha Korfantego,Brzeg
 50.8499511,17.4751706,8,Starobrzeska,Brzeg
 50.8473493,17.4682451,12,Gdańska,Brzeg
 50.8460617,17.4685246,37,Wojciecha Korfantego,Brzeg
@@ -70834,7 +70816,7 @@ lat,lon,housenumber,street,city
 50.8479019,17.4392011,3,,
 50.8483889,17.4363791,29,,
 50.846321,17.4943914,36,Chorążych,Brzeg
-50.8445803,17.4162614,8,Wierzbowa,Skarbimierz-Osiedle
+50.8445959,17.416343,8,Wierzbowa,Skarbimierz-Osiedle
 50.8484955,17.3851545,52A,,
 50.8482354,17.4335545,23,,
 50.8482704,17.438654,35,,
@@ -74191,7 +74173,7 @@ lat,lon,housenumber,street,city
 50.83254,17.5512404,70,,
 50.8345955,17.5497036,6,,
 50.4642036,17.2719457,18a,,
-50.4738989,17.2862051,2F,,
+50.473912,17.286433,2F,,
 50.8420803,17.4549346,3,Wrzosowa,Żłobizna
 50.838665,17.459266,51,Brzeska,Żłobizna
 50.8441995,17.4542376,16,Tulipanowa,Żłobizna
@@ -74877,7 +74859,7 @@ lat,lon,housenumber,street,city
 50.79572,17.477331,64,,
 50.790481,17.4870736,29,,
 50.792638,17.481077,57a,,
-50.786387,17.494628,35,,
+50.7863601,17.4946803,35,,
 50.7944005,17.4796999,6,,
 50.7882274,17.4907909,11,,
 50.79223,17.48318,14,,
@@ -77221,7 +77203,7 @@ lat,lon,housenumber,street,city
 50.8846015,17.4763914,164,,
 50.8826742,17.4815625,111,,
 50.8833021,17.4812764,108,,
-50.8802404,17.4854087,14,Klonowa,Pisarzowice
+50.880236,17.485411,14,Klonowa,Pisarzowice
 50.8839377,17.4781086,133,,
 50.8881415,17.4803972,78,,
 50.8750617,17.4880853,2,Zielona,Pisarzowice
@@ -77308,7 +77290,7 @@ lat,lon,housenumber,street,city
 50.8841981,17.4787077,135,,
 50.8844077,17.4784128,136,,
 50.8854789,17.4776412,148,,
-50.8834541,17.4780792,11,Graniczna,Pisarzowice
+50.8834583,17.4780014,11,Graniczna,Pisarzowice
 50.8736429,17.4992063,11D,,
 50.8885754,17.4805796,76,,
 50.8819412,17.4807989,1,Krótka,Pisarzowice
@@ -77516,7 +77498,7 @@ lat,lon,housenumber,street,city
 50.872012,17.5096397,31,,
 50.8688919,17.5148877,57B,,
 50.8695612,17.5130633,47a,,
-50.8733677,17.5224084,182,,
+50.8733745,17.5224269,182,,
 50.8722054,17.5202286,201,,
 50.8723508,17.5092062,29,,
 50.8721721,17.5107127,22,,
@@ -77567,14 +77549,14 @@ lat,lon,housenumber,street,city
 50.8685423,17.5158893,61A,,
 50.8713438,17.511493,35,,
 50.8689773,17.5164187,61,,
-50.8736184,17.5220163,188a,,
+50.8736388,17.5221141,188a,,
 50.8681691,17.5181631,69,,
 50.8717883,17.5093172,31A,,
 50.870873,17.5175141,122,,
 50.8606139,17.5356994,142,,
 50.860654,17.5363823,151,,
 50.8650749,17.5264907,100J,,
-50.8740299,17.5230367,179,,
+50.8740373,17.5230282,179,,
 50.8691578,17.5151556,57A,,
 50.8715846,17.5124045,26a,,
 50.8600013,17.5369758,146,,
@@ -78534,7 +78516,7 @@ lat,lon,housenumber,street,city
 50.900903,17.5684451,27,,
 50.9017869,17.5729097,19,,
 50.9351266,17.6394301,33,Kolejowa,Mąkoszyce
-50.9356607,17.6383464,48A,Kolejowa,Mąkoszyce
+50.9356702,17.6383799,48A,Kolejowa,Mąkoszyce
 50.9436579,17.6371782,30,Kościelna,Mąkoszyce
 50.9408477,17.6390599,6a,Rolnicza,Mąkoszyce
 50.9427509,17.6349317,13,Kościelna,Mąkoszyce
@@ -78561,8 +78543,8 @@ lat,lon,housenumber,street,city
 50.9392014,17.6345371,5,Ogrodowa,Mąkoszyce
 50.9408239,17.6386752,4,Rolnicza,Mąkoszyce
 50.9427351,17.6323248,25,Kościelna,Mąkoszyce
-50.9374177,17.6382307,38,Kolejowa,Mąkoszyce
-50.9378883,17.6376768,32,Kolejowa,Mąkoszyce
+50.9374175,17.6382424,38,Kolejowa,Mąkoszyce
+50.937895,17.6376666,32,Kolejowa,Mąkoszyce
 50.9382124,17.6378473,28,Kolejowa,Mąkoszyce
 50.9419744,17.6380138,14,Kościelna,Mąkoszyce
 50.9402499,17.6313373,11,Pocztowa,Mąkoszyce
@@ -78572,14 +78554,15 @@ lat,lon,housenumber,street,city
 50.9405727,17.6360189,1,Pocztowa,Mąkoszyce
 50.9424774,17.6360415,9,Kościelna,Mąkoszyce
 50.9424685,17.6322015,21,Kościelna,Mąkoszyce
-50.9408853,17.6370637,1a,Kościelna,Mąkoszyce
+50.9408846,17.6371112,1a,Kościelna,Mąkoszyce
 50.9364885,17.6382134,44,Kolejowa,Mąkoszyce
 50.9384091,17.6385223,23A,Wojska Polskiego,Mąkoszyce
+50.9373604,17.638843,15,Kolejowa,Mąkoszyce
 50.9380618,17.6338562,7,Ogrodowa,Mąkoszyce
 50.9409917,17.6355077,2,Pocztowa,Mąkoszyce
 50.9430905,17.6322797,29,Kościelna,Mąkoszyce
 50.9364929,17.6387507,21,Kolejowa,Mąkoszyce
-50.9374627,17.6388342,13,Kolejowa,Mąkoszyce
+50.9374628,17.6388342,13,Kolejowa,Mąkoszyce
 50.9346313,17.6414284,31a,Kolejowa,Mąkoszyce
 50.9408482,17.6382704,2a,Rolnicza,Mąkoszyce
 50.9413671,17.6381716,4,Kościelna,Mąkoszyce
@@ -78632,7 +78615,7 @@ lat,lon,housenumber,street,city
 50.9311098,17.6396055,47,Kolejowa,Mąkoszyce
 50.9337841,17.6388027,70,Kolejowa,Mąkoszyce
 50.934784,17.638419,54,Kolejowa,Mąkoszyce
-50.9413679,17.6363574,3,Kościelna,Mąkoszyce
+50.9413679,17.6364335,3,Kościelna,Mąkoszyce
 50.9385784,17.6376286,24,Kolejowa,Mąkoszyce
 50.9367812,17.6385863,42,Kolejowa,Mąkoszyce
 50.939327,17.6379062,5,Kolejowa,Mąkoszyce
@@ -78645,19 +78628,18 @@ lat,lon,housenumber,street,city
 50.9430072,17.6348512,15,Kościelna,Mąkoszyce
 50.939102,17.6374695,18,Kolejowa,Mąkoszyce
 50.9402352,17.6341733,7,Pocztowa,Mąkoszyce
-50.9413967,17.6368081,1,Kościelna,Mąkoszyce
+50.9413967,17.636877,1,Kościelna,Mąkoszyce
 50.9404621,17.6378513,1,Wojska Polskiego,Mąkoszyce
 50.9384301,17.6377186,26,Kolejowa,Mąkoszyce
 50.9401396,17.6369796,6,Kolejowa,Mąkoszyce
 50.9424845,17.6376312,20,Kościelna,Mąkoszyce
 50.9376011,17.6380214,36,Kolejowa,Mąkoszyce
 50.940934,17.6333601,8,Pocztowa,Mąkoszyce
-50.9373553,17.6387679,15,Kolejowa,Mąkoszyce
-50.9413411,17.6359214,5,Kościelna,Mąkoszyce
+50.9413411,17.6359856,5,Kościelna,Mąkoszyce
 50.9341935,17.6387859,58,Kolejowa,Mąkoszyce
 50.9401367,17.6376611,3,Kolejowa,Mąkoszyce
 50.9432949,17.6322346,33,Kościelna,Mąkoszyce
-50.9388012,17.6382975,21,Wojska Polskiego,Mąkoszyce
+50.938796,17.6382975,21,Wojska Polskiego,Mąkoszyce
 50.9329259,17.6398196,37,Kolejowa,Mąkoszyce
 50.9408603,17.6351784,2A,Pocztowa,Mąkoszyce
 50.9361448,17.6385105,48,Kolejowa,Mąkoszyce
@@ -81793,6 +81775,7 @@ lat,lon,housenumber,street,city
 50.6369987,17.6140651,3,Ignacego Daszyńskiego,Niemodlin
 50.6403895,17.6416649,25,Brzozowa,Niemodlin
 50.6486995,17.6272623,4,,
+50.6415867,17.6231291,55,Rynek,Niemodlin
 50.7662104,17.5362335,32,,
 50.7646933,17.5358253,16,,
 50.7645318,17.5347001,23,,
@@ -81838,51 +81821,51 @@ lat,lon,housenumber,street,city
 50.7472407,17.4752242,23,,
 50.7481124,17.4764752,17,,
 50.7500287,17.4789557,1,,
-50.7516247,17.4810287,96,,
-50.7523276,17.4811833,90,,
+50.7516553,17.4809171,96,,
+50.7523101,17.4811593,90,,
 50.7490436,17.476854,11,,
 50.7491027,17.477767,9,,
-50.7511249,17.4799016,104,,
+50.7511225,17.4798461,104,,
 50.7523066,17.4802432,63,,
 50.7495988,17.4768534,41,,
 50.7468346,17.4748163,24,,
-50.7493302,17.4772592,42,,
-50.7508033,17.4798957,105,,
+50.7493556,17.4772524,42,,
+50.7508618,17.4799534,105,,
 50.7519303,17.4762172,51A,,
 50.7527566,17.4821798,85,,
-50.7503055,17.4792949,108,,
+50.7502935,17.4792786,108,,
 50.7499175,17.4772499,45,,
 50.7521862,17.4815724,91,,
 50.7485144,17.4769392,15,,
-50.7516013,17.4808515,98,,
+50.7515826,17.4808368,98,,
 50.7489295,17.4760969,38,,
 50.7477672,17.4748387,30,,
 50.7525901,17.4820085,86,,
 50.7538066,17.4826789,77,,
-50.7509539,17.4791609,110a,,
-50.7515052,17.4808721,99,,
-50.7514927,17.4802723,102,,
+50.7509542,17.4791608,110a,,Czeska Wieś
+50.7514996,17.4808516,99,,
+50.7514849,17.4802551,102,,
 50.7505162,17.4780676,50,,
 50.7502571,17.4784642,110,,
 50.747958,17.4750544,31,,
 50.7512443,17.4804008,101,,
 50.7499592,17.478829,2,,
 50.7476659,17.4759126,20,,
-50.7519372,17.480599,97,,
+50.7519268,17.4805629,97,,
 50.7517592,17.4792527,59,,
 50.7473502,17.4754446,22,,
 50.7482811,17.4766856,16,,
 50.7521624,17.4809911,92,,
-50.7517924,17.4801309,61,,
+50.7517779,17.4801199,61,,
 50.7502276,17.4778133,48,,
 50.7480501,17.4752421,32,,
 50.75182,17.4811548,95,,
 50.7526398,17.4807314,67,,
 50.7512259,17.4791075,55,,
-50.7492442,17.4774712,8,,
+50.7492535,17.477455,8,,
 50.7503324,17.4778421,49,,
-50.7510631,17.479506,56,,
-50.7509948,17.4786793,53,,
+50.751054,17.4794991,56,,
+50.750976,17.4786503,53,,
 50.7511184,17.4787722,54,,
 50.7475765,17.4756765,21,,
 50.7534044,17.4829068,83,,
@@ -81907,7 +81890,7 @@ lat,lon,housenumber,street,city
 50.7524989,17.4802605,64,,
 50.7513387,17.4805358,100,,
 50.7483294,17.4756396,34,,
-50.7525804,17.4815403,87,,
+50.7525805,17.4815117,87,,
 50.7467781,17.4741173,25,,
 50.7525742,17.4806488,66,,
 50.7536102,17.4820232,75,,
@@ -81925,28 +81908,28 @@ lat,lon,housenumber,street,city
 50.7522204,17.4798789,62A,,
 50.7492884,17.4779813,7,,
 50.7539291,17.4833105,81,,
-50.7508343,17.4785791,52,,
+50.7508193,17.4785523,52,,
 50.7495631,17.4777657,5,,
-50.7512941,17.4797913,103,,
+50.7512904,17.4797319,103,,
 50.7522287,17.4816439,89,,
 50.7485726,17.4756937,35,,
 50.7475447,17.4748093,29,,
 50.7535598,17.4832934,82,,
 50.7500796,17.4776011,47,,
 50.7477804,17.4760299,19,,
-50.7501944,17.47915,109,,
+50.7501803,17.4791336,109,,
 50.7530838,17.4813859,70,,
 50.7498511,17.4766988,43,,
-50.7504983,17.4795999,107,,
+50.7505168,17.4796058,107,,
 50.7546636,17.4825361,79,,
 50.7473068,17.4745022,28,,
 50.7490887,17.4764617,39,,
-50.7492043,17.4772046,10,,
+50.7492122,17.4771662,10,,
 50.7524546,17.4818972,88,,
 50.7522544,17.4807662,65,,
 50.753475,17.4816481,73,,
 50.7548574,17.4828385,80,,
-50.7518751,17.4772305,54a,,
+50.7518751,17.4772305,54a,,Czeska Wieś
 50.744265,17.509475,20,,
 50.7417717,17.5128447,82a,,
 50.7420983,17.5183298,48,,Michałów
@@ -82192,7 +82175,7 @@ lat,lon,housenumber,street,city
 50.846649,17.476089,1,Ciepłownicza,Brzeg
 50.8515874,17.4736162,3,Starobrzeska,Brzeg
 50.855692,17.4622631,29,Armii Krajowej,Brzeg
-50.8480542,17.4762443,23A,Starobrzeska,Brzeg
+50.8480517,17.4762309,23A,Starobrzeska,Brzeg
 50.8481213,17.4675421,5,Struga,Brzeg
 50.8494312,17.4635546,3G,Księdza Kazimierza Makarskiego,Brzeg
 50.8486142,17.4778458,4b,Składowa,Brzeg
@@ -82206,7 +82189,7 @@ lat,lon,housenumber,street,city
 50.8499381,17.4524698,2,Króla Jana III,Brzeg
 50.8478589,17.4467231,18A,Włościańska,Brzeg
 50.8500976,17.4646906,2,Juliusza Słowackiego,Brzeg
-50.847242,17.4690264,9A,Gdańska,Brzeg
+50.8472424,17.4690224,9A,Gdańska,Brzeg
 50.8517402,17.452566,2b,Włościańska,Brzeg
 50.8530017,17.452979,19,Aleksandra Fredry,Brzeg
 50.8482746,17.4667476,8A,Struga,Brzeg
@@ -82221,7 +82204,7 @@ lat,lon,housenumber,street,city
 50.8480758,17.4453384,16,Włościańska,Brzeg
 50.8487055,17.4543571,17,Króla Jana III,Brzeg
 50.847981,17.480254,5,Składowa,Brzeg
-50.8474411,17.4681929,10a,Gdańska,Brzeg
+50.8474358,17.4681858,10a,Gdańska,Brzeg
 50.846882,17.481596,12,Składowa,Brzeg
 50.847598,17.475695,27,Starobrzeska,Brzeg
 50.8517701,17.472153,2,Starobrzeska,Brzeg
@@ -82236,7 +82219,7 @@ lat,lon,housenumber,street,city
 50.8525024,17.4477783,2,Cisowa,Brzeg
 50.85565,17.4624122,29A,Armii Krajowej,Brzeg
 50.8495984,17.4637957,3A,Księdza Kazimierza Makarskiego,Brzeg
-50.8492081,17.4663408,10A,Juliusza Słowackiego,Brzeg
+50.8492068,17.4663535,10A,Juliusza Słowackiego,Brzeg
 50.8480713,17.4675013,7,Struga,Brzeg
 50.8493895,17.4634085,3H,Księdza Kazimierza Makarskiego,Brzeg
 50.847849,17.478994,6,Składowa,Brzeg
@@ -82244,7 +82227,7 @@ lat,lon,housenumber,street,city
 50.8518686,17.4472298,2,Kasztanowa,Brzeg
 50.8489756,17.4513939,11,Jakuba Sobieskiego,Brzeg
 50.8510986,17.4731441,4,Starobrzeska,Brzeg
-50.8509205,17.4535266,2,Włościańska,Brzeg
+50.8509154,17.4535337,2,Włościańska,Brzeg
 50.8509745,17.4762324,7A,Starobrzeska,Brzeg
 50.8507704,17.4761462,14,Fabryczna,Brzeg
 50.8511163,17.4456944,49,Marii Konopnickiej,Brzeg
@@ -86689,7 +86672,7 @@ lat,lon,housenumber,street,city
 50.9686718,18.174911,10,,
 50.9840712,18.2160433,18,Kardynała Wyszyńskiego,Kluczbork
 50.9668925,18.1961123,38,Jana Kilińskiego,Kluczbork
-50.9776402,18.2041584,15,Marii Konopnickiej,Kluczbork
+50.9776402,18.2041583,15,Marii Konopnickiej,Kluczbork
 50.9411962,18.2308269,147,,
 50.964477,18.2166182,5,Władysława Łokietka,Kluczbork
 50.968809,18.214967,18,Księcia Józefa Poniatowskiego,Kluczbork
@@ -87142,7 +87125,7 @@ lat,lon,housenumber,street,city
 50.4664174,17.2750419,16,,
 50.465752,17.265721,1j,,
 50.4637272,17.2650531,26g,,
-50.4666748,17.2666306,47,,
+50.466697,17.266805,47,,
 50.464847,17.271943,9a,,
 50.4640961,17.2664122,26a,,
 50.464185,17.2687678,21B,,
@@ -87161,7 +87144,7 @@ lat,lon,housenumber,street,city
 50.470549,17.276663,21,Orzechowa,Skorochów
 50.4701386,17.2769249,15,Orzechowa,Skorochów
 50.4661881,17.2631549,116,,
-50.464193,17.2648839,26i,,
+50.464191,17.264886,26i,,
 50.4638277,17.2659802,26d,,
 50.464356,17.268249,22,,
 50.4695867,17.2758658,10,Orzechowa,Skorochów
@@ -87408,14 +87391,14 @@ lat,lon,housenumber,street,city
 50.5177642,17.9647807,4,Wodna,Malnia
 50.0783146,18.0078482,19,Wojska Polskiego,Kietrz
 50.84103,17.401444,15,Smaków,Skarbimierz-Osiedle
-50.8454699,17.4162209,12,Topolowa,Skarbimierz-Osiedle
+50.8455322,17.4162502,12,Topolowa,Skarbimierz-Osiedle
 50.8447604,17.4120323,13A,Topolowa,Skarbimierz-Osiedle
-50.8445823,17.4178006,2,Wierzbowa,Skarbimierz-Osiedle
+50.844594,17.4178645,2,Wierzbowa,Skarbimierz-Osiedle
 50.8459174,17.4159989,23,Lipowa,Skarbimierz-Osiedle
 50.8416349,17.4050712,23,Wierzbowa,Skarbimierz-Osiedle
-50.8449565,17.4168255,3,Topolowa,Skarbimierz-Osiedle
-50.844543,17.4173043,4,Wierzbowa,Skarbimierz-Osiedle
-50.8445196,17.4168861,6,Wierzbowa,Skarbimierz-Osiedle
+50.8449672,17.4168517,3,Topolowa,Skarbimierz-Osiedle
+50.8445581,17.4173336,4,Wierzbowa,Skarbimierz-Osiedle
+50.8445361,17.416903,6,Wierzbowa,Skarbimierz-Osiedle
 50.8442788,17.4199649,1,Kasztanowa,Skarbimierz-Osiedle
 50.8533365,17.4527868,13,Aleksandra Fredry,Brzeg
 50.8518231,17.4599143,13B,Poprzeczna,Brzeg
@@ -87423,7 +87406,7 @@ lat,lon,housenumber,street,city
 50.8445584,17.4262657,21,Kasztanowa,Skarbimierz-Osiedle
 50.8482809,17.4341089,25,,
 50.8532804,17.4613518,7,Bohaterów Westerplatte,Brzeg
-50.8451262,17.4152933,7A,Topolowa,Skarbimierz-Osiedle
+50.8451082,17.4152638,7A,Topolowa,Skarbimierz-Osiedle
 50.8531671,17.4605478,15,Bohaterów Westerplatte,Brzeg
 50.8535572,17.4616654,4,Bohaterów Westerplatte,Brzeg
 50.8435546,17.4229347,10,Kasztanowa,Skarbimierz-Osiedle
@@ -87431,7 +87414,7 @@ lat,lon,housenumber,street,city
 50.840904,17.4061549,21,Wierzbowa,Skarbimierz-Osiedle
 50.8533337,17.4611876,8,Bohaterów Westerplatte,Brzeg
 50.8530602,17.4608779,13,Bohaterów Westerplatte,Brzeg
-50.8454574,17.415105,16,Topolowa,Skarbimierz-Osiedle
+50.8454681,17.4151512,16,Topolowa,Skarbimierz-Osiedle
 50.8435546,17.4229347,12,Kasztanowa,Skarbimierz-Osiedle
 50.8489975,17.4363054,29A,,
 50.8441309,17.4246137,17,Kasztanowa,Skarbimierz-Osiedle
@@ -88466,8 +88449,8 @@ lat,lon,housenumber,street,city
 50.3110136,17.7752925,2b,Głubczycka,Racławice Śląskie
 50.312551,17.773768,3,Kościelna,Racławice Śląskie
 50.3104184,17.7668408,3,Prudnicka,Racławice Śląskie
-50.3108057,17.7725672,34,Zwycięstwa,Racławice Śląskie
-50.3103446,17.7728729,36,Zwycięstwa,Racławice Śląskie
+50.3108058,17.772567,34,Zwycięstwa,Racławice Śląskie
+50.3103476,17.772864,36,Zwycięstwa,Racławice Śląskie
 50.312457,17.774665,4,Kościelna,Racławice Śląskie
 50.312277,17.773612,41,Zwycięstwa,Racławice Śląskie
 50.31202,17.773992,45,Zwycięstwa,Racławice Śląskie
@@ -97996,8 +97979,8 @@ lat,lon,housenumber,street,city
 50.8416097,17.4541302,39,Stokrotki,Żłobizna
 50.8411853,17.4558606,29,Fiołkowa,Żłobizna
 50.8473292,17.4713,17,Toruńska,Brzeg
-50.8471471,17.4712157,15,Toruńska,Brzeg
-50.8469551,17.4710474,13,Toruńska,Brzeg
+50.8470874,17.4711771,15,Toruńska,Brzeg
+50.846942,17.4711017,13,Toruńska,Brzeg
 50.846773,17.4714693,12,Toruńska,Brzeg
 50.8462841,17.4705307,7,Toruńska,Brzeg
 50.8458908,17.4709671,6,Toruńska,Brzeg
@@ -99231,12 +99214,12 @@ lat,lon,housenumber,street,city
 50.845849,17.4693301,24a,Wojciecha Korfantego,Brzeg
 50.8465313,17.470899,11,Toruńska,Brzeg
 50.8460135,17.4703132,5,Toruńska,Brzeg
-50.8461808,17.4709694,8,Toruńska,Brzeg
+50.8461598,17.4709764,8,Toruńska,Brzeg
 50.8463595,17.47112,10,Toruńska,Brzeg
-50.8461399,17.469964,3,Toruńska,Brzeg
+50.8461134,17.4699586,3,Toruńska,Brzeg
 50.8464217,17.4712597,10a,Toruńska,Brzeg
 50.8470041,17.4716657,14,Toruńska,Brzeg
-50.8462139,17.4696378,1,Toruńska,Brzeg
+50.846191,17.469637,1,Toruńska,Brzeg
 50.8780703,18.42088,9,Jana Pieloka,Olesno
 50.8728944,18.4056494,8,Złota,Olesno
 50.4746476,17.2862395,4H,,
@@ -99443,7 +99426,6 @@ lat,lon,housenumber,street,city
 50.4766522,17.3671294,26a,,
 50.4760264,17.3632743,6C,,
 50.4762471,17.3644367,15,,
-50.4740191,17.3643372,9,,
 50.4724715,17.366454,10,,
 50.475497,17.363371,6A,,
 50.4733367,17.3666092,9b,,
@@ -99934,7 +99916,7 @@ lat,lon,housenumber,street,city
 50.4745648,17.2761545,8,Jaworowa,Skorochów
 50.474727,17.27633,8,Kasztanowa,Skorochów
 50.4750999,17.2751796,8,Klonowa,Skorochów
-50.473058,17.2757641,9,Dębowa,Skorochów
+50.473115,17.27568,9,Dębowa,Skorochów
 50.473908,17.276042,9,Kasztanowa,Skorochów
 50.5252068,17.1271627,24,,
 50.5251853,17.1270615,26,,
@@ -101362,7 +101344,7 @@ lat,lon,housenumber,street,city
 51.1148696,18.2166361,1,Stawowa,Byczyna
 51.1134686,18.2143095,1,Wiejska,Byczyna
 51.1136486,18.2137716,1,Wąska,Byczyna
-51.1145073,18.2138685,1,Łączności,Byczyna
+51.114514,18.2138895,1,Łączności,Byczyna
 51.1133931,18.2098776,10,Basztowa,Byczyna
 51.1163514,18.2183676,10,Brzozowa,Byczyna
 51.1130736,18.2132366,10,Długa,Byczyna
@@ -101424,7 +101406,7 @@ lat,lon,housenumber,street,city
 51.1160552,18.215874,18,Stawowa,Byczyna
 51.1132996,18.2122844,19,3 Maja,Byczyna
 51.1166024,18.2174592,19,Brzozowa,Byczyna
-51.1147216,18.2128512,19,Okrężna,Byczyna
+51.1147126,18.2128547,19,Okrężna,Byczyna
 51.1186944,18.2069519,19,Poznańska,Byczyna
 51.1184455,18.2135807,19,Stawowa,Byczyna
 51.1147086,18.2126143,19A,Okrężna,Byczyna
@@ -101437,7 +101419,7 @@ lat,lon,housenumber,street,city
 51.1129078,18.2128576,2,Floriańska,Byczyna
 51.113541,18.2113872,2,Parkowa,Byczyna
 51.1144341,18.2147636,2,Plac Wolności,Byczyna
-51.1143021,18.2134786,2,Rynek,Byczyna
+51.1142933,18.2134825,2,Rynek,Byczyna
 51.1127966,18.213828,2,Wąska,Byczyna
 51.1131939,18.2138728,20,Długa,Byczyna
 51.1131549,18.2151498,20,Floriańska,Byczyna
@@ -101445,7 +101427,7 @@ lat,lon,housenumber,street,city
 51.1138682,18.2133266,20,Rynek,Byczyna
 51.1132996,18.2122844,21,3 Maja,Byczyna
 51.1168104,18.2170143,21,Brzozowa,Byczyna
-51.1147303,18.2128431,21,Okrężna,Byczyna
+51.1147215,18.2128466,21,Okrężna,Byczyna
 51.1139354,18.2132859,21,Rynek,Byczyna
 51.121116,18.2133263,21,Stawowa,Byczyna
 51.1138711,18.2130062,21A,Rynek,Byczyna
@@ -101455,23 +101437,23 @@ lat,lon,housenumber,street,city
 51.1131784,18.215271,22,Floriańska,Byczyna
 51.1173233,18.2088874,22,Poznańska,Byczyna
 51.1140086,18.2132434,22,Rynek,Byczyna
-51.1147876,18.2130398,23,Okrężna,Byczyna
+51.1147791,18.213043,23,Okrężna,Byczyna
 51.1216622,18.2134521,23,Stawowa,Byczyna
 51.1171977,18.2171966,24,Brzozowa,Byczyna
 51.1132561,18.2141564,24,Długa,Byczyna
 51.1132016,18.2153941,24,Floriańska,Byczyna
 51.1166884,18.2151954,24,Stawowa,Byczyna
-51.1148503,18.2132938,25,Okrężna,Byczyna
+51.1148413,18.2132973,25,Okrężna,Byczyna
 51.121774,18.2134214,25,Stawowa,Byczyna
 51.1132287,18.2155286,26,Floriańska,Byczyna
 51.1171191,18.2150726,26,Stawowa,Byczyna
-51.1149134,18.2134272,27,Okrężna,Byczyna
+51.1149044,18.2134307,27,Okrężna,Byczyna
 51.1218045,18.2126601,27,Stawowa,Byczyna
-51.1150591,18.2135222,27A,Okrężna,Byczyna
+51.1150511,18.213526,27A,Okrężna,Byczyna
 51.1172049,18.2179228,28,Brzozowa,Byczyna
 51.113294,18.2157639,28,Floriańska,Byczyna
 51.1171633,18.215056,28,Stawowa,Byczyna
-51.1150417,18.2138153,29,Okrężna,Byczyna
+51.1150321,18.2138232,29,Okrężna,Byczyna
 51.1215961,18.2120922,29,Stawowa,Byczyna
 51.1141692,18.2131635,2A,Kościelna,Byczyna
 51.1141117,18.212954,2B,Kościelna,Byczyna
@@ -101482,7 +101464,7 @@ lat,lon,housenumber,street,city
 51.1164355,18.2236283,3,Borkowska,Byczyna
 51.1134809,18.213941,3,Długa,Byczyna
 51.1137302,18.2115955,3,Okrężna,Byczyna
-51.114693,18.2142581,3,Plac Wolności,Byczyna
+51.1146844,18.2142617,3,Plac Wolności,Byczyna
 51.113646,18.2150753,3,Poprzeczna,Byczyna
 51.1145429,18.2135714,3,Rynek,Byczyna
 51.1156843,18.2159311,3,Stawowa,Byczyna
@@ -101490,9 +101472,9 @@ lat,lon,housenumber,street,city
 51.1145391,18.2163428,3,Zamojskiego,Byczyna
 51.1133899,18.2147376,30,Długa,Byczyna
 51.1172067,18.2150397,30,Stawowa,Byczyna
-51.1150473,18.2142004,31,Okrężna,Byczyna
+51.1150383,18.2142039,31,Okrężna,Byczyna
 51.1172518,18.2150229,32,Stawowa,Byczyna
-51.1152432,18.2143871,33,Okrężna,Byczyna
+51.1152342,18.21439,33,Okrężna,Byczyna
 51.1130096,18.2166938,33,Wałowa,Byczyna
 51.1172948,18.2150067,34,Stawowa,Byczyna
 51.1138361,18.2170747,34,Wałowa,Byczyna
@@ -101506,9 +101488,9 @@ lat,lon,housenumber,street,city
 51.1158932,18.2192744,4,Brzozowa,Byczyna
 51.1160122,18.2151489,4,Błonie,Byczyna
 51.1141615,18.2127699,4,Kościelna,Byczyna
-51.1144061,18.2154302,4,Krótka,Byczyna
+51.1144058,18.2154292,4,Krótka,Byczyna
 51.1145345,18.2151694,4,Plac Wolności,Byczyna
-51.1143654,18.213729,4,Rynek,Byczyna
+51.1143567,18.2137328,4,Rynek,Byczyna
 51.1148734,18.2171906,4,Stawowa,Byczyna
 51.1142244,18.2175677,4,Zamojskiego,Byczyna
 51.1176395,18.2149443,40,Stawowa,Byczyna
@@ -101527,9 +101509,9 @@ lat,lon,housenumber,street,city
 51.1135234,18.2140404,5,Długa,Byczyna
 51.1138139,18.2122999,5,Kościelna,Byczyna
 51.1138752,18.2117657,5,Okrężna,Byczyna
-51.1148619,18.2142917,5,Plac Wolności,Byczyna
+51.1148529,18.214295,5,Plac Wolności,Byczyna
 51.1133278,18.2153606,5,Poprzeczna,Byczyna
-51.114415,18.2138572,5,Rynek,Byczyna
+51.1144065,18.2138613,5,Rynek,Byczyna
 51.1160424,18.2155218,5,Stawowa,Byczyna
 51.1127341,18.2138376,5,Wałowa,Byczyna
 51.1145206,18.2164793,5,Zamojskiego,Byczyna
@@ -101549,11 +101531,11 @@ lat,lon,housenumber,street,city
 51.1162008,18.2188309,6,Brzozowa,Byczyna
 51.1129981,18.2126142,6,Długa,Byczyna
 51.1140089,18.212585,6,Kościelna,Byczyna
-51.1144329,18.2155728,6,Krótka,Byczyna
+51.114433,18.215572,6,Krótka,Byczyna
 51.1145662,18.2153235,6,Plac Wolności,Byczyna
 51.115064,18.2184625,6,Polna,Byczyna
 51.115294,18.2096736,6,Poznańska,Byczyna
-51.1145743,18.2140954,6,Rynek,Byczyna
+51.1145657,18.214099,6,Rynek,Byczyna
 51.1140319,18.2180548,6,Zamojskiego,Byczyna
 51.1218766,18.2141654,60,Stawowa,Byczyna
 51.1223646,18.2140384,62,Stawowa,Byczyna
@@ -101578,10 +101560,10 @@ lat,lon,housenumber,street,city
 51.112996,18.214441,8,Floriańska,Byczyna
 51.1139852,18.2154108,8,Fryderyka Chopina,Byczyna
 51.1139799,18.2124847,8,Kościelna,Byczyna
-51.1144737,18.2156972,8,Krótka,Byczyna
+51.1144735,18.215698,8,Krótka,Byczyna
 51.1150494,18.2188201,8,Polna,Byczyna
 51.1156268,18.2094744,8,Poznańska,Byczyna
-51.1145553,18.2143556,8,Rynek,Byczyna
+51.1145467,18.2143589,8,Rynek,Byczyna
 51.1153521,18.2169321,8,Stawowa,Byczyna
 51.1235803,18.2130297,8,,
 51.1164071,18.210965,9,11 Listopada,Byczyna
@@ -101592,7 +101574,7 @@ lat,lon,housenumber,street,city
 51.1165533,18.2149187,9,Stawowa,Byczyna
 51.1144797,18.218282,9C,Zamojskiego,Byczyna
 51.123421,18.2143816,9,,
-51.1145003,18.2141575,7,Rynek,Byczyna
+51.1144915,18.2141611,7,Rynek,Byczyna
 51.1143769,18.2105631,4,Parkowa,Byczyna
 51.1174346,18.215685,27,Brzozowa,Byczyna
 51.1147565,18.2206787,2,Brzozowa,Byczyna
@@ -104148,7 +104130,7 @@ lat,lon,housenumber,street,city
 50.488421,17.254649,12A,Nyska,Goświnowice
 50.4842734,17.254816,13,Kolejowa,Goświnowice
 50.488606,17.254827,14,Nyska,Goświnowice
-50.4835613,17.2547935,17,Kolejowa,Goświnowice
+50.483723,17.254665,17,Kolejowa,Goświnowice
 50.4831491,17.2547835,17a,Kolejowa,Goświnowice
 50.4833995,17.2548036,17b,Kolejowa,Goświnowice
 50.4831394,17.2557292,17c,Kolejowa,Goświnowice
@@ -104181,7 +104163,7 @@ lat,lon,housenumber,street,city
 50.334032,17.430788,25,,
 50.453954,17.390752,96,,
 50.4065756,17.3011965,25A,,
-50.336139,17.3832392,79,,
+50.336314,17.383456,79,,
 50.4000061,17.4683183,48A,,
 50.3800832,17.4068171,125a,,
 50.8228475,17.7453052,16a,Klasztorna,Popielów
@@ -106058,7 +106040,7 @@ lat,lon,housenumber,street,city
 50.8421434,17.4786706,71,Starobrzeska,Brzeg
 50.8413106,17.4797978,73A,Starobrzeska,Brzeg
 50.841279,17.4798981,75,Starobrzeska,Brzeg
-50.8492171,17.4661639,8a,Juliusza Słowackiego,Brzeg
+50.8492637,17.4661465,8a,Juliusza Słowackiego,Brzeg
 50.8582631,17.4630035,8,Kardynała Stefana Wyszyńskiego,Brzeg
 50.8582655,17.462768,10,Kardynała Stefana Wyszyńskiego,Brzeg
 50.8584639,17.4611481,18,Kardynała Stefana Wyszyńskiego,Brzeg
@@ -106684,7 +106666,7 @@ lat,lon,housenumber,street,city
 50.8630582,18.2929877,169,,
 50.8633284,18.2929814,168,,
 50.8629978,18.2914982,174,,
-50.4765431,17.3247356,1,plac Jana Kilińskiego,Nysa
+50.4766713,17.3247325,1,plac Jana Kilińskiego,Nysa
 50.99436,18.1450867,9,Leśna,Smardy Dolne
 50.9979198,18.1625121,3A,Kościelna,
 50.9967693,18.1665654,3,Sadowa,Smardy Dolne
@@ -108085,7 +108067,7 @@ lat,lon,housenumber,street,city
 50.4834774,17.2540569,16,Kolejowa,Goświnowice
 50.4834127,17.2483974,17,Szkolna,Goświnowice
 50.4832896,17.2540433,18,Kolejowa,Goświnowice
-50.4828929,17.2537732,18b,Kolejowa,Goświnowice
+50.482943,17.2537749,18a,Kolejowa,Goświnowice
 50.4826689,17.254125,18d,Kolejowa,Goświnowice
 50.480102,17.256984,19,Kolejowa,Goświnowice
 50.480525,17.257357,19a,Kolejowa,Goświnowice
@@ -114570,7 +114552,7 @@ lat,lon,housenumber,street,city
 50.3725337,17.2974294,16,,
 50.3445119,17.2697855,99,,
 50.368478,17.293256,25,,
-50.3381801,17.2614976,81A,,
+50.3381962,17.2614675,81A,,
 50.3762719,17.3135851,116,,
 50.3739447,17.2984579,71,,
 50.3546903,17.2831662,13,,
@@ -115343,7 +115325,7 @@ lat,lon,housenumber,street,city
 50.3257616,17.3891108,9,Kwiatowa,Głuchołazy
 50.325591,17.3856265,1,Kwiatowa,Głuchołazy
 50.3285182,17.3832551,31,,
-50.3361446,17.3844148,84,,
+50.336131,17.384204,84,,
 50.3334804,17.3889612,10,Osiedle III,Bodzanów
 50.3334219,17.3869217,3,Osiedle III,Bodzanów
 50.3377884,17.3842369,102,,
@@ -115361,37 +115343,38 @@ lat,lon,housenumber,street,city
 50.333329,17.386688,2,Osiedle III,Bodzanów
 50.3315791,17.382828,51,,
 50.3331281,17.3842539,66,,
-50.336719,17.3841268,94,,
+50.334354,17.382243,67a,,
+50.336715,17.384129,94,,
 50.332176,17.384017,58A,,
 50.332686,17.385408,60,,
-50.3355646,17.3842027,76,,
-50.3388828,17.3837607,106a,,
-50.3370093,17.3840672,98,,
-50.3400989,17.3832636,116,,
-50.3384423,17.3832107,99,,
-50.3394827,17.3835326,108,,
-50.3390925,17.3837276,106,,
-50.3377104,17.383227,93a,,
-50.3311501,17.3835947,54,,
-50.3360381,17.3842055,82,,
+50.335481,17.384209,76,,
+50.338823,17.383785,106a,,
+50.337005,17.38407,98,,
+50.340014,17.383285,116,,
+50.33846,17.38336,99,,
+50.339401,17.383555,108,,
+50.338999,17.383753,106,,
+50.337714,17.383482,93a,,
+50.331146,17.383597,54,,
+50.335957,17.384213,82,,
 50.333229,17.383243,59a,,
 50.3394062,17.3843269,108A,,
 50.336596,17.384147,92,,
-50.3381759,17.3840168,104a,,
-50.3385983,17.3830047,101,,
-50.337695,17.3834848,93,,
-50.3399079,17.3833984,110a,,
-50.339286,17.3827651,103,,
-50.3368107,17.384123,96,,
-50.3351747,17.3835814,77,,
-50.3397279,17.3834145,110,,
-50.337865,17.3829766,93b,,
+50.338117,17.384025,104a,,
+50.338646,17.383202,101,,
+50.337709,17.383607,93,,
+50.339904,17.383401,110,,
+50.339262,17.383118,103,,
+50.336755,17.384129,96,,
+50.335076,17.383797,77,,
+50.339668,17.383434,110a,,
+50.337913,17.383394,93b,,
 50.336521,17.383685,81,,
-50.3364729,17.3841677,90,,
-50.3384285,17.3839671,104,,
-50.3395224,17.3828688,105,,
+50.336395,17.384181,90,,
+50.338424,17.38397,104,,
+50.33955,17.38303,105,,
 50.3362623,17.3841889,86,,
-50.3396754,17.3827845,105A,,
+50.339664,17.382927,105A,,
 50.3342328,17.3817553,65,,
 50.3367717,17.3836086,83,,
 50.336985,17.383428,83b,,
@@ -115419,7 +115402,7 @@ lat,lon,housenumber,street,city
 50.3310547,17.3823296,49,,
 50.3344037,17.3837602,75,,
 50.3315037,17.3838035,56,,
-50.3402421,17.3825697,109,,
+50.340271,17.382678,109,,
 50.3320311,17.3884762,64a,,
 50.331526,17.383379,47,,
 50.3398071,17.3827127,107a,,
@@ -115428,11 +115411,11 @@ lat,lon,housenumber,street,city
 50.3357581,17.3841982,78,,
 50.3389787,17.3828755,103a,,
 50.3337343,17.382781,63,,
-50.333775,17.3831926,73,,
+50.333838,17.38323,73,,
 50.333374,17.38871,9,Osiedle III,Bodzanów
 50.3372765,17.3840627,100,,
 50.333527,17.383142,61,,
-50.3340657,17.3826828,71,,
+50.334017,17.382654,71,,
 50.3374515,17.3841869,100a,,
 50.3322,17.382976,53,,
 50.3381458,17.3834911,95,,
@@ -121129,7 +121112,7 @@ lat,lon,housenumber,street,city
 51.0197882,17.8918882,9,,
 51.0310694,17.8983863,40,,
 51.0278044,17.9023943,20,,
-51.1271275,17.8270741,19,,
+51.127131,17.827075,19,,
 51.0166454,17.9758911,99a,,
 51.033243,17.9278767,39,,
 51.0295323,17.9039209,27,,
@@ -121907,6 +121890,7 @@ lat,lon,housenumber,street,city
 50.879236,17.484893,10,Jodłowa,Pisarzowice
 50.8722193,17.5033396,19C,,
 50.9126453,17.3806729,28,Spacerowa,Lipki
+50.8800618,17.4852066,12,Klonowa,Pisarzowice
 50.8611475,17.5366776,154,,
 50.8851416,17.4767763,158,,
 50.8843678,17.4816162,8,Miodowa,Michałowice
@@ -125678,15 +125662,14 @@ lat,lon,housenumber,street,city
 50.9721801,17.7986622,3D,Szkolna,Dąbrowa
 50.9730884,17.793665,5,Aleja Kasztanowa,Dąbrowa
 50.9721251,17.7985881,8,Asfaltowa,Dąbrowa
-50.9683096,17.7965896,35,Podhalańska,Dąbrowa
 50.9683747,17.7949512,1,Sosnowa,Dąbrowa
 50.9718348,17.7963212,8,Szkolna,Dąbrowa
 50.9685566,17.7976828,33,Podhalańska,Dąbrowa
+50.9707974,17.7974178,5,Asfaltowa,Dąbrowa
 50.9695199,17.796003,2,Kolejowa,Dąbrowa
 50.972321,17.7985259,3C,Szkolna,Dąbrowa
 50.9688554,17.7957044,8,Kolejowa,Dąbrowa
 50.9686826,17.7964482,32,Podhalańska,Dąbrowa
-50.9709351,17.7973481,5,Asfaltowa,Dąbrowa
 50.9707268,17.7970425,7B,Asfaltowa,Dąbrowa
 50.9725243,17.7961345,1A,Szkolna,Dąbrowa
 50.9687692,17.7953698,2,Sosnowa,Dąbrowa
@@ -125774,7 +125757,7 @@ lat,lon,housenumber,street,city
 50.971352,17.8025143,32A,Główna,Dąbrowa
 50.9704958,17.8033639,26,Główna,Dąbrowa
 50.9698159,17.803531,22B,Główna,Dąbrowa
-50.9696319,17.802674,27,Główna,Dąbrowa
+50.9696403,17.8026677,27,Główna,Dąbrowa
 50.9713952,17.8018706,47,Główna,Dąbrowa
 50.9711842,17.8020749,43,Główna,Dąbrowa
 50.9708131,17.8032187,28A,Główna,Dąbrowa
@@ -132220,7 +132203,7 @@ lat,lon,housenumber,street,city
 50.1963396,17.8707568,8,Dolna,Grobniki
 50.1967768,17.87415,21a,Szkolna,Grobniki
 50.195539,17.86922,3,Dolna,Grobniki
-50.1952356,17.8695409,2,Szkolna,Grobniki
+50.195235,17.8695418,2,Szkolna,Grobniki
 50.1954365,17.8695716,3,Szkolna,Grobniki
 50.195815,17.868483,9,Świętego Jana,Grobniki
 50.195507,17.869126,2,Dolna,Grobniki
@@ -134670,6 +134653,7 @@ lat,lon,housenumber,street,city
 50.9441613,17.7679806,32,Wiejska,Miejsce
 50.9248812,17.8158532,87e:87f,,
 50.9492868,17.7726902,35A,Namysłowska,Miejsce
+50.9446053,17.7784135,4B,Parkowa,Miejsce
 50.933081,17.790842,4a;4b,Rybacka,Krogulna
 50.9245306,17.8175109,87a;87g,Zieleniec,
 50.9442218,17.7684141,30A,Wiejska,Miejsce
@@ -135224,6 +135208,7 @@ lat,lon,housenumber,street,city
 50.8649897,17.9433189,24,Lipowa,Murów
 50.8698902,17.9653266,37,Murowska,Zagwiździe
 50.8672308,17.948539,28,Nowa,Murów
+50.8694329,17.9654187,24A,Murowska,Zagwiździe
 50.8639457,17.9432179,21,Lipowa,Murów
 50.8649322,17.9429012,15,Lipowa,Murów
 50.8657932,17.9461956,5,Słoneczna,Murów
@@ -135571,6 +135556,7 @@ lat,lon,housenumber,street,city
 50.8687329,17.9832168,51,Lipowa,Zagwiździe
 50.8688071,17.9836811,52,Lipowa,Zagwiździe
 50.8722834,17.978241,8A,Lipowa,Zagwiździe
+50.8726441,17.9801443,12B,Lipowa,Zagwiździe
 50.8695593,17.9822833,42,Lipowa,Zagwiździe
 50.8688099,17.9828457,49,Lipowa,Zagwiździe
 50.8727749,17.9777293,6,Lipowa,Zagwiździe
@@ -157753,7 +157739,7 @@ lat,lon,housenumber,street,city
 50.3762566,17.7912185,48,,
 50.3087321,17.7670208,24b,Ogrodowa,Racławice Śląskie
 50.3811057,17.7907353,28,,
-50.3088298,17.7633451,22,Mikołaja Kopernika,Racławice Śląskie
+50.308933,17.7633773,22,Mikołaja Kopernika,Racławice Śląskie
 50.355061,17.776023,81,,
 50.380451,17.7926001,32,,
 50.3566468,17.7748721,90,,
@@ -157779,7 +157765,7 @@ lat,lon,housenumber,street,city
 50.350327,17.779559,40,,
 50.354249,17.777226,73,,
 50.3552,17.77787,7,,
-50.3088315,17.7628713,26,Mikołaja Kopernika,Racławice Śląskie
+50.3088318,17.7628705,26,Mikołaja Kopernika,Racławice Śląskie
 50.3510456,17.7786222,46,,
 50.3085485,17.7632213,43,Mikołaja Kopernika,Racławice Śląskie
 50.3506939,17.7775546,51,,
@@ -159573,7 +159559,7 @@ lat,lon,housenumber,street,city
 50.2820707,17.4199797,137,,
 50.2826114,17.4254703,301,,
 50.2824924,17.4251763,124a,,
-50.2826898,17.3485927,30,,
+50.282524,17.348536,30,,
 50.2833602,17.4196528,114a,,
 50.2836804,17.4224957,106,,
 50.2840019,17.3470947,24c,,
@@ -159593,8 +159579,8 @@ lat,lon,housenumber,street,city
 50.2822487,17.4177905,117,,
 50.279755,17.417794,153B,,
 50.2838932,17.4211228,108a,,
-50.2798891,17.3492804,39,,
-50.2817409,17.3488836,32,,
+50.279885,17.349283,39,,
+50.281756,17.349002,32,,
 50.2755556,17.4075744,181,,
 50.2827071,17.4229975,131,,
 50.2843867,17.4272741,75A,,
@@ -159602,10 +159588,11 @@ lat,lon,housenumber,street,city
 50.2830781,17.4236897,126,,
 50.278048,17.345243,84,,
 50.4714029,17.1742733,42,Henryka Sienkiewicza,Otmuchów
-50.2818202,17.3496163,31,,
+50.281859,17.349709,31,,
 50.2845017,17.3481894,11,,
 50.2754106,17.3456537,86,,
 50.2862365,17.3469604,19,,
+50.281248,17.349086,33,,
 50.283659,17.4219635,108,,
 50.2845915,17.4264178,73d,,
 50.2826425,17.423386,127,,
@@ -159634,14 +159621,13 @@ lat,lon,housenumber,street,city
 50.2849265,17.3473757,22,,
 50.5143535,17.063917,39,,
 50.2853077,17.3482093,15,,
-50.2805323,17.3484819,35,,
+50.280528,17.348485,35,,
 50.475958,17.141027,8,Diamentowa,Otmuchów
 50.279246,17.353263,75,,
 50.278281,17.413194,160,,
 50.2812086,17.4154979,150,,
 50.477598,17.139302,3,Koralowa,Otmuchów
 50.280963,17.4195527,141,,
-50.2811571,17.3491221,33,,
 50.280154,17.347348,37,,
 50.2830419,17.3487406,27,,
 50.275374,17.3453055,86A,,
@@ -159677,7 +159663,7 @@ lat,lon,housenumber,street,city
 50.284042,17.42512,92,,
 50.2780488,17.4122862,162,,
 50.2768112,17.4089637,174,,
-50.2795501,17.3500454,40,,
+50.279563,17.35011,40,,
 50.514712,17.0644351,51,,
 50.2817444,17.4150342,148,,
 50.2841075,17.3490063,8,,
@@ -159689,7 +159675,7 @@ lat,lon,housenumber,street,city
 50.2859082,17.347978,16,,
 50.2771366,17.4097096,171,,
 50.2841616,17.3480065,24,,
-50.2821039,17.3497472,5,,
+50.2821,17.34975,5,,
 50.2825906,17.4210749,135,,
 50.2824866,17.3490496,29,,
 50.281418,17.4165363,145,,
@@ -159720,7 +159706,7 @@ lat,lon,housenumber,street,city
 50.2829773,17.4197243,114,,
 50.2840384,17.4238102,98,,
 50.278586,17.413384,159,,
-50.2800002,17.3468752,38,,
+50.279996,17.346878,38,,
 50.2841394,17.4251395,88,,
 50.2831432,17.4228625,105,,
 50.2821199,17.4235371,128,,
@@ -159728,7 +159714,7 @@ lat,lon,housenumber,street,city
 50.2817772,17.4190075,139,,
 50.2807426,17.3491634,34,,
 50.2769191,17.409261,173,,
-50.2803009,17.3477748,36,,
+50.280297,17.347778,36,,
 50.2774411,17.4113597,166,,
 50.2766536,17.4087241,175,,
 50.2757406,17.4077451,180,,
@@ -165875,7 +165861,7 @@ lat,lon,housenumber,street,city
 50.4903807,17.2488564,8,Polna,Goświnowice
 50.4901255,17.2556827,3,Radzikowicka,Goświnowice
 50.4897691,17.251316,2C,Polna,Goświnowice
-50.4849376,17.250616,11c,Szkolna,Goświnowice
+50.484857,17.250523,11c,Szkolna,Goświnowice
 50.4939748,17.2214536,5,,
 50.518971,17.235999,5,,
 50.5191967,17.2364584,7,,
@@ -166013,7 +165999,7 @@ lat,lon,housenumber,street,city
 50.4656413,17.2130587,41,Kalinowa,Otmuchów
 50.466665,17.2728215,125,,
 50.4667363,17.2735583,126,,
-50.4654744,17.2129189,39,Kalinowa,Otmuchów
+50.465447,17.213107,39,Kalinowa,Otmuchów
 50.465126,17.2128969,37,Kalinowa,Otmuchów
 50.4649188,17.2128012,35,Kalinowa,Otmuchów
 50.464786,17.2133051,22,Kalinowa,Otmuchów
@@ -166092,7 +166078,7 @@ lat,lon,housenumber,street,city
 50.455917,17.2126108,34,Dębowa,Otmuchów
 50.456572,17.212906,30,Dębowa,Otmuchów
 50.455573,17.213084,51,Dębowa,Otmuchów
-50.4647524,17.2640731,26k,,
+50.4646337,17.2640805,26k,,
 50.455796,17.213187,49,Dębowa,Otmuchów
 50.456352,17.213145,45,Dębowa,Otmuchów
 50.4565211,17.2134125,43,Dębowa,Otmuchów
@@ -166416,10 +166402,10 @@ lat,lon,housenumber,street,city
 50.4299223,17.2745044,2,Mikołaja Kopernika,Siestrzechowice
 50.4348386,17.3045778,2,Parkowa,Biała Nyska
 50.432932,17.276093,20,Mikołaja Kopernika,Siestrzechowice
-50.4330864,17.2753921,21,Mikołaja Kopernika,Siestrzechowice
+50.433039,17.275563,21,Mikołaja Kopernika,Siestrzechowice
 50.43331,17.275946,22,Mikołaja Kopernika,Siestrzechowice
 50.4359335,17.3054544,22,Nyska,Biała Nyska
-50.4333275,17.2753817,23,Mikołaja Kopernika,Siestrzechowice
+50.433302,17.275634,23,Mikołaja Kopernika,Siestrzechowice
 50.433554,17.27606,24,Mikołaja Kopernika,Siestrzechowice
 50.4357711,17.3055162,24,Nyska,Biała Nyska
 50.4335092,17.2744135,25,Mikołaja Kopernika,Siestrzechowice
@@ -166459,7 +166445,7 @@ lat,lon,housenumber,street,city
 50.4349401,17.3042002,4,Parkowa,Biała Nyska
 50.4301845,17.3051069,40,Nyska,Biała Nyska
 50.4293558,17.3051164,42,Nyska,Biała Nyska
-50.430455,17.2747078,4A,Mikołaja Kopernika,Siestrzechowice
+50.430451,17.27471,4,Mikołaja Kopernika,Siestrzechowice
 50.4308919,17.2737262,5,Mikołaja Kopernika,Siestrzechowice
 50.4319662,17.272938,5,Polna,Siestrzechowice
 50.436941,17.3044756,5,Słoneczna,Biała Nyska
@@ -166482,8 +166468,8 @@ lat,lon,housenumber,street,city
 50.4343359,17.3038369,8,Parkowa,Biała Nyska
 50.4317199,17.2745582,8a,Mikołaja Kopernika,Siestrzechowice
 50.431735,17.273872,9,Mikołaja Kopernika,Siestrzechowice
-50.3502267,17.3745385,176a,,
-50.3542725,17.3650895,247,,
+50.3502142,17.374474,176a,,
+50.354321,17.365183,247,,
 50.436108,17.308727,4a,Świętojańska,Biała Nyska
 50.3535756,17.3643406,245a,,
 50.3537988,17.3633748,241,,
@@ -166491,7 +166477,7 @@ lat,lon,housenumber,street,city
 50.3550691,17.3697826,257,,
 50.3548497,17.369615,255,,
 50.3475972,17.3754783,173,,
-50.353897,17.3721651,194B,,
+50.353815,17.372231,194B,,
 50.355835,17.3696091,223,,
 50.3480571,17.3752193,177A,,
 50.3558631,17.37144,206,,
@@ -166518,95 +166504,96 @@ lat,lon,housenumber,street,city
 50.355733,17.370241,221,,
 50.3563284,17.3697721,230,,
 50.3575528,17.3715981,218a,,
-50.3525566,17.3724118,211,,
+50.3525,17.372621,211,,
 50.343429,17.37922,143,,
 50.355424,17.371473,204,,
 50.356653,17.3698145,230b,,
-50.3481919,17.3750846,177,,
+50.348099,17.375157,177,,
 50.342587,17.381537,132,,
 50.3437839,17.3797121,142a,,
-50.3404503,17.3823536,111,,
-50.3547729,17.3709558,215,,
-50.349071,17.3746159,181,,
+50.340486,17.382491,111,,
+50.354719,17.371216,215,,
+50.349097,17.374767,181,,
 50.34454,17.37809,153,,
 50.3749926,17.2629084,31,,
-50.3462982,17.3772985,156a,,
+50.346232,17.377331,156a,,
 50.351968,17.373604,184,,
 50.34405,17.378597,149,,
 50.3561413,17.3691878,227,,
 50.350791,17.373468,197,,
 50.351767,17.373669,184a,,
 50.3572747,17.3606186,53,,
-50.3453591,17.3779431,150,,
+50.345268,17.378007,150,,
 50.350665,17.373747,195,,
-50.3488036,17.375399,170,,
+50.348716,17.37546,170,,
 50.3595802,17.3596149,48,,
 50.3574904,17.3677108,127,,
 50.3561546,17.3713183,208,,
 50.351478,17.373846,182,,
-50.3486772,17.3747943,179a,,
+50.348638,17.375003,179a,,
 50.3522135,17.3725529,207,,
 50.3565511,17.3690032,228a,,
-50.3529817,17.3729776,190,,
-50.3487046,17.3754887,168,,
+50.352887,17.373035,190,,
+50.348623,17.375523,168,,
 50.344873,17.378496,148,,
-50.3451939,17.3801915,4,Osiedle II,Bodzanów
+50.345189,17.380189,4,Osiedle II,Bodzanów
 50.349633,17.375077,172,,
 50.344767,17.379369,146a,,
 50.344907,17.377768,159,,
-50.3465972,17.3764013,169,,
-50.3500508,17.3745579,176,,
-50.3406322,17.3821945,113,,
+50.346556,17.376675,169,,
+50.349955,17.374618,176,,
+50.340688,17.382363,113,,
 50.351976,17.372769,207a,,
 50.351703,17.373036,203,,
-50.3456588,17.3770015,165,,
+50.345629,17.37726,165,,
 50.3409461,17.3812938,117A,,
-50.3499248,17.3746302,174,,
-50.345496,17.3771027,163,,
+50.349841,17.374683,174,,
+50.345541,17.37733,163,,
 50.3756506,17.2633913,32B,,
-50.349018,17.3752167,170a,,
-50.3546949,17.3649103,249,,
-50.3472935,17.3759169,171,,
-50.3453027,17.3772759,163a,,
+50.349014,17.375219,170a,,
+50.354802,17.365108,249,,
+50.34733,17.376124,171,,
+50.34534,17.377396,163a,,
 50.350863,17.374061,180,,
 50.345035,17.377734,161,,
-50.3497473,17.3747485,174a,,
+50.3497,17.374778,174a,,
 50.345045,17.378936,1,Osiedle II,Bodzanów
 50.434443,17.276715,30A,Mikołaja Kopernika,Siestrzechowice
 50.351972,17.372894,205a,,
 50.3607824,17.3586898,42,,
 50.343604,17.379129,145,,
 50.344691,17.378768,146,,
-50.3548332,17.3715909,198a,,
-50.3468913,17.3769948,158,,
-50.3411559,17.3826797,124a,,
+50.354734,17.371602,198a,,
+50.3468,17.377017,158,,
+50.341079,17.382705,124a,,
 50.343993,17.379416,142,,
 50.3463581,17.3755978,169B,,
 50.432076,17.27569,10,Boczna,Siestrzechowice
 50.34469,17.378022,157,,
 50.343164,17.380808,136,,
-50.3409525,17.3828401,122,,
+50.34078,17.38292,122,,
 50.3565391,17.371398,232,,
-50.3537926,17.3723064,194,,
-50.3525046,17.3733438,188,,
+50.353924,17.372682,194,,
+50.352427,17.373386,188,,
 50.3732176,17.2539446,21D,,
 50.343136,17.379491,139,,
-50.340661,17.3829661,120,,
-50.3404671,17.3830679,120a,,
+50.340565,17.383008,120,,
+50.340463,17.38307,120a,,
 50.4307607,17.3052282,38,Nyska,Biała Nyska
 50.350204,17.374043,191,,
 50.342778,17.381204,134,,
-50.3417574,17.3823061,126,,
+50.341664,17.382338,126,,
 50.35656,17.370491,226,,
 50.3414675,17.3825225,126a,,
 50.3496481,17.374336,187,,
-50.355476,17.37193,204d,,
-50.3547385,17.3715994,198,,
+50.355476,17.37193,204A,,
+50.354656,17.371609,198,,
 50.4346588,17.2758246,27,Mikołaja Kopernika,Siestrzechowice
 50.344399,17.378343,151,,
 50.3604805,17.3638074,128,,
+50.35495,17.361708,239D,,
 50.3563454,17.3700193,228,,
-50.3550588,17.3613028,239,,
+50.354929,17.361444,239,,
 50.351808,17.372984,205,,
 50.3569664,17.373021,214a,,
 50.3561286,17.3716099,210a,,
@@ -166617,7 +166604,7 @@ lat,lon,housenumber,street,city
 50.345113,17.379647,2,Osiedle II,Bodzanów
 50.343078,17.380056,137a,,
 50.344412,17.378867,144,,
-50.3461442,17.3774345,154,,
+50.346059,17.377486,154,,
 50.355468,17.37081,219,,
 50.3573956,17.3712138,222B,,
 50.4320407,17.275169,8B,Mikołaja Kopernika,Siestrzechowice
@@ -166633,12 +166620,12 @@ lat,lon,housenumber,street,city
 50.343016,17.380136,135,,
 50.3413286,17.3825772,124,,
 50.3578831,17.3604363,52,,
-50.3503374,17.3737399,193,,
+50.350369,17.373897,193,,
 50.355673,17.3698443,254,,
 50.4337598,17.3041873,28d,Nyska,Biała Nyska
 50.3573999,17.3616703,54,,
 50.3582147,17.3606391,51a,,
-50.3418745,17.381635,123,,
+50.34185,17.381823,123,,
 50.4328719,17.3102564,11,Kamienna,Biała Nyska
 50.3554881,17.3630407,237,,
 50.3473046,17.3767387,160,,
@@ -166665,6 +166652,7 @@ lat,lon,housenumber,street,city
 50.342457,17.381635,132A,,
 50.3572585,17.3707402,222,,
 50.432206,17.275736,14,Mikołaja Kopernika,Siestrzechowice
+50.340266,17.385196,112,,
 50.3475836,17.3764641,162a,,
 50.34787,17.3754878,173a,,
 50.3414251,17.3816946,119,,
@@ -166672,7 +166660,7 @@ lat,lon,housenumber,street,city
 50.3598229,17.3595188,47,,
 50.3467278,17.3770683,158a,,
 50.3536211,17.3724484,194a,,
-50.3422024,17.3814179,125,,
+50.342198,17.38142,125,,
 50.343816,17.378737,147,,
 50.3577093,17.3714852,218,,
 50.3551541,17.3610399,239a,,
@@ -166684,8 +166672,8 @@ lat,lon,housenumber,street,city
 50.3477999,17.376193,162,,
 50.4321784,17.2743491,11,Mikołaja Kopernika,Siestrzechowice
 50.3745968,17.2628129,30,,
-50.341697,17.3818178,121,,
-50.3402036,17.3857548,112,,
+50.341719,17.381955,121,,
+50.3401332,17.3858937,114,,
 50.34332,17.380368,138a,,
 50.3522927,17.373468,186,,
 50.3512445,17.3738986,182a,,
@@ -166706,7 +166694,7 @@ lat,lon,housenumber,street,city
 50.3523983,17.3724397,209,,
 50.3565097,17.3718818,212,,
 50.343353,17.379589,141,,
-50.3413242,17.3818856,119a,,
+50.341372,17.382087,119a,,
 50.4283203,17.3644914,100,,
 50.3746006,17.3586768,100,,
 50.3742502,17.3593619,101,,
@@ -168118,7 +168106,7 @@ lat,lon,housenumber,street,city
 50.7096957,18.0050275,5,Słoneczna,Zawada
 50.7237988,18.0216847,1,Cicha,Kotórz Mały
 50.7253645,18.0221393,12,Cicha,Kotórz Mały
-50.729325,18.0364593,1,Kolejowa,Kotórz Mały
+50.7293207,18.036457,1,Kolejowa,Kotórz Mały
 50.7153886,17.9919235,8A,Luboszycka,Zawada
 50.7246107,18.0218279,8,Cicha,Kotórz Mały
 50.7240385,18.0215792,3,Cicha,Kotórz Mały
@@ -176441,7 +176429,7 @@ lat,lon,housenumber,street,city
 50.357098,18.165259,29,Gabriela Narutowicza,Kędzierzyn-Koźle
 50.4059634,17.8994778,29,Główna,Kórnica
 50.4017563,17.9101908,29,Szkolna,Kórnica
-50.4104751,17.8893634,29,Łąkowa,Kórnica
+50.4104751,17.8893664,29,Łąkowa,Kórnica
 50.3557194,18.1705938,3,Kasztanowa,Kędzierzyn-Koźle
 50.3091707,18.2190739,3,Kościelna,Stare Koźle
 50.4034037,17.9022812,3,Krótka,Kórnica
@@ -177845,8 +177833,10 @@ lat,lon,housenumber,street,city
 50.8036422,18.0730737,13,Dębińska,Jełowa
 50.8040991,18.0732465,23,Dębińska,Jełowa
 50.8078359,18.0724465,7A,Hucka,Jełowa
+50.802604,18.0753355,2D,Dębińska,Jełowa
 50.8045498,18.0735616,12,Nadleśna,Jełowa
 50.8100054,18.0713844,20,Hucka,Jełowa
+50.8021927,18.0739251,2A,Dębińska,Jełowa
 50.8055242,18.0726496,5,Hucka,Jełowa
 50.808141,18.072942,18,Hucka,Jełowa
 50.805616,18.0730729,6,Hucka,Jełowa
@@ -177858,6 +177848,7 @@ lat,lon,housenumber,street,city
 50.8044981,18.0723865,19,Nadleśna,Jełowa
 50.8044317,18.0739364,8,Dębińska,Jełowa
 50.8084957,18.0709092,9,Hucka,Jełowa
+50.8023763,18.0749332,2C,Dębińska,Jełowa
 50.8057749,18.0731004,8,Hucka,Jełowa
 50.8053374,18.0726065,3,Hucka,Jełowa
 50.8049774,18.073042,2,Hucka,Jełowa
@@ -177889,9 +177880,9 @@ lat,lon,housenumber,street,city
 50.802305,18.0657714,10,Starodworcowa,Jełowa
 50.8026302,18.0665511,4,Starodworcowa,Jełowa
 50.7903245,18.0637802,37,Dworcowa,Jełowa
+50.7894797,18.0666144,46A,Dworcowa,Jełowa
 50.7950564,18.0691436,12,Opolska,Jełowa
 50.7899391,18.0658381,40,Dworcowa,Jełowa
-50.7902694,18.0664098,49A,Dworcowa,Jełowa
 50.7906935,18.0636137,21,Opolska,Jełowa
 50.790141,18.0665568,51,Dworcowa,Jełowa
 50.7901909,18.0679624,55B,Dworcowa,Jełowa
@@ -177908,6 +177899,7 @@ lat,lon,housenumber,street,city
 50.7960189,18.0713089,8,Opolska,Jełowa
 50.8027482,18.0675445,1,Starodworcowa,Jełowa
 50.7947101,18.0692717,5,Opolska,Jełowa
+50.7901723,18.0662824,49A,Dworcowa,Jełowa
 50.7900008,18.0649151,38,Dworcowa,Jełowa
 50.8024539,18.0661191,8,Starodworcowa,Jełowa
 50.7903059,18.0650432,43,Dworcowa,Jełowa
@@ -177924,6 +177916,7 @@ lat,lon,housenumber,street,city
 50.7904776,18.0633407,23,Opolska,Jełowa
 50.794034,18.0680484,7A,Opolska,Jełowa
 50.7880988,18.0733218,30A,Staroopolska,Jełowa
+50.7902642,18.0701201,57B,Dworcowa,Jełowa
 50.7914867,18.0576431,20,Dworcowa,Jełowa
 50.7878128,18.0650778,44,Dworcowa,Jełowa
 50.7910748,18.0608691,29,Dworcowa,Jełowa
@@ -178012,6 +178005,7 @@ lat,lon,housenumber,street,city
 50.7932888,18.0564052,5,Prosta,Jełowa
 50.7930842,18.0557596,3,Prosta,Jełowa
 50.7936661,18.0574908,4,Prosta,Jełowa
+50.7892963,18.0595087,16,Osiedlowa,Jełowa
 50.7847623,18.0709328,16,Staroopolska,Jełowa
 50.7839904,18.0685352,11c,Staroopolska,Jełowa
 50.7831687,18.0694109,14,Staroopolska,Jełowa
@@ -178038,6 +178032,8 @@ lat,lon,housenumber,street,city
 50.7841979,18.0688474,11d,Staroopolska,Jełowa
 50.7931872,18.0600751,7,Kwiatowa,Jełowa
 50.7853413,18.0710507,17,Staroopolska,Jełowa
+50.7898982,18.0606881,22,Osiedlowa,Jełowa
+50.7894867,18.0597141,18,Osiedlowa,Jełowa
 50.7932551,18.0601969,7,Kwiatowa,Jełowa
 50.7886572,18.0596141,22A,Opolska,Jełowa
 50.783088,18.0684405,12A,Staroopolska,Jełowa
@@ -178074,11 +178070,13 @@ lat,lon,housenumber,street,city
 50.782974,18.0597791,3A,Staroopolska,Jełowa
 50.784744,18.0642796,5,Laskowa,Jełowa
 50.7843499,18.0551054,1,Łączna,Jełowa
+50.7854434,18.063999,3A,Laskowa,Jełowa
 50.7854966,18.0464775,4,Łączna,Jełowa
 50.7860764,18.0449704,6,Łączna,Jełowa
 50.7831527,18.0592232,1,Staroopolska,Jełowa
 50.7931741,18.0290249,73,Oleska,Dąbrówka Łubniańska
 50.789921,18.0478744,8,Polna,Jełowa
+50.7931177,18.030021,73A,Oleska,Dąbrówka Łubniańska
 50.7899944,18.0468855,10,Polna,Jełowa
 50.7946128,18.0477549,5,Dworcowa,Jełowa
 50.7934465,18.0305318,75,Oleska,Dąbrówka Łubniańska
@@ -185026,7 +185024,7 @@ lat,lon,housenumber,street,city
 50.6752099,17.8182219,2C,Mikołaja Kopernika,Chróścina
 50.6752224,17.8180711,2D,Mikołaja Kopernika,Chróścina
 50.5854484,17.9405044,3,Częstochowska,Źlinice
-50.6744191,17.8171426,3,Jakuba Kani,Chróścina
+50.674425,17.8171823,3,Jakuba Kani,Chróścina
 50.6766535,17.8189869,3,Jana Kochanowskiego,Chróścina
 50.5857099,17.9317847,3,Jędrzejczyka,Źlinice
 50.6747878,17.8186877,3,Mikołaja Kopernika,Chróścina
@@ -185049,7 +185047,7 @@ lat,lon,housenumber,street,city
 50.5846949,17.9383125,29,1 Maja,Źlinice
 50.5841275,17.9391544,33,1 Maja,Źlinice
 50.5858359,17.9363465,33,Jędrzejczyka,Źlinice
-50.6725802,17.818692,33,Kolejowa,Chróścina
+50.6725744,17.818695,33,Kolejowa,Chróścina
 50.6757808,17.8158627,33,Ogrodowa,Chróścina
 50.6773927,17.8177164,33,Świętego Józefa,Chróścina
 50.5861724,17.9368103,34,Jędrzejczyka,Źlinice
@@ -185059,7 +185057,7 @@ lat,lon,housenumber,street,city
 50.585797,17.9365664,35,Jędrzejczyka,Źlinice
 50.6776239,17.8177737,35,Świętego Józefa,Chróścina
 50.5862057,17.93697,36,Jędrzejczyka,Źlinice
-50.6728661,17.8192274,36,Kolejowa,Mechnice
+50.6728577,17.8192345,36,Kolejowa,Mechnice
 50.677727,17.8166369,36,Ogrodowa,Chróścina
 50.6776207,17.8182306,36,Świętego Józefa,Chróścina
 50.586301,17.9372119,36a,Jędrzejczyka,Źlinice
@@ -185080,7 +185078,7 @@ lat,lon,housenumber,street,city
 50.6782399,17.8167344,40,Ogrodowa,Chróścina
 50.6781019,17.8182037,40,Świętego Józefa,Chróścina
 50.5858159,17.9374856,41,Jędrzejczyka,Źlinice
-50.6734368,17.8188203,41,Kolejowa,Chróścina
+50.6734309,17.8188216,41,Kolejowa,Chróścina
 50.5869116,17.9396089,41,Wolności,Źlinice
 50.6783896,17.8176867,41,Świętego Józefa,Chróścina
 50.5862487,17.9377623,42,Jędrzejczyka,Źlinice
@@ -185092,7 +185090,7 @@ lat,lon,housenumber,street,city
 50.5861123,17.9381008,44,Jędrzejczyka,Źlinice
 50.6785821,17.8181678,44,Świętego Józefa,Chróścina
 50.5857364,17.937995,45,Jędrzejczyka,Źlinice
-50.6738929,17.8189002,45,Kolejowa,Chróścina
+50.6738912,17.8189176,45,Kolejowa,Chróścina
 50.6771148,17.8161185,45,Ogrodowa,Chróścina
 50.6788579,17.8177196,45,Świętego Józefa,Chróścina
 50.5860352,17.938491,46,Jędrzejczyka,Źlinice
@@ -185111,7 +185109,7 @@ lat,lon,housenumber,street,city
 50.6766413,17.8185695,5,Jana Kochanowskiego,Chróścina
 50.6809806,17.8207061,5,Mechnicka,Opole
 50.6748274,17.8183621,5,Mikołaja Kopernika,Chróścina
-50.6728608,17.8153143,5,Ogrodowa,Chróścina
+50.6728591,17.8153143,5,Ogrodowa,Chróścina
 50.671791,17.817842,5,Piaskowa,Chróścina
 50.5839696,17.9395473,5,Sikornik,Źlinice
 50.6728751,17.8171656,5,Świętego Józefa,Chróścina
@@ -189186,7 +189184,7 @@ lat,lon,housenumber,street,city
 50.739872,18.016807,6,Milenijna,Węgry
 50.7431444,18.0206869,6,Młyńska,Węgry
 50.7254359,18.0705548,6,Ogrodowa,Kotórz Wielki
-50.755592,17.9738544,6,Opolska,Masów
+50.7555847,17.9738679,6,Opolska,Masów
 50.726245,18.0692262,6,Opolska,Kotórz Wielki
 50.7362067,18.0105194,6,Osiedle,Węgry
 50.7399405,17.9958252,6,Piaskowa,Kolanowice
@@ -199324,12 +199322,13 @@ lat,lon,housenumber,street,city
 50.799458,18.0098805,23,Leśna,Dąbrówka Łubniańska
 50.8007684,18.0128695,30,Szkolna,Dąbrówka Łubniańska
 50.8019399,18.0158106,22,Szkolna,Dąbrówka Łubniańska
-50.8020351,18.0154402,23,Szkolna,Dąbrówka Łubniańska
+50.8020299,18.0154436,23,Szkolna,Dąbrówka Łubniańska
 50.8016033,18.014117,24,Szkolna,Dąbrówka Łubniańska
 50.8004499,18.0148641,25,Szkolna,Dąbrówka Łubniańska
 50.8010589,18.0148965,26,Szkolna,Dąbrówka Łubniańska
 50.8008676,18.0149324,26,Szkolna,Dąbrówka Łubniańska
 50.8005984,18.0146898,27,Szkolna,Dąbrówka Łubniańska
+50.8029416,18.0202796,18A,Szkolna,Dąbrówka Łubniańska
 50.8001437,18.0221367,7,Szkolna,Dąbrówka Łubniańska
 50.8034127,18.0176724,20,Szkolna,Dąbrówka Łubniańska
 50.7966087,18.0149389,4,Szkolna,Dąbrówka Łubniańska
@@ -199338,7 +199337,7 @@ lat,lon,housenumber,street,city
 50.801984,18.0190762,12,Szkolna,Dąbrówka Łubniańska
 50.8029687,18.0197338,18,Szkolna,Dąbrówka Łubniańska
 50.8009163,18.0243606,8,Szkolna,Dąbrówka Łubniańska
-50.7971511,18.0150059,3a,Szkolna,Dąbrówka Łubniańska
+50.7971511,18.0150059,3A,Szkolna,Dąbrówka Łubniańska
 50.8007608,18.0230617,9,Szkolna,Dąbrówka Łubniańska
 50.8035422,18.0214867,16,Szkolna,Dąbrówka Łubniańska
 50.8028995,18.0192625,17,Szkolna,Dąbrówka Łubniańska
@@ -199446,7 +199445,6 @@ lat,lon,housenumber,street,city
 50.7925034,18.0250295,54A,Oleska,Dąbrówka Łubniańska
 50.7921579,18.0246183,2,Podgórna,Dąbrówka Łubniańska
 50.7923201,18.0240889,48,Oleska,Dąbrówka Łubniańska
-50.7902432,18.039638,70,Oleska,Dąbrówka Łubniańska
 50.7835153,18.0059121,12B,Powstańców Śląskich,Łubniany
 50.7838167,18.0068025,5A,Powstańców Śląskich,Łubniany
 50.7845142,18.0017239,51,Opolska,Łubniany
@@ -200697,7 +200695,7 @@ lat,lon,housenumber,street,city
 50.8065286,18.0957061,18,Oleska,Jełowa
 50.8057789,18.100936,2,Oleska,Grabie
 50.8154304,18.0983002,14,Leśna,Jełowa
-50.8208614,18.0956698,9,Leśna,Jełowa
+50.8192496,18.0969331,5A,Leśna,Jełowa
 50.8196171,18.0974278,7,Leśna,Jełowa
 50.8214903,18.0953201,24,Leśna,Jełowa
 50.8107145,18.0890799,53A,Nadleśna,Jełowa
@@ -200771,6 +200769,7 @@ lat,lon,housenumber,street,city
 50.8070174,18.080308,20C,Nadleśna,Jełowa
 50.8066761,18.0793053,20A,Nadleśna,Jełowa
 50.7999942,18.0614153,31,Starodworcowa,Jełowa
+50.8043602,18.0676558,12B,Kupska,Jełowa
 50.8068459,18.0798038,20B,Nadleśna,Jełowa
 50.8001931,18.0618375,27,Starodworcowa,Jełowa
 50.8058744,18.06158,24,Kupska,Jełowa
@@ -201135,7 +201134,6 @@ lat,lon,housenumber,street,city
 50.8601039,18.0758844,9,Dworcowa,Nowe Budkowice
 50.8413665,18.1095402,9,Klapacz,Laskowice
 50.8595674,18.0738798,9,Lipowa,Nowe Budkowice
-50.844389,18.0622336,9,Opolska,Kały
 50.8531378,18.1441375,9,Wesoła,Laskowice
 50.8574639,18.0728295,9,Wiejska,Nowe Budkowice
 50.8480666,18.065992,9A,Opolska,Kały
@@ -204534,7 +204532,7 @@ lat,lon,housenumber,street,city
 50.382532,17.723607,26,,
 50.3826108,17.720657,19,,
 50.3819503,17.726531,13,,
-50.3826884,17.7224725,23,,
+50.3826883,17.7224724,23,,
 50.382409,17.723255,25,,
 50.3824903,17.7214175,20A,,
 50.38225,17.72268,36,,
@@ -204548,7 +204546,7 @@ lat,lon,housenumber,street,city
 50.382529,17.724037,26a,,
 50.3824073,17.7211798,20,,
 50.38251,17.723439,25A,,
-50.3829149,17.7225168,23a,,
+50.382915,17.7225167,23a,,
 50.3822579,17.7260855,15a,,
 50.3818401,17.7269533,12,,
 50.382564,17.7216562,21,,
@@ -206754,7 +206752,7 @@ lat,lon,housenumber,street,city
 50.2002467,17.7792002,47,,
 50.1991948,17.7790196,75,,
 50.1987672,17.7782014,73,,
-50.1981414,17.7775464,68,,
+50.1981659,17.7775415,68,,
 50.201182,17.7826666,35,,
 50.2002765,17.780512,44,,
 50.1997762,17.7802708,59B,,
@@ -206763,7 +206761,7 @@ lat,lon,housenumber,street,city
 50.1997951,17.7798178,59,,
 50.1992071,17.7805674,78,,
 50.2002352,17.7771707,53,,
-50.198293,17.7769118,64,,
+50.1983114,17.7769017,64,,
 50.1980147,17.7761463,61,,
 50.2001898,17.7778846,50,,
 50.1984257,17.7773287,65,,
@@ -223270,9 +223268,9 @@ lat,lon,housenumber,street,city
 50.3024413,17.3883346,42,Witolda Lutosławskiego,Głuchołazy
 50.857785,18.4503243,68,Lubliniecka,Grodzisko
 50.475108,17.277992,3,Brzozowa,Skorochów
-50.4728598,17.2749918,2,Figowa,Skorochów
+50.472793,17.275058,2,Figowa,Skorochów
 50.4727043,17.2754816,10,Jarzębinowa,Skorochów
-50.4727265,17.2761429,15,Dębowa,Skorochów
+50.472731,17.276204,15,Dębowa,Skorochów
 50.4762541,17.2791626,1,Oliwkowa,Skorochów
 50.4760886,17.2789441,1a,Oliwkowa,Skorochów
 50.4770341,17.2847338,24b,,
@@ -223475,7 +223473,7 @@ lat,lon,housenumber,street,city
 50.4881248,17.3502781,35a,Augustyna Kordeckiego,Nysa
 50.833097,17.459178,94,Brzeska,Żłobizna
 50.8137179,17.459322,71H,,
-50.4645749,17.2642593,26l,,
+50.4644958,17.2644202,26l,,
 50.467356,17.2682764,44d,,
 50.466574,17.26753,94,,
 50.4668275,17.2725149,135,,
@@ -223589,9 +223587,9 @@ lat,lon,housenumber,street,city
 50.3372841,17.3865205,100B,,
 50.3746012,17.3779838,110e,,
 50.3457649,17.3825796,6,Osiedle II,Bodzanów
-50.3457813,17.3846361,7,Osiedle II,Bodzanów
-50.3465661,17.3870817,13,Osiedle II,Bodzanów
-50.3465125,17.3875731,14,Osiedle II,Bodzanów
+50.3457769,17.3846419,7,Osiedle II,Bodzanów
+50.34645,17.387274,13,Osiedle II,Bodzanów
+50.346535,17.387691,14,Osiedle II,Bodzanów
 50.4431049,17.422644,156,,
 50.3731045,17.376256,110A,,
 50.3741186,17.3768454,110B,,
@@ -225761,7 +225759,7 @@ lat,lon,housenumber,street,city
 50.8500526,17.4458557,67,Marii Konopnickiej,Brzeg
 50.846267,17.4631015,28,Bolesława Prusa,Brzeg
 50.8436201,17.4605068,17,Malinowa,Żłobizna
-50.8464429,17.4636479,20,Bolesława Prusa,Brzeg
+50.8464418,17.4636523,20,Bolesława Prusa,Brzeg
 50.4709788,17.9885632,137,Bolesława Chrobrego,Krapkowice
 50.4706573,17.9886844,135,Bolesława Chrobrego,Krapkowice
 50.4704142,17.989097,133,Bolesława Chrobrego,Krapkowice
@@ -229307,7 +229305,7 @@ lat,lon,housenumber,street,city
 50.6004168,17.8948055,7A,Polna,Złotniki
 50.4649638,17.2680809,3h,,
 50.466199,17.269087,101,,
-50.4671018,17.2672326,44a,,
+50.467157,17.26693,44a,,
 50.4671672,17.2557232,212j,,
 50.4669154,17.2559048,212i,,
 50.4657313,17.2562911,212b,,
@@ -229558,7 +229556,6 @@ lat,lon,housenumber,street,city
 50.351101,18.2092262,69,Grunwaldzka,Kędzierzyn-Koźle
 50.5330027,17.9667875,2a,Plac Wiejski,Chorula
 50.4650451,17.1759634,3,Mieszka I,Otmuchów
-50.5066648,17.9600386,39a,Wiejska,Odrowąż
 50.5152545,17.9633913,11a,Polna,Malnia
 50.3603859,18.2642436,48a,Przyjaźni,Kędzierzyn-Koźle
 50.1984784,18.0032612,61a,Wiejska,Dobrosławice
@@ -229708,6 +229705,7 @@ lat,lon,housenumber,street,city
 50.332979,17.386917,60A,Osiedle III,Bodzanów
 50.3238048,17.3762208,27,Zofii Nałkowskiej,Głuchołazy
 50.303459,17.3939578,8A,Kolonia Kaszubska,Konradów
+50.3357731,17.3910762,265,,
 50.3331241,17.3880302,62,,
 50.319975,17.364615,52,Stefana Żeromskiego,Głuchołazy
 50.3036833,17.389739,21,Witolda Lutosławskiego,Głuchołazy
@@ -230576,7 +230574,7 @@ lat,lon,housenumber,street,city
 50.8462741,17.4162751,12A,Lipowa,Skarbimierz-Osiedle
 50.8462679,17.4172338,16,Lipowa,Skarbimierz-Osiedle
 50.8462726,17.4173546,18,Lipowa,Skarbimierz-Osiedle
-50.8455597,17.4169482,10,Topolowa,Skarbimierz-Osiedle
+50.8455636,17.4169544,10,Topolowa,Skarbimierz-Osiedle
 50.8455413,17.4174371,6D,Topolowa,Skarbimierz-Osiedle
 50.8455432,17.4175089,6C,Topolowa,Skarbimierz-Osiedle
 50.8455426,17.4175959,6B,Topolowa,Skarbimierz-Osiedle
@@ -231125,7 +231123,7 @@ lat,lon,housenumber,street,city
 50.3198413,17.4048284,147,Osiedle Pionierów,Charbielin
 50.319825,17.404643,145,Osiedle Pionierów,Charbielin
 50.2930584,17.4858962,92B,,
-50.8482201,17.4262408,1A,Dębowa,Skarbimierz-Osiedle
+50.8482223,17.4262302,1A,Dębowa,Skarbimierz-Osiedle
 50.2030624,17.824553,28c,Gdańska,Głubczyce
 50.2054055,17.808211,49A,Stefana Żeromskiego,Głubczyce
 50.1979149,17.8122521,24,Wesoła,Głubczyce
@@ -231326,7 +231324,7 @@ lat,lon,housenumber,street,city
 50.487036,17.3534808,6,Andrzeja Brodzińskiego,Nysa
 50.489816,17.3321674,5,"Majora Hieronima Dekutowskiego ""Zapory""",Nysa
 50.4949348,17.3066437,104,Wiejska,Jędrzychów
-50.4669568,17.2106663,33,Morelowa,Otmuchów
+50.4669438,17.2108028,33,Morelowa,Otmuchów
 50.4649672,17.218364,21,Orzechowa,Otmuchów
 50.457305,17.326279,8,Wołyńska,Nysa
 50.4185527,17.3884916,31H,,
@@ -231434,7 +231432,7 @@ lat,lon,housenumber,street,city
 50.4646866,17.3326976,15a,Henryka Sienkiewicza,Nysa
 50.4934953,17.3001081,38b,Radzikowicka,Jędrzychów
 50.4632236,17.2083595,7,Sosnowa,Otmuchów
-50.4631204,17.2094037,1,Sosnowa,Otmuchów
+50.463122,17.209402,1,Sosnowa,Otmuchów
 50.4635542,17.2101627,11,Morelowa,Otmuchów
 50.4878231,17.2589956,36e,Nyska,Goświnowice
 50.4829806,17.253963,18c,Kolejowa,Goświnowice
@@ -231593,7 +231591,7 @@ lat,lon,housenumber,street,city
 50.8444595,17.4155029,12A,Wierzbowa,Skarbimierz-Osiedle
 50.843788,17.4094188,16,Wierzbowa,Skarbimierz-Osiedle
 50.8475451,17.4279356,4B,Dębowa,Skarbimierz-Osiedle
-50.8450381,17.4146043,7B,Topolowa,Skarbimierz-Osiedle
+50.8450379,17.4145965,7B,Topolowa,Skarbimierz-Osiedle
 50.8451475,17.4226645,25,Akacjowa,Skarbimierz-Osiedle
 50.8472283,17.4213624,3A,Akacjowa,Skarbimierz-Osiedle
 50.8430627,17.4226371,1,Cisowa,Skarbimierz-Osiedle
@@ -231671,7 +231669,7 @@ lat,lon,housenumber,street,city
 50.836701,17.4566213,12,Sportowa,Żłobizna
 50.8421482,17.4613076,11,Miodowa,Żłobizna
 50.84163,17.4552798,2,Irysowa,Żłobizna
-50.8396288,17.4527349,19,Różana,Żłobizna
+50.8396377,17.4527315,19,Różana,Żłobizna
 50.8401956,17.4538569,27,Stokrotki,Żłobizna
 50.8414237,17.4534067,6,Irysowa,Żłobizna
 50.8489275,17.4320436,17,Słoneczna,Skarbimierz
@@ -232367,6 +232365,7 @@ lat,lon,housenumber,street,city
 50.521147,17.671598,54,,
 50.543522,17.3692511,95A,,
 50.6105975,18.4764543,1,Księdza Józefa Wajdy,Zawadzkie
+50.4469851,17.1066113,43A,,
 50.7501221,17.5984323,6,,
 50.7569904,17.573068,62A,,
 50.7451795,17.5911374,58,,
@@ -232875,6 +232874,9 @@ lat,lon,housenumber,street,city
 50.3025597,17.8428802,49,,
 50.2665295,17.8726203,44A,Kościelna,Lisięcice
 50.6061438,17.9674028,2,Kobaltowa,Opole
+50.8370467,18.074155,4,Klonowa,Kały
+50.8382512,18.0726057,14,Klonowa,Kały
+50.8392901,18.0712739,22,Klonowa,Kały
 50.6267816,17.8796265,4,Zagórna,Górki
 50.650291,17.850595,13,Imbirowa,Opole
 50.6501769,17.8594106,2,Na Otoku,Opole
@@ -234077,6 +234079,8 @@ lat,lon,housenumber,street,city
 50.799695,18.0606296,37,Starodworcowa,Jełowa
 50.8003042,18.0620283,25,Starodworcowa,Jełowa
 50.8014824,18.0646392,15,Starodworcowa,Jełowa
+50.7899847,18.0638983,36A,Dworcowa,Jełowa
+50.7829377,18.0578604,2G,Staroopolska,Jełowa
 50.4283622,17.9543122,38,Wiejska,Borek
 50.4350787,17.9487438,127B,Krapkowicka,Pietna
 50.439343,17.9514491,64,Krapkowicka,Pietna
@@ -235024,6 +235028,7 @@ lat,lon,housenumber,street,city
 50.4880836,17.2619048,50A,Nyska,Goświnowice
 50.4888172,17.2698207,57L,Nyska,Goświnowice
 50.4761073,17.2854745,24AD,,
+50.476446,17.285474,24AB,,
 50.4751183,17.2741706,11,Akacjowa,Skorochów
 50.4747917,17.2736406,45A,Orzechowa,Skorochów
 50.4748567,17.2736092,45B,Orzechowa,Skorochów
@@ -235228,6 +235233,7 @@ lat,lon,housenumber,street,city
 50.448568,17.33683,17J,Unii Lubelskiej,Nysa
 50.4344108,17.3085762,13M,Czterech Pancernych,Biała Nyska
 50.4339536,17.3085626,13E,Czterech Pancernych,Biała Nyska
+50.43186,17.342491,13g,,
 50.434501,17.312651,57,Kamienna,Biała Nyska
 50.4375054,17.3410193,21,,
 50.4959263,17.3032658,152D,Wiejska,Jędrzychów
@@ -236886,6 +236892,8 @@ lat,lon,housenumber,street,city
 50.262988,18.2689404,40,Okrężna,Lubieszów
 50.3847976,18.2857138,2b,Szpaków,Kędzierzyn-Koźle
 50.375078,18.2745557,9,Kukułcza,Kędzierzyn-Koźle
+50.7849427,18.0508925,21,Łączna,Jełowa
+50.7907562,18.0655771,21,Storczyków,Jełowa
 51.103029,18.344975,59A,,
 51.102552,18.347834,34A,,
 51.0437984,18.4138392,4D,Okólna,Gorzów Śląski
@@ -237512,6 +237520,7 @@ lat,lon,housenumber,street,city
 50.8068606,17.8946672,41C,Brynicka,Kup
 50.8137512,17.8931611,21,Polna,Kup
 50.7821485,18.0078495,5,Słoneczna,Łubniany
+50.7984551,18.0873605,6B,Wiejska,Grabie
 50.9764395,18.0504143,22A,Opolska,Wąsice
 50.9550276,18.2215266,62LG,,
 50.9973356,18.1541632,16A,Wielka,Smardy Dolne
@@ -237519,6 +237528,7 @@ lat,lon,housenumber,street,city
 50.9097542,18.2168291,17A,Zwycięstwa,Jasienie
 50.9062242,18.2267917,12c,Wiejska,Jasienie
 50.9676171,18.1946456,49B,Jana Kilińskiego,
+50.7903251,18.0644639,41A,Dworcowa,Jełowa
 50.9759869,18.0427918,1D,Młyńska,Wąsice
 50.9629592,18.215688,27A,Generała Maczka,Kluczbork
 50.9560705,18.1399329,44A,Wolności,Bogacica
@@ -237533,14 +237543,18 @@ lat,lon,housenumber,street,city
 50.9786393,18.0517183,81A,Opolska,Gierałcice
 50.9814483,18.1266347,14a,,
 50.928166,18.1869802,83A,Wiejska,Bażany
+50.7887816,18.058911,12,Osiedlowa,Jełowa
 50.9512792,18.225634,2,Kwiatowa,Kuniów
 50.9546337,18.221185,60N,,
 50.9483487,18.2265764,94N,,
 50.9490514,18.2259354,94M,,
 50.8678815,18.2245615,47,Parkowa,Lasowice Wielkie
+50.7872896,18.0549886,5,Polna,Jełowa
 50.9959291,18.1544932,26C,Wielka,Smardy Dolne
 50.9555185,18.2210974,62LI,,
 50.9756411,18.1635103,14A,Wrzosowa,Ligota Dolna
+50.794262,18.0684747,7,Opolska,Jełowa
+50.7864257,18.0639214,3B,Laskowa,Jełowa
 50.9514785,18.2137103,8,Staroopolska,Kuniów
 50.998597,18.1584164,3B,Wielka,Smardy Dolne
 50.9538229,18.2228077,62Z,,
@@ -238511,7 +238525,6 @@ lat,lon,housenumber,street,city
 50.8596107,17.4389301,13BC,Małujowicka,Brzeg
 50.8598175,17.4388454,13BA,Małujowicka,Brzeg
 50.8598889,17.4378686,15F,Małujowicka,Brzeg
-50.3288779,18.0787876,4,Młyńska,Pokrzywnica
 50.3310489,18.0829772,7,Pokrzywnicka,Większyce
 50.3322282,18.0858647,14,Nowy Dwór,Większyce
 50.3319843,18.0861604,8,Nowy Dwór,Większyce
@@ -238596,6 +238609,7 @@ lat,lon,housenumber,street,city
 50.7550018,17.6812813,3a,Jakuba Kani,Skorogoszcz
 51.0719465,17.7330959,11A,Łączańska,Namysłów
 50.3585683,17.2838405,175A,,
+50.346425,17.386712,11A,Osiedle II,Bodzanów
 50.8583067,17.4842908,21,Bohaterów Monte Cassino,Brzeg
 50.8584442,17.4838635,25,Bohaterów Monte Cassino,Brzeg
 50.8583411,17.484184,23,Bohaterów Monte Cassino,Brzeg
@@ -238890,7 +238904,7 @@ lat,lon,housenumber,street,city
 50.541579,18.083178,23a,Świętego Jacka,Kamień Śląski
 50.5406404,18.0805571,10D,Świętego Jacka,Kamień Śląski
 50.542252,18.0845106,12,Wapienna,Kamień Śląski
-50.861599,17.4571639,22D,Wolności,Brzeg
+50.861583,17.4571964,22D,Wolności,Brzeg
 50.7575696,17.5732464,60A,,
 50.7561677,17.6025201,6,Klonowa,Kantorowice
 50.7547355,17.5867547,2H,,
@@ -240218,6 +240232,7 @@ lat,lon,housenumber,street,city
 50.8416578,17.4621462,22,Miodowa,Żłobizna
 50.8417647,17.4621337,24,Miodowa,Żłobizna
 50.6767852,18.1987852,1,Brzozowa,Schodnia
+50.786081,17.494889,35,,Olszanka
 50.4726521,17.9608146,18,Prudnicka,Krapkowice
 50.4752782,17.9618197,10,Stanisława Moniuszki,Krapkowice
 50.4255656,16.966528,81A,,
@@ -240599,7 +240614,7 @@ lat,lon,housenumber,street,city
 50.6424383,17.8553484,1J,Opolska,Osiny
 50.6696614,17.8314893,9,Radosna,Mechnice
 50.6697811,17.8319324,13,Radosna,Mechnice
-50.6700696,17.8238247,10,Limbowa,Mechnice
+50.6700711,17.8238232,10,Limbowa,Mechnice
 50.6764816,17.8409432,35,Opolskie Łąki,Mechnice
 50.6760074,17.8394393,2,Astrów,Mechnice
 50.6756938,17.839753,29,Opolskie Łąki,Mechnice
@@ -240654,7 +240669,7 @@ lat,lon,housenumber,street,city
 50.417242,18.11511,17,Bolesława Chrobrego,Zdzieszowice
 50.400562,18.124813,2a,Zamkowa,Januszkowice
 50.5993283,17.7293865,34C,Kościelna,Szydłów
-50.4653203,17.2114492,10A,Morelowa,Otmuchów
+50.465325,17.211448,10A,Morelowa,Otmuchów
 50.465392,17.210962,10,Morelowa,Otmuchów
 50.4665058,17.2091313,29D,Morelowa,Otmuchów
 50.4664652,17.2094927,29C,Morelowa,Otmuchów
@@ -240795,7 +240810,7 @@ lat,lon,housenumber,street,city
 50.6647697,17.8887113,9,Alojzego Dambonia,Opole
 50.6648927,17.8883939,19,Alojzego Dambonia,Opole
 50.6649382,17.8894127,5,Alojzego Dambonia,Opole
-50.4673461,17.2635969,112B,,
+50.46737,17.263335,112B,,
 50.468167,17.263442,112M,,
 50.4678885,17.2649764,37,,
 50.324326,17.383858,9A,Poprzeczna,Głuchołazy
@@ -240895,7 +240910,7 @@ lat,lon,housenumber,street,city
 50.315021,17.556492,31,Dębowa,Prudnik
 50.464604,17.270702,5,,
 50.4928441,17.4767565,73C,,
-50.4657858,17.2693709,102A,,
+50.465792,17.26937,102A,,
 50.6424766,17.8436635,56,Opolska,Osiny
 50.6447923,17.8432326,12,Górna,Osiny
 50.6452725,17.8431482,18,Górna,Osiny
@@ -240952,7 +240967,8 @@ lat,lon,housenumber,street,city
 50.403461,17.185056,61D,,
 50.459765,17.20945,12,Magnoliowa,Otmuchów
 50.4587605,17.2152124,20,Mahoniowa,Otmuchów
-50.4591219,17.2103243,11A,Magnoliowa,Otmuchów
+50.459022,17.209303,10,Magnoliowa,Otmuchów
+50.4590052,17.2103335,11A,Magnoliowa,Otmuchów
 50.463112,17.206967,3,Daglezjowa,Otmuchów
 50.8488611,17.4138985,10B,Maków,Skarbimierz-Osiedle
 50.8475903,17.4138275,28A,Brzeska,Skarbimierz-Osiedle
@@ -241805,6 +241821,7 @@ lat,lon,housenumber,street,city
 50.5334789,17.6632265,88A,,
 50.54951,17.632153,104A,,
 50.4893145,17.6613269,176A,,
+50.8491112,17.4636459,5,Księdza Kazimierza Makarskiego,Brzeg
 50.5843511,17.4899838,28,,
 50.6370058,17.6077321,12,Nowa,Niemodlin
 50.6367829,17.6074552,16,Nowa,Niemodlin
@@ -241852,7 +241869,7 @@ lat,lon,housenumber,street,city
 50.4179738,17.271238,136A,,
 50.4683819,17.25491,212S,,
 50.4678627,17.2551741,212N,,
-50.4673577,17.2554539,212K,,
+50.467308,17.255688,212K,,
 50.6407099,17.7980054,16,Plac pod Lipami,Polska Nowa Wieś
 50.6409657,17.798137,17,Plac pod Lipami,Polska Nowa Wieś
 50.6411965,17.7982341,19,Plac pod Lipami,Polska Nowa Wieś
@@ -241997,6 +242014,8 @@ lat,lon,housenumber,street,city
 50.6702468,17.8352858,25G,Torowa,Mechnice
 50.6699927,17.8348285,25F,Torowa,Mechnice
 50.8992513,18.2663498,38A,Stawowa,Lasowice Małe
+50.472797,17.276056,13,Dębowa,Skorochów
+50.47437,17.275889,7,Jaworowa,Skorochów
 50.8659078,17.4507565,14C,Malinowa,Brzeg
 50.866012,17.4508714,14E,Malinowa,Brzeg
 50.8658146,17.451068,14,Malinowa,Brzeg
@@ -242011,3 +242030,85 @@ lat,lon,housenumber,street,city
 50.8442033,17.4548988,16,Krokusowa,Żłobizna
 50.8441351,17.454914,15,Krokusowa,Żłobizna
 50.8428339,17.45427,4,Lawendowa,Żłobizna
+50.8470874,17.4711771,15A,Toruńska,Brzeg
+50.4317828,17.3430753,13h,,
+50.4165325,17.2806121,120,,
+50.4914558,17.3607647,58G,aleja Wojska Polskiego,Nysa
+50.4916151,17.3600038,58,aleja Wojska Polskiego,Nysa
+50.6699902,17.8239123,8,Limbowa,Mechnice
+50.6727902,17.8186996,35,Kolejowa,Chróścina
+50.6743491,17.8168685,5,Jakuba Kani,Chróścina
+50.8465006,17.4396541,11A,Pogodna,Skarbimierz
+50.8467487,17.4389644,13,Pogodna,Skarbimierz
+50.8467554,17.4383256,17,Pogodna,Skarbimierz
+50.8454465,17.4159127,14,Topolowa,Skarbimierz-Osiedle
+50.8153806,18.0973964,12A,Leśna,Jełowa
+50.8010184,18.0769687,2D,Oleska,Jełowa
+50.8022714,18.0733578,3D,Dębińska,Jełowa
+50.8005033,18.0625089,21B,Starodworcowa,Jełowa
+50.8006049,18.0627212,21A,Starodworcowa,Jełowa
+50.793901,18.1017895,3,Rolna,Kobylno
+50.7824689,18.0623953,2H,Staroopolska,Jełowa
+50.783806,18.0694918,14A,Staroopolska,Jełowa
+50.7840261,18.0698439,14B,Staroopolska,Jełowa
+50.7994518,18.0829055,2,Oleska,Jełowa
+50.8801931,17.4862575,3,Jodłowa,Pisarzowice
+50.8831275,17.4859226,17,Dębowa,Pisarzowice
+50.8838859,17.4820466,10,Kasztanowa,Michałowice
+50.8836446,17.4827248,13,Kasztanowa,Michałowice
+50.8828045,17.4752217,6,Jaśminowa,Pisarzowice
+50.8826134,17.4763865,12,Jaśminowa,Pisarzowice
+50.8824419,17.4772467,7,Krótka,Pisarzowice
+50.8742248,17.524074,173A,Kościerzyce,
+50.8729032,17.5193511,211,Kościerzyce,
+50.871621,17.5185481,250A,Kościerzyce,
+50.871914,17.5176442,256,Kościerzyce,
+50.7390442,18.443729,42,Oleska,Dobrodzień
+50.8047605,18.0965245,11,Oleska,Grabie
+50.7873368,18.0545446,7,Polna,Jełowa
+50.796593,18.0140154,3D,Szkolna,Dąbrówka Łubniańska
+50.7962362,18.0144689,2J,Szkolna,Dąbrówka Łubniańska
+50.7962043,18.0132928,3F,Szkolna,Dąbrówka Łubniańska
+50.7959457,18.0131579,3G,Szkolna,Dąbrówka Łubniańska
+50.796641,18.0142876,3C,Szkolna,Dąbrówka Łubniańska
+50.7969346,18.0146365,3B,Szkolna,Dąbrówka Łubniańska
+50.7978734,18.0172819,4A,Szkolna,Dąbrówka Łubniańska
+50.7974382,18.0169232,4B,Szkolna,Dąbrówka Łubniańska
+50.7992208,18.0167848,5G,Szkolna,Dąbrówka Łubniańska
+50.7998331,18.0175737,10B,Szkolna,Dąbrówka Łubniańska
+50.802075,18.0150443,23A,Szkolna,Dąbrówka Łubniańska
+50.7902403,18.039581,70,Oleska,Dąbrówka Łubniańska
+50.7912405,18.0655524,22,Storczyków,Jełowa
+50.7958774,18.0759094,1B,Młyńska,Jełowa
+50.7956086,18.0760581,1C,Młyńska,Jełowa
+50.7955271,18.0758104,1D,Młyńska,Jełowa
+50.7958405,18.0756181,1,Młyńska,Jełowa
+50.8017754,18.0653459,11,Starodworcowa,Jełowa
+50.8398145,18.0699492,27,Klonowa,Kały
+50.7463242,17.4769674,5,Lawendowa,Czeska Wieś
+50.7507882,17.4758212,6,Klonowa,Czeska Wieś
+50.4314296,17.2711458,11,Polna,Siestrzechowice
+50.430054,17.2763981,32,Boczna,Siestrzechowice
+50.4679082,17.2120555,5,Laurowa,Otmuchów
+50.4677161,17.2112692,22,Morelowa,Otmuchów
+50.4663194,17.208854,28,Świerkowa,Otmuchów
+50.4978363,17.2226067,57B,,
+50.4974009,17.2241391,55A,,
+50.4969158,17.2235984,53A,,
+50.4832809,17.2534218,18B,Kolejowa,Goświnowice
+50.4886522,17.2583011,30,Nyska,Goświnowice
+50.4880822,17.2580977,30B,Nyska,Goświnowice
+50.47581,17.285582,24AG,,
+50.4671288,17.2674614,44B,,
+50.467077,17.268887,47E,,
+50.4661396,17.2647051,110,,
+50.4649715,17.2561766,194A,,
+50.465088,17.256206,194,,
+50.4661106,17.2566951,213,,
+50.33446,17.382106,67b,,
+50.3394455,17.3848827,108B,,
+50.6557788,17.9077168,14K,Krapkowicka,Opole
+50.6996131,18.2470232,2s,Częstochowska,Grodziec
+50.6994381,18.2473226,2s,Częstochowska,Grodziec
+50.2794886,17.3473399,38C,,
+50.2796603,17.3472355,38B,,
